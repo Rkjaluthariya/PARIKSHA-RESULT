@@ -871,6 +871,71 @@ async function startServer() {
     res.json({ status: "ok", service: "Pariksha Result Backend" });
   });
 
+  // IndexNow Key Verification File Routes for Bing, Yandex, Seznam & Naver Instant Indexing
+  const INDEXNOW_KEY = "07c8a4921f004a7db761917f2590eb7e";
+  app.get([`/${INDEXNOW_KEY}.txt`, "/pariksha-result-indexnow-key.txt", "/indexnow-key.txt"], (req, res) => {
+    res.setHeader("Content-Type", "text/plain");
+    res.send(INDEXNOW_KEY);
+  });
+
+  // Instant Search Engine Indexing API Ping (IndexNow + Google Sitemap Ping)
+  app.post("/api/ping-search-engines", async (req, res) => {
+    try {
+      const host = "pariksha-result.vercel.app";
+      const customUrls: string[] = Array.isArray(req.body?.urls) ? req.body.urls : [];
+      const defaultUrls = [
+        `https://${host}/`,
+        `https://${host}/latest-jobs`,
+        `https://${host}/admit-card`,
+        `https://${host}/results`,
+        `https://${host}/answer-key`,
+        `https://${host}/sitemap.xml`,
+        `https://${host}/sitemap-news.xml`
+      ];
+      const targetUrls = Array.from(new Set([...defaultUrls, ...customUrls]));
+
+      // 1. IndexNow API Ping (Bing, Yandex, Seznam, Naver)
+      let indexNowSuccess = false;
+      try {
+        const indexNowResp = await fetch("https://api.indexnow.org/indexnow", {
+          method: "POST",
+          headers: { "Content-Type": "application/json; charset=utf-8" },
+          body: JSON.stringify({
+            host,
+            key: INDEXNOW_KEY,
+            keyLocation: `https://${host}/${INDEXNOW_KEY}.txt`,
+            urlList: targetUrls
+          })
+        });
+        indexNowSuccess = indexNowResp.ok || indexNowResp.status === 202;
+      } catch (e) {
+        // IndexNow fetch fallback
+      }
+
+      // 2. Google Sitemap Ping
+      let googlePingSuccess = false;
+      try {
+        const gResp = await fetch(`https://www.google.com/ping?sitemap=https://${host}/sitemap.xml`);
+        googlePingSuccess = gResp.ok || gResp.status === 200;
+      } catch (e) {
+        // Google ping fallback
+      }
+
+      return res.json({
+        success: true,
+        message: "Search engines pinged for fast indexing",
+        pings: {
+          indexNow: indexNowSuccess ? "submitted" : "attempted",
+          googleSitemapPing: googlePingSuccess ? "submitted" : "attempted",
+          urlsCount: targetUrls.length,
+          urls: targetUrls.slice(0, 5)
+        }
+      });
+    } catch (e: any) {
+      return res.status(500).json({ error: e.message || "Failed to ping search engines" });
+    }
+  });
+
   // API Route: WebP Image Optimizer & Proxy
   app.get("/api/optimize-image", (req, res) => {
     const rawUrl = String(req.query.url || "").trim();

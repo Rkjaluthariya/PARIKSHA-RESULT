@@ -32,7 +32,9 @@ import {
   Bookmark,
   Languages,
   Award,
-  MessageSquare
+  MessageSquare,
+  Send,
+  MessageCircle
 } from 'lucide-react';
 
 interface PostDetailModalProps {
@@ -164,6 +166,33 @@ export const PostDetailModal: React.FC<PostDetailModalProps> = ({
                   <span className="text-[11px] sm:text-xs">{isBookmarked ? getTranslation('Saved', language) : getTranslation('Save Job', language)}</span>
                 </button>
               )}
+
+              {/* WhatsApp & Telegram Instant Share Buttons */}
+              <button
+                onClick={() => {
+                  const shareUrl = `https://pariksha-result.vercel.app/${post.category || 'latest-jobs'}/${post.slug || post.id}`;
+                  const msg = `🔥 *${cleanTitleText(post.title)}*\n\n🏢 *Dept:* ${post.organization || 'Sarkari Recruitment'}\n📅 *Last Date:* ${post.lastDate || 'Check Notice'}\n📍 *State:* ${post.state || 'All India'}\n\n👉 *Direct Apply & Notification Link:*\n${shareUrl}\n\n📲 *Share with friends on Pariksha Result!*`;
+                  window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(msg)}`, '_blank');
+                }}
+                className="px-2.5 py-1 sm:px-3 sm:py-1.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-extrabold text-xs flex items-center gap-1.5 transition-all shadow-sm border border-emerald-400 cursor-pointer"
+                title="Share on WhatsApp"
+              >
+                <MessageCircle className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white fill-white" />
+                <span className="text-[11px] sm:text-xs">WhatsApp</span>
+              </button>
+
+              <button
+                onClick={() => {
+                  const shareUrl = `https://pariksha-result.vercel.app/${post.category || 'latest-jobs'}/${post.slug || post.id}`;
+                  const msg = `🔥 *${cleanTitleText(post.title)}*\n🏢 Dept: ${post.organization || 'Sarkari Job'}\n📅 Last Date: ${post.lastDate || 'Notice'}`;
+                  window.open(`https://t.me/share/url?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(msg)}`, '_blank');
+                }}
+                className="px-2.5 py-1 sm:px-3 sm:py-1.5 bg-sky-500 hover:bg-sky-400 text-white rounded-xl font-extrabold text-xs flex items-center gap-1.5 transition-all shadow-sm border border-sky-300 cursor-pointer"
+                title="Share on Telegram"
+              >
+                <Send className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white" />
+                <span className="text-[11px] sm:text-xs">Telegram</span>
+              </button>
 
               {/* Quick Feedback Scroll Button */}
               <button
