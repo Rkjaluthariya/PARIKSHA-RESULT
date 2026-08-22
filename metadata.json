@@ -1,0 +1,6 @@
+{
+  "name": "Pariksha Result",
+  "description": "India's Trusted Government Job, Result & Current Affairs Updates Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
