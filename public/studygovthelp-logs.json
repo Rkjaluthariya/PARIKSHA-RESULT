@@ -1,5 +1,157 @@
 [
   {
+    "id": "log-1787376376121-svx9",
+    "sourceUrl": "https://studygovthelp.in/railway-alp-application-status-out",
+    "title": "Railway ALP Application Status OUT: रेलवे एएलपी एप्लीकेशन स्टेटस जारी",
+    "organization": "Railway Recruitment Boards (RRBs)",
+    "category": "admit-card",
+    "status": "Updated",
+    "postDate": "2026-08-22",
+    "timestamp": "2026-08-22T05:26:16.121Z",
+    "changesDetected": [
+      "Last Date (14/06/2026 → 14 June 2026)"
+    ],
+    "postData": {
+      "title": "Railway ALP Application Status OUT: रेलवे एएलपी एप्लीकेशन स्टेटस जारी",
+      "slug": "railway-alp-application-status-out",
+      "category": "admit-card",
+      "organization": "Railway Recruitment Boards (RRBs)",
+      "state": "All India",
+      "postDate": "2026-08-22",
+      "lastDate": "14 June 2026",
+      "shortInfo": "Railway Recruitment Board has released the application status for the Assistant Loco Pilot (ALP) recruitment under CEN 01/2026. Candidates who applied can check their application status online.",
+      "totalVacancies": "11,127 Posts",
+      "qualificationRequired": [
+        "10th Pass",
+        "ITI / Diploma / Engineering"
+      ],
+      "importantDates": [
+        {
+          "event": "Short Notice Date",
+          "date": "16/03/2026",
+          "isImportant": false
+        },
+        {
+          "event": "Online Application Start Date",
+          "date": "15/05/2026",
+          "isImportant": true
+        },
+        {
+          "event": "Online Application Last Date",
+          "date": "14/06/2026",
+          "isImportant": true,
+          "details": "Fee payment last date was 16/06/2026"
+        },
+        {
+          "event": "Correction Window Date",
+          "date": "17/06/2026 to 26/06/2026",
+          "isImportant": false
+        },
+        {
+          "event": "Application Status Release Date",
+          "date": "22/08/2026",
+          "isImportant": true
+        }
+      ],
+      "applicationFees": [],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "33 Years",
+        "cutoffDate": "As per rules",
+        "relaxationDetails": "As per Government Rules"
+      },
+      "vacancies": [
+        {
+          "postName": "Assistant Loco Pilot (ALP)",
+          "totalPosts": "11,127",
+          "eligibility": "Matriculation / SSC plus ITI/Diploma/Degree in relevant engineering disciplines",
+          "qualification": "10th Pass + ITI / Diploma",
+          "categoryWiseBreakup": {
+            "UR": "4860",
+            "OBC": "2598",
+            "EWS": "1004",
+            "SC": "1746",
+            "ST": "919"
+          },
+          "payScale": "Level-2 (Initial Salary ₹19,900)"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Computer Based Test 1 (CBT 1)",
+          "description": "First stage computer based screening examination.",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Computer Based Test 2 (CBT 2)",
+          "description": "Second stage computer based technical and non-technical examination.",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 3,
+          "stageName": "Computer Based Aptitude Test (CBAT)",
+          "description": "Psychometric aptitude test for ALP candidates.",
+          "qualifyingNature": "Qualifying Only"
+        },
+        {
+          "stepNumber": 4,
+          "stageName": "Document Verification & Medical Examination",
+          "description": "Verification of original documents and medical fitness test.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit official application website rrbapply.gov.in.",
+        "Step 2: Login using your registration credentials.",
+        "Step 3: Go to CEN 01/2026 Assistant Loco Pilot section.",
+        "Step 4: Click on Application Status and verify your form status."
+      ],
+      "importantLinks": [
+        {
+          "title": "RRB ALP Application Status",
+          "url": "https://www.rrbapply.gov.in/#/auth/home",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "RRB Official Website",
+          "url": "https://www.rrbapply.gov.in",
+          "type": "notification",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "Railway Recruitment Board has issued the application status for CEN 01/2026 for a total of 11,127 Assistant Loco Pilot posts. Candidates can check their acceptance status through the portal using login credentials.",
+      "faqs": [
+        {
+          "question": "When was the RRB ALP Application Status released?",
+          "answer": "The application status was released on 22 August 2026."
+        }
+      ],
+      "metaTitle": "Railway ALP Application Status OUT 2026 | Check Direct Link",
+      "metaDescription": "Check RRB ALP Application Status 2026 for 11,127 Assistant Loco Pilot posts. Direct link to view status at rrbapply.gov.in.",
+      "keywords": [
+        "Railway ALP Application Status",
+        "RRB ALP 2026",
+        "CEN 01/2026 status"
+      ],
+      "id": "studygovthelp-railway-alp-application-status-out",
+      "canonical_hash": "574bb6adb82868b79ecc7b8821dfcd0b"
+    }
+  },
+  {
+    "id": "log-1787376074762-ndb2",
+    "sourceUrl": "https://studygovthelp.in/railway-alp-application-status-out",
+    "title": "Railway ALP Application Status OUT: रेलवे एएलपी एप्लीकेशन स्टेटस जारी",
+    "organization": "Indian Railways",
+    "category": "admit-card",
+    "status": "Duplicate",
+    "postDate": "2026-08-22",
+    "timestamp": "2026-08-22T05:21:14.762Z",
+    "reason": "Post already exists with identical details."
+  },
+  {
     "id": "log-1787375598055-bvc3",
     "sourceUrl": "https://studygovthelp.in/railway-alp-application-status-out",
     "title": "Railway ALP Application Status OUT",
