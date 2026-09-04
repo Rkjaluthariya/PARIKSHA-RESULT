@@ -747,13 +747,24 @@ export default function App() {
     }
   };
 
-  // Mount Effect & Interval Polling (Optimized 2-minute polling to reduce background activity)
+  // Mount Effect & Interval Polling (5-minute background auto-fetch + Telegram broadcast trigger)
   useEffect(() => {
     fetchAutoSyncData();
+    // Periodically fetch and poll every 2 minutes
     const pollInterval = setInterval(fetchAutoSyncData, 120000);
+
+    // Ensure 5-minute active auto-sync and Telegram broadcast trigger
+    const syncInterval = setInterval(() => {
+      fetch('/api/auto-sync/trigger', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type: 'all' })
+      }).then(() => fetchAutoSyncData()).catch(() => {});
+    }, 5 * 60 * 1000);
 
     return () => {
       clearInterval(pollInterval);
+      clearInterval(syncInterval);
     };
   }, [fetchAutoSyncData]);
 

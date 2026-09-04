@@ -4898,6 +4898,14 @@ Return strictly a valid JSON array matching the exact schema specified above.`;
             timestamp: new Date().toISOString(),
             postData: newPostItem
           });
+
+          // Telegram Auto-Broadcast immediately on newly added StudyGovtHelp post
+          const tgCfg = getTelegramConfig();
+          if (tgCfg.enabled && tgCfg.autoBroadcastOnSync) {
+            broadcastPostToTelegram(newPostItem).catch(err => {
+              console.warn('[Telegram AutoBroadcast StudyGovtHelp Error]:', err?.message || err);
+            });
+          }
         }
       }
     }
@@ -6029,6 +6037,13 @@ Respond ONLY with valid JSON matching these keys.`;
         autoSyncCurrentAffairsList.unshift(caItem);
         autoSyncCurrentAffairsList = filterOlderThanOneYear(autoSyncCurrentAffairsList);
         console.log(`[5-Min Auto-Sync] Fallback added: ${caItem.title}`);
+        
+        const tgCfg = getTelegramConfig();
+        if (tgCfg.enabled && tgCfg.autoBroadcastOnSync) {
+          broadcastPostToTelegram(caItem).catch(err => {
+            console.warn("[Telegram AutoBroadcast CA Fallback Error]:", err?.message || err);
+          });
+        }
       }
     } catch (e) {
       console.error("[5-Min Auto-Sync Error]", e);
@@ -6048,27 +6063,34 @@ Respond ONLY with valid JSON matching these keys.`;
     }
   }, 60 * 60 * 1000);
 
-  // 3) 1-HOUR SARKARI JOB UPDATE BACKGROUND TIMER (REAL SCRAPER INTEGRATION)
+  // 3) 5-MINUTE SARKARI JOB UPDATE BACKGROUND TIMER (REAL SCRAPER INTEGRATION)
   setInterval(async () => {
     try {
-      console.log("[1-Hour Auto-Sync] Triggering scheduled real Sarkari Job sync (sarkariresult, rajsarkariresult, indiasarkarinaukri)...");
+      console.log("[5-Min Auto-Sync] Triggering scheduled real Sarkari Job sync (sarkariresult, rajsarkariresult, indiasarkarinaukri)...");
       const result = await syncRealSarkariJobs();
       lastJobSyncTimestamp = Date.now();
       if (result.success) {
-        console.log(`[1-Hour Auto-Sync] Scheduled Sarkari Job sync completed. Parsed: ${result.total}, newly added: ${result.added}`);
+        console.log(`[5-Min Auto-Sync] Scheduled Sarkari Job sync completed. Parsed: ${result.total}, newly added: ${result.added}`);
         if (result.added > 0) {
           persistCurrentAffairsToDisk();
         }
       } else {
-        console.warn(`[1-Hour Auto-Sync] Real Sarkari Job sync failed: ${result.error || "unknown"}. Fallback mock item inserted.`);
+        console.warn(`[5-Min Auto-Sync] Real Sarkari Job sync failed: ${result.error || "unknown"}. Fallback mock item inserted.`);
         const jobItem = generateAutoJobUpdateItem();
         autoSyncJobPostsList.unshift(jobItem);
         autoSyncJobPostsList = filterOlderThanOneYear(autoSyncJobPostsList);
+        
+        const tgCfg = getTelegramConfig();
+        if (tgCfg.enabled && tgCfg.autoBroadcastOnSync) {
+          broadcastPostToTelegram(jobItem).catch(err => {
+            console.warn("[Telegram AutoBroadcast Job Fallback Error]:", err?.message || err);
+          });
+        }
       }
     } catch (e) {
-      console.error("[1-Hour Auto-Sync Error]", e);
+      console.error("[5-Min Auto-Sync Job Error]", e);
     }
-  }, 60 * 60 * 1000);
+  }, 5 * 60 * 1000);
 
   // 4) 1-HOUR AUTOMATIC SEO BLOG GENERATOR BACKGROUND TIMER
   setInterval(() => {
@@ -6127,6 +6149,20 @@ Respond ONLY with valid JSON matching these keys.`;
       console.error("[5-Min Cron StudyGovtHelp Error]", e);
     }
   }, 5 * 60 * 1000);
+
+  // Initial Boot Auto-Sync & Telegram Broadcast Trigger (runs 3s after startup)
+  setTimeout(async () => {
+    try {
+      console.log("[Boot Sync] Triggering initial 5-minute auto-fetch and Telegram broadcast check...");
+      await Promise.allSettled([
+        syncRealGKTodayCurrentAffairs(),
+        syncRealSarkariJobs(),
+        syncRealStudyGovtHelp()
+      ]);
+    } catch (e) {
+      console.warn("[Boot Sync Warning]:", e);
+    }
+  }, 3000);
 
   // STUDYGOVTHELP API ENDPOINTS
   app.get("/api/admin/studygovthelp/dashboard", (req, res) => {
@@ -6955,13 +6991,14 @@ export function dedupeById<T extends { id?: string; slug?: string }>(items: T[])
     }
   });
 
-  app.post("/api/auto-sync/trigger", async (req, res) => {
+  const handleAutoSyncTrigger = async (req: express.Request, res: express.Response) => {
     try {
-      const { type = 'all' } = req.body;
+      const type = (req.body?.type || req.query?.type || 'all') as string;
       let addedCa = null;
       let addedJob = null;
       let addedBlog = null;
       let addedQuiz = null;
+      let addedStudyGovt = null;
       let scraperResult = null;
 
       if (type === 'current-affairs' || type === 'all') {
@@ -7013,6 +7050,12 @@ export function dedupeById<T extends { id?: string; slug?: string }>(items: T[])
         }
       }
 
+      if (type === 'studygovthelp' || type === 'all') {
+        console.log("[Trigger] Triggering StudyGovtHelp scraper...");
+        const sghResult = await syncRealStudyGovtHelp();
+        addedStudyGovt = sghResult;
+      }
+
       if (type === 'blog' || type === 'blogs' || type === 'all') {
         addedBlog = generateAutoBlogItem();
         autoSyncBlogsList.unshift(addedBlog);
@@ -7043,6 +7086,7 @@ export function dedupeById<T extends { id?: string; slug?: string }>(items: T[])
         addedJob,
         addedBlog,
         addedQuiz,
+        addedStudyGovt,
         totalCa: autoSyncCurrentAffairsList.length,
         totalQuiz: autoSyncQuizList.length,
         totalJobs: autoSyncJobPostsList.length,
@@ -7051,7 +7095,10 @@ export function dedupeById<T extends { id?: string; slug?: string }>(items: T[])
     } catch (err: any) {
       res.status(500).json({ success: false, error: err.message });
     }
-  });
+  };
+
+  app.post("/api/auto-sync/trigger", handleAutoSyncTrigger);
+  app.get("/api/auto-sync/trigger", handleAutoSyncTrigger);
 
   // API Route: Check & Test API Key Status
   app.get("/api/admin/check-api-key", async (req, res) => {

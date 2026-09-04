@@ -1,5 +1,1110 @@
 [
   {
+    "id": "log-1788515075666-1pvs",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "SSC JE Recruitment 2026: 1,748 Junior Engineer Vacancies",
+    "organization": "Staff Selection Commission (SSC)",
+    "category": "latest-jobs",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.666Z",
+    "postData": {
+      "title": "SSC JE Recruitment 2026: 1,748 Junior Engineer Vacancies",
+      "slug": "ssc-je-recruitment-2026-1-748-junior-engineer-vacancies",
+      "category": "latest-jobs",
+      "organization": "Staff Selection Commission (SSC)",
+      "state": "All India",
+      "postDate": "2026-09-02",
+      "lastDate": "2026-09-22",
+      "shortInfo": "Staff Selection Commission (SSC) has released official notification for Junior Engineer Examination 2026 for 1,748 Group 'B' vacancies across various central government departments in Civil, Electrical, and Mechanical streams.",
+      "totalVacancies": "1,748 Posts",
+      "qualificationRequired": [
+        "Diploma in Engineering",
+        "B.E. / B.Tech Degree in Engineering"
+      ],
+      "importantDates": [
+        {
+          "event": "Online Application Start Date",
+          "date": "02/09/2026",
+          "isImportant": true,
+          "details": "Online registration portal opens"
+        },
+        {
+          "event": "Online Application Last Date",
+          "date": "22/09/2026",
+          "isImportant": true,
+          "details": "Application form submission closes at 11:00 PM"
+        },
+        {
+          "event": "Online Fee Payment Last Date",
+          "date": "23/09/2026",
+          "isImportant": false,
+          "details": "Fee payment closes at 11:00 PM"
+        },
+        {
+          "event": "Correction Window Dates",
+          "date": "28/09/2026 to 30/09/2026",
+          "isImportant": false,
+          "details": "Application modification window"
+        },
+        {
+          "event": "Paper-I Examination (CBT)",
+          "date": "October / November 2026",
+          "isImportant": true,
+          "details": "Tentative exam window"
+        },
+        {
+          "event": "Paper-II Examination (CBT)",
+          "date": "December 2026",
+          "isImportant": true,
+          "details": "Tentative exam date"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "General / OBC / EWS",
+          "fee": "₹ 100/-"
+        },
+        {
+          "category": "Women / SC / ST / PwBD / ESM",
+          "fee": "₹ 0/- (Exempted)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "30 to 32 Years (Department Wise)",
+        "cutoffDate": "As per SSC notification rule",
+        "relaxationDetails": "SC/ST: 5 Years, OBC: 3 Years, PwBD: 10 Years upper age relaxation."
+      },
+      "vacancies": [
+        {
+          "postName": "Junior Engineer (Civil / Electrical / Mechanical)",
+          "totalPosts": "1,748",
+          "eligibility": "Degree or 3-year Diploma in Civil / Electrical / Mechanical Engineering from a recognized University / Institute (with experience where specified).",
+          "qualification": "Diploma / Degree in Engineering",
+          "categoryWiseBreakup": {},
+          "payScale": "Pay Level-6 (₹ 35,400 - ₹ 1,12,400)"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Paper-I Computer Based Examination (CBT)",
+          "description": "Objective multiple choice paper covering General Intelligence & Reasoning, General Awareness, and Technical Subject.",
+          "marks": "200",
+          "qualifyingNature": "Merit Based Screening"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Paper-II Computer Based Examination (CBT)",
+          "description": "Objective technical specification paper in Civil/Electrical/Mechanical domain.",
+          "marks": "300",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 3,
+          "stageName": "Document Verification & Medical Exam",
+          "description": "Verification of original academic diplomas/degrees and physical standards (for BRO/MES).",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit official SSC portal ssc.gov.in.",
+        "Step 2: Complete One-Time Registration (OTR) or log in with credentials.",
+        "Step 3: Select Junior Engineer Examination 2026 under Latest Notifications.",
+        "Step 4: Fill application form, select exam center, and upload photograph & signature.",
+        "Step 5: Pay Rs 100 application fee online (if applicable) and print confirmation."
+      ],
+      "importantLinks": [
+        {
+          "title": "Apply Online Portal",
+          "url": "https://ssc.gov.in/",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Download Official Notification PDF",
+          "url": "https://ssc.gov.in/",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "Official Website",
+          "url": "https://ssc.gov.in/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## SSC JE Recruitment 2026 Notification\n\nStaff Selection Commission (SSC) has officially released the Junior Engineer Examination 2026 notification for 1,748 Group 'B' vacancies in Level-6 (Pay Scale ₹ 35,400 - ₹ 1,12,400). Participating departments include CPWD, CWC, BRO, MES, and NTRO.\n\n### Summary Table\n- **Organization:** Staff Selection Commission (SSC)\n- **Exam Name:** Junior Engineer Examination 2026\n- **Total Posts:** 1,748\n- **Pay Scale:** Level-6 (₹35,400 - ₹1,12,400)\n- **Application Start Date:** 02/09/2026\n- **Application Last Date:** 22/09/2026 (11:00 PM)",
+      "faqs": [
+        {
+          "question": "What is the last date to apply for SSC JE Recruitment 2026?",
+          "answer": "The online application last date is 22 September 2026 up to 11:00 PM."
+        },
+        {
+          "question": "What is the application fee for SSC JE 2026 exam?",
+          "answer": "Application fee is Rs 100 for General/OBC/EWS males, while Women and SC/ST/PwBD/ESM candidates are exempted."
+        }
+      ],
+      "metaTitle": "SSC JE Recruitment 2026: Apply Online for 1748 Junior Engineer Posts",
+      "metaDescription": "SSC JE Recruitment 2026 notification out for 1748 vacancies. Degree/Diploma engineers can apply online at ssc.gov.in from 2 Sept to 22 Sept 2026.",
+      "keywords": [
+        "SSC JE Recruitment 2026",
+        "SSC Junior Engineer Vacancy 2026",
+        "ssc.gov.in JE Notification",
+        "SSC JE Online Form 2026"
+      ],
+      "id": "studygovthelp-ssc-je-recruitment-2026-1-748-junior-engineer-vacancies"
+    }
+  },
+  {
+    "id": "log-1788515075656-oob7",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "India Post GDS Recruitment 2026: 23,757 Vacancies",
+    "organization": "India Post (Department of Posts)",
+    "category": "latest-jobs",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.656Z",
+    "postData": {
+      "title": "India Post GDS Recruitment 2026: 23,757 Vacancies",
+      "slug": "india-post-gds-recruitment-2026-23-757-vacancies",
+      "category": "latest-jobs",
+      "organization": "India Post (Department of Posts)",
+      "state": "All India",
+      "postDate": "2026-09-02",
+      "lastDate": "2026-09-21",
+      "shortInfo": "India Post has released Gramin Dak Sevak (GDS) Schedule-II July 2026 recruitment notification for 23,757 vacancies across India. 10th pass candidates can apply online without written examination for BPM, ABPM, and Dak Sevak posts.",
+      "totalVacancies": "23,757 Posts",
+      "qualificationRequired": [
+        "10th Pass with Mathematics and English"
+      ],
+      "importantDates": [
+        {
+          "event": "OTR / One Time Registration Start Date",
+          "date": "31/08/2026",
+          "isImportant": false,
+          "details": "Registration portal opened"
+        },
+        {
+          "event": "Online Application Start Date",
+          "date": "02/09/2026",
+          "isImportant": true,
+          "details": "Online form submission begins"
+        },
+        {
+          "event": "Online Application Last Date",
+          "date": "21/09/2026",
+          "isImportant": true,
+          "details": "Form submission closes at 5:00 PM"
+        },
+        {
+          "event": "Application Correction Window",
+          "date": "23/09/2026 to 24/09/2026",
+          "isImportant": false,
+          "details": "Two days modification window"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "General / OBC / EWS (Male)",
+          "fee": "₹ 100/-"
+        },
+        {
+          "category": "Female / SC / ST / PwBD / Transwomen",
+          "fee": "₹ 0/- (Exempted)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "21/09/2026",
+        "relaxationDetails": "SC/ST: 5 Years, OBC: 3 Years, PwBD: 10 Years relaxation."
+      },
+      "vacancies": [
+        {
+          "postName": "Branch Postmaster (BPM)",
+          "totalPosts": "23,757 (Combined GDS)",
+          "eligibility": "10th pass with English and Maths, studied local language up to class 10th, knowledge of computer, cycling, and adequate livelihood means.",
+          "qualification": "10th Pass",
+          "categoryWiseBreakup": {},
+          "payScale": "TRCA Level ₹ 12,000 - ₹ 29,380"
+        },
+        {
+          "postName": "Assistant Branch Postmaster (ABPM) / Dak Sevak",
+          "totalPosts": "23,757 (Combined GDS)",
+          "eligibility": "10th pass with English and Maths, knowledge of local language, computer and cycling.",
+          "qualification": "10th Pass",
+          "categoryWiseBreakup": {},
+          "payScale": "TRCA Level ₹ 10,000 - ₹ 24,470"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "System Generated Merit List",
+          "description": "Merit list generated automatically based on 10th Secondary School Examination marks accurate up to 4 decimal places.",
+          "marks": "10th Class Percentage",
+          "qualifyingNature": "Merit Based (No Exam)"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Document Verification & Medical Test",
+          "description": "Verification of original 10th marksheet, category certificate, medical fitness certificate from government medical officer.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Complete One-Time Registration (OTR) on India Post GDS portal.",
+        "Step 2: Log in using Registration Number and Password.",
+        "Step 3: Enter personal, qualification, and 10th marks details.",
+        "Step 4: Select Circle, Division, and post preferences.",
+        "Step 5: Upload photo (30-100 KB) and signature (20-100 KB).",
+        "Step 6: Pay Rs 100 fee (if applicable) and print final application form."
+      ],
+      "importantLinks": [
+        {
+          "title": "India Post GDS Recruitment Notification PDF",
+          "url": "https://studygovthelp.in/wp-content/uploads/2026/08/India-Post-GDS-Recruitment-2026-StudyGovtHelp.in_.pdf",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "GDS OTR Registration Link",
+          "url": "https://app.indiapost.gov.in/gdscandidate/registration",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Apply Online Portal",
+          "url": "https://indiapost.gov.in/gdsonlineengagement",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Website",
+          "url": "https://indiapost.gov.in/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## India Post GDS Recruitment 2026 Notification\n\nDepartment of Posts, Ministry of Communications, has declared 23,757 vacancies for Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Sevak under Gramin Dak Sevak Online Engagement Schedule-II July 2026.\n\n### Key Highlights\n- **Total Posts:** 23,757\n- **Educational Qualification:** 10th Class pass with English and Mathematics as compulsory/elective subjects.\n- **Selection Method:** Direct Merit based on 10th Class marks (No Written Exam).\n- **Salary TRCA:** BPM (₹12,000 - ₹29,380), ABPM/Dak Sevak (₹10,000 - ₹24,470) plus DA.",
+      "faqs": [
+        {
+          "question": "Is there any written exam for India Post GDS Recruitment 2026?",
+          "answer": "No written exam will be conducted. Candidates will be selected based purely on 10th class marks merit list."
+        },
+        {
+          "question": "What is the age limit for India Post GDS Bharti 2026?",
+          "answer": "The age limit is 18 to 40 years as on 21 September 2026, with age relaxation for reserved categories."
+        }
+      ],
+      "metaTitle": "India Post GDS Recruitment 2026: 23,757 Vacancies for 10th Pass | Direct Merit",
+      "metaDescription": "India Post GDS Recruitment 2026 notification out for 23757 BPM, ABPM & Dak Sevak posts. 10th pass candidates can apply online at indiapost.gov.in from 2 Sept to 21 Sept 2026.",
+      "keywords": [
+        "India Post GDS Recruitment 2026",
+        "GDS Online Engagement Schedule 2",
+        "Gramin Dak Sevak Bharti 2026",
+        "indiapost.gov.in GDS Apply Online"
+      ],
+      "id": "studygovthelp-india-post-gds-recruitment-2026-23-757-vacancies"
+    }
+  },
+  {
+    "id": "log-1788515075646-duqv",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "PM Awas Yojana Urban 2.0 2026: Financial Assistance & Online Apply",
+    "organization": "Ministry of Housing and Urban Affairs",
+    "category": "government-schemes",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.646Z",
+    "postData": {
+      "title": "PM Awas Yojana Urban 2.0 2026: Financial Assistance & Online Apply",
+      "slug": "pm-awas-yojana-urban-2-0-2026-financial-assistance-online-apply",
+      "category": "government-schemes",
+      "organization": "Ministry of Housing and Urban Affairs",
+      "state": "All India",
+      "postDate": "2026-09-03",
+      "lastDate": "N/A",
+      "shortInfo": "Pradhan Mantri Awas Yojana-Urban 2.0 (PMAY-U 2.0) aims to assist 1 crore urban poor and middle-income families with financial aid up to Rs 2.50 lakh for house construction or purchase, and interest subsidy up to Rs 1.80 lakh on home loans.",
+      "totalVacancies": "1 Crore Urban Families",
+      "qualificationRequired": [
+        "Urban Resident",
+        "EWS / LIG / MIG Income Group"
+      ],
+      "importantDates": [
+        {
+          "event": "Scheme Launch Date",
+          "date": "01/09/2024",
+          "isImportant": false,
+          "details": "Implemented for 5 years"
+        },
+        {
+          "event": "Online Survey & Application",
+          "date": "Active in 2026",
+          "isImportant": true,
+          "details": "Applications open at pmaymis.gov.in"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "Online Application Fee",
+          "fee": "₹ 0/- (Free on portal)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "N/A",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "Applicant must not own a pucca house in India in any family member's name."
+      },
+      "vacancies": [],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "ULB Verification & Eligibility Survey",
+          "description": "Verification of income proof, residential status, property ownership, and Aadhaar authentication by Urban Local Body or Lending Bank.",
+          "qualifyingNature": "Mandatory Eligibility Verification"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit official portal pmaymis.gov.in.",
+        "Step 2: Go to Apply for PMAY-U 2.0 and select vertical (BLC, AHP, ARH, or ISS).",
+        "Step 3: Complete Eligibility Check and agree to Aadhaar consent.",
+        "Step 4: Authenticate Aadhaar via OTP and fill personal, family, and bank account details.",
+        "Step 5: Upload land documents (for BLC) / loan details (for ISS) and save final application ID."
+      ],
+      "importantLinks": [
+        {
+          "title": "Online Eligibility Check & Apply Link",
+          "url": "https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/EligiblityCheck.aspx",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Track Application Status",
+          "url": "https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/TrackApplication.aspx",
+          "type": "result",
+          "isPrimary": false
+        },
+        {
+          "title": "Official Website",
+          "url": "https://pmaymis.gov.in/pmaymis2_2024/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## PM Awas Yojana Urban 2.0 (PMAY-U 2.0) 2026\n\nPradhan Mantri Awas Yojana-Urban 2.0 (PMAY-U 2.0) provides financial assistance and interest subsidies to urban poor and middle-class families for constructing or acquiring affordable houses.\n\n### Scheme Verticals\n\n1. **Beneficiary Led Construction (BLC):** Up to ₹2.50 Lakh assistance for EWS families owning land to construct a new house.\n2. **Affordable Housing in Partnership (AHP):** Up to ₹2.50 Lakh subsidy for EWS families purchasing houses in government/private partnership projects.\n3. **Affordable Rental Housing (ARH):** Affordable rental homes for urban migrants, workers, and street vendors.\n4. **Interest Subsidy Scheme (ISS):** 4% interest subsidy (up to ₹1.80 Lakh) on home loans up to ₹8 Lakh for EWS, LIG, and MIG families (annual income up to ₹9 Lakh).\n\n### Income Criteria\n- **EWS:** Annual income up to ₹3 Lakh\n- **LIG:** Annual income ₹3 Lakh to ₹6 Lakh\n- **MIG:** Annual income ₹6 Lakh to ₹9 Lakh",
+      "faqs": [
+        {
+          "question": "What is the maximum subsidy under PMAY Urban 2.0 BLC component?",
+          "answer": "Eligible EWS beneficiaries receive up to Rs 2.50 Lakh financial assistance combining central and state government shares."
+        }
+      ],
+      "metaTitle": "PM Awas Yojana Urban 2.0 2026: Apply Online & Get Up to Rs 2.50 Lakh Aid",
+      "metaDescription": "PMAY Urban 2.0 online application form available at pmaymis.gov.in. Check eligibility criteria, required documents, and step-by-step apply process for BLC, AHP, and ISS.",
+      "keywords": [
+        "PM Awas Yojana Urban 2.0",
+        "PMAY U 2.0 Apply Online",
+        "pmaymis.gov.in",
+        "PMAY Urban Subsidy Status"
+      ],
+      "id": "studygovthelp-pm-awas-yojana-urban-2-0-2026-financial-assistance-online-apply"
+    }
+  },
+  {
+    "id": "log-1788515075635-5id2",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Navodaya Vidyalaya Class 9th & 11th Admission 2027",
+    "organization": "Navodaya Vidyalaya Samiti (NVS)",
+    "category": "admissions",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.635Z",
+    "postData": {
+      "title": "Navodaya Vidyalaya Class 9th & 11th Admission 2027",
+      "slug": "navodaya-vidyalaya-class-9th-11th-admission-2027",
+      "category": "admissions",
+      "organization": "Navodaya Vidyalaya Samiti (NVS)",
+      "state": "All India",
+      "postDate": "2026-09-03",
+      "lastDate": "2026-09-30",
+      "shortInfo": "Navodaya Vidyalaya Samiti (NVS) has invited online applications for Lateral Entry Selection Test 2027 for admission to Class 9th and Class 11th for academic session 2027-28. Eligible students studying in Class 8th or 10th during 2026-27 can apply online before 30 September 2026.",
+      "totalVacancies": "Vacant Seats in JNVs",
+      "qualificationRequired": [
+        "Studying in Class 8th (for Class 9th)",
+        "Studying in Class 10th (for Class 11th)"
+      ],
+      "importantDates": [
+        {
+          "event": "Online Application Last Date",
+          "date": "30/09/2026",
+          "isImportant": true,
+          "details": "Last date to apply for Class 9th & 11th"
+        },
+        {
+          "event": "Correction Window Class 9th",
+          "date": "2 Days after Last Date",
+          "isImportant": false,
+          "details": "2 days modification opportunity"
+        },
+        {
+          "event": "Correction Window Class 11th",
+          "date": "3 Days after Last Date",
+          "isImportant": false,
+          "details": "3 days modification opportunity"
+        },
+        {
+          "event": "Lateral Entry Selection Test Date",
+          "date": "10/04/2027",
+          "isImportant": true,
+          "details": "Entrance examination date"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/- (Free)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "Class 9th: Born 01/05/2012 to 31/07/2014",
+        "maxAge": "Class 11th: Born 01/06/2010 to 31/07/2012",
+        "cutoffDate": "As specified in prospectus",
+        "relaxationDetails": "Age criteria applies equally to all categories including SC/ST/OBC/ दिव्यांग."
+      },
+      "vacancies": [
+        {
+          "postName": "Class 9th Lateral Entry Admission",
+          "totalPosts": "District-wise Vacant Seats",
+          "eligibility": "Studying Class 8th in Academic Session 2026-27 in a recognized school in the same district.",
+          "qualification": "Class 8th Pursuing",
+          "categoryWiseBreakup": {},
+          "payScale": "Free residential CBSE English medium education"
+        },
+        {
+          "postName": "Class 11th Lateral Entry Admission",
+          "totalPosts": "School-wise Vacant Seats",
+          "eligibility": "Studying Class 10th in Academic Session 2026-27 in a recognized school in India.",
+          "qualification": "Class 10th Pursuing",
+          "categoryWiseBreakup": {},
+          "payScale": "Free residential CBSE English medium education"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Lateral Entry Selection Test (LEST 2027)",
+          "description": "100 Objective Type Questions for 100 Marks (Class 9th: Eng 15, Hindi 15, Maths 35, Science 35 | Class 11th: Mental Ability 20, Eng 20, Science 20, Social Science 20, Maths 20). Duration: 2 Hours 30 Mins.",
+          "marks": "100",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Document Verification",
+          "description": "Verification of residency, study certificate, category certificate, and age proof.",
+          "marks": "N/A",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit NVS official portal navodaya.gov.in.",
+        "Step 2: Select link for Class IX or Class XI Lateral Entry Admission 2027.",
+        "Step 3: Fill student information, district, school name, and personal details.",
+        "Step 4: Upload student photo, signature, and parent signature.",
+        "Step 5: Review details, submit form and keep registration registration slip safely."
+      ],
+      "importantLinks": [
+        {
+          "title": "Apply Online Class 9th",
+          "url": "https://cbseitms.nic.in/2026/nvsix_9",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Apply Online Class 11th",
+          "url": "https://cbseitms.nic.in/2026/nvsxi_11",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Download Class 9th Prospectus PDF",
+          "url": "https://cbseitms.nic.in/2026/nvsix_9/assets/pdf/FINAL_CLASS_IX_PROSPECTUS_2027.pdf",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "Download Class 11th Prospectus PDF",
+          "url": "https://cbseitms.nic.in/2026/nvsxi_11/assets/pdf/FINAL_CLASS_XI_PROSPECTUS_2027.pdf",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "Official Website",
+          "url": "https://navodaya.gov.in/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## Navodaya Vidyalaya Class 9th & 11th Admission 2027 Notification\n\nJawahar Navodaya Vidyalaya Samiti (NVS) has released notifications for Lateral Entry Admission in Class 9th and Class 11th for the 2027-28 academic session. Admissions will be done based on the Selection Test scheduled for 10 April 2027 against available vacant seats.\n\n### Exam Pattern\n\n#### Class 9th Entrance Exam\n- **English:** 15 Questions / 15 Marks\n- **Hindi:** 15 Questions / 15 Marks\n- **Mathematics:** 35 Questions / 35 Marks\n- **General Science:** 35 Questions / 35 Marks\n- **Total:** 100 Questions / 100 Marks (Duration: 2.5 Hours)\n\n#### Class 11th Entrance Exam\n- **Mental Ability:** 20 Questions / 20 Marks\n- **English:** 20 Questions / 20 Marks\n- **Science:** 20 Questions / 20 Marks\n- **Social Science:** 20 Questions / 20 Marks\n- **Mathematics:** 20 Questions / 20 Marks\n- **Total:** 100 Questions / 100 Marks (Duration: 2.5 Hours)",
+      "faqs": [
+        {
+          "question": "What is the last date to apply for NVS Admission 2027 for Class 9th and 11th?",
+          "answer": "The last date to submit online applications is 30 September 2026."
+        },
+        {
+          "question": "When will the Navodaya Vidyalaya Lateral Entry Test 2027 be held?",
+          "answer": "The selection test will be conducted on 10 April 2027."
+        }
+      ],
+      "metaTitle": "Navodaya Vidyalaya Class 9 & 11 Admission 2027: Apply Online by 30 Sept",
+      "metaDescription": "NVS Class 9th and 11th Admission 2027 notification out. Apply online for JNV Lateral Entry Selection Test 2027 before 30 September 2026 at navodaya.gov.in.",
+      "keywords": [
+        "Navodaya Vidyalaya Admission 2027",
+        "NVS Class 9th Admission 2027",
+        "NVS Class 11th Admission 2027",
+        "JNV LEST Exam 2027"
+      ],
+      "id": "studygovthelp-navodaya-vidyalaya-class-9th-11th-admission-2027"
+    }
+  },
+  {
+    "id": "log-1788515075625-efs9",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Palanhar Yojana 2026",
+    "organization": "Department of Social Justice & Empowerment, Rajasthan",
+    "category": "government-schemes",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.625Z",
+    "postData": {
+      "title": "Rajasthan Palanhar Yojana 2026",
+      "slug": "rajasthan-palanhar-yojana-2026",
+      "category": "government-schemes",
+      "organization": "Department of Social Justice & Empowerment, Rajasthan",
+      "state": "Rajasthan",
+      "postDate": "2026-09-03",
+      "lastDate": "N/A",
+      "shortInfo": "Under Rajasthan Palanhar Yojana 2026, the state government provides monthly financial assistance of Rs 1,500 to Rs 2,500 per child along with an annual lump-sum aid of Rs 2,000 to support orphan and needy children aged 0 to 18 years.",
+      "totalVacancies": "Government Assistance Scheme",
+      "qualificationRequired": [
+        "Children aged 0-18 years under eligible categories"
+      ],
+      "importantDates": [
+        {
+          "event": "Scheme Status",
+          "date": "Active / Ongoing",
+          "isImportant": true,
+          "details": "Applications accepted through E-Mitra"
+        },
+        {
+          "event": "Annual Renewal / Document Update Month",
+          "date": "Every Year in July",
+          "isImportant": true,
+          "details": "Mandatory school/Anganwadi verification update on E-Mitra"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "Application Processing Fee",
+          "fee": "As per E-Mitra kiosk service charges"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "0 Years",
+        "maxAge": "18 Years",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "Palanhar (guardian) annual income must not exceed Rs 1.20 Lakh and must reside in Rajasthan for at least 3 years."
+      },
+      "vacancies": [],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Verification by Social Justice Department",
+          "description": "Verification of category certificate, death certificate/pension order, Aadhaar biometric verification, and school/Anganwadi attendance certificate.",
+          "qualifyingNature": "Mandatory Eligibility Verification"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit nearby E-Mitra Kiosk center with applicant and child documents.",
+        "Step 2: Submit Jan Aadhaar card, category certificate, income certificate, and study proof.",
+        "Step 3: Complete Aadhaar biometric / OTP verification for child and guardian.",
+        "Step 4: Obtain application submission receipt and track status on SJE portal."
+      ],
+      "importantLinks": [
+        {
+          "title": "Rajasthan Palanhar Scheme Guidelines",
+          "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=89",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "SJE Rajasthan Official Website",
+          "url": "https://sje.rajasthan.gov.in/",
+          "type": "official-website",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## Rajasthan Palanhar Yojana 2026\n\nRajasthan Palanhar Yojana provides monthly financial aid and educational support to eligible children aged 0 to 18 years living under foster care of relatives or guardians (Palanhar).\n\n### Benefit Structure\n- **Age 0 to 5 Years:** ₹1,500 per month (Anganwadi enrollment required)\n- **Age 6 to 18 Years:** ₹2,500 per month (School/Institute enrollment required)\n- **Annual Lump-sum Grant:** ₹2,000 per year for clothes, shoes, and stationary (Not applicable for widow & Nata categories)\n\n### Eligible Child Categories\n- Orphan children\n- Children of life sentence/death penalty recipient parents\n- Children of destitute widow pension recipient mothers\n- Children of remarried widow mothers\n- Children of HIV/AIDS or Leprosy affected parents\n- Children of Nata women\n- Children of Specially-Abled (40%+ disability) parents\n- Children of divorced / deserted women\n\n### Income & Resident Rules\n- Palanhar annual family income limit: Maximum ₹1,20,000\n- Palanhar & Child must be resident of Rajasthan for at least 3 years.",
+      "faqs": [
+        {
+          "question": "What is the annual income limit for Palanhar Yojana in Rajasthan?",
+          "answer": "The annual income of the Palanhar (guardian) must not exceed Rs 1.20 Lakh."
+        },
+        {
+          "question": "When is the annual updating required for Palanhar Yojana?",
+          "answer": "School or Anganwadi enrollment certificates must be updated every year in the month of July through E-Mitra."
+        }
+      ],
+      "metaTitle": "Rajasthan Palanhar Yojana 2026: Financial Aid & Eligibility Details",
+      "metaDescription": "Complete details of Rajasthan Palanhar Yojana 2026. Get up to Rs 2,500 monthly assistance for orphan and needy children. Learn eligibility, documents, and E-Mitra application process.",
+      "keywords": [
+        "Rajasthan Palanhar Yojana 2026",
+        "Palanhar Scheme Benefits",
+        "SJE Rajasthan Palanhar",
+        "Palanhar Status E Mitra"
+      ],
+      "id": "studygovthelp-rajasthan-palanhar-yojana-2026"
+    }
+  },
+  {
+    "id": "log-1788515075618-06k9",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "SBI Asha Scholarship Yojana 2026",
+    "organization": "SBI Foundation",
+    "category": "scholarships",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.618Z",
+    "postData": {
+      "title": "SBI Asha Scholarship Yojana 2026",
+      "slug": "sbi-asha-scholarship-yojana-2026",
+      "category": "scholarships",
+      "organization": "SBI Foundation",
+      "state": "All India",
+      "postDate": "2026-09-03",
+      "lastDate": "2026-09-04",
+      "shortInfo": "SBI Foundation has released notification for SBI Platinum Jubilee Asha Scholarship 2026-27. Students studying from Class 9 to Post Graduation, IIT, IIM, Medical, and overseas education can receive scholarship benefits ranging from Rs 15,000 to Rs 20 Lakh.",
+      "totalVacancies": "Scholarship Program",
+      "qualificationRequired": [
+        "Class 9th to 12th Pass",
+        "Graduation",
+        "Post Graduation",
+        "Medical / IIT / IIM Students"
+      ],
+      "importantDates": [
+        {
+          "event": "Online Application Start Date",
+          "date": "20/07/2026",
+          "isImportant": true,
+          "details": "Online application portal opened"
+        },
+        {
+          "event": "Online Application Last Date",
+          "date": "04/09/2026",
+          "isImportant": true,
+          "details": "Final deadline to submit application form"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/- (Free)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "N/A",
+        "maxAge": "N/A",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "Must meet minimum 75% marks criteria in previous qualifying examination."
+      },
+      "vacancies": [
+        {
+          "postName": "SBI Platinum Jubilee Asha Scholarship 2026-27",
+          "totalPosts": "N/A",
+          "eligibility": "Minimum 75% marks in previous academic year, family income up to Rs 3 Lakh (Rs 6 Lakh for higher education)",
+          "qualification": "Class 9th to PG / Medical / Engineering / Overseas",
+          "categoryWiseBreakup": {},
+          "payScale": "₹ 15,000 to ₹ 20 Lakh"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Academic Merit Shortlisting",
+          "description": "Shortlisting based on minimum 75% academic score in previous class and income proof.",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Document Verification & Telephonic Interview",
+          "description": "Verification of marksheet, fee receipt, identity, income certificate, and short interview.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit official website sbiashascholarship.co.in.",
+        "Step 2: Click on Apply Now button for relevant student category.",
+        "Step 3: Register account using basic details and login.",
+        "Step 4: Fill academic details, bank details, and upload last year marksheet and fee receipt.",
+        "Step 5: Submit application form and save confirmation printout."
+      ],
+      "importantLinks": [
+        {
+          "title": "Apply Online Portal",
+          "url": "https://www.sbiashascholarship.co.in/",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Notification",
+          "url": "https://www.sbiashascholarship.co.in/",
+          "type": "notification",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## SBI Asha Scholarship Yojana 2026 Overview\n\nSBI Foundation invites applications for SBI Platinum Jubilee Asha Scholarship 2026-27. The scholarship assists meritorious students from low-income families in continuing their education.\n\n### Financial Assistance Structure\n- **Class 9 to 12:** Up to ₹15,000\n- **Undergraduate (UG):** Up to ₹75,000\n- **Postgraduate (PG):** Up to ₹2.50 Lakh\n- **Medical Students:** Up to ₹4.50 Lakh\n- **IIT Students:** Up to ₹2.00 Lakh\n- **IIM Students:** Up to ₹5.00 Lakh\n- **Overseas Education:** Up to ₹20.00 Lakh\n\n### Eligibility Criteria\n- Candidate must be an Indian citizen.\n- Minimum 75% marks in the previous academic year.\n- Annual family income must not exceed ₹3 Lakh (up to ₹6 Lakh for higher technical/professional courses).",
+      "faqs": [
+        {
+          "question": "What is the minimum percentage required for SBI Asha Scholarship 2026?",
+          "answer": "Candidates must have secured at least 75% marks in their previous academic year."
+        }
+      ],
+      "metaTitle": "SBI Asha Scholarship Yojana 2026: Apply Online at sbiashascholarship.co.in",
+      "metaDescription": "SBI Asha Scholarship Yojana 2026 notification released. Get financial aid up to Rs 20 Lakh for 9th to PG and higher education students. Apply online before 4 September 2026.",
+      "keywords": [
+        "SBI Asha Scholarship 2026",
+        "SBI Foundation Scholarship",
+        "sbiashascholarship.co.in",
+        "Asha Scholarship Apply Online"
+      ],
+      "id": "studygovthelp-sbi-asha-scholarship-yojana-2026"
+    }
+  },
+  {
+    "id": "log-1788515075610-kg5l",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Work from Home Job Recruitment 2026: 8,910 Posts",
+    "organization": "Department of Women and Child Development, Rajasthan",
+    "category": "latest-jobs",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.610Z",
+    "postData": {
+      "title": "Rajasthan Work from Home Job Recruitment 2026: 8,910 Posts",
+      "slug": "rajasthan-work-from-home-job-recruitment-2026-8-910-posts",
+      "category": "latest-jobs",
+      "organization": "Department of Women and Child Development, Rajasthan",
+      "state": "Rajasthan",
+      "postDate": "2026-09-03",
+      "lastDate": "As per post requirement",
+      "shortInfo": "Department of Women and Child Development Rajasthan has invited online applications under Mukhyamantri Work From Home Scheme for 8,910 vacancies. 8th Pass female residents of Rajasthan can apply online for tailoring/sewing work from home.",
+      "totalVacancies": "8,910 Posts",
+      "qualificationRequired": [
+        "8th Pass"
+      ],
+      "importantDates": [
+        {
+          "event": "Online Application Start Date",
+          "date": "Already Started",
+          "isImportant": true,
+          "details": "Online application portal active"
+        },
+        {
+          "event": "Application Last Date",
+          "date": "Varies by Post / Department",
+          "isImportant": true,
+          "details": "Check post-wise deadline on portal"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/- (Free)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "No Upper Limit",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "Priority given to economically weak, widowed, divorced, disabled, and victimized women."
+      },
+      "vacancies": [
+        {
+          "postName": "Work from Home Tailoring / Sewing Work",
+          "totalPosts": "8,910",
+          "eligibility": "8th Pass female candidate and resident of Rajasthan State",
+          "qualification": "8th Class Pass",
+          "categoryWiseBreakup": {},
+          "payScale": "Based on work quantum and government scheme norms"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Application Screening & Skill Assessment",
+          "description": "Evaluation of candidate details, qualification, experience, and priority category status.",
+          "qualifyingNature": "Merit and Priority Based"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit official portal mahilawfh.rajasthan.gov.in.",
+        "Step 2: Read guidelines and eligibility terms for Work From Home scheme.",
+        "Step 3: Register using Aadhaar Card / Jan Aadhaar Card and fetch details.",
+        "Step 4: Select desired opportunity / job role and click Apply Now.",
+        "Step 5: Fill qualification details, experience, upload documents and submit form."
+      ],
+      "importantLinks": [
+        {
+          "title": "Apply Online Portal",
+          "url": "https://mahilawfh.rajasthan.gov.in/",
+          "type": "apply",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Website",
+          "url": "https://mahilawfh.rajasthan.gov.in/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## Rajasthan Work From Home Job Recruitment 2026\n\nUnder the Mukhyamantri Work From Home Scheme launched by the Department of Women and Child Development, Government of Rajasthan, online applications are invited for 8,910 positions. The scheme empowers women by enabling them to work from home in tailoring and other skill-based tasks.\n\n### Eligibility Criteria\n- Candidate must be a female resident of Rajasthan.\n- Minimum age limit is 18 years.\n- Minimum qualification required is 8th pass.\n- Priority given to widows, divorced women, differently-abled, and economically disadvantaged women.\n\n### Required Documents\n- Aadhaar Card\n- Jan Aadhaar Card\n- Resident Certificate (Mool Niwas)\n- PAN Card\n- Income Certificate\n- Passport Size Photo\n- Mobile Number",
+      "faqs": [
+        {
+          "question": "Who can apply for Rajasthan Work from Home Job Scheme?",
+          "answer": "Only female residents of Rajasthan aged 18 years or above with at least 8th pass qualification can apply."
+        }
+      ],
+      "metaTitle": "Rajasthan Work From Home Job 2026: 8910 Vacancies for 8th Pass Females",
+      "metaDescription": "Rajasthan Mukhyamantri Work From Home Job 2026 application form open for 8,910 tailoring posts. 8th pass females can apply online at mahilawfh.rajasthan.gov.in.",
+      "keywords": [
+        "Rajasthan Work From Home Job 2026",
+        "Mukhyamantri Work From Home Scheme",
+        "mahilawfh.rajasthan.gov.in",
+        "Rajasthan Mahila Sewing Work From Home"
+      ],
+      "id": "studygovthelp-rajasthan-work-from-home-job-recruitment-2026-8-910-posts"
+    }
+  },
+  {
+    "id": "log-1788515075601-sef3",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan University BA 2nd Semester Result 2026",
+    "organization": "University of Rajasthan (UNIRAJ)",
+    "category": "results",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.601Z",
+    "postData": {
+      "title": "Rajasthan University BA 2nd Semester Result 2026",
+      "slug": "rajasthan-university-ba-2nd-semester-result-2026",
+      "category": "results",
+      "organization": "University of Rajasthan (UNIRAJ)",
+      "state": "Rajasthan",
+      "postDate": "2026-09-03",
+      "lastDate": "N/A",
+      "shortInfo": "Rajasthan University (UNIRAJ) has officially declared the BA 2nd Semester Result 2026 on its official result portal. Students can check their results online using their roll number and date of birth.",
+      "totalVacancies": "N/A",
+      "qualificationRequired": [
+        "BA 2nd Semester Exam Appeared Students"
+      ],
+      "importantDates": [
+        {
+          "event": "BA 2nd Semester Exam Conducted",
+          "date": "2026",
+          "isImportant": false,
+          "details": "As per UNIRAJ exam schedule"
+        },
+        {
+          "event": "BA 2nd Semester Result Announcement",
+          "date": "03/09/2026",
+          "isImportant": true,
+          "details": "Result released online on portal"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "Result Check Fee",
+          "fee": "₹ 0/- (Free)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "N/A",
+        "maxAge": "N/A",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "Not applicable for university result checking."
+      },
+      "vacancies": [],
+      "selectionProcess": [],
+      "howToApplySteps": [
+        "Step 1: Visit official result portal result.uniraj.ac.in or erp.univraj.org.",
+        "Step 2: Click on B.A. Semester-II Result link.",
+        "Step 3: Enter Roll Number and Date of Birth.",
+        "Step 4: Click on Find button to view mark statement.",
+        "Step 5: Download and print mark statement for future reference."
+      ],
+      "importantLinks": [
+        {
+          "title": "Rajasthan University BA 2nd Semester Result Link 1",
+          "url": "https://erp.univraj.org/login",
+          "type": "result",
+          "isPrimary": true
+        },
+        {
+          "title": "Rajasthan University Official Website",
+          "url": "https://www.uniraj.ac.in/",
+          "type": "official-website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## Rajasthan University BA 2nd Semester Result 2026\n\nUniversity of Rajasthan, Jaipur (UNIRAJ) has published the Undergraduate B.A. Semester 2 examination results online. Students who appeared in the examination can check their scorecard from result.uniraj.ac.in or erp.univraj.org.\n\n### Overview Table\n\n- **University Name:** University of Rajasthan, Jaipur\n- **Course:** B.A. (Bachelor of Arts)\n- **Semester:** Second Semester\n- **Result Mode:** Online\n- **Required Credentials:** Roll Number and Date of Birth\n- **Official Portal:** result.uniraj.ac.in",
+      "faqs": [
+        {
+          "question": "How can I check UNIRAJ BA 2nd Semester Result 2026?",
+          "answer": "You can check the result by visiting result.uniraj.ac.in or erp.univraj.org and entering your Roll Number and Date of Birth."
+        }
+      ],
+      "metaTitle": "Rajasthan University BA 2nd Semester Result 2026 Declared | UNIRAJ BA Result",
+      "metaDescription": "Rajasthan University BA 2nd Semester Result 2026 is out at result.uniraj.ac.in. Direct link to check UNIRAJ BA Semester 2 scorecard with roll number and date of birth.",
+      "keywords": [
+        "UNIRAJ BA 2nd Semester Result 2026",
+        "Rajasthan University BA Result",
+        "result.uniraj.ac.in",
+        "erp.univraj.org BA result"
+      ],
+      "id": "studygovthelp-rajasthan-university-ba-2nd-semester-result-2026"
+    }
+  },
+  {
+    "id": "log-1788515075591-3yp6",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Tata Capital Pankh Scholarship 2026",
+    "organization": "Tata Capital Limited",
+    "category": "scholarships",
+    "status": "New",
+    "postDate": "2026-09-04",
+    "timestamp": "2026-09-04T09:44:35.591Z",
+    "postData": {
+      "title": "Tata Capital Pankh Scholarship 2026",
+      "slug": "tata-capital-pankh-scholarship-2026",
+      "category": "scholarships",
+      "organization": "Tata Capital Limited",
+      "state": "All India",
+      "postDate": "2026-09-04",
+      "lastDate": "2026-10-26",
+      "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 provides financial assistance up to Rs 18,000 to students studying in class 11th, 12th, graduation, diploma, polytechnic, and ITI courses. Eligible candidates can apply online before 26 October 2026.",
+      "totalVacancies": "Scholarship Program",
+      "qualificationRequired": [
+        "10th Pass",
+        "12th Pass",
+        "Diploma",
+        "ITI",
+        "Graduation"
+      ],
+      "importantDates": [
+        {
+          "event": "Online Application Start Date",
+          "date": "Already Started",
+          "isImportant": true,
+          "details": "Applications are open online"
+        },
+        {
+          "event": "Application Last Date",
+          "date": "26/10/2026",
+          "isImportant": true,
+          "details": "Final date to submit online application form"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/- (Exempted)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "N/A",
+        "maxAge": "N/A",
+        "cutoffDate": "N/A",
+        "relaxationDetails": "No age limit specified. Must be currently studying in recognized school/college/institution."
+      },
+      "vacancies": [
+        {
+          "postName": "Class 11th & 12th Students Scholarship",
+          "totalPosts": "N/A",
+          "eligibility": "Minimum 60% marks in previous class, annual family income up to Rs 4 Lakh",
+          "qualification": "Studying in Class 11th or 12th",
+          "categoryWiseBreakup": {},
+          "payScale": "Up to Rs 15,000 scholarship"
+        },
+        {
+          "postName": "Graduation, Diploma, Polytechnic & ITI Students Scholarship",
+          "totalPosts": "N/A",
+          "eligibility": "Minimum 60% marks in previous year/semester, annual family income up to Rs 4 Lakh",
+          "qualification": "Studying in BA, B.Com, B.Sc, Diploma, Polytechnic, or ITI",
+          "categoryWiseBreakup": {},
+          "payScale": "Up to Rs 18,000 scholarship"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Academic Merit & Application Screening",
+          "description": "Shortlisting based on minimum 60% marks in previous qualifying examination and family income criteria.",
+          "marks": "N/A",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Document Verification & Interview",
+          "description": "Verification of income certificate, marksheet, fee receipt, and identity proof.",
+          "marks": "N/A",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Check eligibility criteria and prepare required documents.",
+        "Step 2: Visit the official Buddy4Study / Tata Capital scholarship page.",
+        "Step 3: Fill in applicant details, academic record, and upload mandatory documents.",
+        "Step 4: Verify all entered details and submit the final online application form."
+      ],
+      "importantLinks": [
+        {
+          "title": "Tata Capital Pankh Scholarship Notification",
+          "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+          "type": "notification",
+          "isPrimary": false
+        },
+        {
+          "title": "Apply Online",
+          "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+          "type": "apply",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## Tata Capital Pankh Scholarship 2026-27 Overview\n\nTata Capital Limited has announced the Tata Capital Pankh Scholarship Programme 2026-27 to support students from economically weaker sections. Students enrolled in Class 11, 12, Graduation, Polytechnic, Diploma, and ITI courses can receive up to Rs 18,000 as financial assistance based on their academic scores.\n\n### Eligibility Criteria\n\n- **Nationality:** Indian Citizen\n- **Academic Performance:** Minimum 60% marks in previous academic year or qualifying exam.\n- **Family Income:** Annual family income must not exceed Rs 4 Lakh from all sources.\n- **Ineligible Candidates:** Children of employees of Tata Capital Limited and Buddy4Study are not eligible.\n\n### Scholarship Amounts\n\n#### For Class 11th and 12th\n- **60% to 80% marks:** Maximum 80% of tuition fee or Rs 10,000 (whichever is lower)\n- **80% to 90% marks:** Maximum 90% of tuition fee or Rs 12,000 (whichever is lower)\n- **Above 90% marks:** Maximum 100% of tuition fee or Rs 15,000 (whichever is lower)\n\n#### For Graduation, Diploma, Polytechnic & ITI\n- **60% to 80% marks:** Maximum 80% of tuition fee or Rs 12,000 (whichever is lower)\n- **80% to 90% marks:** Maximum 90% of tuition fee or Rs 15,000 (whichever is lower)\n- **Above 90% marks:** Maximum 100% of tuition fee or Rs 18,000 (whichever is lower)\n\n### Priority Categories\nPreference will be given to female students, disabled students, single parent child, orphans, and SC/ST candidates.",
+      "faqs": [
+        {
+          "question": "What is the maximum income limit for Tata Capital Pankh Scholarship?",
+          "answer": "The annual family income must not exceed Rs 4 Lakh from all sources."
+        },
+        {
+          "question": "What is the last date to apply for Tata Capital Pankh Scholarship 2026?",
+          "answer": "The last date to apply online is 26 October 2026."
+        }
+      ],
+      "metaTitle": "Tata Capital Pankh Scholarship 2026: Apply Online for up to Rs 18,000 Scholarship",
+      "metaDescription": "Tata Capital Pankh Scholarship 2026-27 online application form started. Get up to Rs 18,000 financial assistance for 11th, 12th, Graduation, Diploma & ITI students. Apply before 26 October 2026.",
+      "keywords": [
+        "Tata Capital Pankh Scholarship 2026",
+        "Pankh Scholarship Apply Online",
+        "Buddy4Study Tata Capital Scholarship",
+        "Scholarship for 11th 12th ITI Diploma"
+      ],
+      "id": "studygovthelp-tata-capital-pankh-scholarship-2026"
+    }
+  },
+  {
     "id": "log-1788160525271-cs74",
     "sourceUrl": "https://www.india.gov.in",
     "title": "Rajasthan CET 12th Level Syllabus 2026",
