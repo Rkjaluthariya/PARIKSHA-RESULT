@@ -1,0 +1,12 @@
+{
+  "botToken": "8743464744:AAHXkXSINq0yLpEtw-0LyIzktOwhdzrFfK0",
+  "chatId": "@pariksha_result_official",
+  "enabled": true,
+  "autoBroadcastOnSync": true,
+  "channelTitle": "pariksha_result_official",
+  "lastBroadcast": {
+    "time": "2026-09-04T09:36:15.424Z",
+    "title": "SSC CGL Online Form 2026 Notification",
+    "messageId": 276
+  }
+}
