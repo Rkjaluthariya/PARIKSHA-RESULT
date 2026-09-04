@@ -244,15 +244,15 @@ export const PostDetailModal: React.FC<PostDetailModalProps> = ({
           {/* Sarkari Post Content */}
           <div className="space-y-6">
               
-              {/* Featured Image Banner */}
-              <div className="w-full h-52 sm:h-72 md:h-96 relative rounded-xl overflow-hidden shadow-sm border border-slate-200">
+              {/* Featured Image Banner with 16:9 Discover Ratio */}
+              <div className="w-full aspect-[16/9] relative rounded-2xl overflow-hidden shadow-sm border border-slate-200 bg-slate-900">
                 <WebpImage 
-                  src={getPostImage(post, { width: 1200, quality: 80 })} 
+                  src={getPostImage(post, { width: 1200, quality: 85 })} 
                   alt={post.imageAltText || cleanTitleText(post.title) || post.organization || 'Official recruitment notification banner'}
                   className="w-full h-full object-cover"
                   loading="eager"
                   targetWidth={1200}
-                  quality={80}
+                  quality={85}
                   fallbackSrc={getTopicUnsplashImage(cleanTitleText(post.title), post.category, post.id)}
                   onError={(e) => {
                     const target = e.currentTarget;
@@ -266,6 +266,105 @@ export const PostDetailModal: React.FC<PostDetailModalProps> = ({
                     }
                   }}
                 />
+                <div className="absolute top-3 left-3 flex items-center gap-1.5 z-10">
+                  <span className="bg-[#0F4C81]/90 backdrop-blur-xs text-white text-[11px] font-black px-2.5 py-1 rounded-lg border border-white/20 shadow-xs uppercase">
+                    ⚡ {post.category.replace('-', ' ')}
+                  </span>
+                  {post.state && (
+                    <span className="bg-amber-400 text-slate-950 text-[11px] font-black px-2.5 py-1 rounded-lg shadow-xs">
+                      📍 {post.state}
+                    </span>
+                  )}
+                </div>
+              </div>
+
+              {/* Google Discover Key Highlights Overview Grid */}
+              <div className="bg-gradient-to-br from-slate-50 to-blue-50/40 border border-blue-100 rounded-2xl p-4 sm:p-5 shadow-xs">
+                <div className="flex items-center justify-between gap-2 mb-3 pb-2 border-b border-blue-100">
+                  <h3 className="text-xs sm:text-sm font-black text-[#0F4C81] uppercase tracking-wide flex items-center gap-1.5">
+                    <Sparkles className="w-4 h-4 text-[#FF6B00]" />
+                    <span>{language === 'hi' ? 'भर्ती / परीक्षा मुख्य विवरण (Key Highlights)' : 'Recruitment Highlights At A Glance'}</span>
+                  </h3>
+                  <span className="text-[10px] sm:text-xs font-bold bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded-full border border-emerald-200">
+                    Verified 2026
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2.5 sm:gap-3 text-xs">
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">🏢 {language === 'hi' ? 'विभाग / संस्था' : 'Authority'}</span>
+                    <span className="font-extrabold text-slate-900 line-clamp-1 mt-0.5 text-xs sm:text-sm">{displayedOrg || 'Govt Department'}</span>
+                  </div>
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">👥 {language === 'hi' ? 'कुल पद (Vacancies)' : 'Total Vacancies'}</span>
+                    <span className="font-extrabold text-[#FF6B00] mt-0.5 text-xs sm:text-sm block">{post.totalVacancies ? `${post.totalVacancies} Posts` : 'Various Vacancies'}</span>
+                  </div>
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">📅 {language === 'hi' ? 'अंतिम तिथि / स्थिति' : 'Last Date / Status'}</span>
+                    <span className="font-extrabold text-rose-600 mt-0.5 text-xs sm:text-sm block">{post.lastDate || 'Active Update'}</span>
+                  </div>
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">🎓 {language === 'hi' ? 'योग्यता' : 'Qualification'}</span>
+                    <span className="font-extrabold text-slate-800 line-clamp-1 mt-0.5">
+                      {Array.isArray(post.qualificationRequired) ? post.qualificationRequired.join(', ') : (post.qualificationRequired || '10th / 12th / Graduate')}
+                    </span>
+                  </div>
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">🎂 {language === 'hi' ? 'आयु सीमा' : 'Age Limit'}</span>
+                    <span className="font-extrabold text-slate-800 mt-0.5 block">
+                      {post.ageLimit?.minAge ? `${post.ageLimit.minAge}-${post.ageLimit.maxAge || 35} Yrs` : '18 - 35 Years'}
+                    </span>
+                  </div>
+                  <div className="bg-white p-2.5 sm:p-3 rounded-xl border border-slate-100 shadow-xs">
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">📍 {language === 'hi' ? 'जॉब लोकेशन' : 'Location'}</span>
+                    <span className="font-extrabold text-[#0F4C81] mt-0.5 block">{post.state || 'All India'}</span>
+                  </div>
+                </div>
+              </div>
+
+              {/* 1-Click Viral Community & Social Share Bar */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {/* WhatsApp Viral Share Card */}
+                <a
+                  href={`https://api.whatsapp.com/send?text=${encodeURIComponent(`🔥 *${cleanTitleText(post.title)}*\n🏢 *${post.organization}*\n👥 कुल पद: ${post.totalVacancies || 'Various'}\n📅 अंतिम तिथि: ${post.lastDate || 'Check Notification'}\n\n👉 Direct Apply & Details:\n${window.location.origin}/${post.category}/${post.slug || post.id}`)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-gradient-to-r from-emerald-600 to-teal-700 hover:from-emerald-500 hover:to-teal-600 text-white p-3 sm:p-4 rounded-2xl shadow-md transition-all hover:scale-[1.01] flex items-center justify-between gap-3 group"
+                >
+                  <div className="flex items-center gap-3">
+                    <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0">
+                      <MessageCircle className="w-5 h-5 text-white" />
+                    </div>
+                    <div>
+                      <div className="font-black text-xs sm:text-sm">{language === 'hi' ? 'व्हाट्सएप पर शेयर करें' : 'Share on WhatsApp'}</div>
+                      <div className="text-[11px] text-emerald-100">{language === 'hi' ? 'दोस्तों के साथ ग्रुप में भेजें' : 'Send direct job details to study groups'}</div>
+                    </div>
+                  </div>
+                  <span className="bg-white text-emerald-800 text-xs font-black px-2.5 py-1 rounded-lg group-hover:bg-emerald-50 shadow-xs">
+                    Share
+                  </span>
+                </a>
+
+                {/* Telegram Official Channel Card */}
+                <a
+                  href="https://t.me/pariksha_result_official"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-gradient-to-r from-sky-600 to-blue-700 hover:from-sky-500 hover:to-blue-600 text-white p-3 sm:p-4 rounded-2xl shadow-md transition-all hover:scale-[1.01] flex items-center justify-between gap-3 group"
+                >
+                  <div className="flex items-center gap-3">
+                    <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0">
+                      <Send className="w-5 h-5 text-white" />
+                    </div>
+                    <div>
+                      <div className="font-black text-xs sm:text-sm">{language === 'hi' ? 'टेलीग्राम चैनल से जुड़ें' : 'Join Telegram Channel'}</div>
+                      <div className="text-[11px] text-sky-100">{language === 'hi' ? 'ताजा सरकारी रिजल्ट सबसे पहले' : 'Get fastest alerts on your mobile'}</div>
+                    </div>
+                  </div>
+                  <span className="bg-amber-400 text-slate-950 text-xs font-black px-2.5 py-1 rounded-lg group-hover:bg-amber-300 shadow-xs">
+                    Join Free
+                  </span>
+                </a>
               </div>
 
               {/* Short Info Box */}
@@ -277,36 +376,6 @@ export const PostDetailModal: React.FC<PostDetailModalProps> = ({
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed font-medium">
                   {displayedShortInfo}
                 </p>
-              </div>
-
-              {/* Official Telegram Channel Callout Card */}
-              <div className="bg-gradient-to-r from-slate-900 via-[#0F4C81] to-slate-900 rounded-2xl p-4 sm:p-5 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-4 border border-sky-500/30">
-                <div className="flex items-center gap-3.5 text-center md:text-left">
-                  <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-sky-500 to-blue-600 flex items-center justify-center flex-shrink-0 shadow-md">
-                    <Send className="w-6 h-6 text-white" />
-                  </div>
-                  <div>
-                    <h4 className="text-sm sm:text-base font-black tracking-tight flex items-center justify-center md:justify-start gap-2">
-                      <span>{language === 'hi' ? 'टेलीग्राम पर तुरंत जॉब अलर्ट पाएं' : 'Get Instant Job Alerts on Telegram'}</span>
-                      <span className="bg-amber-400 text-slate-950 text-[10px] font-black px-1.5 py-0.2 rounded-full uppercase">Free</span>
-                    </h4>
-                    <p className="text-xs text-slate-300 font-medium">
-                      {language === 'hi' ? 'सभी सरकारी भर्ती, एडमिट कार्ड व परिणाम की सीधी सूचना अपने फोन पर पाएं' : 'Direct notifications for all Govt Jobs, Admit Cards & Results on your phone'}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="flex flex-wrap items-center justify-center gap-2 flex-shrink-0">
-                  <a
-                    href="https://t.me/pariksha_result_official"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-3.5 py-2 bg-sky-500 hover:bg-sky-400 text-white font-black text-xs rounded-xl shadow-md transition-all hover:scale-105 flex items-center gap-1.5"
-                  >
-                    <Send className="w-3.5 h-3.5" />
-                    <span>{language === 'hi' ? 'Telegram चैनल' : 'Telegram Channel'}</span>
-                  </a>
-                </div>
               </div>
 
               {/* Full Description (Markdown) */}
@@ -654,52 +723,71 @@ export const PostDetailModal: React.FC<PostDetailModalProps> = ({
 
         </div>
 
-        {/* Footer Bar */}
-        <div className="bg-slate-100 border-t border-slate-200 p-4 flex items-center justify-between gap-4 flex-shrink-0">
-          <div className="text-xs text-slate-500 font-medium hidden sm:block">
-            © 2026 Pariksha Result • Verified Official Data
-          </div>
-
-          <div className="flex items-center gap-2 ml-auto">
-            <div className="relative">
-              {showSharePreview && (
-                <div className="absolute bottom-full right-0 mb-2 w-72 sm:w-80 bg-white rounded-xl shadow-xl border border-slate-200 p-4 animate-fade-in z-50">
-                  <div className="flex items-center justify-between mb-2">
-                    <h4 className="text-xs font-bold text-slate-800">Social Share Preview</h4>
-                    <button onClick={() => setShowSharePreview(false)} className="text-slate-400 hover:text-slate-600">
-                      <X className="w-4 h-4" />
-                    </button>
-                  </div>
-                  <div className="bg-slate-50 p-3 rounded-lg border border-slate-100 text-[11px] text-slate-700 whitespace-pre-wrap font-medium mb-3 max-h-32 overflow-y-auto">
-                    {`🚨 New Update 🚨\n\n📌 ${post.title}\n🏢 ${post.organization}\n💼 Vacancies: ${post.totalVacancies || 'Various'}\n\nApply/Details here: ${window.location.href}`}
-                  </div>
-                  <button
-                    onClick={() => {
-                      navigator.clipboard.writeText(window.location.href);
-                      setCopiedLink(true);
-                      setTimeout(() => setCopiedLink(false), 2000);
-                    }}
-                    className="w-full py-2 bg-[#FF6B00] hover:bg-orange-600 text-white text-xs font-bold rounded-lg transition-colors flex items-center justify-center gap-2"
-                  >
-                    {copiedLink ? <Check className="w-3.5 h-3.5" /> : <Copy className="w-3.5 h-3.5" />}
-                    <span>{copiedLink ? getTranslation('Link Copied!', language) : getTranslation('Copy Link to Clipboard', language)}</span>
-                  </button>
-                </div>
-              )}
-              <button
-                onClick={() => setShowSharePreview(!showSharePreview)}
-                className="px-3 py-2 bg-slate-200 hover:bg-slate-300 text-slate-800 text-xs font-bold rounded-lg transition-colors flex items-center gap-1.5"
+        {/* High-Conversion Sticky Bottom Action Bar */}
+        <div className="bg-slate-900 border-t border-slate-800 p-3 sm:p-4 flex items-center justify-between gap-2.5 sm:gap-4 flex-shrink-0">
+          {/* Primary Action Button (Apply Online / Official Link) */}
+          {(() => {
+            const primaryLink = post.importantLinks && post.importantLinks.length > 0 
+              ? (post.importantLinks.find(l => l.isPrimary) || post.importantLinks[0])
+              : null;
+            if (!primaryLink) return null;
+            const safeUrl = getSafeOfficialLink(primaryLink, post);
+            return (
+              <a
+                href={safeUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => trackImportantLinkClick(post, primaryLink.title)}
+                className="bg-gradient-to-r from-[#FF6B00] to-orange-600 hover:from-orange-500 hover:to-orange-600 text-white font-black text-xs sm:text-sm px-4 py-2.5 rounded-xl shadow-md flex items-center gap-1.5 transition-all hover:scale-105 flex-shrink-0"
               >
-                <Share2 className="w-3.5 h-3.5" />
-                <span>{getTranslation('Share Post', language)}</span>
-              </button>
-            </div>
+                <span>{primaryLink.title || (language === 'hi' ? 'सीधा आवेदन / लिंक' : 'Apply / Check Details')}</span>
+                <ExternalLink className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
+              </a>
+            );
+          })()}
+
+          {/* Social Community & Share Actions */}
+          <div className="flex items-center gap-1.5 sm:gap-2 ml-auto flex-wrap justify-end">
+            <a
+              href={`https://api.whatsapp.com/send?text=${encodeURIComponent(`🔥 *${cleanTitleText(post.title)}*\n🏢 *${post.organization}*\n👥 पद: ${post.totalVacancies || 'Various'}\n\n👉 Direct Apply/Check:\n${window.location.origin}/${post.category}/${post.slug || post.id}`)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold rounded-xl transition-all flex items-center gap-1.5 shadow-xs"
+              title="Share on WhatsApp"
+            >
+              <MessageCircle className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
+              <span className="hidden sm:inline">WhatsApp</span>
+            </a>
+
+            <a
+              href="https://t.me/pariksha_result_official"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-2 bg-sky-500 hover:bg-sky-400 text-white text-xs font-bold rounded-xl transition-all flex items-center gap-1.5 shadow-xs"
+              title="Join Telegram Channel"
+            >
+              <Send className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
+              <span className="hidden sm:inline">Telegram</span>
+            </a>
+
+            <button
+              onClick={() => {
+                navigator.clipboard.writeText(`${window.location.origin}/${post.category}/${post.slug || post.id}`);
+                setCopiedLink(true);
+                setTimeout(() => setCopiedLink(false), 2000);
+              }}
+              className="px-3 py-2 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-bold rounded-xl transition-colors flex items-center gap-1.5 border border-slate-700"
+              title="Copy Link"
+            >
+              {copiedLink ? <Check className="w-3.5 h-3.5 text-emerald-400" /> : <Copy className="w-3.5 h-3.5" />}
+              <span>{copiedLink ? (language === 'hi' ? 'कॉपी हुआ!' : 'Copied!') : (language === 'hi' ? 'लिंक' : 'Copy Link')}</span>
+            </button>
 
             <button
               onClick={onClose}
-              className="px-4 py-2 bg-[#0F4C81] hover:bg-blue-900 text-white text-xs font-bold rounded-lg transition-colors"
+              className="px-3.5 py-2 bg-blue-900 hover:bg-blue-800 text-white text-xs font-bold rounded-xl transition-colors"
             >
-              Close Post
+              {language === 'hi' ? 'बंद करें' : 'Close'}
             </button>
           </div>
         </div>

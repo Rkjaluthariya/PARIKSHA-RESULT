@@ -2,6 +2,6872 @@ import { Post, QuizQuestion, CurrentAffairsArticle } from '../types';
 
 export const INITIAL_POSTS: Post[] = [
   {
+    "id": "sarkari-bihar-bed-cet-answer-key-2026",
+    "title": "Bihar BEd CET Answer Key 2026",
+    "slug": "bihar-bed-cet-answer-key-2026",
+    "category": "answer-key",
+    "organization": "Lalit Narayan Mithila University (LNMU)",
+    "state": "Bihar",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:07:25.954Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Lalit Narayan Mithila University (LNMU) has released the provisional answer key for the Combined Entrance Test (CET-BED) 2026. Candidates can check their answers and raise objections online within the stipulated timeline.",
+    "totalVacancies": "B.Ed Admissions",
+    "qualificationRequired": [
+      "Graduation or Post Graduation with 50% marks"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "June 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Answer Key Release Date",
+        "date": "July 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Objection Window Last Date",
+        "date": "July 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Objection Fee per Question",
+        "fee": "As per LNMU guidelines"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "N/A",
+      "maxAge": "N/A",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "No age limit prescribed for B.Ed CET."
+    },
+    "vacancies": [
+      {
+        "postName": "Bachelor of Education (B.Ed) Admission",
+        "totalPosts": "Various Colleges",
+        "eligibility": "Graduation/Post Graduation with minimum 50% marks."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official Bihar BEd CET portal atbiharcetbed-lnmu.in.",
+      "Click on the link for 'Provisional Answer Key 2026'.",
+      "Download the answer key PDF corresponding to your booklet series.",
+      "Compare your answers and submit online objections with supporting proofs if discrepancies are found."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key",
+        "url": "https://biharcetbed-lnmu.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "LNMU Official Website",
+        "url": "https://lnmu.ac.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Lalit Narayan Mithila University (LNMU) Darbhanga has published the provisional answer key for the Bihar Combined Entrance Test (CET-BEd) 2026. Aspirants seeking admission into B.Ed and Shiksha Shastri programs across participating universities in Bihar can verify their responses against the official answer key. Candidates who identify any discrepancy in the provisional answers can file online objections by providing valid document references within the specified objection window. After reviewing all submitted representations, the university will release the final answer key and subsequent entrance exam results.",
+    "faqs": [
+      {
+        "question": "Can I challenge the provisional answer key of Bihar BEd CET?",
+        "answer": "Yes, candidates can raise online objections against incorrect answers by paying the prescribed fee within the deadline."
+      },
+      {
+        "question": "How is the final score calculated?",
+        "answer": "Scores are calculated based on the final answer key after evaluating all valid candidate objections."
+      },
+      {
+        "question": "Where can I download the response sheet?",
+        "answer": "Response sheets and answer keys are available on the official LNMU CET-BEd portal."
+      }
+    ],
+    "metaTitle": "Bihar BEd CET Answer Key 2026 | Pariksha Result",
+    "metaDescription": "Lalit Narayan Mithila University (LNMU) has released the provisional answer key for the Combined Entrance Test (CET-BED) 2026. Candidates can check their a",
+    "keywords": [
+      "Bihar BEd Answer Key 2026",
+      "LNMU CET BEd Result",
+      "Bihar BEd Entrance Exam",
+      "Answer Key Objection",
+      "Bihar Sarkari Result"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Bihar BEd CET Answer Key 2026",
+    "openGraph": {
+      "title": "Bihar BEd CET Answer Key 2026",
+      "description": "Lalit Narayan Mithila University (LNMU) has released the provisional answer key for the Combined Entrance Test (CET-BED) 2026. Candidates can check their answers and raise objections online within the stipulated timeline.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/bihar-bed-cet-answer-key-2026",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "cb65674a4c21830603e03350aae9693f"
+  },
+  {
+    "id": "sarkari-ibps-po-prelims-admit-card-2026",
+    "title": "IBPS PO Prelims Admit Card 2026",
+    "slug": "ibps-po-prelims-admit-card-2026",
+    "category": "admit-card",
+    "organization": "Institute of Banking Personnel Selection (IBPS)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:07:25.953Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Institute of Banking Personnel Selection (IBPS) has released the call letters for the Probationary Officer (PO) / Management Trainee (MT) preliminary examination. Registered candidates can download their admit cards using registration number and password.",
+    "totalVacancies": "4,000+ Posts",
+    "qualificationRequired": [
+      "Graduation in any discipline"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "September 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Prelims Exam Date",
+        "date": "October 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/- (Download Only)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "30 Years",
+      "cutoffDate": "01/09/2026",
+      "relaxationDetails": "Standard age relaxations applicable for SC, ST, OBC, and PwD candidates."
+    },
+    "vacancies": [
+      {
+        "postName": "Probationary Officer (PO / MT) XIII",
+        "totalPosts": "4,000+",
+        "eligibility": "Bachelor's Degree from a recognized university in any discipline."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official IBPS website at ibps.in.",
+      "Click on the notification link for 'CRP-PO/MTs' on the home page.",
+      "Click on 'Download Online Preliminary Exam Call Letter for IBPS PO'.",
+      "Enter Registration Number / Roll Number and Password / Date of Birth.",
+      "Verify the captcha and download the admit card to print a physical copy."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://ibps.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "IBPS Official Portal",
+        "url": "https://ibps.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Institute of Banking Personnel Selection (IBPS) has issued the admit cards for the upcoming Probationary Officer (PO) Preliminary Examination. Candidates who successfully registered for the recruitment drive can download their call letters from the official portal. The prelims exam evaluates candidates on English Language, Quantitative Aptitude, and Reasoning Ability. Carrying a printed copy of the admit card along with a valid original photo identity proof to the exam center is mandatory. Qualified candidates in the preliminary test will be eligible to appear for the IBPS PO Mains Examination.",
+    "faqs": [
+      {
+        "question": "What documents should I carry to the IBPS PO exam center?",
+        "answer": "Candidates must carry a hard copy of the admit card and a valid original photo ID proof such as Aadhaar, PAN card, or Voter ID."
+      },
+      {
+        "question": "Will the admit card be sent via post?",
+        "answer": "No, admit cards are only issued online and will not be dispatched by post."
+      },
+      {
+        "question": "What is the pattern of IBPS PO Prelims exam?",
+        "answer": "The prelims exam is an objective online test consisting of 100 questions carrying 100 marks with a duration of 1 hour."
+      }
+    ],
+    "metaTitle": "IBPS PO Prelims Admit Card 2026 | Pariksha Result",
+    "metaDescription": "Institute of Banking Personnel Selection (IBPS) has released the call letters for the Probationary Officer (PO) / Management Trainee (MT) preliminary exami",
+    "keywords": [
+      "IBPS PO Admit Card 2026",
+      "Banking Exam Call Letter",
+      "IBPS PO Prelims",
+      "Institute of Banking Personnel Selection",
+      "Bank PO Exam"
+    ],
+    "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "IBPS PO Prelims Admit Card 2026",
+    "openGraph": {
+      "title": "IBPS PO Prelims Admit Card 2026",
+      "description": "Institute of Banking Personnel Selection (IBPS) has released the call letters for the Probationary Officer (PO) / Management Trainee (MT) preliminary examination. Registered candidates can download their admit cards using registration number and password.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/ibps-po-prelims-admit-card-2026",
+      "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "c02241cfcb9c259dc4d4a65a82cd2484"
+  },
+  {
+    "id": "blog-auto-1hr-1788516438210-638",
+    "title": "📝 RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+    "slug": "rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516438210",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516438210",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint\n\n![RRB NTPC 2026 Preparation](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.\n\n## 1. Indian Railways Recruitment Drive Overview\n\nWith over 35,000+ vacancies announced in RRB NTPC and Group D, Railway jobs offer high security, lucrative allowances, and fast career progression.\n\n![Railway Track](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80)\n\n## 2. General Science Mastery Strategy\n\nIn Railway exams, Physics, Chemistry, and Life Sciences from NCERT Class 9 & 10 contribute over 25% of total questions.\n\n- **Physics Focus**: Newton Laws, Work Energy Power, Electricity, Light Reflection/Refraction.\n- **Chemistry Focus**: Periodic Table trends, Chemical Equations, Acids Bases Salts.\n- **Biology Focus**: Human Physiology, Cell Structure, Plant Classification & Genetics.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is there negative marking in RRB NTPC CBT 1?",
+        "answer": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+      },
+      {
+        "question": "What is the language medium available for RRB exams?",
+        "answer": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+      }
+    ],
+    "metaTitle": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint | Pariksha Result Blog",
+    "metaDescription": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 N...",
+    "keywords": [
+      "RRB NTPC 2026 Preparation",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+      "description": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516438210",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is there negative marking in RRB NTPC CBT 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the language medium available for RRB exams?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516438210"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "e346f9c45fd0d87724dd88f42d8f36a7"
+  },
+  {
+    "id": "sarkari-nta-neet-ug-counselling-registration-2026",
+    "title": "NTA NEET UG Counselling Registration 2026",
+    "slug": "nta-neet-ug-counselling-registration-2026",
+    "category": "admissions",
+    "organization": "National Testing Agency (NTA) / Medical Counselling Committee (MCC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:06:55.505Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Medical Counselling Committee (MCC) under NTA/DGHS has started online registration for NEET UG 2026 counselling for 15% All India Quota (AIQ) seats in MBBS, BDS, and BSc Nursing courses across government medical and dental colleges.",
+    "totalVacancies": "1,00,000+ MBBS Seats",
+    "qualificationRequired": [
+      "12th Pass",
+      "NEET Qualified"
+    ],
+    "importantDates": [
+      {
+        "event": "Counselling Start Date",
+        "date": "July 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Registration Last Date",
+        "date": "August 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "AIQ / Central University General",
+        "fee": "₹ 1,000/- (Non-Refundable) + ₹ 10,000/- (Refundable Deposit)"
+      },
+      {
+        "category": "SC / ST / OBC / PwD",
+        "fee": "₹ 500/- (Non-Refundable) + ₹ 5,000/- (Refundable Deposit)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Upper Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Candidate must have completed 17 years of age as of December 31 of the admission year."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BSc Nursing (15% AIQ)",
+        "totalPosts": "1,00,000+",
+        "eligibility": "Passed 12th with Physics, Chemistry, Biology/Biotechnology and English, and qualified NEET UG 2026."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official MCC website (mcc.nic.in).",
+      "Click on 'UG Medical Counselling' registration link.",
+      "Register using your NEET UG Roll Number, Application Number, and personal details.",
+      "Pay registration fees (both refundable security deposit and non-refundable fee).",
+      "Fill in college and course choices in order of preference and lock choices."
+    ],
+    "importantLinks": [
+      {
+        "title": "Counselling Registration",
+        "url": "https://mcc.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official MCC Portal",
+        "url": "https://mcc.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Medical Counselling Committee (MCC) administers the online counseling process for admission to undergraduate medical courses (MBBS, BDS, and BSc Nursing) under the 15% All India Quota (AIQ), deemed universities, central universities, ESIP, and AFMC seats. Qualified candidates who cleared the NEET UG examination can participate in multiple rounds of counseling including Round 1, Round 2, Mop-Up Round, and Stray Vacancy Round. Applicants must carefully exercise and lock their college choices based on merit, seat matrix, and category reservation guidelines to secure admission into premier medical institutions.",
+    "faqs": [
+      {
+        "question": "Who is eligible for NEET UG 2026 counselling?",
+        "answer": "Candidates who have successfully qualified the NEET UG entrance exam by securing the minimum cutoff percentile are eligible."
+      },
+      {
+        "question": "Is the security deposit refundable?",
+        "answer": "Yes, the security deposit is refunded to the candidate's account after counseling completion, subject to MCC rules."
+      },
+      {
+        "question": "Can I modify my choices after locking them?",
+        "answer": "Once choices are locked, they cannot be modified. However, a choice unlocking facility is sometimes provided before the deadline."
+      }
+    ],
+    "metaTitle": "NTA NEET UG Counselling Registration 2026 | Pariksha Result",
+    "metaDescription": "Medical Counselling Committee (MCC) under NTA/DGHS has started online registration for NEET UG 2026 counselling for 15% All India Quota (AIQ) seats in MBBS",
+    "keywords": [
+      "NEET UG Counselling 2026",
+      "MCC MBBS Admission",
+      "All India Quota Medical Seats",
+      "NTA NEET Admission 2026",
+      "Medical Counselling Committee"
+    ],
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NTA NEET UG Counselling Registration 2026",
+    "openGraph": {
+      "title": "NTA NEET UG Counselling Registration 2026",
+      "description": "Medical Counselling Committee (MCC) under NTA/DGHS has started online registration for NEET UG 2026 counselling for 15% All India Quota (AIQ) seats in MBBS, BDS, and BSc Nursing courses across government medical and dental colleges.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/nta-neet-ug-counselling-registration-2026",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "cb4baaa60ee17f25cd1ec7883257ed0b"
+  },
+  {
+    "id": "sarkari-rajasthan-reet-answer-key-2026",
+    "title": "Rajasthan REET Answer Key 2026",
+    "slug": "rajasthan-reet-answer-key-2026",
+    "category": "answer-key",
+    "organization": "Board of Secondary Education Rajasthan (BSER)",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:06:55.504Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Board of Secondary Education Rajasthan has released the provisional answer key for Rajasthan Eligibility Examination for Teacher (REET) 2026 Level 1 and Level 2 exams. Candidates can raise objections online against official answer keys.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "12th Pass",
+      "Graduation",
+      "B.Ed",
+      "D.El.Ed"
+    ],
+    "importantDates": [
+      {
+        "event": "Answer Key Release Date",
+        "date": "August 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Raise Objection",
+        "date": "7 Days from release",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Per Question Objection Fee",
+        "fee": "₹ 300/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "As per Rajasthan government norms."
+    },
+    "vacancies": [
+      {
+        "postName": "REET Level 1 & Level 2 Teacher",
+        "totalPosts": "Various",
+        "eligibility": "Eligible candidates who appeared in REET exam"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official BSER REET portal (rajeduboard.rajasthan.gov.in).",
+      "Click on 'REET 2026 Provisional Answer Key' link for Level 1 or Level 2.",
+      "Download the PDF set-wise answer key and match with your question booklet.",
+      "Log in with credentials if you wish to challenge any answer with valid proof.",
+      "Pay the objection fee per question and submit challenges before the deadline."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key",
+        "url": "https://rajeduboard.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "answer-key"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://rajeduboard.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Board of Secondary Education Rajasthan (BSER) has published the provisional answer key for the Rajasthan Eligibility Examination for Teacher (REET) 2026. Candidates who appeared for Level 1 and Level 2 examinations can verify their answers against the official release. BSER also provides a window for candidates to submit online representations or objections against any discrepancies found in the answer key by paying a nominal fee per challenged question along with standard reference proof. After reviewing valid objections, the final answer key and results will be prepared.",
+    "faqs": [
+      {
+        "question": "How can I challenge the REET answer key?",
+        "answer": "You can challenge questions online through the official portal by paying a prescribed fee per question with documentary proof."
+      },
+      {
+        "question": "Is the objection fee refundable?",
+        "answer": "Generally, objection fees are non-refundable unless the challenge is accepted and verified by the subject experts."
+      },
+      {
+        "question": "When will the final REET result be announced?",
+        "answer": "The final result is usually published shortly after evaluation of all candidate objections on the provisional key."
+      }
+    ],
+    "metaTitle": "Rajasthan REET Answer Key 2026 | Pariksha Result",
+    "metaDescription": "Board of Secondary Education Rajasthan has released the provisional answer key for Rajasthan Eligibility Examination for Teacher (REET) 2026 Level 1 and Le",
+    "keywords": [
+      "REET Answer Key 2026",
+      "Rajasthan REET Level 1 2 Key",
+      "BSER Answer Key PDF",
+      "Raj Sarkari Result",
+      "REET Objection Form"
+    ],
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan REET Answer Key 2026",
+    "openGraph": {
+      "title": "Rajasthan REET Answer Key 2026",
+      "description": "Board of Secondary Education Rajasthan has released the provisional answer key for Rajasthan Eligibility Examination for Teacher (REET) 2026 Level 1 and Level 2 exams. Candidates can raise objections online against official answer keys.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/rajasthan-reet-answer-key-2026",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "fe4198aeb2f65fd689a3b4b3e379daa8"
+  },
+  {
+    "id": "sarkari-national-scholarship-portal-nsp-pre-post-matric-2026",
+    "title": "National Scholarship Portal (NSP) Pre & Post Matric 2026",
+    "slug": "national-scholarship-portal-nsp-pre-post-matric-2026",
+    "category": "scholarships",
+    "organization": "Ministry of Electronics and Information Technology, Government of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:06:40.794Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Scholarship Portal (NSP) invites online applications for various Central, State, and UGC scholarship schemes for school, college, and university students.",
+    "totalVacancies": "Scholarship Scheme",
+    "qualificationRequired": [
+      "8th Pass",
+      "10th Pass",
+      "12th Pass",
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Application Start",
+        "date": "01/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "31/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "N/A",
+      "maxAge": "N/A",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Dependent on specific scholarship guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Central Sector Scholarship / Minority Scholarship",
+        "totalPosts": "Various",
+        "eligibility": "Enrolled in recognized school or higher education institution with required percentage."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official National Scholarship Portal at scholarships.gov.in.",
+      "Register as a new user by providing basic student details and Aadhaar/ID proof.",
+      "Log in with generated credentials and fill out the scholarship application form.",
+      "Upload required supporting documents like income certificate, mark sheets, and bank passbook.",
+      "Submit the application form and take a printout for institutional verification."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online (NSP)",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://scholarships.gov.in",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Scholarship Portal (NSP) serves as a unified platform for students seeking financial assistance through various central and state government scholarship schemes. Eligible students ranging from school level to post-graduation can apply by meeting academic and family income criteria. Scholarships are directly transferred to students' Aadhaar-seeded bank accounts via Direct Benefit Transfer (DBT).",
+    "faqs": [
+      {
+        "question": "Is Aadhaar mandatory for applying on NSP?",
+        "answer": "Yes, Aadhaar number or Aadhaar Enrolment ID is mandatory for registration on the National Scholarship Portal."
+      },
+      {
+        "question": "What is the income limit for minority scholarships on NSP?",
+        "answer": "The annual family income criteria typically ranges from ₹ 1 Lakh to ₹ 2.5 Lakhs depending on the specific scholarship scheme."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) Pre & Post Matric 2026 | Pariksha Result",
+    "metaDescription": "National Scholarship Portal (NSP) invites online applications for various Central, State, and UGC scholarship schemes for school, college, and university s",
+    "keywords": [
+      "National Scholarship Portal",
+      "NSP Scholarships 2026",
+      "Central Sector Scholarship",
+      "India Sarkari Schemes",
+      "Student Financial Aid"
+    ],
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "National Scholarship Portal (NSP) Pre & Post Matric 2026",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) Pre & Post Matric 2026",
+      "description": "National Scholarship Portal (NSP) invites online applications for various Central, State, and UGC scholarship schemes for school, college, and university students.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/national-scholarship-portal-nsp-pre-post-matric-2026",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "46d4b0b2929f0edb11ac54b1831348be"
+  },
+  {
+    "id": "sarkari-nta-neet-ug-admission-counselling-2026",
+    "title": "NTA NEET UG Admission Counselling 2026",
+    "slug": "nta-neet-ug-admission-counselling-2026",
+    "category": "admissions",
+    "organization": "National Testing Agency (NTA) / MCC",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:06:40.794Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Medical Counselling Committee (MCC) has announced the online registration and counselling schedule for NEET UG 2026 qualified candidates seeking admission to MBBS, BDS, and AYUSH courses.",
+    "totalVacancies": "1,00,000+ Seats",
+    "qualificationRequired": [
+      "12th Pass",
+      "NEET Qualified"
+    ],
+    "importantDates": [
+      {
+        "event": "Counselling Start",
+        "date": "10/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Choice Filling Last Date",
+        "date": "20/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / Unreserved Counselling Fee",
+        "fee": "₹ 1,000/-"
+      },
+      {
+        "category": "SC / ST / PwD Counselling Fee",
+        "fee": "₹ 500/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Minimum age must be 17 years as of December 31 of the admission year."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BAMS Medical Seats",
+        "totalPosts": "100000+",
+        "eligibility": "12th Pass with Physics, Chemistry, Biology and qualified NEET UG entrance exam."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official MCC counselling portal at mcc.nic.in.",
+      "Register using NEET UG Roll Number and personal details.",
+      "Pay the registration and security deposit fees online.",
+      "Fill in college and course choices in order of preference.",
+      "Lock choices before the deadline and download the seat allotment letter."
+    ],
+    "importantLinks": [
+      {
+        "title": "Counselling Portal",
+        "url": "https://mcc.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "NTA NEET Official Website",
+        "url": "https://nta.ac.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Medical Counselling Committee (MCC) manages the centralized counselling process for 15% All India Quota (AIQ) MBBS and BDS seats, as well as seats in deemed and central universities. Qualified NEET UG candidates must register on the MCC portal, fill out their preferred college choices, and participate in multiple rounds of seat allotment and admission reporting.",
+    "faqs": [
+      {
+        "question": "Who is eligible for MCC NEET UG counselling?",
+        "answer": "Candidates who have successfully qualified the NEET UG entrance exam conducted by NTA are eligible to participate."
+      },
+      {
+        "question": "Is a security deposit refundable?",
+        "answer": "Yes, the tuition security fee is refundable after the completion of counselling as per MCC refund guidelines."
+      }
+    ],
+    "metaTitle": "NTA NEET UG Admission Counselling 2026 | Pariksha Result",
+    "metaDescription": "Medical Counselling Committee (MCC) has announced the online registration and counselling schedule for NEET UG 2026 qualified candidates seeking admission ",
+    "keywords": [
+      "NEET UG Counselling 2026",
+      "MCC MBBS Admission",
+      "NTA NEET Portal",
+      "Medical Admission India",
+      "NEET Seat Allotment"
+    ],
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NTA NEET UG Admission Counselling 2026",
+    "openGraph": {
+      "title": "NTA NEET UG Admission Counselling 2026",
+      "description": "Medical Counselling Committee (MCC) has announced the online registration and counselling schedule for NEET UG 2026 qualified candidates seeking admission to MBBS, BDS, and AYUSH courses.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/nta-neet-ug-admission-counselling-2026",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "7e08b38d844f7766dd9c8ccd1e5a1521"
+  },
+  {
+    "id": "sarkari-bihar-police-constable-exam-admit-card-2026",
+    "title": "Bihar Police Constable Exam Admit Card 2026",
+    "slug": "bihar-police-constable-exam-admit-card-2026",
+    "category": "admit-card",
+    "organization": "Central Selection Board of Constable (CSBC Bihar)",
+    "state": "Bihar",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:06:40.793Z",
+    "lastDate": "Not Available",
+    "shortInfo": "CSBC Bihar has released the admit card for the Bihar Police Constable recruitment examination. Candidates can download their hall tickets using registration credentials.",
+    "totalVacancies": "21,391 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "20/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Exam Date",
+        "date": "05/08/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "25 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Category-wise age relaxation as per Bihar government norms."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Police Constable",
+        "totalPosts": "21391",
+        "eligibility": "Intermediate (12th) pass from recognized board"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the CSBC official website at csbc.bih.nic.in.",
+      "Click on the 'Bihar Police' tab and select the constable admit card link.",
+      "Enter Registration ID or Mobile Number and Date of Birth.",
+      "Download the admit card and verify exam center details.",
+      "Take a clear printout to carry to the examination hall."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://csbc.bih.nic.in/",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://csbc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Central Selection Board of Constable (CSBC), Bihar has issued the admit cards for the Bihar Police Constable written examination. Candidates must download their hall tickets well in advance and check exam center instructions. The recruitment process includes a written exam followed by a Physical Efficiency Test (PET), physical measurement, and medical examination.",
+    "faqs": [
+      {
+        "question": "What documents are required to be carried along with the CSBC admit card?",
+        "answer": "Candidates must carry a valid photo ID proof such as Aadhaar Card, Voter ID, or Driving License along with the printed admit card."
+      },
+      {
+        "question": "Where can I download the Bihar Police admit card?",
+        "answer": "You can download it directly from the official CSBC website at csbc.bih.nic.in."
+      }
+    ],
+    "metaTitle": "Bihar Police Constable Exam Admit Card 2026 | Pariksha Result",
+    "metaDescription": "CSBC Bihar has released the admit card for the Bihar Police Constable recruitment examination. Candidates can download their hall tickets using registratio",
+    "keywords": [
+      "Bihar Police Admit Card",
+      "CSBC Constable Exam",
+      "Bihar Sarkari Result",
+      "Police Hall Ticket 2026",
+      "CSBC Bihar"
+    ],
+    "image": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Bihar Police Constable Exam Admit Card 2026",
+    "openGraph": {
+      "title": "Bihar Police Constable Exam Admit Card 2026",
+      "description": "CSBC Bihar has released the admit card for the Bihar Police Constable recruitment examination. Candidates can download their hall tickets using registration credentials.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/bihar-police-constable-exam-admit-card-2026",
+      "image": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "4327bc41c21b89a7fbe67fec0226bba2"
+  },
+  {
+    "id": "sarkari-pradhan-mantri-awas-yojana-pmay-urbanrural-2026",
+    "title": "Pradhan Mantri Awas Yojana (PMAY) Urban/Rural 2026",
+    "slug": "pradhan-mantri-awas-yojana-pmay-urbanrural-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Housing and Urban Affairs, Govt of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:02:46.014Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Applications are open for Pradhan Mantri Awas Yojana (PMAY) 2026 providing financial housing assistance to eligible economically weaker sections and lower-income families across urban and rural regions.",
+    "totalVacancies": "Housing Scheme",
+    "qualificationRequired": [
+      "No Formal Qualification Required"
+    ],
+    "importantDates": [
+      {
+        "event": "Application Window",
+        "date": "Open Throughout Year",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Beneficiaries",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Family head must be an adult citizen."
+    },
+    "vacancies": [
+      {
+        "postName": "PMAY Beneficiary Subsidy / House Construction",
+        "totalPosts": "Open",
+        "eligibility": "EWS / LIG families without a pucca house."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official PMAY portal (pmaymis.gov.in or pmayg.nic.in).",
+      "Check eligibility criteria under 'Citizen Assessment' or 'Beneficiary Details'.",
+      "Enter Aadhaar number and personal family details.",
+      "Submit income certificate, bank details, and property ownership declaration.",
+      "Save application reference number for tracking approval status."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online / Check Status",
+        "url": "https://pmaymis.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://pmayg.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Pradhan Mantri Awas Yojana (PMAY) is a flagship flagship welfare initiative by the Government of India designed to provide affordable housing to urban and rural poor. Under the scheme, financial assistance and interest subsidies on home loans are provided to eligible families belonging to Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG) who do not own a pucca house anywhere in the country. The scheme ensures transparent beneficiary identification through socio-economic caste census and Aadhaar authentication.",
+    "faqs": [
+      {
+        "question": "Who is eligible for PMAY financial assistance?",
+        "answer": "Families belonging to EWS, LIG, or MIG categories who do not own a pucca house across India are eligible."
+      },
+      {
+        "question": "Is there any fee to apply for PMAY online?",
+        "answer": "No, application for PMAY through official government portals is completely free of cost."
+      }
+    ],
+    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) Urban/Rural 2026 | Pariksha Result",
+    "metaDescription": "Applications are open for Pradhan Mantri Awas Yojana (PMAY) 2026 providing financial housing assistance to eligible economically weaker sections and lower-",
+    "keywords": [
+      "Pradhan Mantri Awas Yojana",
+      "PMAY 2026",
+      "Housing Scheme India",
+      "Govt Welfare Schemes",
+      "India Sarkari Naukri"
+    ],
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) Urban/Rural 2026",
+    "openGraph": {
+      "title": "Pradhan Mantri Awas Yojana (PMAY) Urban/Rural 2026",
+      "description": "Applications are open for Pradhan Mantri Awas Yojana (PMAY) 2026 providing financial housing assistance to eligible economically weaker sections and lower-income families across urban and rural regions.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/pradhan-mantri-awas-yojana-pmay-urbanrural-2026",
+      "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "a32b0e967d7d804d616358a2373df8fb"
+  },
+  {
+    "id": "sarkari-national-scholarship-portal-nsp-2026-27",
+    "title": "National Scholarship Portal (NSP) 2026-27",
+    "slug": "national-scholarship-portal-nsp-2026-27",
+    "category": "scholarships",
+    "organization": "Ministry of Electronics and Information Technology, Govt of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:02:46.014Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Scholarship Portal (NSP) invites online applications for Central Sector, State Sector, and UGC scholarship schemes for pre-matric and post-matric students for academic session 2026-27.",
+    "totalVacancies": "Multiple Schemes",
+    "qualificationRequired": [
+      "10th Pass",
+      "12th Pass",
+      "Graduation",
+      "Post Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Portal Open",
+        "date": "01/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Closing Date",
+        "date": "31/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Applicants",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "No Limit",
+      "maxAge": "As per scheme guidelines",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Scheme specific guidelines apply."
+    },
+    "vacancies": [
+      {
+        "postName": "Pre-Matric & Post-Matric Scholarships",
+        "totalPosts": "Various",
+        "eligibility": "Students studying in recognized schools/colleges."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official National Scholarship Portal (scholarships.gov.in).",
+      "Click on 'New Registration' and review terms and conditions.",
+      "Enter personal details, bank account info, and educational credentials.",
+      "Log in with generated application ID and password.",
+      "Fill out scholarship specific scheme form and upload documents.",
+      "Submit final application and retain printout for institutional verification."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Scholarship Portal (NSP) serves as a unified digital platform for implementing various central and state government scholarship schemes. Students from school level up to postgraduate and doctoral research levels can apply for financial assistance. The platform facilitates direct benefit transfer (DBT) of scholarship funds directly into student bank accounts. Applicants must ensure accurate Aadhaar seeding with bank accounts and timely verification by their respective educational institutions.",
+    "faqs": [
+      {
+        "question": "Is Aadhaar mandatory for applying on NSP?",
+        "answer": "Yes, Aadhaar card or Aadhaar enrollment ID is mandatory for registration on the National Scholarship Portal."
+      },
+      {
+        "question": "Can students from all states apply on NSP?",
+        "answer": "Yes, NSP hosts central schemes applicable pan-India alongside state-specific scholarship schemes."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) 2026-27 | Pariksha Result",
+    "metaDescription": "National Scholarship Portal (NSP) invites online applications for Central Sector, State Sector, and UGC scholarship schemes for pre-matric and post-matric ",
+    "keywords": [
+      "National Scholarship Portal",
+      "NSP 2026",
+      "Central Sector Scholarship",
+      "India Sarkari Schemes",
+      "Student Financial Aid"
+    ],
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "National Scholarship Portal (NSP) 2026-27",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) 2026-27",
+      "description": "National Scholarship Portal (NSP) invites online applications for Central Sector, State Sector, and UGC scholarship schemes for pre-matric and post-matric students for academic session 2026-27.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/national-scholarship-portal-nsp-2026-27",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "7cde4846194b86a9faf89b98e428f8c8"
+  },
+  {
+    "id": "sarkari-bihar-bed-cet-admission-2026",
+    "title": "Bihar B.Ed CET Admission 2026",
+    "slug": "bihar-bed-cet-admission-2026",
+    "category": "admissions",
+    "organization": "Lalit Narayan Mithila University (LNMU)",
+    "state": "Bihar",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:02:46.013Z",
+    "lastDate": "Not Available",
+    "shortInfo": "LNMU Darbhanga has announced notification for Combined Entrance Test (CET-BED) 2026 for admission into 2-year B.Ed and Shiksha Shastri programs across participating universities in Bihar.",
+    "totalVacancies": "37000+ Seats",
+    "qualificationRequired": [
+      "Graduation",
+      "Post Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "09/04/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "04/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General",
+        "fee": "₹ 1000/-"
+      },
+      {
+        "category": "EBC / BC / Female / EWS",
+        "fee": "₹ 750/-"
+      },
+      {
+        "category": "SC / ST",
+        "fee": "₹ 500/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "Not Specified",
+      "maxAge": "No Limit",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "As per university guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "2-Year Bachelor of Education (B.Ed)",
+        "totalPosts": "37000+",
+        "eligibility": "Graduation / Post Graduation with minimum 50% marks."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official Bihar CET-BED portal managed by LNMU.",
+      "Complete user registration and verify via OTP.",
+      "Fill out personal information, academic details, and college preferences.",
+      "Upload scanned photograph, signature, and documents.",
+      "Pay application fee online and print the confirmation page."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://biharcetbed-lnmu.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://lnmu.ac.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Lalit Narayan Mithila University (LNMU), Darbhanga has commenced the admission process for the 2-Year Bachelor of Education (B.Ed) and Shiksha Shastri courses through the Combined Entrance Test (CET-BED) 2026. Eligible candidates holding a bachelor's or master's degree with a minimum aggregate of 50% marks (45% for reserved categories) can apply online. Selection is based on an offline entrance exam testing General English/Sanskrit Comprehension, General Awareness, Logical & Analytical Reasoning, and Teaching Learning Environment in Schools.",
+    "faqs": [
+      {
+        "question": "What is the minimum percentage required for Bihar B.Ed CET?",
+        "answer": "Candidates need at least 50% marks in graduation or post-graduation to be eligible."
+      },
+      {
+        "question": "Which university conducts Bihar B.Ed CET 2026?",
+        "answer": "Lalit Narayan Mithila University (LNMU), Darbhanga is the nodal agency for conducting Bihar B.Ed CET."
+      }
+    ],
+    "metaTitle": "Bihar B.Ed CET Admission 2026 | Pariksha Result",
+    "metaDescription": "LNMU Darbhanga has announced notification for Combined Entrance Test (CET-BED) 2026 for admission into 2-year B.Ed and Shiksha Shastri programs across part",
+    "keywords": [
+      "Bihar B.Ed CET 2026",
+      "LNMU B.Ed Admission",
+      "Bihar Teacher Training",
+      "Sarkari Result Admissions",
+      "CET BEd Online Form"
+    ],
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Bihar B.Ed CET Admission 2026",
+    "openGraph": {
+      "title": "Bihar B.Ed CET Admission 2026",
+      "description": "LNMU Darbhanga has announced notification for Combined Entrance Test (CET-BED) 2026 for admission into 2-year B.Ed and Shiksha Shastri programs across participating universities in Bihar.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/bihar-bed-cet-admission-2026",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "c6239dec9de1328ee9b399c789425f5d"
+  },
+  {
+    "id": "sarkari-upsssc-pet-answer-key-2026",
+    "title": "UPSSSC PET Answer Key 2026",
+    "slug": "upsssc-pet-answer-key-2026",
+    "category": "answer-key",
+    "organization": "Uttar Pradesh Subordinate Services Selection Board (UPSSSC)",
+    "state": "Uttar Pradesh",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:02:46.012Z",
+    "lastDate": "Not Available",
+    "shortInfo": "UPSSSC has released the official provisional answer key for the Preliminary Eligibility Test (PET) 2026. Candidates can raise objections against answers through the candidate portal.",
+    "totalVacancies": "Eligibility Exam",
+    "qualificationRequired": [
+      "10th Pass",
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "October 2026",
+        "isImportant": false
+      },
+      {
+        "event": "Answer Key Release",
+        "date": "10/11/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "As per UP government regulations."
+    },
+    "vacancies": [
+      {
+        "postName": "UPSSSC PET Qualified Status",
+        "totalPosts": "Eligibility Test",
+        "eligibility": "High School / Intermediate passed"
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official UPSSSC website (upsssc.gov.in).",
+      "Click on the notification link for 'PET 2026 Provisional Answer Key'.",
+      "Log in with registration credentials and question paper set code.",
+      "Compare your marked responses with official answers.",
+      "Submit objections online with supporting proof if any discrepancy is found."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key",
+        "url": "https://upsssc.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://upsssc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Uttar Pradesh Subordinate Services Selection Board (UPSSSC) has released the provisional answer keys for the Preliminary Eligibility Test (PET) 2026. Aspirants who appeared for the exam across various shifts can review the correct answers set by subject experts. Candidates are provided a stipulated objection window to challenge any incorrect answers by paying a nominal fee per question with valid documentation. Post review of objections, the final answer key and normalized scores will be published.",
+    "faqs": [
+      {
+        "question": "Can I challenge multiple answers in UPSSSC PET answer key?",
+        "answer": "Yes, candidates can submit objections for multiple questions by paying the requisite fee for each challenge."
+      },
+      {
+        "question": "Is UPSSSC PET compulsory for Group C jobs in UP?",
+        "answer": "Yes, clearing PET is a mandatory prerequisite for applying to Group C recruitments in Uttar Pradesh."
+      }
+    ],
+    "metaTitle": "UPSSSC PET Answer Key 2026 | Pariksha Result",
+    "metaDescription": "UPSSSC has released the official provisional answer key for the Preliminary Eligibility Test (PET) 2026. Candidates can raise objections against answers th",
+    "keywords": [
+      "UPSSSC PET Answer Key",
+      "UP PET 2026",
+      "Uttar Pradesh Sarkari Result",
+      "UPSSSC Exam Key",
+      "Group C Eligibility"
+    ],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPSSSC PET Answer Key 2026",
+    "openGraph": {
+      "title": "UPSSSC PET Answer Key 2026",
+      "description": "UPSSSC has released the official provisional answer key for the Preliminary Eligibility Test (PET) 2026. Candidates can raise objections against answers through the candidate portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/upsssc-pet-answer-key-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "8e51a03ff8c42678f8986533cba40431"
+  },
+  {
+    "id": "sarkari-nta-neet-ug-entrance-exam-2026",
+    "title": "NTA NEET UG Entrance Exam 2026",
+    "slug": "nta-neet-ug-entrance-exam-2026",
+    "category": "admissions",
+    "organization": "National Testing Agency (NTA)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:01:53.590Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Testing Agency (NTA) has announced the National Eligibility cum Entrance Test (NEET-UG) 2026 for admission to MBBS, BDS, AYUSH, and nursing undergraduate courses in medical and dental institutions across India.",
+    "totalVacancies": "1,00,000+ MBBS/BDS Seats",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "09/02/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date for Registration",
+        "date": "09/03/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Entrance Exam Date",
+        "date": "03/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General",
+        "fee": "₹ 1,700/-"
+      },
+      {
+        "category": "OBC / EWS",
+        "fee": "₹ 1,600/-"
+      },
+      {
+        "category": "SC / ST / PwD / Third Gender",
+        "fee": "₹ 1,000/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Upper Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Candidates must have completed 17 years of age at the time of admission or by December 31 of the exam year."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BAMS / BHMS / BSc Nursing Seats",
+        "totalPosts": "1,00,000+",
+        "eligibility": "12th Pass with Physics, Chemistry, Biology/Biotechnology, and English with minimum qualifying marks."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official NTA NEET portal at exams.nta.ac.in/NEET.",
+      "Click on 'New Registration' and fill in personal, parent, and contact details.",
+      "Generate application number and password, then log in to complete the detailed application form.",
+      "Upload scanned passport photo, signature, left-right hand impressions, and class 10/12 certificates.",
+      "Pay the prescribed examination fee via online payment gateways.",
+      "Download and retain the confirmation page and fee receipt for counseling procedures."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Information Bulletin",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://nta.ac.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Testing Agency (NTA) has released the official notification for the National Eligibility cum Entrance Test (NEET-UG) 2026. NEET-UG is the sole national-level entrance examination for students seeking admission to undergraduate medical (MBBS), dental (BDS), AYUSH (BAMS, BSMS, BUMS, BHMS), and BSc Nursing courses across government and private medical colleges in India. Candidates who have passed or are appearing in their 10+2 examination with Physics, Chemistry, Biology/Biotechnology, and English as core subjects are eligible. The test is conducted in pen-and-paper mode across multiple languages in cities nationwide. Qualified candidates become eligible to participate in All India Quota (AIQ) and State Quota counseling sessions managed by medical counseling committees.",
+    "faqs": [
+      {
+        "question": "What is the minimum age limit for NEET-UG 2026?",
+        "answer": "Candidates must have completed 17 years of age as of December 31, 2026."
+      },
+      {
+        "question": "Is there an upper age limit for NEET?",
+        "answer": "No, there is no upper age limit for appearing in NEET-UG."
+      },
+      {
+        "question": "What subjects are required in 12th standard to be eligible?",
+        "answer": "Candidates must have studied Physics, Chemistry, Biology/Biotechnology, and English."
+      }
+    ],
+    "metaTitle": "NTA NEET UG Entrance Exam 2026 | Pariksha Result",
+    "metaDescription": "National Testing Agency (NTA) has announced the National Eligibility cum Entrance Test (NEET-UG) 2026 for admission to MBBS, BDS, AYUSH, and nursing underg",
+    "keywords": [
+      "NEET UG 2026",
+      "NTA NEET Exam",
+      "Medical Entrance Test",
+      "MBBS Admission",
+      "Pariksha Result Portal"
+    ],
+    "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NTA NEET UG Entrance Exam 2026",
+    "openGraph": {
+      "title": "NTA NEET UG Entrance Exam 2026",
+      "description": "National Testing Agency (NTA) has announced the National Eligibility cum Entrance Test (NEET-UG) 2026 for admission to MBBS, BDS, AYUSH, and nursing undergraduate courses in medical and dental institutions across India.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/nta-neet-ug-entrance-exam-2026",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "ba6484b544e7829d2ee370ddc111bb36"
+  },
+  {
+    "id": "sarkari-upsc-civil-services-examination-cse-2026",
+    "title": "UPSC Civil Services Examination (CSE) 2026",
+    "slug": "upsc-civil-services-examination-cse-2026",
+    "category": "latest-jobs",
+    "organization": "Union Public Service Commission (UPSC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T10:01:53.589Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Union Public Service Commission (UPSC) has issued the Civil Services Examination 2026 notification for recruitment to IAS, IPS, IFS, and other central civil services. Eligible graduate candidates can apply online through the official UPSC portal.",
+    "totalVacancies": "1,050+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Notification & Application Start",
+        "date": "14/02/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date for Submission",
+        "date": "05/03/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Prelims Exam Date",
+        "date": "24/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female / PwD",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "32 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years, Defense Personnel and PwD relaxations as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Civil Services (IAS, IPS, IFS, IRS, etc.)",
+        "totalPosts": "1,050+",
+        "eligibility": "Bachelor degree in any stream from a recognized university."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official UPSC online application portal at upsconline.nic.in.",
+      "Complete One-Time Registration (OTR) by providing personal and professional credentials.",
+      "Log in to your OTR profile and navigate to the 'Civil Services Examination 2026' application link.",
+      "Fill in exam center preferences, medium of examination, and educational qualifications.",
+      "Pay the requisite application fee via net banking, UPI, or cash deposit at any SBI branch.",
+      "Confirm details and submit the application form, downloading the final confirmation page."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://upsconline.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Union Public Service Commission (UPSC) has released the official notification for the prestigious Civil Services Examination (CSE) 2026. Touted as one of the toughest and most respected civil services exams globally, CSE selects candidates for All India Services like IAS, IPS, and IFS, alongside Group 'A' and Group 'B' central services. The three-stage selection structure includes the Preliminary Examination (objective screening test), Main Examination (written descriptive papers), and Personality Test (interview). Aspirants holding any graduation degree from a recognized university are eligible to apply, provided they fall within the 21 to 32 age bracket. Successful candidates undergo rigorous professional training at institutions like Lal Bahadur Shastri National Academy of Administration (LBSNAA) before stepping into administrative leadership roles.",
+    "faqs": [
+      {
+        "question": "What is the age limit for UPSC CSE 2026?",
+        "answer": "Candidates must be between 21 and 32 years of age as of August 1, 2026, with relaxations for reserved categories."
+      },
+      {
+        "question": "How many attempts are allowed for general category candidates?",
+        "answer": "General category candidates are allowed a maximum of 6 attempts."
+      },
+      {
+        "question": "What are the stages of the UPSC Civil Services selection process?",
+        "answer": "The selection process consists of Prelims, Mains, and the Interview (Personality Test)."
+      }
+    ],
+    "metaTitle": "UPSC Civil Services Examination (CSE) 2026 | Pariksha Result",
+    "metaDescription": "Union Public Service Commission (UPSC) has issued the Civil Services Examination 2026 notification for recruitment to IAS, IPS, IFS, and other central civi",
+    "keywords": [
+      "UPSC CSE 2026",
+      "Civil Services Exam",
+      "IAS Recruitment",
+      "UPSC Online Form",
+      "India Sarkari Naukri"
+    ],
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPSC Civil Services Examination (CSE) 2026",
+    "openGraph": {
+      "title": "UPSC Civil Services Examination (CSE) 2026",
+      "description": "Union Public Service Commission (UPSC) has issued the Civil Services Examination 2026 notification for recruitment to IAS, IPS, IFS, and other central civil services. Eligible graduate candidates can apply online through the official UPSC portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/upsc-civil-services-examination-cse-2026",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "54a7bfabde11ba6edf8fdbaba1ff4a94"
+  },
+  {
+    "title": "Tata Capital Pankh Scholarship 2026: Get up to Rs 18,000 Scholarship",
+    "slug": "tata-capital-pankh-scholarship-2026-get-up-to-rs-18-000-scholarship",
+    "category": "scholarships",
+    "organization": "Tata Capital Limited & Buddy4Study",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "26/10/2026",
+    "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 provides financial assistance up to ₹18,000 for students studying in 11th, 12th, graduation, diploma, and ITI.",
+    "totalVacancies": "Not Applicable",
+    "qualificationRequired": [
+      "11th Pass",
+      "12th Pass",
+      "Graduation",
+      "Diploma",
+      "ITI"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Last Date",
+        "date": "26/10/2026",
+        "isImportant": true,
+        "details": "Online applications are currently open."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "N/A",
+      "maxAge": "N/A",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Refer to official notification guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Scholarship Beneficiary",
+        "totalPosts": "Not Specified",
+        "eligibility": "Students in 11th, 12th, Graduation, Polytechnic, Diploma, or ITI with at least 60% marks and annual family income up to ₹4 Lakh.",
+        "qualification": "11th, 12th, Graduation, Diploma or ITI",
+        "categoryWiseBreakup": {
+          "UR": "N/A",
+          "OBC": "N/A",
+          "EWS": "N/A",
+          "SC": "N/A",
+          "ST": "N/A"
+        },
+        "payScale": "Up to ₹18,000 scholarship amount"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Application Screening",
+        "description": "Screening of applications based on academic percentage (minimum 60%) and family income criteria (below ₹4 Lakh).",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Document Verification",
+        "description": "Verification of academic marksheets, income certificate, admission proof, and bank details.",
+        "qualifyingNature": "Mandatory"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official Tata Capital Pankh Scholarship portal on Buddy4Study.",
+      "Step 2: Check your eligibility criteria before proceeding.",
+      "Step 3: Register and fill out the online application form with required details.",
+      "Step 4: Upload all necessary documents and submit the final form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Download Official Notification",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "notification",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## Tata Capital Pankh Scholarship Programme 2026-27 Overview\n\nThe Tata Capital Pankh Scholarship Programme 2026-27 has been initiated to support students from economically weaker families. Under this scheme, financial aid is provided to students studying in classes 11 and 12, as well as those pursuing graduation, polytechnic, diploma, and ITI courses. Eligible students can receive a scholarship of up to ₹18,000 based on their academic marks.\n\n### Eligibility Criteria\n- **Citizenship:** Must be a citizen of India.\n- **Academic Record:** Must have scored a minimum of 60% marks in the previous academic year.\n- **Family Income:** Annual family income from all sources must not exceed ₹4 Lakh.\n- **Exclusion:** Children of employees of Tata Capital Limited and Buddy4Study are not eligible.\n\n### Scholarship Amount Structure\n- **For Classes 11 & 12:** 60% to 80% marks (up to ₹10,000); 80% to 90% marks (up to ₹12,000); Above 90% marks (up to ₹15,000).\n- **For Graduation, Diploma & ITI:** 60% to 80% marks (up to ₹12,000); 80% to 90% marks (up to ₹15,000); Above 90% marks (up to ₹18,000).\n\n### Required Documents\n- Aadhaar Card\n- Passport size photograph\n- Previous year marksheet\n- Income certificate\n- Fee receipt or admission proof\n- Student ID card\n- Bank account details",
+    "faqs": [
+      {
+        "question": "What is the maximum scholarship amount?",
+        "answer": "Eligible students can get up to ₹18,000 scholarship."
+      },
+      {
+        "question": "What is the maximum family income limit?",
+        "answer": "The annual family income should not exceed ₹4 Lakh."
+      }
+    ],
+    "metaTitle": "Tata Capital Pankh Scholarship 2026: Apply Online, Eligibility & Last Date",
+    "metaDescription": "Apply for Tata Capital Pankh Scholarship 2026-27. Get up to ₹18,000 scholarship for 11th, 12th, graduation, and ITI students. Check eligibility and apply online.",
+    "keywords": [
+      "Tata Capital Pankh Scholarship 2026",
+      "Scholarship Yojana 2026",
+      "Buddy4Study Scholarship",
+      "Student Financial Assistance"
+    ],
+    "id": "studygovthelp-tata-capital-pankh-scholarship-2026-get-up-to-rs-18-000-scholarship",
+    "canonical_hash": "0a227cf0325344e1d4e0e96f1a0277df"
+  },
+  {
+    "id": "sarkari-pm-vishwakarma-yojana-registration-benefits-2026",
+    "title": "PM Vishwakarma Yojana Registration & Benefits 2026",
+    "slug": "pm-vishwakarma-yojana-registration-benefits-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.224Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Pradhan Mantri Vishwakarma Yojana invites registrations from traditional artisans and craftspeople (Vishwakarmas) to avail collateral-free enterprise development loans, skill upgradation training, and toolkits.",
+    "totalVacancies": "Various Beneficiaries",
+    "qualificationRequired": [
+      "10th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Registration Status",
+        "date": "Active",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Artisans",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Any adult artisan engaged in traditional trades can register."
+    },
+    "vacancies": [
+      {
+        "postName": "Traditional Artisan / Craftsperson Beneficiary",
+        "totalPosts": "Open",
+        "eligibility": "Engaged in traditional trades (Carpenter, Blacksmith, Potter, Weaver, Sculptor, Cobbler, Mason, etc.) on self-employment basis."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official PM Vishwakarma portal at pmvishwakarma.gov.in.",
+      "Click on 'Register Now' or visit the nearest Common Service Centre (CSC) with Aadhaar card.",
+      "Verify mobile number through Aadhaar OTP authentication.",
+      "Provide personal details, family details, bank account information, and trade details.",
+      "Download the PM Vishwakarma Digital Certificate and ID card upon successful verification.",
+      "Apply for skill training and collateral-free loans through the dashboard."
+    ],
+    "importantLinks": [
+      {
+        "title": "Official Scheme Portal",
+        "url": "https://pmvishwakarma.gov.in/",
+        "isPrimary": true,
+        "type": "website"
+      },
+      {
+        "title": "CSC Locator",
+        "url": "https://locator.csccloud.in/",
+        "isPrimary": false,
+        "type": "apply"
+      }
+    ],
+    "fullDescription": "Pradhan Mantri Vishwakarma Yojana is a comprehensive central sector scheme launched by the Ministry of MSME to provide end-to-end support to traditional artisans and craftspeople who work with their hands and tools. The scheme covers 18 traditional trades including carpenters, boat makers, armourers, blacksmiths, hammer and tool kit makers, locksmiths, goldsmiths, potters, sculptors, cobblers, masons, basket/mat/broom makers, traditional doll and toy makers, barbers, garland makers, washers, tailors, and fishing net makers. Beneficiaries receive a PM Vishwakarma certificate and ID card, skill training with a stipend, a modern toolkit incentive of Rs. 15,000, and collateral-free enterprise development loans at concessional interest rates.",
+    "faqs": [
+      {
+        "question": "What is the financial assistance provided for toolkits under PM Vishwakarma?",
+        "answer": "Beneficiaries receive a toolkit incentive of ₹ 15,000 in the form of e-vouchers upon completion of basic training."
+      },
+      {
+        "question": "What is the interest rate on loans under this scheme?",
+        "answer": "Loans up to ₹ 3 Lakhs are provided in two tranches at a concessional interest rate capped at 5%."
+      },
+      {
+        "question": "Who is eligible to register for PM Vishwakarma Yojana?",
+        "answer": "Artisans and craftspeople engaged in specified traditional trades working informally on a self-employed basis."
+      }
+    ],
+    "metaTitle": "PM Vishwakarma Yojana Registration & Benefits 2026 | Pariksha Result",
+    "metaDescription": "Pradhan Mantri Vishwakarma Yojana invites registrations from traditional artisans and craftspeople (Vishwakarmas) to avail collateral-free enterprise devel",
+    "keywords": [
+      "PM Vishwakarma Yojana",
+      "Government Schemes 2026",
+      "MSME Artisan Registration",
+      "PM Vishwakarma Toolkit Loan",
+      "Craftsman Scheme India"
+    ],
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "PM Vishwakarma Yojana Registration & Benefits 2026",
+    "openGraph": {
+      "title": "PM Vishwakarma Yojana Registration & Benefits 2026",
+      "description": "Pradhan Mantri Vishwakarma Yojana invites registrations from traditional artisans and craftspeople (Vishwakarmas) to avail collateral-free enterprise development loans, skill upgradation training, and toolkits.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/pm-vishwakarma-yojana-registration-benefits-2026",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "befd8ce51bfe016e6cc1dfdcaf7e7aa8"
+  },
+  {
+    "id": "sarkari-national-scholarship-portal-nsp-central-sector-scholarship-2026",
+    "title": "National Scholarship Portal (NSP) Central Sector Scholarship 2026",
+    "slug": "national-scholarship-portal-nsp-central-sector-scholarship-2026",
+    "category": "scholarships",
+    "organization": "Ministry of Education, Govt of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.223Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Scholarship Portal (NSP) invites online applications for Central Sector Schemes of Scholarships for College and University Students for meritorious students passing higher secondary examinations.",
+    "totalVacancies": "Various Scholarships",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Application Open",
+        "date": "01/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "31/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Students",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "16 Years",
+      "maxAge": "25 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Standard student age criteria apply as per scholarship rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Central Sector Scholarship for College and University Students",
+        "totalPosts": "Various",
+        "eligibility": "Above 80th percentile of successful candidates in relevant stream from respective board in Class 12th and pursuing regular graduation courses."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the National Scholarship Portal at scholarships.gov.in.",
+      "Click on 'New Registration' and read guidelines carefully.",
+      "Register using Aadhaar card details, mobile number, and domicile information.",
+      "Log in with the generated Application ID and password.",
+      "Fill out the scholarship application form, providing academic details and bank account information.",
+      "Upload required supporting documents like income certificate and mark sheet, then submit."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online (NSP Portal)",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Guidelines",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "NSP Official Website",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Central Sector Scheme of Scholarships for College and University Students is administered by the Department of Higher Education, Ministry of Education, Government of India. The objective of the scheme is to provide financial assistance to meritorious students from low-income families to meet a part of their day-to-day expenses while pursuing higher studies. Students who are above the 80th percentile of successful candidates in their respective board examinations for class 12th and whose parental income does not exceed the specified threshold are eligible. Scholarships are disbursed directly to students' bank accounts through Direct Benefit Transfer (DBT) mode.",
+    "faqs": [
+      {
+        "question": "What is the income criteria for NSP Central Sector Scholarship?",
+        "answer": "Gross annual parental/family income of the applicant must not exceed the ceiling prescribed by the Ministry (currently 4.5 Lakhs per annum)."
+      },
+      {
+        "question": "Is Aadhaar seeding mandatory for receiving scholarship funds?",
+        "answer": "Yes, bank accounts must be seeded with Aadhaar for smooth DBT transfer of scholarship amounts."
+      },
+      {
+        "question": "Can diploma holders apply for this scholarship?",
+        "answer": "The scheme primarily caters to regular degree courses in recognized colleges and universities."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) Central Sector Scholarship 2026 | Pariksha Result",
+    "metaDescription": "National Scholarship Portal (NSP) invites online applications for Central Sector Schemes of Scholarships for College and University Students for meritoriou",
+    "keywords": [
+      "NSP Scholarship 2026",
+      "National Scholarship Portal",
+      "Central Sector Scholarship",
+      "Government Scholarship for Students",
+      "Higher Education Scholarship"
+    ],
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "National Scholarship Portal (NSP) Central Sector Scholarship 2026",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) Central Sector Scholarship 2026",
+      "description": "National Scholarship Portal (NSP) invites online applications for Central Sector Schemes of Scholarships for College and University Students for meritorious students passing higher secondary examinations.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/national-scholarship-portal-nsp-central-sector-scholarship-2026",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "156e49969309af70b5d5ffc751285f2b"
+  },
+  {
+    "id": "sarkari-up-police-constable-result-cutoff-marks-2026",
+    "title": "UP Police Constable Result & Cutoff Marks 2026",
+    "slug": "up-police-constable-result-cutoff-marks-2026",
+    "category": "results",
+    "organization": "UPPBPB",
+    "state": "Uttar Pradesh",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.223Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Uttar Pradesh Police Recruitment and Promotion Board (UPPBPB) has declared the written examination results and cutoff marks for the UP Police Constable recruitment drive.",
+    "totalVacancies": "60244 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "August 2024",
+        "isImportant": false
+      },
+      {
+        "event": "Result Declared",
+        "date": "03/06/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "25 Years",
+      "cutoffDate": "01/07/2023",
+      "relaxationDetails": "Age relaxations provided as per UP government guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Police Constable Civil",
+        "totalPosts": "60244",
+        "eligibility": "Passed 10+2 (Intermediate) exam from a recognized board in India."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official UPPBPB website at uppbpb.gov.in.",
+      "Click on the notification link titled 'UP Police Constable Result and Shortlisted Candidates List'.",
+      "Download the PDF containing the roll numbers of qualified candidates.",
+      "Use Ctrl+F to search your roll number in the merit list PDF.",
+      "Check official category-wise cut-off marks mentioned in the notice.",
+      "Keep the result document safe for the upcoming Physical Standard Test (PST) and Physical Efficiency Test (PET)."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Result PDF",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": true,
+        "type": "result"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Uttar Pradesh Police Recruitment and Promotion Board (UPPBPB) has successfully concluded and announced the results for the massive UP Police Constable recruitment drive. Candidates who appeared in the written examination can now verify their qualification status through the merit lists released on the official board website. Shortlisted candidates will now advance to the next stages of recruitment, which include the Physical Standard Test (PST), Physical Efficiency Test (PET), document verification, and medical examination. The cutoff marks vary across categories including General, OBC, SC, ST, and horizontal reservation groups.",
+    "faqs": [
+      {
+        "question": "What is the next stage after UP Police Constable written exam result?",
+        "answer": "Qualified candidates must appear for the Physical Standard Test (PST) and Physical Efficiency Test (PET)."
+      },
+      {
+        "question": "How can I check my individual marks in UP Police Constable exam?",
+        "answer": "The board provides individual scorecards and normalized marks via candidate login on the official UPPBPB portal."
+      },
+      {
+        "question": "Is practical physical test mandatory for all qualified candidates?",
+        "answer": "Yes, clearing PST and PET is compulsory to proceed to the final selection merit list."
+      }
+    ],
+    "metaTitle": "UP Police Constable Result & Cutoff Marks 2026 | Pariksha Result",
+    "metaDescription": "Uttar Pradesh Police Recruitment and Promotion Board (UPPBPB) has declared the written examination results and cutoff marks for the UP Police Constable rec",
+    "keywords": [
+      "UP Police Result",
+      "UPPBPB Constable Merit List",
+      "UP Police Cutoff 2026",
+      "Uttar Pradesh Police Recruitment",
+      "Constable Result PDF"
+    ],
+    "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UP Police Constable Result & Cutoff Marks 2026",
+    "openGraph": {
+      "title": "UP Police Constable Result & Cutoff Marks 2026",
+      "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPBPB) has declared the written examination results and cutoff marks for the UP Police Constable recruitment drive.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/up-police-constable-result-cutoff-marks-2026",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "9e91dcd682c0a4c82c5e21898d7f9608"
+  },
+  {
+    "id": "sarkari-bihar-bpsc-integrated-71st-combined-exam-online-form-2026",
+    "title": "Bihar BPSC Integrated 71st Combined Exam Online Form 2026",
+    "slug": "bihar-bpsc-integrated-71st-combined-exam-online-form-2026",
+    "category": "latest-jobs",
+    "organization": "BPSC",
+    "state": "Bihar",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.223Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Bihar Public Service Commission (BPSC) has invited online applications for the 71st Combined (Integrated) Competitive Examination to fill administrative and executive posts across Bihar government departments.",
+    "totalVacancies": "550+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "05/06/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "05/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / Other State",
+        "fee": "₹ 600/-"
+      },
+      {
+        "category": "Bihar SC / ST / Female / PwD",
+        "fee": "₹ 150/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20/21/22 Years",
+      "maxAge": "37 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Category-wise age relaxations are applicable as per Bihar state government policies."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Administrative Service, Bihar Police Service, District Commander, State Tax Assistant Commissioner",
+        "totalPosts": "550+",
+        "eligibility": "Graduation degree in any stream from a recognized university or institution."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official BPSC online application portal at onlinebpsc.bihar.gov.in.",
+      "Click on 'Apply Online' and register to get user credentials.",
+      "Log in with username and password to access the 71st CCE application form.",
+      "Fill in personal details, educational qualifications, and preferred district options.",
+      "Upload scanned photo, signature in Hindi and English, and required identity proof.",
+      "Pay application fees online and submit the final application form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://onlinebpsc.bihar.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "https://bpsc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://bpsc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Bihar Public Service Commission (BPSC) conducts the Combined Competitive Examination (CCE) to recruit administrative personnel into prestigious state services like Bihar Administrative Service, Bihar Police Service, Municipal Executive Officer, Bihar Finance Service, and Block Revenue Officer. The selection process comprises three distinct stages: Preliminary Examination (Objective type), Main Examination (Descriptive written test), and Personal Interview. Aspiring candidates must hold a bachelor degree from a recognized university and fulfill physical fitness criteria for uniformed services where applicable.",
+    "faqs": [
+      {
+        "question": "What is the maximum age limit for BPSC General category male candidates?",
+        "answer": "The maximum age limit for general male candidates is typically 37 years, with relaxations for females and reserved classes."
+      },
+      {
+        "question": "Is there negative marking in BPSC Prelims?",
+        "answer": "Yes, BPSC incorporates negative marking in its preliminary examinations for incorrect answers."
+      },
+      {
+        "question": "Can candidates from other states apply for BPSC 71st CCE?",
+        "answer": "Yes, Indian citizens from any state can apply, though reservation benefits are restricted to bonafide residents of Bihar."
+      }
+    ],
+    "metaTitle": "Bihar BPSC Integrated 71st Combined Exam Online Form 2026 | Pariksha Result",
+    "metaDescription": "Bihar Public Service Commission (BPSC) has invited online applications for the 71st Combined (Integrated) Competitive Examination to fill administrative an",
+    "keywords": [
+      "BPSC 71st CCE",
+      "Bihar Public Service Commission",
+      "Bihar Civil Services Exam",
+      "BPSC Online Form",
+      "Bihar Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Bihar BPSC Integrated 71st Combined Exam Online Form 2026",
+    "openGraph": {
+      "title": "Bihar BPSC Integrated 71st Combined Exam Online Form 2026",
+      "description": "Bihar Public Service Commission (BPSC) has invited online applications for the 71st Combined (Integrated) Competitive Examination to fill administrative and executive posts across Bihar government departments.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/bihar-bpsc-integrated-71st-combined-exam-online-form-2026",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "59125a78ad5e00d3b45c1b1465d7aa1b"
+  },
+  {
+    "id": "sarkari-rajasthan-cet-graduate-level-result-scorecard-2026",
+    "title": "Rajasthan CET Graduate Level Result & Scorecard 2026",
+    "slug": "rajasthan-cet-graduate-level-result-scorecard-2026",
+    "category": "results",
+    "organization": "RSMSSB",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.221Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Rajasthan Staff Selection Board (RSMSSB) has released the Common Eligibility Test (CET) Graduate Level scorecard and result. Candidates who appeared for the graduation level examination can check their marks using their roll number and date of birth.",
+    "totalVacancies": "Multiple Group B & C Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "25/09/2025",
+        "isImportant": false
+      },
+      {
+        "event": "Result Declared",
+        "date": "02/06/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Standard age relaxations apply as per Rajasthan state government rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Various Graduate Level Services (Patwari, Platoon Commander, Junior Accountant etc.)",
+        "totalPosts": "Multiple",
+        "eligibility": "Bachelor degree in any stream from a recognized university."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official RSMSSB portal at rsmssb.rajasthan.gov.in or SSO Rajasthan.",
+      "Click on the 'Results' section on the homepage.",
+      "Select the link for 'Rajasthan CET Graduate Level Exam 2026 Result'.",
+      "Enter your Roll Number, Application Number, and Date of Birth as requested.",
+      "View and download your detailed scorecard and marks statement.",
+      "Save a digital copy and print the scorecard for upcoming mains recruitment exams."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Result / Scorecard",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "result"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Rajasthan Staff Selection Board (RSMSSB) conducts the Common Eligibility Test (CET) for Graduate Level posts to streamline recruitment into numerous ministerial, clerical, and administrative positions across Rajasthan state departments. Qualifying the CET is a mandatory prerequisite for appearing in subsequent main examinations for posts such as Patwari, Junior Accountant, Platoon Commander, Supervisor, and District Collectorate clerk. The scorecard highlights individual normalized scores, section-wise performance, and qualification status for respective service categories. Candidates securing the minimum qualifying cutoff percentage are eligible to apply when specific departmental notifications are rolled out.",
+    "faqs": [
+      {
+        "question": "Is CET score mandatory for Rajasthan government jobs?",
+        "answer": "Yes, clearing the Common Eligibility Test is mandatory for appearing in designated Group B and C recruitment exams in Rajasthan."
+      },
+      {
+        "question": "What is the validity of the Rajasthan CET scorecard?",
+        "answer": "The Rajasthan CET score is generally valid for a period of one year from the date of declaration of results."
+      },
+      {
+        "question": "How can I check my Rajasthan CET marks?",
+        "answer": "You can check your marks by logging into the SSO Rajasthan portal or through the RSMSSB official website result tab."
+      }
+    ],
+    "metaTitle": "Rajasthan CET Graduate Level Result & Scorecard 2026 | Pariksha Result",
+    "metaDescription": "Rajasthan Staff Selection Board (RSMSSB) has released the Common Eligibility Test (CET) Graduate Level scorecard and result. Candidates who appeared for th",
+    "keywords": [
+      "Rajasthan CET Result",
+      "RSMSSB CET Graduate Level",
+      "CET Scorecard 2026",
+      "Rajasthan Patwari Eligibility",
+      "RSMSSB Result"
+    ],
+    "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan CET Graduate Level Result & Scorecard 2026",
+    "openGraph": {
+      "title": "Rajasthan CET Graduate Level Result & Scorecard 2026",
+      "description": "Rajasthan Staff Selection Board (RSMSSB) has released the Common Eligibility Test (CET) Graduate Level scorecard and result. Candidates who appeared for the graduation level examination can check their marks using their roll number and date of birth.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/rajasthan-cet-graduate-level-result-scorecard-2026",
+      "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "c8acb7057bb8c1e1822572d7a3c09bb0"
+  },
+  {
+    "id": "sarkari-rajasthan-reet-recruitment-examination-2026",
+    "title": "Rajasthan REET Recruitment Examination 2026",
+    "slug": "rajasthan-reet-recruitment-examination-2026",
+    "category": "latest-jobs",
+    "organization": "RSMSSB / BSER",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:56:36.221Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Rajasthan Eligibility Examination for Teacher (REET) 2026 notification has been announced for Primary (Level 1) and Upper Primary (Level 2) school teachers. Candidates with B.Ed, BSTC, or D.El.Ed qualifications can register online through the official portal.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "12th Pass",
+      "Graduation",
+      "B.Ed",
+      "D.El.Ed"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "15/06/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "15/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Level 1 or Level 2 (Single)",
+        "fee": "₹ 550/-"
+      },
+      {
+        "category": "Both Level 1 & Level 2",
+        "fee": "₹ 750/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Relaxation in upper age limit is provided to reserved category candidates as per Rajasthan Government norms."
+    },
+    "vacancies": [
+      {
+        "postName": "REET Level 1 Teacher (Class 1 to 5)",
+        "totalPosts": "Various",
+        "eligibility": "Senior Secondary with 50% marks and 2-year Diploma in Elementary Education / B.Ed."
+      },
+      {
+        "postName": "REET Level 2 Teacher (Class 6 to 8)",
+        "totalPosts": "Various",
+        "eligibility": "Graduation with 50% marks and 1-year B.Ed / 2-year B.Ed or equivalent."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the Rajasthan REET official portal or SSO Rajasthan portal at sso.rajasthan.gov.in.",
+      "Register using Jan Aadhaar or Google account if applying for the first time on SSO.",
+      "Navigate to recruitment dashboard and select REET 2026 application link.",
+      "Fill in educational qualifications, personal details, and select the exam level.",
+      "Upload scanned passport size photograph, signature, and certificates.",
+      "Pay examination fee via net banking, UPI, or e-Mitra kiosk and download final submission receipt."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://sso.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "https://rajeduboard.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Board of Secondary Education Rajasthan (BSER) and RSMSSB conduct the Rajasthan Eligibility Examination for Teacher (REET) to determine the eligibility of candidates for teaching posts across primary and upper primary schools in the state. Qualifying REET is mandatory for getting teacher jobs in Rajasthan government schools. The exam consists of two papers: Level 1 for teachers taking classes from 1st to 5th, and Level 2 for teachers instructing classes 6th to 8th. The test evaluates Child Development and Pedagogy, Language I, Language II, Mathematics, Environmental Studies, or Social Science. Aspiring educators must ensure they fulfill the exact academic and professional training standards set by NCTE before filling out the application form.",
+    "faqs": [
+      {
+        "question": "What is the validity period of the REET certificate?",
+        "answer": "The REET eligibility certificate is now valid for a lifetime for all categories."
+      },
+      {
+        "question": "Can final-year students of B.Ed/D.El.Ed apply for REET 2026?",
+        "answer": "Yes, candidates pursuing their final year of teacher training courses are eligible to apply."
+      },
+      {
+        "question": "Is there negative marking in the REET exam?",
+        "answer": "Generally, REET does not have negative marking, though candidates should verify latest guidelines in the detailed notification."
+      }
+    ],
+    "metaTitle": "Rajasthan REET Recruitment Examination 2026 | Pariksha Result",
+    "metaDescription": "Rajasthan Eligibility Examination for Teacher (REET) 2026 notification has been announced for Primary (Level 1) and Upper Primary (Level 2) school teachers",
+    "keywords": [
+      "Rajasthan REET 2026",
+      "REET Notification",
+      "Rajasthan Teacher Vacancy",
+      "RSMSSB REET Online Form",
+      "BSER REET Exam"
+    ],
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan REET Recruitment Examination 2026",
+    "openGraph": {
+      "title": "Rajasthan REET Recruitment Examination 2026",
+      "description": "Rajasthan Eligibility Examination for Teacher (REET) 2026 notification has been announced for Primary (Level 1) and Upper Primary (Level 2) school teachers. Candidates with B.Ed, BSTC, or D.El.Ed qualifications can register online through the official portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/rajasthan-reet-recruitment-examination-2026",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "a1935c9c30e7c851ee1632d35ee7b6e3"
+  },
+  {
+    "id": "sarkari-national-scholarship-portal-nsp-online-form-2026",
+    "title": "National Scholarship Portal (NSP) Online Form 2026",
+    "slug": "national-scholarship-portal-nsp-online-form-2026",
+    "category": "scholarships",
+    "organization": "Ministry of Electronics and Information Technology (MeitY)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:52:45.016Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Scholarship Portal (NSP) has opened applications for various Central, State, and UGC scholarship schemes for school and college students.",
+    "totalVacancies": "Scholarships for Students",
+    "qualificationRequired": [
+      "School Students",
+      "Graduation",
+      "Post Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "01/07/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "30/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Applicants",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "5 Years",
+      "maxAge": "35 Years",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Varies by specific scholarship scheme guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Pre-Matric & Post-Matric Scholarships",
+        "totalPosts": "Various",
+        "eligibility": "Students enrolled in recognized institutions meeting income criteria."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official National Scholarship Portal at scholarships.gov.in.",
+      "Click on 'New Registration' and read the guidelines carefully.",
+      "Register using Aadhaar/EID or student credentials.",
+      "Log in with the generated application ID and password.",
+      "Fill out the scholarship application form and upload necessary documents including income certificate and marksheet.",
+      "Submit the application and take a printout for institutional verification."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Scholarship Portal (NSP) serves as the unified digital platform for various scholarship schemes offered by the Central Government, State Governments, and UGC. Students ranging from school level (Pre-Matric and Post-Matric) to higher education, technical degree programs, and research fellowships can apply through a single integrated interface. The portal ensures transparent disbursement of financial assistance directly into student bank accounts via Direct Benefit Transfer (DBT). Applicants must ensure that their Aadhaar is seeded with their bank accounts and that all academic documents and income certificates are uploaded correctly before the final submission deadline.",
+    "faqs": [
+      {
+        "question": "Can students from private institutions apply on NSP?",
+        "answer": "Yes, provided the private institution is duly recognized and listed on the NSP portal."
+      },
+      {
+        "question": "Is Aadhaar mandatory for registering on NSP?",
+        "answer": "Yes, Aadhaar number or Aadhaar Enrolment ID is required for student registration and verification on the portal."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) Online Form 2026 | Pariksha Result",
+    "metaDescription": "National Scholarship Portal (NSP) has opened applications for various Central, State, and UGC scholarship schemes for school and college students.",
+    "keywords": [
+      "National Scholarship Portal 2026",
+      "NSP Online Registration",
+      "Central Sector Scholarships",
+      "Student Financial Aid India",
+      "Government Scholarship Schemes"
+    ],
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "National Scholarship Portal (NSP) Online Form 2026",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) Online Form 2026",
+      "description": "National Scholarship Portal (NSP) has opened applications for various Central, State, and UGC scholarship schemes for school and college students.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/national-scholarship-portal-nsp-online-form-2026",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "2a44650c77cfcd1b21e437272ca3cda5"
+  },
+  {
+    "id": "sarkari-nta-neet-ug-answer-key-and-result-2026",
+    "title": "NTA NEET UG Answer Key and Result 2026",
+    "slug": "nta-neet-ug-answer-key-and-result-2026",
+    "category": "answer-key",
+    "organization": "National Testing Agency (NTA)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:52:45.015Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Testing Agency has released the provisional answer key, OMR response sheets, and results for NEET UG 2026 medical entrance examination.",
+    "totalVacancies": "Admission to MBBS / BDS / Nursing Courses",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "03/05/2026",
+        "isImportant": false
+      },
+      {
+        "event": "Answer Key Release",
+        "date": "01/06/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Challenge Fee per Question",
+        "fee": "₹ 200/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Minimum age must be 17 years as of December 31 of the admission year."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BAMS / BHMS Seats",
+        "totalPosts": "1,00,000+",
+        "eligibility": "12th Science with Physics, Chemistry, Biology, and English"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official NTA NEET portal at exams.nta.ac.in/NEET.",
+      "Click on the link for 'NEET UG 2026 Answer Key / OMR Response'.",
+      "Log in using your Application Number and Date of Birth.",
+      "View or download the answer key and compare with your OMR sheet.",
+      "Raise objections online against any discrepancies by paying the challenge fee."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Answer Key & Result",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://neet.nta.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Testing Agency (NTA) has made available the provisional answer keys, recorded responses, and results for the National Eligibility cum Entrance Test (NEET UG) 2026. Aspirants seeking admission to undergraduate medical, dental, and AYUSH courses across government and private medical colleges nationwide can verify their answers against the official key. Candidates unsatisfied with any answer key are given a designated window to challenge questions by paying a nominal fee per challenged question. Final scores and All India Rank (AIR) determine eligibility for central and state medical counseling rounds.",
+    "faqs": [
+      {
+        "question": "How is the NEET UG score calculated?",
+        "answer": "Each correct answer awards 4 marks, while 1 mark is deducted for every incorrect response. Unanswered questions receive zero marks."
+      },
+      {
+        "question": "What is the qualifying percentile for General category in NEET?",
+        "answer": "General category candidates generally need to secure the 50th percentile to qualify for medical counseling."
+      }
+    ],
+    "metaTitle": "NTA NEET UG Answer Key and Result 2026 | Pariksha Result",
+    "metaDescription": "National Testing Agency has released the provisional answer key, OMR response sheets, and results for NEET UG 2026 medical entrance examination.",
+    "keywords": [
+      "NEET UG Answer Key 2026",
+      "NTA NEET Result",
+      "Medical Entrance Exam",
+      "NEET Scorecard Download",
+      "Sarkari Result NEET"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NTA NEET UG Answer Key and Result 2026",
+    "openGraph": {
+      "title": "NTA NEET UG Answer Key and Result 2026",
+      "description": "National Testing Agency has released the provisional answer key, OMR response sheets, and results for NEET UG 2026 medical entrance examination.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/nta-neet-ug-answer-key-and-result-2026",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "bb824986cf1b7e9fb33ef3113da15a17"
+  },
+  {
+    "id": "sarkari-ibps-po-mt-xiv-recruitment-2026",
+    "title": "IBPS PO / MT XIV Recruitment 2026",
+    "slug": "ibps-po-mt-xiv-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "Institute of Banking Personnel Selection (IBPS)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:52:45.014Z",
+    "lastDate": "Not Available",
+    "shortInfo": "IBPS has invited online applications for Probationary Officer / Management Trainee (PO/MT) positions in participating public sector banks.",
+    "totalVacancies": "4,500+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "01/08/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "21/08/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 850/-"
+      },
+      {
+        "category": "SC / ST / PwD",
+        "fee": "₹ 175/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Age relaxation applicable for reserved categories as per IBPS norms."
+    },
+    "vacancies": [
+      {
+        "postName": "Probationary Officer (PO) / Management Trainee",
+        "totalPosts": "4,500+",
+        "eligibility": "Degree in any discipline from a recognized university"
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official IBPS website at ibps.in.",
+      "Click on 'CRP PO/MT' and select 'Apply Online'.",
+      "Register with basic details to obtain registration number and password.",
+      "Upload scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Fill in academic qualifications, bank preferences, and personal details.",
+      "Complete fee payment and print final application slip."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://www.ibps.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification PDF",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Institute of Banking Personnel Selection (IBPS) has released the recruitment notification for Probationary Officers and Management Trainees (PO/MT) across participating public sector banks. Graduates holding any discipline degree from a recognized university can apply for this competitive banking career opportunity. The selection procedure comprises Preliminary Examination, Main Examination, and Interview. Successful candidates are provisionally allotted to participating banks based on merit and regional vacancy distribution. Working as a Probationary Officer offers rapid career advancement opportunities, competitive salary packages matching industry standards, and excellent perks.",
+    "faqs": [
+      {
+        "question": "What is the minimum percentage required in graduation for IBPS PO?",
+        "answer": "There is no minimum percentage requirement; candidates only need a passing degree from a recognized university."
+      },
+      {
+        "question": "Is computer literacy mandatory for IBPS PO?",
+        "answer": "Operating and working knowledge of computer systems is desirable and tested during the selection process."
+      }
+    ],
+    "metaTitle": "IBPS PO / MT XIV Recruitment 2026 | Pariksha Result",
+    "metaDescription": "IBPS has invited online applications for Probationary Officer / Management Trainee (PO/MT) positions in participating public sector banks.",
+    "keywords": [
+      "IBPS PO 2026",
+      "Probationary Officer Recruitment",
+      "Bank Jobs Online",
+      "IBPS CRP PO MT",
+      "Banking Careers India"
+    ],
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "IBPS PO / MT XIV Recruitment 2026",
+    "openGraph": {
+      "title": "IBPS PO / MT XIV Recruitment 2026",
+      "description": "IBPS has invited online applications for Probationary Officer / Management Trainee (PO/MT) positions in participating public sector banks.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/ibps-po-mt-xiv-recruitment-2026",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "3033ad9229f9457029e86ea4e48d34ab"
+  },
+  {
+    "id": "sarkari-upsc-civil-services-examination-2026-notification",
+    "title": "UPSC Civil Services Examination 2026 Notification",
+    "slug": "upsc-civil-services-examination-2026-notification",
+    "category": "latest-jobs",
+    "organization": "Union Public Service Commission (UPSC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:52:45.013Z",
+    "lastDate": "Not Available",
+    "shortInfo": "UPSC has released the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other central civil services.",
+    "totalVacancies": "1,050 Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "14/02/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "05/03/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female / PwD",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "32 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Category-wise age relaxations apply as per government guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Indian Administrative Service (IAS)",
+        "totalPosts": "180",
+        "eligibility": "Graduate Degree in any discipline"
+      },
+      {
+        "postName": "Indian Police Service (IPS)",
+        "totalPosts": "150",
+        "eligibility": "Graduate Degree with physical standards"
+      }
+    ],
+    "howToApplySteps": [
+      "Register on the UPSC One-Time Registration (OTR) platform at upsconline.nic.in.",
+      "Log in and navigate to the Civil Services Examination application section.",
+      "Fill out Part-I registration with personal and contact information.",
+      "Complete Part-II registration by paying fees, selecting examination center, and uploading photo/signature.",
+      "Review details and submit the application form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://upsconline.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification PDF",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Union Public Service Commission (UPSC) has issued the official notification for the prestigious Civil Services Examination (CSE) 2026. The examination is conducted in three successive stages: Preliminary (Objective), Main (Written), and Personality Test (Interview) to recruit officers for the Indian Administrative Service (IAS), Indian Foreign Service (IFS), Indian Police Service (IPS), and various other Central Services (Group A and Group B). Applicants must hold a Bachelor's degree from a recognized university and meet specific age requirements. IAS and IPS aspirants undergo rigorous training at premier institutions like Lal Bahadur Shastri National Academy of Administration (LBSNAA) upon selection.",
+    "faqs": [
+      {
+        "question": "What is the maximum number of attempts allowed for general category candidates in UPSC CSE?",
+        "answer": "General category candidates are allowed a maximum of 6 attempts up to 32 years of age."
+      },
+      {
+        "question": "Is graduation final year student eligible for UPSC prelims?",
+        "answer": "Yes, students in their final year of graduation can apply provisionally for the preliminary examination."
+      }
+    ],
+    "metaTitle": "UPSC Civil Services Examination 2026 Notification | Pariksha Result",
+    "metaDescription": "UPSC has released the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other central civil services.",
+    "keywords": [
+      "UPSC CSE 2026",
+      "Civil Services Exam Notification",
+      "IAS Recruitment",
+      "UPSC Online Form",
+      "Union Public Service Commission"
+    ],
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPSC Civil Services Examination 2026 Notification",
+    "openGraph": {
+      "title": "UPSC Civil Services Examination 2026 Notification",
+      "description": "UPSC has released the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other central civil services.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/upsc-civil-services-examination-2026-notification",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "b2ee87bf174fb4430c9126b8212dc2b9"
+  },
+  {
+    "id": "sarkari-pm-kisan-samman-nidhi-22nd-installment-2026",
+    "title": "PM Kisan Samman Nidhi 22nd Installment 2026",
+    "slug": "pm-kisan-samman-nidhi-22nd-installment-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Agriculture and Farmers Welfare, Govt of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:51:39.491Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Government of India has released the 22nd installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmers can check their beneficiary status online.",
+    "totalVacancies": "Beneficiary Scheme",
+    "qualificationRequired": [
+      "Landholding Farmer Family"
+    ],
+    "importantDates": [
+      {
+        "event": "Release Date",
+        "date": "01/09/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Farmers",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Applicable for all landholding farmer families."
+    },
+    "vacancies": [
+      {
+        "postName": "Direct Benefit Transfer (DBT)",
+        "totalPosts": "Crores of Farmers",
+        "eligibility": "Valid land ownership records and e-KYC completed"
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official PM-KISAN portal at pmkisan.gov.in.",
+      "Click on 'Beneficiary Status' under the Farmers Corner section.",
+      "Enter your Aadhaar Number, Bank Account Number, or Registered Mobile Number.",
+      "Complete the captcha verification and click 'Get Data'.",
+      "Check your installment credit status and payment details."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Beneficiary Status",
+        "url": "https://pmkisan.gov.in/",
+        "isPrimary": true,
+        "type": "website"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://pmkisan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a central sector scheme providing income support of ₹6,000 per year in three equal installments of ₹2,000 directly to the bank accounts of all landholding farmer families across the country. The central government has successfully disbursed the 22nd installment. Farmers must ensure that their e-KYC and land seeding are updated on the portal to avoid payment delays.",
+    "faqs": [
+      {
+        "question": "How can I complete e-KYC for PM-KISAN?",
+        "answer": "e-KYC can be completed online using Aadhaar OTP authentication on the PM-KISAN portal or offline at nearest CSC centers."
+      },
+      {
+        "question": "What is the annual financial support provided under this scheme?",
+        "answer": "Eligible farmers receive ₹6,000 per year in three installments of ₹2,000 each."
+      }
+    ],
+    "metaTitle": "PM Kisan Samman Nidhi 22nd Installment 2026 | Pariksha Result",
+    "metaDescription": "Government of India has released the 22nd installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmers can check their benef",
+    "keywords": [
+      "PM Kisan 22nd Installment",
+      "Pradhan Mantri Kisan Samman Nidhi",
+      "PM Kisan Beneficiary Status",
+      "Government Schemes 2026",
+      "Farmer Financial Support"
+    ],
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "PM Kisan Samman Nidhi 22nd Installment 2026",
+    "openGraph": {
+      "title": "PM Kisan Samman Nidhi 22nd Installment 2026",
+      "description": "Government of India has released the 22nd installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmers can check their beneficiary status online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/pm-kisan-samman-nidhi-22nd-installment-2026",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "cdd8b089350c42c5e79286c037c3fd55"
+  },
+  {
+    "id": "sarkari-rajasthan-cet-graduation-level-admit-card-2026",
+    "title": "Rajasthan CET Graduation Level Admit Card 2026",
+    "slug": "rajasthan-cet-graduation-level-admit-card-2026",
+    "category": "admit-card",
+    "organization": "Rajasthan Staff Selection Board (RSMSSB)",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:51:39.490Z",
+    "lastDate": "Not Available",
+    "shortInfo": "RSMSSB has released the admit card for the Common Eligibility Test (CET) Graduation Level 2026. Candidates can download their hall ticket using their application ID and date of birth.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "20/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Exam Date",
+        "date": "28/09/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Standard government rules apply."
+    },
+    "vacancies": [
+      {
+        "postName": "Graduate Level CET Screening",
+        "totalPosts": "Various",
+        "eligibility": "Graduation Degree"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the RSMSSB recruitment portal at rsmssb.rajasthan.gov.in.",
+      "Click on the 'Admit Card' tab on the homepage.",
+      "Select 'CET Graduation Level Exam 2026 Admit Card'.",
+      "Enter your Application Number, Date of Birth, and captcha code.",
+      "Download and print your admit card for exam center entry."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Rajasthan Staff Selection Board (RSMSSB) has officially released the admit cards for the Common Eligibility Test (CET) Graduation Level 2026. Aspirants scheduled to take the exam must download their hall tickets well in advance. The admit card contains essential details including exam center venue, reporting time, shift timings, and candidate instructions. It is mandatory to carry a printed copy of the admit card along with a valid photo ID proof to the examination center.",
+    "faqs": [
+      {
+        "question": "What documents are required along with the RSMSSB CET admit card?",
+        "answer": "Candidates must carry a government-issued photo ID (Aadhaar, Voter ID, PAN Card, Driving License) and passport-size photographs."
+      },
+      {
+        "question": "Can I get a physical copy of the admit card via post?",
+        "answer": "No, RSMSSB does not send physical admit cards by post. They must be downloaded online."
+      }
+    ],
+    "metaTitle": "Rajasthan CET Graduation Level Admit Card 2026 | Pariksha Result",
+    "metaDescription": "RSMSSB has released the admit card for the Common Eligibility Test (CET) Graduation Level 2026. Candidates can download their hall ticket using their appli",
+    "keywords": [
+      "Rajasthan CET Admit Card",
+      "RSMSSB Graduate CET Hall Ticket",
+      "Raj Sarkari Result",
+      "CET 2026 Exam Date",
+      "Rajasthan Exam Admit Card"
+    ],
+    "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan CET Graduation Level Admit Card 2026",
+    "openGraph": {
+      "title": "Rajasthan CET Graduation Level Admit Card 2026",
+      "description": "RSMSSB has released the admit card for the Common Eligibility Test (CET) Graduation Level 2026. Candidates can download their hall ticket using their application ID and date of birth.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/rajasthan-cet-graduation-level-admit-card-2026",
+      "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "3cb5a00a70ecd2e23804d868bc24eb7f"
+  },
+  {
+    "id": "sarkari-ibps-po-recruitment-2026",
+    "title": "IBPS PO Recruitment 2026",
+    "slug": "ibps-po-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "Institute of Banking Personnel Selection (IBPS)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:51:39.489Z",
+    "lastDate": "Not Available",
+    "shortInfo": "IBPS has released the Common Recruitment Process (CRP PO/MT-XVI) for Probationary Officer / Management Trainee vacancies in participating public sector banks.",
+    "totalVacancies": "4,500+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start Date",
+        "date": "01/08/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "28/08/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Prelims Exam Date",
+        "date": "October 2026",
+        "isImportant": false
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 850/-"
+      },
+      {
+        "category": "SC / ST / PWD",
+        "fee": "₹ 175/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 years, SC/ST: 5 years, PWD: 10 years."
+    },
+    "vacancies": [
+      {
+        "postName": "Probationary Officer (PO) / Management Trainee",
+        "totalPosts": "4,500+",
+        "eligibility": "Graduation Degree in any discipline from a recognized university"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official IBPS website at ibps.in.",
+      "Click on 'CRP PO/MT' and select 'Apply Online'.",
+      "Register with basic details to generate provisional registration number and password.",
+      "Fill out the application form with personal, academic, and work experience details.",
+      "Upload scanned photo, signature, left thumb impression, and handwritten declaration.",
+      "Pay application fees online and submit the final application."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://www.ibps.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Institute of Banking Personnel Selection (IBPS) conducts the Common Recruitment Process for Probationary Officers and Management Trainees across participating public sector banks. The selection procedure consists of Preliminary Examination, Main Examination, and Interview. Candidates who qualify all stages are allotted to participating banks based on their merit and preference. A graduation degree in any discipline is the essential eligibility criterion.",
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS PO 2026?",
+        "answer": "Candidates must be between 20 and 30 years of age as of August 1, 2026."
+      },
+      {
+        "question": "Is computer literacy required for IBPS PO?",
+        "answer": "Yes, operating knowledge of computers is required, and computer certificate/diploma is preferred."
+      }
+    ],
+    "metaTitle": "IBPS PO Recruitment 2026 | Pariksha Result",
+    "metaDescription": "IBPS has released the Common Recruitment Process (CRP PO/MT-XVI) for Probationary Officer / Management Trainee vacancies in participating public sector ban",
+    "keywords": [
+      "IBPS PO 2026",
+      "Banking Recruitment",
+      "Probationary Officer Online Form",
+      "IBPS CRP PO MT",
+      "Bank Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "IBPS PO Recruitment 2026",
+    "openGraph": {
+      "title": "IBPS PO Recruitment 2026",
+      "description": "IBPS has released the Common Recruitment Process (CRP PO/MT-XVI) for Probationary Officer / Management Trainee vacancies in participating public sector banks.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/ibps-po-recruitment-2026",
+      "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "1cd8c8014855413627d7ee41af9298f7"
+  },
+  {
+    "id": "sarkari-railway-rrb-ntpc-recruitment-2026",
+    "title": "Railway RRB NTPC Recruitment 2026",
+    "slug": "railway-rrb-ntpc-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "Railway Recruitment Boards (RRB)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:51:39.487Z",
+    "lastDate": "Not Available",
+    "shortInfo": "RRB has invited online applications for Non-Technical Popular Categories (NTPC) including Graduate and Under-Graduate level posts such as Clerk, Typist, Time Keeper, and Station Master.",
+    "totalVacancies": "11,550 Posts",
+    "qualificationRequired": [
+      "12th Pass",
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start Date",
+        "date": "10/06/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "10/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 500/- (Refundable)"
+      },
+      {
+        "category": "SC / ST / Ex-Servicemen / Female",
+        "fee": "₹ 250/- (Refundable)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "33 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Age relaxation as per railway recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Under-Graduate Posts (Clerk, Typist, Accounts Clerk)",
+        "totalPosts": "3,000+",
+        "eligibility": "12th Pass with 50% marks"
+      },
+      {
+        "postName": "Graduate Posts (Station Master, Goods Train Manager)",
+        "totalPosts": "8,500+",
+        "eligibility": "Bachelor's Degree from a recognized university"
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the respective regional RRB website or rrbapply.gov.in.",
+      "Click on 'New Registration' and select your RRB region.",
+      "Enter personal and educational qualification details.",
+      "Upload required scanned documents and photograph.",
+      "Pay the application fee and submit the form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://rrbapply.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://rrb.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://rrb.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Railway Recruitment Boards (RRB) have announced the NTPC recruitment notification for 2026, offering thousands of vacancies across various clerical, administrative, and operations posts in Indian Railways. The recruitment stages comprise Computer Based Tests (CBT 1 & CBT 2), followed by Typing Skill Test / Computer Aptitude Test where applicable, and Document Verification. Selected candidates enjoy competitive pay scales along with railway travel concessions and medical benefits.",
+    "faqs": [
+      {
+        "question": "Is application fee refundable in RRB NTPC?",
+        "answer": "Yes, examination fees are partially refunded after appearing in the first stage CBT."
+      },
+      {
+        "question": "Can 12th pass students apply for Graduate posts?",
+        "answer": "No, 12th pass students can only apply for Under-Graduate level NTPC posts."
+      }
+    ],
+    "metaTitle": "Railway RRB NTPC Recruitment 2026 | Pariksha Result",
+    "metaDescription": "RRB has invited online applications for Non-Technical Popular Categories (NTPC) including Graduate and Under-Graduate level posts such as Clerk, Typist, Ti",
+    "keywords": [
+      "RRB NTPC 2026",
+      "Railway Recruitment",
+      "NTPC Graduate Under-Graduate Posts",
+      "RRB Apply Online",
+      "Railway Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Railway RRB NTPC Recruitment 2026",
+    "openGraph": {
+      "title": "Railway RRB NTPC Recruitment 2026",
+      "description": "RRB has invited online applications for Non-Technical Popular Categories (NTPC) including Graduate and Under-Graduate level posts such as Clerk, Typist, Time Keeper, and Station Master.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/railway-rrb-ntpc-recruitment-2026",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "59af3ee23af2140c8245ecf9daefb6ff"
+  },
+  {
+    "id": "isnblog-1788515409058-2-803",
+    "title": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
+    "slug": "india-post-gds-recruitment-2026-merit-list-cut-off-selection-strategy-1788515409058-2",
+    "category": "blog",
+    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
+    "state": "All India",
+    "postDate": "2026-08-27",
+    "lastDate": "",
+    "shortInfo": "India Post GDS 2026 selection strictly depends on your Class 10th marks—no written exam needed! To secure a seat as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), understanding circle-wise cut-off trends and keeping your Document Verification (DV) file bulletproof is key.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Original on IndiaSarkariNaukri",
+        "url": "https://indiasarkarinaukri.com/blogs/india-post-gds-2026-merit-list",
+        "isPrimary": true
+      },
+      {
+        "title": "Full Blog on Pariksha Result",
+        "url": "/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "# India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy\n\n> **Executive AEO Summary**: India Post Gramin Dak Sevak (GDS) 2026 recruitment evaluates candidates purely on Class 10th board percentage—without any written test. To land a post as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), candidates must strategically pick preferences based on state-wise cut-off trends and keep document verification (DV) paperwork ready.\n\n---\n\n## Section 1: Overview & Key Highlights\n\nHello Dosto! Agar aap bina kisi tough competitive written exam ke ek official Government job start karna chahte hain, toh **India Post GDS Recruitment 2026** aapki sabse badi opportunity hai. Every year, Department of Posts thousands of Gramin Dak Sevak vacancies announce karta hai. Lekin yahan competition speed ya general knowledge ka nahi, balki smart preference filling aur clean documentation ka hai.\n\n### Key Highlights at a Glance\n\n| Feature | Details |\n| :--- | :--- |\n| **Recruiting Body** | Department of Posts (India Post) |\n| **Posts Included** | Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), Dak Sevak |\n| **Selection Method** | No Written Exam (Purely 10th Board Marks Merit) |\n| **BPM Pay Scale (TRCA)** | Rs. 12,000 - Rs. 29,380 per month |\n| **ABPM/Dak Sevak Pay** | Rs. 10,000 - Rs. 24,470 per month |\n| **Job Type** | Permanent (Central Govt / Postal Dept Services) |\n\n### Expected Cut-Off Trends for 2026\n\nCut-off scores vary heavily by circle and local demographics. High-density states like UP, Bihar, Rajasthan, and Haryana standardly record high cut-offs, whereas North-Eastern and South Indian circles see slightly moderate cut-offs.\n\n- **General / UR**: 92% – 98%+\n- **OBC**: 90% – 96%\n- **EWS**: 88% – 94%\n- **SC**: 85% – 92%\n- **ST**: 80% – 88%\n- **PwD**: 75% – 85%\n\n---\n\n## Section 2: Eligibility, Documents & Rules\n\nSelection 10th marks ke basis par hone ki wajah se minor errors bhi candidate ka application reject karwa dete hain. Key rules aur required documents ka dhyaan rakhna bohot zaruri hai.\n\n### Essential Eligibility Criteria\n1. **Educational Qualification**: Passed Class 10th (Matriculation) with Mathematics and English as compulsory/elective subjects.\n2. **Local Language**: Candidate ko relevant postal circle ki official local language padhna, likhna aur bolna aana chahiye.\n3. **Age Limit**: Minimum 18 years, Maximum 40 years (Category relaxation applicable as per Central Govt rules).\n4. **Other Requirements**: Basic computer knowledge, cycling capability, and living accommodation arrangement in the selected branch post office area.\n\n### Essential Document Verification (DV) Checklist\n- Original 10th Marksheet & Passing Certificate.\n- Caste Certificate (OBC-NCL / SC / ST / EWS in Central Government format).\n- Medical Fitness Certificate (Issued by a Government Medical Officer).\n- Proof of Date of Birth (If not mentioned in 10th Marksheet).\n- Identity Proof (Aadhaar Card / PAN Card / Voter ID).\n- Computer Knowledge Certificate (Relaxed if computer was a subject in 10th/12th).\n\n---\n\n## Section 3: Step-by-Step Practical Blueprint\n\nAgar aapka 10th percentage border mark (85%-92%) par hai, toh smart execution se selection chances double ho sakte hain.\n\n### Step 1: Analyze Division-Wise Seats\nForm bharte waqt sirf home town mat dekho. Check karo ki nearby rural divisions mein seat distribution kaisa hai. Rural and inner-circle branches usually record 2-4% lower cut-offs compared to urban/semi-urban branches.\n\n### Step 2: Strategic Preference Filling\n- Maximum preferences use karein. Aap jitne zyada post choices select karenge, system merit shortlist mein aapka nam aane ki probability utni high hogi.\n- Priority order rules: First preferences un branches ko dein jahan aap relocate hone ko ready ho aur pichle saal cut-off reasonable raha tha.\n\n### Step 3: Keep Name & Certificate Data 100% Matching\nName, Father's Name, Date of Birth, and Marksheet Serial Number—har jagah single letter mistake bhi nahi honi chahiye. Agar discrepancy hai, toh application se pehle formal gazette / affidavit ready rakhein.\n\n> **Pro-Tip**: Document Verification (DV 1 & DV 2) ke waqt system duplicate documents to tolerate nahi karta. Always carry 2 sets of self-attested photocopies alongside original documents.",
+    "faqs": [
+      {
+        "question": "Is there any written examination for India Post GDS 2026?",
+        "answer": "No, India Post GDS recruitment does not conduct any written exam or interview. Selection is made 100% on the basis of Class 10th board merit percentage calculated up to 4 decimal places."
+      },
+      {
+        "question": "How is the GDS Merit List calculated for CGPA board students?",
+        "answer": "For candidates having grades/CGPA in Class 10th, marks are converted into percentage by multiplying the CGPA with the board standard conversion factor (e.g., CBSE CGPA * 9.5)."
+      },
+      {
+        "question": "What is the monthly salary of a GDS Branch Postmaster (BPM)?",
+        "answer": "The basic TRCA (Time Related Continuity Allowance) for a BPM is Rs. 12,000 to Rs. 29,380 per month plus applicable DA and local allowances, resulting in a gross monthly pay around Rs. 15,000 - Rs. 18,000 at joining."
+      },
+      {
+        "question": "Can I apply for a postal circle if I don't speak the local language?",
+        "answer": "No, mandatory eligibility requires studying the official local language of that specific state/circle up to at least Class 10th standard."
+      },
+      {
+        "question": "What happens if two candidates have the same 10th marks standard?",
+        "answer": "In case of a tie in percentage, preference is given based on Date of Birth (older candidates ranked higher), followed by category preferences as per standard department regulations."
+      }
+    ],
+    "metaTitle": "India Post GDS 2026 Cut Off, Merit List & Selection Guide",
+    "metaDescription": "Check India Post GDS 2026 expected cut off marks, merit list release dates, DV checklist, and BPM/ABPM salary details in this complete guide.",
+    "keywords": [
+      "India Post GDS 2026",
+      "GDS Merit List 2026",
+      "Gramin Dak Sevak Cut Off",
+      "GDS Selection Strategy",
+      "GDS DV Checklist",
+      "BPM ABPM Salary 2026"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "H1 Title generated banner: India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
+    "imageAltText": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy - IndiaSarkariNaukri Blog",
+    "openGraph": {
+      "title": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
+      "description": "India Post GDS 2026 selection strictly depends on your Class 10th marks—no written exam needed! To secure a seat as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), understanding circle-wise cut-off trends and keeping your Document Verification (DV) file bulletproof is key.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is there any written examination for India Post GDS 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, India Post GDS recruitment does not conduct any written exam or interview. Selection is made 100% on the basis of Class 10th board merit percentage calculated up to 4 decimal places."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is the GDS Merit List calculated for CGPA board students?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For candidates having grades/CGPA in Class 10th, marks are converted into percentage by multiplying the CGPA with the board standard conversion factor (e.g., CBSE CGPA * 9.5)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the monthly salary of a GDS Branch Postmaster (BPM)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The basic TRCA (Time Related Continuity Allowance) for a BPM is Rs. 12,000 to Rs. 29,380 per month plus applicable DA and local allowances, resulting in a gross monthly pay around Rs. 15,000 - Rs. 18,000 at joining."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I apply for a postal circle if I don't speak the local language?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, mandatory eligibility requires studying the official local language of that specific state/circle up to at least Class 10th standard."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens if two candidates have the same 10th marks standard?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In case of a tie in percentage, preference is given based on Date of Birth (older candidates ranked higher), followed by category preferences as per standard department regulations."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-08-27",
+        "dateModified": "2026-08-27",
+        "author": {
+          "@type": "Organization",
+          "name": "IndiaSarkariNaukri Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
+            "item": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "canonical_hash": "43438af7c8d2b1567c7f15ab70e08c4f"
+  },
+  {
+    "id": "isnblog-1788515409058-1-110",
+    "title": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
+    "slug": "pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1788515409058-1",
+    "category": "blog",
+    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
+    "state": "All India",
+    "postDate": "2026-08-27",
+    "lastDate": "",
+    "shortInfo": "Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 continues to be India's backbone for financial inclusion, offering zero balance accounts, free RuPay debit cards, and accidental insurance cover. Check eligibility, required documents, and registration steps below to open your account easily.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Original on IndiaSarkariNaukri",
+        "url": "https://indiasarkarinaukri.com/blogs/pmjdy-2026-guide",
+        "isPrimary": true
+      },
+      {
+        "title": "Full Blog on Pariksha Result",
+        "url": "/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "# Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide\n\n> **Executive AEO Summary**: Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 brings updated financial security features for Indian citizens. This guide walks you through zero-balance savings account perks, accidental insurance, overdraft facilities, and the exact steps to apply online or offline.\n\n## Section 1: Overview & Key Highlights\n\nArre dosto, agar aapko ek aisa bank account chahiye jisme minimum balance maintain karne ki koi tension na ho, toh **PM Jan Dhan Yojana (PMJDY) 2026** aapke liye best sarkari yojana hai! Narendra Modi government ki yeh flagship financial inclusion scheme India ke har ghar tak banking services pahunchane ke liye banayi gayi hai.\n\n### Major Benefits of PMJDY 2026:\n* **Zero Balance Savings Account**: Aapko account me ek bhi paisa (Rs. 0) rakhne ki zaroorat nahi hai. No penalty for low balance!\n* **RuPay Debit Card**: Har account holder ko free me RuPay ATM card milta hai.\n* **Accidental Insurance Cover**: Abhi ke naye rules ke mutabiq, Rupay card par aapko accident insurance cover milta hai.\n* **Overdraft Facility (OD)**: Account ke संतोषजनक (satisfactory) operation ke baad, eligible families ko up to Rs. 10,000 tak ka overdraft (loan jaisa support) mil jata hai.\n* **Direct Benefit Transfer (DBT)**: Saari sarkari subsidiyan (LPG, PM-Kisan, scholarships) seedhe aapke ishi account me aati hain.\n\n---\n\n## Section 2: Eligibility, Documents & Rules\n\nSarkari schemes ka fayda uthane ke liye eligibility criteria samajhna sabse pehle zaroori hai. Chaliye dekhte hain ki 2026 me Jan Dhan account kaun khulwa sakta hai:\n\n### Who is Eligible?\n* Applicant **Indian citizen** hona chahiye.\n* Age **10 years ya usse zyada** honi chahiye (minor account ke liye guardians ki help lagti hai).\n* Jiske paas pehle se koi regular savings bank account nahi hai, woh easily apply kar sakta hai.\n\n### Documents Required:\n1. **Aadhaar Card** (Mandatory)\n2. **PAN Card** (agar available ho, nahi toh Form 60)\n3. **Address Proof** (Voter ID, Driving License, MNREGA Job Card, etc.)\n4. Passport-size photographs\n\n> *Pro Tip*: Agar aapke paas official address proof nahi hai, toh aap bank me jaakar **Small Account** khulwa sakte hain jisme bank officials ki presence me KYC complete hoti hai.\n\n---\n\n## Section 3: Step-by-Step Practical Blueprint\n\nAb baat aati hai ki **PM Jan Dhan Yojana 2026 ke liye apply kaise karein?** Aap ise online aur offline dono tareeqon se kar sakte hain.\n\n### Step-by-Step Offline Registration Process:\n1. Apke nazdeeki public sector bank (jaise SBI, PNB, Bank of Baroda) ya kisi bhi authorized Gramin Bank me jayein.\n2. Wahan se **PMJDY Account Opening Form** maangein (yeh form online PMJDY official website se bhi download kiya ja sakta hai).\n3. Form me apni saari details (Name, Address, Mobile Number, Nominee details) dhyan se bharein.\n4. Apne Aadhaar card aur photo ki self-attested copies attach karein.\n5. Bank officer ko form submit karein. Verification ke baad aapka account kuch hi dino me activate ho jayega aur aapko RuPay card mil jayega.\n\n### Step-by-Step Online Download Process:\n1. Official website **pmjdy.gov.in** par visit karein.\n2. 'Forms' section me jayein.\n3. Apni pasand ki language (Hindi ya English) me **Account Opening Form (PDF)** download karein.\n4. Print nikal kar form fill karein aur apne nearest bank branch me jama kar dein.\n\n| Feature | Details | Benefit |\n| :--- | :--- | :--- |\n| Minimum Balance | Rs. 0 | No penalty charges |\n| Interest Rate | Standard Savings Rate | Earns interest on deposits |\n| Mobile Banking | USSD & App Support | Easy checking via *99# |\n\nBanking services ab har ek Indian ki reach me hain. Aaj hi apna Jan Dhan account khulwayein aur sarkari schemes ka seedha labh uthayein!",
+    "faqs": [
+      {
+        "question": "What is the minimum balance required in a PM Jan Dhan Yojana account in 2026?",
+        "answer": "There is no minimum balance requirement for a PM Jan Dhan account. You can maintain a zero balance (Rs. 0) without facing any penalty charges from the bank."
+      },
+      {
+        "question": "Who is eligible to open a Jan Dhan account?",
+        "answer": "Any Indian citizen aged 10 years or above is eligible to open a PMJDY account. Minors above 10 can open accounts under the supervision of a guardian."
+      },
+      {
+        "question": "Can I apply for a Jan Dhan account completely online?",
+        "answer": "While you can download the application form online from the official PMJDY website (pmjdy.gov.in), you must visit a bank branch physically or submit documents to complete KYC verification."
+      },
+      {
+        "question": "What documents are needed for PMJDY registration?",
+        "answer": "You primarily need an Aadhaar Card. If Aadhaar is not available, valid official documents like a Voter ID, PAN card, driving license, or MNREGA job card can be used for address and identity proof."
+      },
+      {
+        "question": "Is there any insurance benefit linked with the Jan Dhan account?",
+        "answer": "Yes, account holders receive a RuPay debit card which includes accidental insurance cover, and an overdraft facility of up to Rs. 10,000 is available for eligible, well-managed accounts."
+      }
+    ],
+    "metaTitle": "PM Jan Dhan Yojana 2026: Benefits & Online Guide",
+    "metaDescription": "Discover PM Jan Dhan Yojana 2026 benefits, eligibility, zero balance account features, insurance cover, and step-by-step registration guide in Hinglish.",
+    "keywords": [
+      "PM Jan Dhan Yojana 2026",
+      "Jan Dhan Account Online",
+      "Sarkari Yojana 2026",
+      "Zero Balance Bank Account",
+      "PMJDY Benefits",
+      "Jan Dhan Documents Required"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "H1 Title generated banner: Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
+    "imageAltText": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide - IndiaSarkariNaukri Blog",
+    "openGraph": {
+      "title": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
+      "description": "Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 continues to be India's backbone for financial inclusion, offering zero balance accounts, free RuPay debit cards, and accidental insurance cover. Check eligibility, required documents, and registration steps below to open your account easily.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1",
+      "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the minimum balance required in a PM Jan Dhan Yojana account in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no minimum balance requirement for a PM Jan Dhan account. You can maintain a zero balance (Rs. 0) without facing any penalty charges from the bank."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is eligible to open a Jan Dhan account?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Any Indian citizen aged 10 years or above is eligible to open a PMJDY account. Minors above 10 can open accounts under the supervision of a guardian."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I apply for a Jan Dhan account completely online?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "While you can download the application form online from the official PMJDY website (pmjdy.gov.in), you must visit a bank branch physically or submit documents to complete KYC verification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What documents are needed for PMJDY registration?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You primarily need an Aadhaar Card. If Aadhaar is not available, valid official documents like a Voter ID, PAN card, driving license, or MNREGA job card can be used for address and identity proof."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there any insurance benefit linked with the Jan Dhan account?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, account holders receive a RuPay debit card which includes accidental insurance cover, and an overdraft facility of up to Rs. 10,000 is available for eligible, well-managed accounts."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
+        "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-08-27",
+        "dateModified": "2026-08-27",
+        "author": {
+          "@type": "Organization",
+          "name": "IndiaSarkariNaukri Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
+            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "canonical_hash": "89066a445c64f11274ab1bc2230664a3"
+  },
+  {
+    "title": "Tata Capital Pankh Scholarship 2026: Up to ₹18,000 for Students",
+    "slug": "tata-capital-pankh-scholarship-2026-up-to-18-000-for-students",
+    "category": "scholarships",
+    "organization": "Tata Capital Limited & Buddy4Study",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "26/10/2026",
+    "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 provides financial assistance up to ₹18,000 to students from class 11th, 12th, graduation, diploma, and ITI.",
+    "totalVacancies": "Not Applicable",
+    "qualificationRequired": [
+      "11th Pass",
+      "12th Pass",
+      "Graduation",
+      "Diploma",
+      "ITI"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Last Date",
+        "date": "26/10/2026",
+        "isImportant": true,
+        "details": "Online application forms are currently active."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "Not Specified",
+      "maxAge": "Not Specified",
+      "cutoffDate": "2026",
+      "relaxationDetails": "Refer to official guidelines"
+    },
+    "vacancies": [
+      {
+        "postName": "Tata Capital Pankh Scholarship 2026-27",
+        "totalPosts": "As per eligibility",
+        "eligibility": "Studying in 11th, 12th, Graduation, Polytechnic, Diploma or ITI with minimum 60% marks and annual family income up to ₹4 Lakhs.",
+        "qualification": "11th/12th/Graduation/Diploma/ITI",
+        "categoryWiseBreakup": {
+          "UR": "N/A",
+          "OBC": "N/A",
+          "EWS": "N/A",
+          "SC": "N/A",
+          "ST": "N/A"
+        },
+        "payScale": "Scholarship up to ₹18,000"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Application Screening",
+        "description": "Verification of academic marks and family income certificate.",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Document Verification",
+        "description": "Verification of fee receipts, admission proof, and bank details.",
+        "qualifyingNature": "Mandatory"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official scholarship portal.",
+      "Step 2: Check eligibility criteria for class or course.",
+      "Step 3: Register and fill out the online application form.",
+      "Step 4: Upload required documents and submit the final form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "notification",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## Tata Capital Pankh Scholarship 2026-27 Overview\n\nThe Tata Capital Pankh Scholarship Programme is initiated to support students from economically weaker sections. Students studying in class 11th, 12th, graduation, polytechnic, diploma, and ITI are eligible to receive financial assistance up to ₹18,000 based on their academic performance.\n\n### Eligibility Criteria\n- Applicant must be an Indian citizen.\n- Must have scored at least 60% marks in the previous academic year.\n- Annual family income must not exceed ₹4 Lakhs.",
+    "faqs": [
+      {
+        "question": "What is the maximum scholarship amount?",
+        "answer": "Eligible students can receive up to ₹18,000."
+      },
+      {
+        "question": "What is the last date to apply?",
+        "answer": "The last date to apply is 26 October 2026."
+      }
+    ],
+    "metaTitle": "Tata Capital Pankh Scholarship 2026 | Apply Online",
+    "metaDescription": "Apply for Tata Capital Pankh Scholarship 2026-27. Get up to ₹18,000 financial support for 11th, 12th, graduation, and ITI students.",
+    "keywords": [
+      "Tata Capital Pankh Scholarship 2026",
+      "Scholarship for 12th students",
+      "Buddy4Study scholarship"
+    ],
+    "id": "studygovthelp-tata-capital-pankh-scholarship-2026-up-to-18-000-for-students",
+    "canonical_hash": "5c84eeec3534a1a1ace9c18c05b51bfb"
+  },
+  {
+    "id": "blog-auto-1hr-1788515409056-947",
+    "title": "📝 SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+    "slug": "ssc-cgl-2026-master-preparation-blueprint-1788515409056",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/ssc-cgl-2026-master-preparation-blueprint-1788515409056",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint\n\n![SSC CGL 2026 Strategy](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.\n\n## 1. Executive Summary & SSC CGL 2026 Exam Overview\n\nThe Staff Selection Commission Combined Graduate Level (SSC CGL) exam is India's most prestigious non-technical government recruitment examination. Scoring 160+ in Tier 1 and qualifying Tier 2 requires a scientific balance between accuracy and speed.\n\n![Exam Study Setup](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)\n\n### Key Highlights\n- **Target Score**: Tier 1 (160+ / 200), Tier 2 (310+ / 390)\n- **Daily Study Hours**: 6 to 8 hours focused preparation\n- **Primary Strategy**: PYQs (Previous Year Questions) + Daily Mock Test Review\n\n## 2. Subject-Wise Tactical Breakdown & High-Yield Topics\n\n| Subject | Tier 1 Weightage | Tier 2 Weightage | Master Resource & Strategy |\n| :--- | :--- | :--- | :--- |\n| **Quantitative Aptitude** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Master Vedic Math, Percentage fractions & 50 PYQs daily |\n| **Reasoning Ability** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Daily Puzzles, Syllogism, Blood Relations & Seating arrangement |\n| **English Language** | 25 Questions (50 Marks) | 45 Questions (135 Marks) | SP Bakshi + 120 Grammar Rules + Editorial Vocabulary |\n| **General Awareness** | 25 Questions (50 Marks) | 25 Questions (75 Marks) | Lucent GK + Daily Current Affairs Digests & Science summaries |\n| **Computer Knowledge** | Qualifying | 20 Questions (60 Marks) | NCERT Computer Science Class 9-11 + Hardware/Software Basics |\n\n### Quantitative Aptitude Roadmap\n- Memorize multiplication tables up to 30, squares up to 50, cubes up to 30.\n- Master fast percentage fraction conversions (e.g., 1/7 = 14.28%, 1/9 = 11.11%).\n- Practice Geometry and Mensuration 3D formulas daily.\n\n## 3. The 90-Day Step-by-Step Study Timetable\n\n- **Days 1 to 30 (Foundation Phase)**: Complete 100% concepts of Mathematics and English Grammar rules.\n- **Days 31 to 60 (PYQ Mastery Phase)**: Solve last 10 years' SSC CGL question banks chapter-by-chapter.\n- **Days 61 to 90 (Mock Test Blitz Phase)**: Take 1 full-length mock test daily at exact exam timing.\n\n## 4. Mock Test Evaluation & Error Log Protocol\n\nNever skip post-test analysis. Maintain a dedicated **Error Log Notebook** to record every calculation error or conceptual blunder.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is 90 days enough to clear SSC CGL 2026?",
+        "answer": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+      },
+      {
+        "question": "How many mock tests should I take before Tier 1?",
+        "answer": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+      },
+      {
+        "question": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+        "answer": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+      },
+      {
+        "question": "What is the negative marking penalty in SSC CGL Tier 1?",
+        "answer": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+      }
+    ],
+    "metaTitle": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint | Pariksha Result Blog",
+    "metaDescription": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reaso...",
+    "keywords": [
+      "SSC CGL 2026 Strategy",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+      "description": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788515409056",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is 90 days enough to clear SSC CGL 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many mock tests should I take before Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the negative marking penalty in SSC CGL Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788515409056"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "a694c1ff575d6ba639d5116ccf94ade5"
+  },
+  {
+    "id": "blog-auto-1hr-1788515409056-573",
+    "title": "📝 Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+    "slug": "pradhan-mantri-awas-yojana-2026-complete-guide-1788515409056",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788515409056",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide\n\n![PMAY 2026 Scheme](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.\n\n## 1. Pradhan Mantri Awas Yojana (PMAY) 2026 Overview\n\nThe Government of India's flagship housing scheme PMAY aims to provide pucca houses with basic amenities to all eligible urban and rural families across India.\n\n![Modern Housing](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80)\n\n## 2. Eligibility & Income Categories\n\n| Category | Annual Household Income | Max Subsidy Available |\n| :--- | :--- | :--- |\n| **EWS (Economically Weaker)** | Up to ₹3 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **LIG (Low Income Group)** | ₹3 Lakh to ₹6 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **MIG I (Middle Income Group)** | ₹6 Lakh to ₹12 Lakh | Subsidized Housing Loan Rates |\n| **PMAY Gramin (Rural)** | BPL / SECC 2011 List | ₹1.20 Lakh to ₹1.30 Lakh Direct Grant |\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "How do I check my name in PMAY Gramin List 2026?",
+        "answer": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+      },
+      {
+        "question": "Can unmarried adults apply for PMAY separately?",
+        "answer": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+      }
+    ],
+    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide | Pariksha Result Blog",
+    "metaDescription": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest sub...",
+    "keywords": [
+      "PMAY 2026 Scheme",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide - Pariksha Result",
+    "openGraph": {
+      "title": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+      "description": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788515409056",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I check my name in PMAY Gramin List 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can unmarried adults apply for PMAY separately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788515409056"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "a9930672d03cf26f4d93dc9370ed2822"
+  },
+  {
+    "id": "blog-auto-1hr-1788515409056-74",
+    "title": "📝 UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+    "slug": "upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788515409056",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788515409056",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint\n\n![UPSC CSE Prelims 2026](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.\n\n## 1. Executive Summary & UPSC Prelims 2026 Dynamics\n\nThe UPSC Civil Services Examination (CSE) Prelims is designed to test depth of understanding, analytical reasoning, and current affairs synthesis. In 2026, cutoffs hover around 85-92 marks out of 200 in GS Paper 1.\n\n![UPSC Books Setup](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80)\n\n## 2. Core Booklist & Standard Sources\n\n| Subject | Core Text Book | Revision Strategy |\n| :--- | :--- | :--- |\n| **Indian Polity** | M. Laxmikanth (7th Edition) | Read 5 times minimum + PYQs |\n| **Modern History** | A Brief History of Modern India (Spectrum) | Timeline notes + Governor General reforms |\n| **Environment & Ecology** | Shankar IAS / NCERT Class 12 Biology | Wildlife Sanctuaries, National Parks & Climate Summits |\n| **Indian Economy** | Ramesh Singh / Vivek Singh + Budget | Economic Survey + Inflation/Monetary Policy concepts |\n| **Geography** | NCERT Class 11 & 12 (4 Books) + Mapping | Daily 15-minute atlas mapping practice |\n\n## 3. CSAT (Paper II) Qualifying Strategy for Non-Maths Aspirants\n\n- Target **Reading Comprehension** (25-28 Questions) with high precision.\n- Master **Logical Reasoning** (Syllogisms, Direction Sense, Blood Relations).\n- Solve last 10 years' official UPSC CSAT papers to understand question phrasing.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "What is the qualifying marks required for UPSC CSAT Paper II?",
+        "answer": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+      },
+      {
+        "question": "How many months of current affairs are needed for UPSC Prelims 2026?",
+        "answer": "Focus strictly on 18 months of current affairs prior to the exam date."
+      },
+      {
+        "question": "Is reading NCERT textbooks mandatory for UPSC?",
+        "answer": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+      }
+    ],
+    "metaTitle": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint | Pariksha Result Blog",
+    "metaDescription": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), ...",
+    "keywords": [
+      "UPSC CSE Prelims 2026",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+      "description": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788515409056",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the qualifying marks required for UPSC CSAT Paper II?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many months of current affairs are needed for UPSC Prelims 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Focus strictly on 18 months of current affairs prior to the exam date."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is reading NCERT textbooks mandatory for UPSC?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788515409056"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "878b7bfb87cf73e0fd230e94cad11533"
+  },
+  {
+    "id": "job-auto-1hr-1788515409055-233",
+    "title": "🎟️ [Admit Card Out] UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+    "slug": "sarkari-job-auto-update-1788515409055",
+    "category": "admit-card",
+    "organization": "Uttar Pradesh Police (UPPRPB) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
+    "totalVacancies": "60,244 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "City Intimation Active",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Admit Card Download Start",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Written Examination Date",
+        "date": "November / December 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP Police Constable Written Exam Admit Card 2026",
+        "totalPosts": "60,244 Posts",
+        "eligibility": "12th Pass"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official candidate login page.",
+      "Click on the Admit Card download link.",
+      "Provide your registration ID and Password / Date of Birth.",
+      "Enter the verification CAPTCHA code and click submit.",
+      "Download and print your Admit Card on a standard clean A4 sheet."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card / Hall Ticket",
+        "url": "#",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket\n\n**Uttar Pradesh Police (UPPRPB)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **60,244 Posts**.\n\n## Summary Overview\n\nUttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Uttar Pradesh Police (UPPRPB)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 60,244 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for UP Police Constable Written Exam Admit Card 2026?",
+        "answer": "Candidates must possess 12th Pass as specified by Uttar Pradesh Police (UPPRPB)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Uttar Pradesh Police (UPPRPB)",
+      "admit-card",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+    "openGraph": {
+      "title": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+      "description": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1788515409055"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "4bdb049a0d7424803b212c637695308e"
+  },
+  {
+    "id": "sarkari-up-police-constable-answer-key-2026-pdf-download",
+    "title": "UP Police Constable Answer Key 2026 PDF Download",
+    "slug": "up-police-constable-answer-key-2026-pdf-download",
+    "category": "answer-key",
+    "organization": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "state": "Uttar Pradesh",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.349Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has released the provisional answer key for the Police Constable recruitment examination. Candidates can download the answer key and raise objections online within the stipulated timeline.",
+    "totalVacancies": "60,244 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Answer Key Release Date",
+        "date": "15/03/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Raise Objections",
+        "date": "22/03/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Objection Fee per Question",
+        "fee": "₹ 100/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "25 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Relaxation as per UP government guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Police Constable",
+        "totalPosts": "60,244",
+        "eligibility": "10+2 Intermediate passed from a recognized board"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official UPPRPB website (uppbpb.gov.in).",
+      "Click on the link for 'UP Police Constable Answer Key 2026'.",
+      "Enter your Registration Number and Date of Birth / Roll Number.",
+      "Check set-wise answer keys and compare your responses.",
+      "Click on 'Raise Objection' if you find any discrepancy with valid proof.",
+      "Pay objection fees and submit."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has published the provisional answer key for the massive UP Police Constable recruitment examination. Candidates who appeared for the written exam across various shifts can download their response sheets and official answer keys. The board has also provided a window for candidates to raise objections against incorrect questions or answers by paying a nominal fee per challenge along with standard documentary proof. After reviewing valid objections, UPPRPB will release the final answer key and subsequent written examination results.",
+    "faqs": [
+      {
+        "question": "How can I challenge an incorrect answer in the UP Police answer key?",
+        "answer": "You can challenge questions online through the official UPPRPB portal by paying the prescribed fee per question with proof."
+      },
+      {
+        "question": "Is the released answer key final?",
+        "answer": "No, this is a provisional answer key. The final answer key will be released after reviewing candidate objections."
+      },
+      {
+        "question": "What is the qualification needed for UP Police Constable?",
+        "answer": "Candidates must have passed 12th standard (Intermediate) from a recognized board."
+      }
+    ],
+    "metaTitle": "UP Police Constable Answer Key 2026 PDF Download | Pariksha Result",
+    "metaDescription": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has released the provisional answer key for the Police Constable recruitment examination. Can",
+    "keywords": [
+      "UP Police Answer Key 2026",
+      "UPPRPB Constable Response Sheet",
+      "Uttar Pradesh Police Jobs",
+      "UP Sarkari Result",
+      "Constable Exam Answer Key"
+    ],
+    "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UP Police Constable Answer Key 2026 PDF Download",
+    "openGraph": {
+      "title": "UP Police Constable Answer Key 2026 PDF Download",
+      "description": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has released the provisional answer key for the Police Constable recruitment examination. Candidates can download the answer key and raise objections online within the stipulated timeline.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/up-police-constable-answer-key-2026-pdf-download",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "ed5a3c852dfc71a223ecf0dec8692504"
+  },
+  {
+    "id": "sarkari-ibps-po-xiv-prelims-result-2026-scorecard",
+    "title": "IBPS PO XIV Prelims Result 2026 Scorecard",
+    "slug": "ibps-po-xiv-prelims-result-2026-scorecard",
+    "category": "results",
+    "organization": "Institute of Banking Personnel Selection (IBPS)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.348Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Institute of Banking Personnel Selection (IBPS) has announced the results and scorecard for the Probationary Officer (PO) / Management Trainee (MT) XIV Preliminary Examination. Candidates can check their qualifying status online.",
+    "totalVacancies": "4,500+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Result Declaration Date",
+        "date": "10/05/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Scorecard Download End",
+        "date": "25/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Age relaxation as per IBPS rules for reserved categories."
+    },
+    "vacancies": [
+      {
+        "postName": "Probationary Officer (PO / MT) in Participating Banks",
+        "totalPosts": "4,500+",
+        "eligibility": "Bachelor Degree in any discipline from a recognized University"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official website of IBPS (ibps.in).",
+      "Click on the CRP-PO/MT link on the home page.",
+      "Click on 'Result of Preliminary Examination for CRP-PO/MTs-XIV'.",
+      "Enter Registration Number / Roll Number and Password / Date of Birth.",
+      "View your marks and qualification status for the Main Exam.",
+      "Save or print your scorecard."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Result",
+        "url": "https://www.ibps.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Institute of Banking Personnel Selection (IBPS) has officially released the preliminary examination results and scorecards for Probationary Officers (PO) and Management Trainees (MT) under CRP PO/MT XIV. Candidates who cleared the preliminary round are now eligible to appear in the IBPS PO Main Examination. The scorecard reflects sectional cut-offs and overall scores obtained in English Language, Quantitative Aptitude, and Reasoning Ability. Successful candidates must gear up for the upcoming Main examination which includes objective tests and descriptive writing.",
+    "faqs": [
+      {
+        "question": "Are preliminary exam marks counted in the final selection?",
+        "answer": "No, preliminary exam marks are only for screening purposes and are not included in the final merit list."
+      },
+      {
+        "question": "How long is the IBPS PO scorecard available online?",
+        "answer": "The scorecard is typically available for download for 10 to 15 days from the date of declaration."
+      },
+      {
+        "question": "What is the next stage after clearing Prelims?",
+        "answer": "Candidates must appear for the IBPS PO Main Examination followed by an interview round."
+      }
+    ],
+    "metaTitle": "IBPS PO XIV Prelims Result 2026 Scorecard | Pariksha Result",
+    "metaDescription": "Institute of Banking Personnel Selection (IBPS) has announced the results and scorecard for the Probationary Officer (PO) / Management Trainee (MT) XIV Pre",
+    "keywords": [
+      "IBPS PO Result 2026",
+      "IBPS PO Prelims Scorecard",
+      "Banking Recruitment",
+      "IBPS XIV Result",
+      "Sarkari Result"
+    ],
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "IBPS PO XIV Prelims Result 2026 Scorecard",
+    "openGraph": {
+      "title": "IBPS PO XIV Prelims Result 2026 Scorecard",
+      "description": "Institute of Banking Personnel Selection (IBPS) has announced the results and scorecard for the Probationary Officer (PO) / Management Trainee (MT) XIV Preliminary Examination. Candidates can check their qualifying status online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/ibps-po-xiv-prelims-result-2026-scorecard",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "dda3cff2b0246fbe102482a6db21e23e"
+  },
+  {
+    "id": "sarkari-neet-ug-admit-card-2026-download",
+    "title": "NEET UG Admit Card 2026 Download",
+    "slug": "neet-ug-admit-card-2026-download",
+    "category": "admit-card",
+    "organization": "National Testing Agency (NTA)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.348Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026. Registered candidates can download their hall tickets from the official NTA NEET portal using their application number and date of birth.",
+    "totalVacancies": "Medical Admissions (MBBS / BDS)",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "20/04/2026",
+        "isImportant": true
+      },
+      {
+        "event": "NEET UG Exam Date",
+        "date": "03/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Registered Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Minimum age is 17 years as of December 31 of the admission year."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BAMS / BHMS Admissions",
+        "totalPosts": "100,000+ Seats",
+        "eligibility": "12th Pass with Physics, Chemistry, Biology/Biotech and English"
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official NTA NEET website (neet.nta.nic.in).",
+      "Click on the link titled 'Download NEET UG 2026 Admit Card'.",
+      "Enter your Application Number, Date of Birth, and Security Pin.",
+      "Click on Submit to view your hall ticket.",
+      "Download and print multiple copies of the admit card for exam day."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Testing Agency (NTA) has uploaded the admit cards for the National Eligibility cum Entrance Test (NEET UG) 2026. NEET UG is the sole national entrance examination for admission to MBBS, BDS, BAMS, BHMS, and other undergraduate medical and allied healthcare courses in government and private medical institutions across India. Candidates must download their admit card and verify all details including exam center address, reporting time, and roll number. It is mandatory to carry a printed copy of the admit card along with a valid government photo ID and passport-size photograph to the examination hall.",
+    "faqs": [
+      {
+        "question": "What credentials are required to download the NEET UG 2026 admit card?",
+        "answer": "Candidates need their Application Number and Date of Birth to download the hall ticket."
+      },
+      {
+        "question": "What items are prohibited inside the NEET examination hall?",
+        "answer": "Electronic devices, calculators, metallic items, watches, and study materials are strictly prohibited."
+      },
+      {
+        "question": "Is it mandatory to carry a passport size photo to the exam center?",
+        "answer": "Yes, candidates must paste a passport size photograph on the attendance sheet and carry another for verification."
+      }
+    ],
+    "metaTitle": "NEET UG Admit Card 2026 Download | Pariksha Result",
+    "metaDescription": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026. Registered candidates can download",
+    "keywords": [
+      "NEET UG Admit Card 2026",
+      "NTA NEET Hall Ticket",
+      "Medical Entrance Exam",
+      "NEET 2026 Exam Date",
+      "Sarkari Result Admit Card"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NEET UG Admit Card 2026 Download",
+    "openGraph": {
+      "title": "NEET UG Admit Card 2026 Download",
+      "description": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026. Registered candidates can download their hall tickets from the official NTA NEET portal using their application number and date of birth.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/neet-ug-admit-card-2026-download",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "f98e928ab93f053beda19d7bf59575e9"
+  },
+  {
+    "id": "sarkari-upsc-civil-services-exam-notification-2026",
+    "title": "UPSC Civil Services Exam Notification 2026",
+    "slug": "upsc-civil-services-exam-notification-2026",
+    "category": "latest-jobs",
+    "organization": "Union Public Service Commission (UPSC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.348Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Union Public Service Commission (UPSC) has issued the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other Central Civil Services. Eligible degree holders can submit online applications through the UPSC official website.",
+    "totalVacancies": "1,050 Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Notification & Apply Start",
+        "date": "14/02/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "05/03/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Prelims Exam Date",
+        "date": "24/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female / PwD",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "32 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Relaxation up to 3 years for OBC, 5 years for SC/ST, and as per rules for others."
+    },
+    "vacancies": [
+      {
+        "postName": "IAS, IPS, IFS, IRS and Central Services Group A & B",
+        "totalPosts": "1,050",
+        "eligibility": "Bachelor Degree in any stream from a recognized University"
+      }
+    ],
+    "howToApplySteps": [
+      "Register on the UPSC One-Time Registration (OTR) platform.",
+      "Log in with your credentials and select Civil Services Examination.",
+      "Complete Part I and Part II registration including exam center selection.",
+      "Pay the fee of ₹100 online or via bank challan.",
+      "Upload scanned photo, signature, and valid photo ID card.",
+      "Submit and save confirmation page."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://upsconline.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification PDF",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://upsc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Union Public Service Commission (UPSC) conducts the prestigious Civil Services Examination (CSE) annually to select officers for premier administrative services including the Indian Administrative Service (IAS), Indian Foreign Service (IFS), Indian Police Service (IPS), and various other Central Civil Services (Group A and Group B). The examination is conducted in three successive stages: Preliminary (Objective type), Main (Written examination), and Personality Test (Interview). Candidates must possess a university degree and satisfy age criteria between 21 and 32 years. It is considered one of the toughest and most sought-after competitive examinations in India.",
+    "faqs": [
+      {
+        "question": "What is the maximum number of attempts for General category candidates?",
+        "answer": "General category candidates are allowed a maximum of 6 attempts."
+      },
+      {
+        "question": "What is the qualification required for UPSC CSE?",
+        "answer": "A graduation degree in any discipline from a recognized university is required."
+      },
+      {
+        "question": "When is the Prelims exam scheduled?",
+        "answer": "The UPSC Civil Services Prelims Exam 2026 is scheduled for 24/05/2026."
+      }
+    ],
+    "metaTitle": "UPSC Civil Services Exam Notification 2026 | Pariksha Result",
+    "metaDescription": "Union Public Service Commission (UPSC) has issued the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other Centra",
+    "keywords": [
+      "UPSC CSE 2026",
+      "Civil Services Exam",
+      "IAS Recruitment",
+      "UPSC Notification",
+      "All India Government Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPSC Civil Services Exam Notification 2026",
+    "openGraph": {
+      "title": "UPSC Civil Services Exam Notification 2026",
+      "description": "Union Public Service Commission (UPSC) has issued the Civil Services Examination (CSE) 2026 notification for recruitment to IAS, IPS, IFS, and other Central Civil Services. Eligible degree holders can submit online applications through the UPSC official website.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/upsc-civil-services-exam-notification-2026",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "f592a4eb5bb99e39758295b1024d0eb1"
+  },
+  {
+    "id": "sarkari-ssc-cgl-exam-notification-2026-online-form",
+    "title": "SSC CGL Exam Notification 2026 Online Form",
+    "slug": "ssc-cgl-exam-notification-2026-online-form",
+    "category": "latest-jobs",
+    "organization": "Staff Selection Commission (SSC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.347Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Staff Selection Commission (SSC) has released the Combined Graduate Level (CGL) Examination 2026 notification for recruitment to various Group B and Group C posts in ministries, departments, and organizations of the Government of India. Graduate candidates can apply online.",
+    "totalVacancies": "7,500+ Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Notification Release Date",
+        "date": "01/06/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "01/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female / PwD",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "32 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Age relaxation as per central government norms for reserved categories."
+    },
+    "vacancies": [
+      {
+        "postName": "Assistant Audit Officer / Assistant Accounts Officer",
+        "totalPosts": "Various",
+        "eligibility": "Bachelor Degree from a recognized University"
+      },
+      {
+        "postName": "Inspector / Sub Inspector / Auditor / Accountant",
+        "totalPosts": "Various",
+        "eligibility": "Bachelor Degree in any stream"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official website of Staff Selection Commission (SSC).",
+      "Register using One-Time Registration (OTR) with personal details and Aadhaar.",
+      "Log in and click on 'Apply Online' under the CGL Examination tab.",
+      "Fill in preference of posts, exam centers, and academic qualifications.",
+      "Upload recent scanned photograph and signature in correct format.",
+      "Pay application fee online and download final submission confirmation."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://ssc.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification PDF",
+        "url": "https://ssc.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://ssc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Staff Selection Commission (SSC) conducts the Combined Graduate Level (CGL) examination annually to recruit eligible graduates for prestigious Group 'B' and Group 'C' posts across various central government ministries, departments, and constitutional bodies. The selection process consists of a multi-tier examination structure comprising Tier I (Computer-Based Objective Test) and Tier II (Computer-Based Test including Mathematical Abilities, Reasoning, English Language, General Awareness, and Computer Knowledge). Aspirants must possess a recognized bachelor's degree from a university. Selected candidates enjoy attractive pay scales conforming to Level 4 through Level 8 of the Pay Matrix along with various perks and allowances.",
+    "faqs": [
+      {
+        "question": "What is the educational requirement for SSC CGL?",
+        "answer": "Candidates must hold a Bachelor's Degree in any discipline from a recognized university."
+      },
+      {
+        "question": "Is there a negative marking in SSC CGL Tier I?",
+        "answer": "Yes, there is a negative marking of 0.50 marks for each incorrect answer in Tier I."
+      },
+      {
+        "question": "What is the age limit for SSC CGL posts?",
+        "answer": "The age limit generally ranges from 18 to 32 years depending on the specific post applied for."
+      }
+    ],
+    "metaTitle": "SSC CGL Exam Notification 2026 Online Form | Pariksha Result",
+    "metaDescription": "Staff Selection Commission (SSC) has released the Combined Graduate Level (CGL) Examination 2026 notification for recruitment to various Group B and Group ",
+    "keywords": [
+      "SSC CGL 2026",
+      "Staff Selection Commission",
+      "Graduate Government Jobs",
+      "SSC CGL Notification",
+      "Sarkari Result 2026"
+    ],
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "SSC CGL Exam Notification 2026 Online Form",
+    "openGraph": {
+      "title": "SSC CGL Exam Notification 2026 Online Form",
+      "description": "Staff Selection Commission (SSC) has released the Combined Graduate Level (CGL) Examination 2026 notification for recruitment to various Group B and Group C posts in ministries, departments, and organizations of the Government of India. Graduate candidates can apply online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/ssc-cgl-exam-notification-2026-online-form",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "7a1b00c424b2181864d6bd94be685c83"
+  },
+  {
+    "id": "sarkari-india-post-gds-recruitment-2026-online-form",
+    "title": "India Post GDS Recruitment 2026 Online Form",
+    "slug": "india-post-gds-recruitment-2026-online-form",
+    "category": "latest-jobs",
+    "organization": "Department of Posts (India Post)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:33.347Z",
+    "lastDate": "Not Available",
+    "shortInfo": "India Post has released the recruitment notification for Gramin Dak Sevak (GDS) for Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Sevak positions across various postal circles in India. Eligible 10th-pass candidates can apply online through the official portal.",
+    "totalVacancies": "40,000+ Posts",
+    "qualificationRequired": [
+      "10th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "15/02/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "15/03/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "15/03/2026",
+      "relaxationDetails": "Age relaxation as per government guidelines for reserved categories."
+    },
+    "vacancies": [
+      {
+        "postName": "Gramin Dak Sevak (GDS)",
+        "totalPosts": "40,000+",
+        "eligibility": "Class 10th passed with Mathematics and English as subjects & local language proficiency."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official India Post GDS online portal.",
+      "Complete the initial registration using a valid mobile number and email ID.",
+      "Log in with registration credentials and fill out personal and educational details.",
+      "Upload scanned photograph, signature, and 10th class marksheet.",
+      "Pay the application fee online (if applicable).",
+      "Submit the application form and take a printout of the acknowledgement receipt."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://indiapostgdsonline.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://indiapostgdsonline.gov.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://www.indiapost.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Department of Posts, Ministry of Communications, Government of India, has invited online applications for the Gramin Dak Sevak (GDS) recruitment drive. This cycle offers thousands of vacancies for Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Sevak across all postal circles in India. Selection is purely merit-based, calculated automatically on the basis of marks obtained in the 10th standard secondary school examination. Candidates must have passed Mathematics and English as core or elective subjects and should have studied the local official language of the selected postal circle up to at least the 10th standard. Basic computer training certificate of at least 60 days duration is also required.",
+    "faqs": [
+      {
+        "question": "Is there any written exam for India Post GDS recruitment?",
+        "answer": "No, there is no written examination. Selection is made strictly on the basis of 10th standard percentage marks."
+      },
+      {
+        "question": "What is the minimum qualification required?",
+        "answer": "Candidates must have passed Class 10th with Mathematics and English from a recognized board."
+      },
+      {
+        "question": "Can I apply for multiple divisions?",
+        "answer": "Yes, candidates can apply for multiple divisions within a selected postal circle according to notification guidelines."
+      }
+    ],
+    "metaTitle": "India Post GDS Recruitment 2026 Online Form | Pariksha Result",
+    "metaDescription": "India Post has released the recruitment notification for Gramin Dak Sevak (GDS) for Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Se",
+    "keywords": [
+      "India Post GDS 2026",
+      "Gramin Dak Sevak Recruitment",
+      "Postal Department Jobs",
+      "10th Pass Sarkari Naukri",
+      "India Sarkari Naukri"
+    ],
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "India Post GDS Recruitment 2026 Online Form",
+    "openGraph": {
+      "title": "India Post GDS Recruitment 2026 Online Form",
+      "description": "India Post has released the recruitment notification for Gramin Dak Sevak (GDS) for Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Sevak positions across various postal circles in India. Eligible 10th-pass candidates can apply online through the official portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/india-post-gds-recruitment-2026-online-form",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "6e603265ba605c4c8e38cd8a862ba9f5"
+  },
+  {
+    "id": "sarkari-pradhan-mantri-awas-yojana-pmay-urban-gramin-scheme-2026",
+    "title": "Pradhan Mantri Awas Yojana (PMAY) Urban & Gramin Scheme 2026",
+    "slug": "pradhan-mantri-awas-yojana-pmay-urban-gramin-scheme-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Housing and Urban Affairs / Ministry of Rural Development",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:07.833Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Applications and status verification are open for Pradhan Mantri Awas Yojana (PMAY) providing financial assistance for pucca house construction to eligible urban and rural poor families.",
+    "totalVacancies": "Welfare Scheme",
+    "qualificationRequired": [
+      "No Pucca House Owner"
+    ],
+    "importantDates": [
+      {
+        "event": "Scheme Status",
+        "date": "Active / Ongoing 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Citizens",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Open to all economically weaker sections and lower-income group families."
+    },
+    "vacancies": [
+      {
+        "postName": "Housing Beneficiary Assistance",
+        "totalPosts": "Open",
+        "eligibility": "Family must not own a pucca house anywhere in India."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official PMAY portal at pmaymis.gov.in or pmayg.nic.in.",
+      "Check beneficiary eligibility criteria and required documents (Aadhaar card, bank passbook, income certificate).",
+      "Apply online through Common Service Centres (CSC) or local municipal offices.",
+      "Track your application status using reference number or registered mobile number."
+    ],
+    "importantLinks": [
+      {
+        "title": "Official Portal",
+        "url": "https://pmaymis.gov.in/",
+        "isPrimary": true,
+        "type": "website"
+      },
+      {
+        "title": "PMAY Gramin Portal",
+        "url": "https://pmayg.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Pradhan Mantri Awas Yojana (PMAY) is a flagship flagship housing scheme launched by the Government of India to provide housing for all in urban and rural areas. Under this scheme, financial assistance is directly credited to the bank accounts of beneficiaries for the construction of pucca houses equipped with basic amenities such as water, sanitation, and electricity. Eligible families who do not own a permanent house can apply online or through designated local administration channels.",
+    "faqs": [
+      {
+        "question": "Who is eligible to apply for PMAY 2026?",
+        "answer": "Families belonging to Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG) who do not own a pucca house are eligible."
+      },
+      {
+        "question": "How can I check my name in the PMAY beneficiary list?",
+        "answer": "You can check your name on the official PMAY portal by entering your Aadhaar number or registration ID."
+      },
+      {
+        "question": "Is there any fee for submitting a PMAY application online?",
+        "answer": "No, applications submitted through official government portals or Common Service Centres nominal charges apply only if processed via CSCs."
+      }
+    ],
+    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) Urban & Gramin Scheme 2026 | Pariksha Result",
+    "metaDescription": "Applications and status verification are open for Pradhan Mantri Awas Yojana (PMAY) providing financial assistance for pucca house construction to eligible",
+    "keywords": [
+      "Pradhan Mantri Awas Yojana",
+      "PMAY 2026",
+      "Housing Scheme India",
+      "PMAY Gramin Urban",
+      "Government Welfare Schemes"
+    ],
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) Urban & Gramin Scheme 2026",
+    "openGraph": {
+      "title": "Pradhan Mantri Awas Yojana (PMAY) Urban & Gramin Scheme 2026",
+      "description": "Applications and status verification are open for Pradhan Mantri Awas Yojana (PMAY) providing financial assistance for pucca house construction to eligible urban and rural poor families.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/pradhan-mantri-awas-yojana-pmay-urban-gramin-scheme-2026",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "5d4ab7f397338f0a425c61f638237bcd"
+  },
+  {
+    "id": "sarkari-nta-neet-ug-admit-card-2026",
+    "title": "NTA NEET UG Admit Card 2026",
+    "slug": "nta-neet-ug-admit-card-2026",
+    "category": "admit-card",
+    "organization": "National Testing Agency (NTA)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:07.832Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026.",
+    "totalVacancies": "Medical Admissions Across India",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "25/04/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Exam Date",
+        "date": "03/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Registered Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "17 Years",
+      "maxAge": "No Upper Limit",
+      "cutoffDate": "31/12/2026",
+      "relaxationDetails": "Candidate must have completed 17 years of age at the time of admission or as per NTA guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "MBBS / BDS / BAMS / BHMS Admissions",
+        "totalPosts": "Admissions",
+        "eligibility": "12th Pass with Physics, Chemistry, Biology/Biotechnology and English."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official NTA NEET portal at exams.nta.ac.in/NEET.",
+      "Click on the link for 'Download NEET UG 2026 Admit Card'.",
+      "Enter your Application Number, Date of Birth, and Security Pin.",
+      "Download and print your admit card on an A4 size paper.",
+      "Verify all personal details, exam center address, and reporting time mentioned on the hall ticket."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://exams.nta.ac.in/NEET",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://neet.nta.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Testing Agency (NTA) has officially issued the admit cards for NEET UG 2026. Aspirants preparing for undergraduate medical and dental programs (MBBS, BDS, AYUSH) across government and private medical colleges in India must download their hall tickets. The exam will be conducted in pen-and-paper mode across various examination centers nationwide. Candidates must bring a valid photo ID along with the printed admit card to the exam center.",
+    "faqs": [
+      {
+        "question": "What credentials are required to download the NEET UG 2026 admit card?",
+        "answer": "You need your Application Number, Date of Birth, and the security pin displayed on the login page."
+      },
+      {
+        "question": "Is a colored printout of the NEET admit card mandatory?",
+        "answer": "While a clear black-and-white printout is accepted, a colored printout is recommended for clear photograph visibility."
+      },
+      {
+        "question": "What documents should I carry to the exam center along with the admit card?",
+        "answer": "You must carry a valid original photo ID proof (Aadhaar Card, PAN Card, Voter ID, Passport, or Driving License) and passport-size photographs."
+      }
+    ],
+    "metaTitle": "NTA NEET UG Admit Card 2026 | Pariksha Result",
+    "metaDescription": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026.",
+    "keywords": [
+      "NEET UG Admit Card 2026",
+      "NTA NEET Hall Ticket",
+      "Medical Entrance Exam 2026",
+      "NEET Exam Date",
+      "Sarkari Result Admit Card"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "NTA NEET UG Admit Card 2026",
+    "openGraph": {
+      "title": "NTA NEET UG Admit Card 2026",
+      "description": "National Testing Agency (NTA) has released the admit card for the National Eligibility cum Entrance Test (NEET UG) 2026.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/nta-neet-ug-admit-card-2026",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "3c2a94a3453c5a9111b0829bb30ca62e"
+  },
+  {
+    "id": "sarkari-bihar-bpsc-71st-combined-competitive-exam-2026",
+    "title": "Bihar BPSC 71st Combined Competitive Exam 2026",
+    "slug": "bihar-bpsc-71st-combined-competitive-exam-2026",
+    "category": "latest-jobs",
+    "organization": "Bihar Public Service Commission (BPSC)",
+    "state": "Bihar",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:07.832Z",
+    "lastDate": "Not Available",
+    "shortInfo": "BPSC has released the notification for the 71st Combined Competitive Examination (CCE) to recruit administrative officers across various state government departments in Bihar.",
+    "totalVacancies": "950 Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "05/04/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "05/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / Other State",
+        "fee": "₹ 600/-"
+      },
+      {
+        "category": "SC / ST / Female (Bihar Domicile)",
+        "fee": "₹ 150/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20, 21 or 22 Years (depending on post)",
+      "maxAge": "37 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Relaxation up to 40 years for women and backward classes, and 42 years for SC/ST."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Administrative Service, Bihar Police Service, and other Allied Posts",
+        "totalPosts": "950",
+        "eligibility": "Bachelor's Degree or equivalent from any recognized university."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the BPSC online application portal at onlinebpsc.bihar.gov.in.",
+      "Register and generate login credentials.",
+      "Log in and fill out the detailed 71st CCE application form.",
+      "Upload scanned photograph, signature in Hindi & English, and documents.",
+      "Pay the prescribed examination fee online and submit the final form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://onlinebpsc.bihar.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Notification PDF",
+        "url": "https://bpsc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://bpsc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Bihar Public Service Commission (BPSC) has initiated the registration process for the 71st Combined Competitive Examination (CCE). This statewide civil services exam recruits eligible graduates for prestigious positions like Sub-Divisional Officer (SDO), Deputy Superintendent of Police (DSP), State Tax Assistant Commissioner, and other administrative roles in the Bihar government. The recruitment cycle consists of three rounds: Preliminary exam (objective), Mains exam (descriptive), and Personal Interview.",
+    "faqs": [
+      {
+        "question": "What is the educational requirement for BPSC 71st CCE?",
+        "answer": "Candidates must possess a Bachelor's degree from a recognized university."
+      },
+      {
+        "question": "Is there negative marking in BPSC Prelims exam?",
+        "answer": "Yes, negative marking is applicable for incorrect answers in the BPSC Prelims examination."
+      },
+      {
+        "question": "Can candidates from other states apply for BPSC?",
+        "answer": "Yes, candidates from all states can apply, but they will be treated under the unreserved (general) category."
+      }
+    ],
+    "metaTitle": "Bihar BPSC 71st Combined Competitive Exam 2026 | Pariksha Result",
+    "metaDescription": "BPSC has released the notification for the 71st Combined Competitive Examination (CCE) to recruit administrative officers across various state government d",
+    "keywords": [
+      "BPSC 71st CCE 2026",
+      "Bihar Public Service Commission",
+      "BPSC Online Form",
+      "Bihar Civil Services Vacancy",
+      "BPSC Notification"
+    ],
+    "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Bihar BPSC 71st Combined Competitive Exam 2026",
+    "openGraph": {
+      "title": "Bihar BPSC 71st Combined Competitive Exam 2026",
+      "description": "BPSC has released the notification for the 71st Combined Competitive Examination (CCE) to recruit administrative officers across various state government departments in Bihar.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/bihar-bpsc-71st-combined-competitive-exam-2026",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "4dc64a20448bb93dae9ac47259e7e84e"
+  },
+  {
+    "id": "sarkari-up-police-constable-result-2026",
+    "title": "UP Police Constable Result 2026",
+    "slug": "up-police-constable-result-2026",
+    "category": "results",
+    "organization": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "state": "Uttar Pradesh",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:49:07.831Z",
+    "lastDate": "Not Available",
+    "shortInfo": "UPPRPB has announced the final written examination results and merit list for the UP Police Constable recruitment drive.",
+    "totalVacancies": "60,244 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Result Declaration Date",
+        "date": "01/09/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "25 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "As per UP state government guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Police Constable Civil Police",
+        "totalPosts": "60,244",
+        "eligibility": "10+2 Intermediate passed from recognized board."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official UPPRPB website at uppbpb.gov.in.",
+      "Click on the notification link for 'UP Police Constable Result 2026'.",
+      "Download the PDF containing roll numbers of shortlisted candidates.",
+      "Use Ctrl+F to search for your roll number in the merit list.",
+      "Save the scorecard for upcoming Physical Standard Test (PST) and Document Verification (DV)."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Result",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": true,
+        "type": "result"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://uppbpb.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has declared the written examination results for the massive UP Police Constable recruitment drive for 60,244 vacancies. Candidates who successfully cleared the written test will now be called for the Physical Standard Test (PST), Physical Efficiency Test (PET), and Document Verification round. The results can be downloaded directly from the official UPPRPB web portal.",
+    "faqs": [
+      {
+        "question": "What is the next stage after the UP Police Constable written result?",
+        "answer": "Shortlisted candidates must appear for the Physical Standard Test (PST) and Physical Efficiency Test (PET)."
+      },
+      {
+        "question": "How can I find my roll number in the UP Police result PDF?",
+        "answer": "Open the result PDF on your device and use the search shortcut (Ctrl+F) to enter your unique roll number."
+      },
+      {
+        "question": "Where can I check individual marks?",
+        "answer": "Individual normalized scores and scorecards are hosted on the candidate login portal of UPPRPB."
+      }
+    ],
+    "metaTitle": "UP Police Constable Result 2026 | Pariksha Result",
+    "metaDescription": "UPPRPB has announced the final written examination results and merit list for the UP Police Constable recruitment drive.",
+    "keywords": [
+      "UP Police Constable Result 2026",
+      "UPPRPB Result PDF",
+      "Uttar Pradesh Police Merit List",
+      "UP Police Sarkari Result",
+      "Constable Cut Off"
+    ],
+    "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UP Police Constable Result 2026",
+    "openGraph": {
+      "title": "UP Police Constable Result 2026",
+      "description": "UPPRPB has announced the final written examination results and merit list for the UP Police Constable recruitment drive.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/up-police-constable-result-2026",
+      "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "381e517a6cc4911ac4ddc92a5b116139"
+  },
+  {
+    "id": "sarkari-national-scholarship-portal-nsp-online-application-2026",
+    "title": "National Scholarship Portal (NSP) Online Application 2026",
+    "slug": "national-scholarship-portal-nsp-online-application-2026",
+    "category": "scholarships",
+    "organization": "Ministry of Electronics and Information Technology, Government of India",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.687Z",
+    "lastDate": "Not Available",
+    "shortInfo": "National Scholarship Portal (NSP) has opened applications for central sector, state sector, and UGC-backed scholarship schemes for pre-matric and post-matric students. Eligible students can apply online.",
+    "totalVacancies": "Various Schemes",
+    "qualificationRequired": [
+      "8th Pass",
+      "10th Pass",
+      "12th Pass",
+      "Graduation",
+      "Post Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Application Opening Date",
+        "date": "July 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Closing Date for Student Registration",
+        "date": "October 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Students",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "No Limit",
+      "maxAge": "No Limit",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "As per respective scholarship guidelines."
+    },
+    "vacancies": [
+      {
+        "postName": "Pre-Matric & Post-Matric Scholarships",
+        "totalPosts": "Lakhs of Scholarships",
+        "eligibility": "Enrolled students meeting income and academic criteria."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the National Scholarship Portal (scholarships.gov.in).",
+      "Click on 'New Registration' and read guidelines carefully.",
+      "Register using student Aadhaar and institutional details.",
+      "Log in with user ID and password to complete the scholarship form.",
+      "Upload required certificates including income certificate, mark sheets, and bank passbook.",
+      "Submit the application and get institute verification done."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://scholarships.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The National Scholarship Portal (NSP) serves as the single digital platform for financial assistance and scholarship schemes offered by the Central Government, State Governments, and various regulatory bodies like UGC and AICTE. It covers pre-matric, post-matric, merit-cum-means, and professional degree scholarships for students belonging to Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minority communities, and Economically Weaker Sections. Students must ensure correct bank account seeding with Aadhaar to facilitate direct benefit transfer (DBT) of scholarship funds without delays.",
+    "faqs": [
+      {
+        "question": "Is Aadhaar mandatory for applying on NSP?",
+        "answer": "Yes, Aadhaar or Aadhaar Enrolment ID is mandatory for student registration on the National Scholarship Portal."
+      },
+      {
+        "question": "Can I edit my application after final submission?",
+        "answer": "Once verified and locked by the institute, applications cannot be edited. Corrections must be made before institute locking."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) Online Application 2026 | Pariksha Result",
+    "metaDescription": "National Scholarship Portal (NSP) has opened applications for central sector, state sector, and UGC-backed scholarship schemes for pre-matric and post-matr",
+    "keywords": [
+      "National Scholarship Portal",
+      "NSP Scholarship 2026",
+      "Student Financial Assistance",
+      "Government Scholarships"
+    ],
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "National Scholarship Portal (NSP) Online Application 2026",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) Online Application 2026",
+      "description": "National Scholarship Portal (NSP) has opened applications for central sector, state sector, and UGC-backed scholarship schemes for pre-matric and post-matric students. Eligible students can apply online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/national-scholarship-portal-nsp-online-application-2026",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "f4536a6a7b727e9d03df50b423ef1a22"
+  },
+  {
+    "id": "sarkari-rajasthan-bstc-pre-deled-admission-form-2026",
+    "title": "Rajasthan BSTC / Pre-DElEd Admission Form 2026",
+    "slug": "rajasthan-bstc-pre-deled-admission-form-2026",
+    "category": "admissions",
+    "organization": "Department of Elementary Education Rajasthan / Bikaner",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.686Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Department of Elementary Education, Rajasthan has invited applications for Rajasthan Pre-DElEd (BSTC) Admission Test 2026. Candidates aspiring for admission into 2-year Diploma in Elementary Education courses can apply online.",
+    "totalVacancies": "25,000+ Seats",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "15/04/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "15/05/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Single Course (General / Sanskrit)",
+        "fee": "₹ 450/-"
+      },
+      {
+        "category": "Both Courses (General & Sanskrit)",
+        "fee": "₹ 500/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "28 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Relaxation in age limit for female and reserved category candidates as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Pre-DElEd Course (BSTC)",
+        "totalPosts": "25000+",
+        "eligibility": "12th Class pass with minimum 50% marks (45% for reserved categories)."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official Pre-DElEd Rajasthan portal.",
+      "Click on 'New Registration' and fill in basic details.",
+      "Log in with user credentials to fill out the application form.",
+      "Upload required scanned documents and photograph.",
+      "Pay application fees online and take a printout of the confirmation page."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://panjiakpredeled.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://panjiakpredeled.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://panjiakpredeled.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Department of Elementary Education Rajasthan conducts the Pre-Diploma in Elementary Education (Pre-DElEd), formerly known as BSTC, entrance examination for admission into teacher training institutes across Rajasthan. Passing this entrance examination and participating in subsequent counseling sessions allows candidates to secure admission into the 2-year D.El.Ed course, which is the foundational qualification for teaching in primary classes (Class 1 to 5) in Rajasthan government schools. Aspirants must have passed their 12th standard examination with the requisite percentage to be eligible.",
+    "faqs": [
+      {
+        "question": "What is the full form of BSTC?",
+        "answer": "BSTC stands for Basic School Teaching Certificate, now officially known as Pre-DElEd."
+      },
+      {
+        "question": "What is the minimum percentage required in 12th for Pre-DElEd?",
+        "answer": "General candidates need 50% marks, whereas reserved category candidates need 45% marks in 12th standard."
+      }
+    ],
+    "metaTitle": "Rajasthan BSTC / Pre-DElEd Admission Form 2026 | Pariksha Result",
+    "metaDescription": "Department of Elementary Education, Rajasthan has invited applications for Rajasthan Pre-DElEd (BSTC) Admission Test 2026. Candidates aspiring for admissio",
+    "keywords": [
+      "Rajasthan Pre DElEd 2026",
+      "BSTC Admission Form",
+      "Rajasthan Teacher Training",
+      "Raj Sarkari Result"
+    ],
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan BSTC / Pre-DElEd Admission Form 2026",
+    "openGraph": {
+      "title": "Rajasthan BSTC / Pre-DElEd Admission Form 2026",
+      "description": "Department of Elementary Education, Rajasthan has invited applications for Rajasthan Pre-DElEd (BSTC) Admission Test 2026. Candidates aspiring for admission into 2-year Diploma in Elementary Education courses can apply online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/rajasthan-bstc-pre-deled-admission-form-2026",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "de36dfd8d7486ac0d796b66e145883e5"
+  },
+  {
+    "id": "sarkari-pm-kisan-samman-nidhi-19th-installment-status-2026",
+    "title": "PM Kisan Samman Nidhi 19th Installment Status 2026",
+    "slug": "pm-kisan-samman-nidhi-19th-installment-status-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Agriculture and Farmers Welfare",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.686Z",
+    "lastDate": "Not Available",
+    "shortInfo": "The Central Government has released the 19th installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmer beneficiaries can check their beneficiary status and installment credit online.",
+    "totalVacancies": "Government Scheme",
+    "qualificationRequired": [
+      "Landholding Farmers"
+    ],
+    "importantDates": [
+      {
+        "event": "Installment Release Date",
+        "date": "March 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Farmers",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Applicable for all land-owning farmer families."
+    },
+    "vacancies": [
+      {
+        "postName": "Direct Benefit Transfer Scheme",
+        "totalPosts": "N/A",
+        "eligibility": "Registered farmers with verified e-KYC and land records."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official PM-KISAN portal (pmkisan.gov.in).",
+      "Scroll down to the 'Farmer Corner' section.",
+      "Click on 'Beneficiary Status' or 'Beneficiary List'.",
+      "Enter your Aadhaar Number, Bank Account Number, or Registered Mobile Number.",
+      "Click on 'Get Data' to check installment payment history and status."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Beneficiary Status",
+        "url": "https://pmkisan.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://pmkisan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme is a central sector scheme providing income support to all landholding farmer families across India. Under this scheme, financial assistance of ₹6,000 per year is transferred directly into the bank accounts of farmers in three equal installments of ₹2,000 each. To receive the 19th installment successfully, farmers must complete mandatory e-KYC and link their land records with their Aadhaar cards. Beneficiaries can easily check their payment status online through the official portal using their registration or mobile numbers.",
+    "faqs": [
+      {
+        "question": "What is mandatory to receive PM-KISAN installments?",
+        "answer": "Completing e-KYC via OTP, biometric authentication, or face auth, and linking bank accounts with Aadhaar is mandatory."
+      },
+      {
+        "question": "How can I check my name in the PM Kisan beneficiary list?",
+        "answer": "You can check your name by selecting your State, District, Sub-District, Block, and Village on the PM-KISAN portal beneficiary list."
+      }
+    ],
+    "metaTitle": "PM Kisan Samman Nidhi 19th Installment Status 2026 | Pariksha Result",
+    "metaDescription": "The Central Government has released the 19th installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmer beneficiaries can c",
+    "keywords": [
+      "PM Kisan 19th Installment",
+      "Pradhan Mantri Kisan Yojana",
+      "Farmer Beneficiary Status",
+      "Government Schemes"
+    ],
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "PM Kisan Samman Nidhi 19th Installment Status 2026",
+    "openGraph": {
+      "title": "PM Kisan Samman Nidhi 19th Installment Status 2026",
+      "description": "The Central Government has released the 19th installment under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. Eligible farmer beneficiaries can check their beneficiary status and installment credit online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/pm-kisan-samman-nidhi-19th-installment-status-2026",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "96ff77ac71ea8bca02e9f5ea2bcb90bb"
+  },
+  {
+    "id": "sarkari-rajasthan-cet-graduation-level-answer-key-2026",
+    "title": "Rajasthan CET Graduation Level Answer Key 2026",
+    "slug": "rajasthan-cet-graduation-level-answer-key-2026",
+    "category": "answer-key",
+    "organization": "Rajasthan Staff Selection Board (RSMSSB)",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.683Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Rajasthan Staff Selection Board (RSMSSB) has released the provisional answer key for the Common Eligibility Test (CET) Graduation Level Exam 2026. Candidates can raise objections online against answer keys.",
+    "totalVacancies": "Screening Test",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Answer Key Release Date",
+        "date": "March 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Objection Window Last Date",
+        "date": "7 Days from release",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "Per Question Objection Fee",
+        "fee": "₹ 100/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "Standard state rules apply."
+    },
+    "vacancies": [
+      {
+        "postName": "Graduation Level CET Answer Key",
+        "totalPosts": "N/A",
+        "eligibility": "Candidates who appeared for Graduation CET."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the RSMSSB official website.",
+      "Click on the 'Answer Key' tab on the homepage.",
+      "Select 'CET Graduation Level Exam 2026 Answer Key' link.",
+      "Match your question paper set with the released PDF key.",
+      "Log in with SSO ID to submit online objections with proof if necessary."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Rajasthan Staff Selection Board (RSMSSB) has published the official provisional answer key for the Common Eligibility Test (CET) Graduation Level 2026. Candidates who appeared in the examination can verify their answers with the master question paper and provisional answer key provided. In case of any discrepancies or incorrect answers, candidates are given a limited window to raise formal objections online by paying the prescribed fee per question along with standard documentary proof. After reviewing all objections, the board will release the final answer key followed by the official scorecard.",
+    "faqs": [
+      {
+        "question": "How can I challenge an answer in the RSMSSB CET key?",
+        "answer": "You can log into your SSO account on the RSMSSB portal, select the question, and upload standard book references with the fee."
+      },
+      {
+        "question": "Is the answer key final?",
+        "answer": "No, this is a provisional answer key. The final result will be prepared based on the final answer key after expert review."
+      }
+    ],
+    "metaTitle": "Rajasthan CET Graduation Level Answer Key 2026 | Pariksha Result",
+    "metaDescription": "Rajasthan Staff Selection Board (RSMSSB) has released the provisional answer key for the Common Eligibility Test (CET) Graduation Level Exam 2026. Candidat",
+    "keywords": [
+      "Rajasthan CET Answer Key",
+      "RSMSSB Graduation CET",
+      "Raj Sarkari Result",
+      "CET Objections"
+    ],
+    "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan CET Graduation Level Answer Key 2026",
+    "openGraph": {
+      "title": "Rajasthan CET Graduation Level Answer Key 2026",
+      "description": "Rajasthan Staff Selection Board (RSMSSB) has released the provisional answer key for the Common Eligibility Test (CET) Graduation Level Exam 2026. Candidates can raise objections online against answer keys.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/rajasthan-cet-graduation-level-answer-key-2026",
+      "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "1b41dfdc962cae1d017b9c7cb5506ad4"
+  },
+  {
+    "id": "sarkari-upsc-civil-services-ias-prelims-admit-card-2026",
+    "title": "UPSC Civil Services IAS Prelims Admit Card 2026",
+    "slug": "upsc-civil-services-ias-prelims-admit-card-2026",
+    "category": "admit-card",
+    "organization": "Union Public Service Commission (UPSC)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.682Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Union Public Service Commission (UPSC) has released the Civil Services Examination (Prelims) Admit Card 2026. Registered candidates can download their hall ticket using registration ID or roll number.",
+    "totalVacancies": "1,050 Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Admit Card Release Date",
+        "date": "May 2026",
+        "isImportant": true
+      },
+      {
+        "event": "Prelims Exam Date",
+        "date": "June 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / Female",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "32 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Relaxation as per UPSC rules for OBC, SC, ST, and PwBD candidates."
+    },
+    "vacancies": [
+      {
+        "postName": "IAS, IPS, IFS, and Central Services Group A & B",
+        "totalPosts": "1050",
+        "eligibility": "Bachelor degree from any recognized university in India."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official UPSC website or upsconline.nic.in.",
+      "Navigate to the 'Admit Card' section for Civil Services Preliminary Examination.",
+      "Choose the download option using Registration ID or Roll Number.",
+      "Enter date of birth and captcha code.",
+      "Download and take a clear printout of the IAS Prelims admit card."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "url": "https://upsconline.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://www.upsc.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Union Public Service Commission has issued admit cards for the Civil Services Preliminary Examination 2026. Candidates appearing for the country's most prestigious civil services exam must download their hall tickets well in advance. The admit card contains critical details including exam center venue, reporting time, shift timings, and mandatory instructions. Candidates must carry a valid photo identity proof along with a printed copy of the admit card to the examination hall. The preliminary examination comprises two objective type papers: General Studies Paper I and Civil Services Aptitude Test (CSAT), both mandatory for qualification to the Mains stage.",
+    "faqs": [
+      {
+        "question": "What documents are required to be carried along with the UPSC Admit Card?",
+        "answer": "Candidates must carry a hard copy of the admit card and an original photo ID proof (Aadhar Card, PAN Card, Voter ID, etc.)."
+      },
+      {
+        "question": "What should I do if there is a discrepancy in my admit card details?",
+        "answer": "Immediately contact the UPSC facilitation counter or email authorities with your registration details for correction."
+      }
+    ],
+    "metaTitle": "UPSC Civil Services IAS Prelims Admit Card 2026 | Pariksha Result",
+    "metaDescription": "Union Public Service Commission (UPSC) has released the Civil Services Examination (Prelims) Admit Card 2026. Registered candidates can download their hall",
+    "keywords": [
+      "UPSC Admit Card",
+      "IAS Prelims Hall Ticket",
+      "Civil Services Exam 2026",
+      "UPSC Portal"
+    ],
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPSC Civil Services IAS Prelims Admit Card 2026",
+    "openGraph": {
+      "title": "UPSC Civil Services IAS Prelims Admit Card 2026",
+      "description": "Union Public Service Commission (UPSC) has released the Civil Services Examination (Prelims) Admit Card 2026. Registered candidates can download their hall ticket using registration ID or roll number.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/upsc-civil-services-ias-prelims-admit-card-2026",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "8b15d9040cfe58ed30cd3281ce8577fa"
+  },
+  {
+    "id": "sarkari-rajasthan-cet-12th-level-result-2026",
+    "title": "Rajasthan CET 12th Level Result 2026",
+    "slug": "rajasthan-cet-12th-level-result-2026",
+    "category": "results",
+    "organization": "Rajasthan Staff Selection Board (RSMSSB)",
+    "state": "Rajasthan",
+    "postDate": "2026-09-04",
+    "originalPostDate": "2026-09-04",
+    "publishedAt": "2026-09-04",
+    "syncedAt": "2026-09-04T09:48:45.680Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Rajasthan Staff Selection Board (RSMSSB) has declared the Common Eligibility Test (CET) 12th Level Result 2026. Candidates who appeared for the senior secondary level CET exam can check their scorecard and qualifying status online.",
+    "totalVacancies": "Eligibility Test",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "January 2026",
+        "isImportant": false
+      },
+      {
+        "event": "Result Declared Date",
+        "date": "March 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "As per Rajasthan government norms."
+    },
+    "vacancies": [
+      {
+        "postName": "Common Eligibility Test (12th Level) Scorecard",
+        "totalPosts": "N/A",
+        "eligibility": "12th Pass candidates who appeared in CET exam."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official RSMSSB recruitment portal or Raj Sarkari Result.",
+      "Click on the 'Rajasthan CET 12th Level Result 2026' link.",
+      "Enter your Roll Number and Date of Birth / Application Number.",
+      "Click on submit to view your scorecard and marks.",
+      "Download and save the PDF for future recruitment eligibility checks."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Result",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://rsmssb.rajasthan.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The Rajasthan Staff Selection Board (RSMSSB) has announced the results for the Common Eligibility Test (CET) 2026 for Senior Secondary (12th) level posts. CET is a mandatory screening test for various ministerial and clerical posts under the Rajasthan government such as LDC, Forester, Junior Assistant, and Constable. Candidates who have cleared this test are now eligible to apply for upcoming departmental job notifications released by RSMSSB throughout the year. Scorecards reflect individual section marks and overall percentile status. Aspirants are advised to keep their scorecard secure as registration numbers will be required for subsequent main examinations.",
+    "faqs": [
+      {
+        "question": "What is the validity of the Rajasthan CET scorecard?",
+        "answer": "The Rajasthan CET scorecard is generally valid for a period of one year from the date of declaration."
+      },
+      {
+        "question": "Is CET mandatory for Rajasthan government jobs?",
+        "answer": "Yes, clearing CET is mandatory for getting shortlisted in various specified 12th level subordinate services in Rajasthan."
+      }
+    ],
+    "metaTitle": "Rajasthan CET 12th Level Result 2026 | Pariksha Result",
+    "metaDescription": "Rajasthan Staff Selection Board (RSMSSB) has declared the Common Eligibility Test (CET) 12th Level Result 2026. Candidates who appeared for the senior seco",
+    "keywords": [
+      "Rajasthan CET Result",
+      "RSMSSB 12th CET Scorecard",
+      "Raj Sarkari Result",
+      "Rajasthan LDC Eligibility"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "Rajasthan CET 12th Level Result 2026",
+    "openGraph": {
+      "title": "Rajasthan CET 12th Level Result 2026",
+      "description": "Rajasthan Staff Selection Board (RSMSSB) has declared the Common Eligibility Test (CET) 12th Level Result 2026. Candidates who appeared for the senior secondary level CET exam can check their scorecard and qualifying status online.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/rajasthan-cet-12th-level-result-2026",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "47c4fa5f0a80661f66b2485827fd0df3"
+  },
+  {
+    "title": "SSC JE Recruitment 2026",
+    "slug": "ssc-je-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "Staff Selection Commission (SSC)",
+    "state": "All India",
+    "postDate": "2026-09-02",
+    "lastDate": "22/09/2026",
+    "shortInfo": "Staff Selection Commission (SSC) has released the Junior Engineer Examination 2026 notification for 1,748 vacancies. Eligible engineering diploma and degree holders can apply online up to 22 September 2026.",
+    "totalVacancies": "1,748 Posts",
+    "qualificationRequired": [
+      "Diploma in Engineering",
+      "Degree in Engineering"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "02/09/2026",
+        "isImportant": true,
+        "details": "Applications started on 2 September 2026."
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "22/09/2026",
+        "isImportant": true,
+        "details": "Last date to apply is 22 September 2026 (11:00 PM)."
+      },
+      {
+        "event": "Fee Payment Last Date",
+        "date": "23/09/2026",
+        "isImportant": true,
+        "details": "Online fee payment allowed until 23 September 2026."
+      },
+      {
+        "event": "Application Correction Window",
+        "date": "28/09/2026 to 30/09/2026",
+        "isImportant": false,
+        "details": "Correction window open for application modifications."
+      },
+      {
+        "event": "Paper-I Exam Date",
+        "date": "October/November 2026",
+        "isImportant": true,
+        "details": "CBT Paper-I scheduled in Oct/Nov 2026."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "Female / SC / ST / PwBD / Ex-Servicemen",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "30 / 32 Years (Post-wise)",
+      "cutoffDate": "01/01/2026",
+      "relaxationDetails": "SC/ST: 5 Years, OBC: 3 Years, PwBD: 10 Years"
+    },
+    "vacancies": [
+      {
+        "postName": "Junior Engineer (Civil, Mechanical, Electrical) & Scientific Assistant",
+        "totalPosts": "1748",
+        "eligibility": "Degree or Diploma in relevant engineering branch from a recognized university/institution.",
+        "qualification": "Diploma / Degree in Engineering",
+        "categoryWiseBreakup": {
+          "UR": "As per notice",
+          "OBC": "As per notice",
+          "EWS": "As per notice",
+          "SC": "As per notice",
+          "ST": "As per notice"
+        },
+        "payScale": "Group 'B', Level-6 (₹ 35,400 - ₹ 1,12,400)"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Paper-I (Computer Based Examination)",
+        "description": "Objective type multiple choice questions covering General Intelligence & Reasoning, General Awareness, and Specific Engineering Discipline.",
+        "marks": "200",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Paper-II (Computer Based Examination)",
+        "description": "Detailed written examination in respective engineering branch.",
+        "marks": "300",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 3,
+        "stageName": "Document Verification",
+        "description": "Verification of original educational and category certificates.",
+        "qualifyingNature": "Mandatory"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official SSC website at ssc.gov.in.",
+      "Step 2: Complete registration or log in with credentials.",
+      "Step 3: Fill out the SSC JE 2026 application form with accurate education and personal details.",
+      "Step 4: Upload scanned photo and signature in required format.",
+      "Step 5: Pay the application fee online and submit the final application."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "https://ssc.gov.in/",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Official Website",
+        "url": "https://ssc.gov.in/",
+        "type": "website",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## SSC JE Recruitment 2026 Overview\n\nThe Staff Selection Commission (SSC) has released the official notification for the Junior Engineer Examination 2026. This recruitment drive aims to fill 1,748 Group 'B' non-gazetted posts across various central government departments including Central Water Commission, CPWD, MES, and others.\n\n### Pay Scale\n- Group 'B' Level-6 salary scale ranging from ₹35,400 to ₹1,12,400.\n\n### Eligibility Criteria\n- **Educational Qualification:** Diploma or Degree in Civil, Electrical, or Mechanical Engineering from a recognized university or board.\n- **Age Limit:** 18 to 30/32 years depending on the specific department and post requirements.",
+    "faqs": [
+      {
+        "question": "What is the last date to apply for SSC JE Recruitment 2026?",
+        "answer": "The last date to apply is 22 September 2026."
+      }
+    ],
+    "metaTitle": "SSC JE Recruitment 2026: 1,748 Posts, Apply Online, Eligibility",
+    "metaDescription": "Apply online for SSC JE Recruitment 2026 for 1,748 Junior Engineer vacancies. Check exam dates, fee, qualification, and salary.",
+    "keywords": [
+      "SSC JE Recruitment 2026",
+      "Staff Selection Commission Junior Engineer",
+      "SSC JE Notification",
+      "SSC JE Online Form"
+    ],
+    "id": "studygovthelp-ssc-je-recruitment-2026",
+    "canonical_hash": "f8c01fa55bbd47d6949bcd7e51654864"
+  },
+  {
+    "title": "PM Awas Yojana Urban 2.0 (PMAY-U 2.0) 2026",
+    "slug": "pm-awas-yojana-urban-2-0-pmay-u-2-0-2026",
+    "category": "government-schemes",
+    "organization": "Ministry of Housing and Urban Affairs, Government of India",
+    "state": "All India",
+    "postDate": "2026-09-03",
+    "lastDate": "Ongoing",
+    "shortInfo": "Pradhan Mantri Awas Yojana-Urban 2.0 (PMAY-U 2.0) provides financial assistance of up to ₹2.50 Lakhs, interest subsidy up to ₹1.80 Lakhs, and affordable rental housing options to eligible urban poor and middle-income families.",
+    "totalVacancies": "1 Crore Urban Families Target",
+    "qualificationRequired": [
+      "Urban Resident",
+      "EWS",
+      "LIG",
+      "MIG Families"
+    ],
+    "importantDates": [
+      {
+        "event": "Scheme Launch Date",
+        "date": "01/09/2024",
+        "isImportant": true,
+        "details": "Implemented for 5 years targeting 1 crore families."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "Adult / Family Head",
+      "maxAge": "N/A",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "N/A"
+    },
+    "vacancies": [
+      {
+        "postName": "PMAY-U 2.0 Housing Assistance",
+        "totalPosts": "1 Crore Target",
+        "eligibility": "Urban families belonging to EWS, LIG, or MIG with annual income up to ₹9 Lakhs and no pucca house anywhere in India.",
+        "qualification": "Urban Family",
+        "categoryWiseBreakup": {
+          "EWS": "Up to ₹3 Lakh income",
+          "LIG": "₹3L to ₹6L income",
+          "MIG": "₹6L to ₹9L income"
+        },
+        "payScale": "Financial Assistance up to ₹2.50 Lakhs / Subsidy up to ₹1.80 Lakhs"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Online Application & Verification",
+        "description": "Submission via portal followed by ULB verification of income, land ownership, and housing status.",
+        "qualifyingNature": "Approval Based"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official PMAY-U 2.0 portal at pmaymis.gov.in.",
+      "Step 2: Select 'Apply for PMAY-U 2.0' and choose the appropriate scheme vertical (BLC, AHP, ARH, or ISS).",
+      "Step 3: Complete eligibility check and authenticate using Aadhaar OTP.",
+      "Step 4: Fill in personal, family, income, and bank account details.",
+      "Step 5: Upload required documents and land/loan papers, then submit the application finally."
+    ],
+    "importantLinks": [
+      {
+        "title": "Online Application Portal",
+        "url": "https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/EligiblityCheck.aspx",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Track Application Status",
+        "url": "https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/TrackApplication.aspx",
+        "type": "status",
+        "isPrimary": false
+      },
+      {
+        "title": "Official Website",
+        "url": "https://pmaymis.gov.in/pmaymis2_2024/",
+        "type": "website",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## PM Awas Yojana Urban 2.0 (PMAY-U 2.0) Overview\n\nThe Central Government is implementing Pradhan Mantri Awas Yojana-Urban 2.0 (PMAY-U 2.0) to address housing needs of urban poor and middle-income families. Eligible families receive assistance to build pucca houses on their own land, buy affordable housing, avail interest subsidies on home loans, or rent affordable housing.\n\n### Four Key Pillars / Options\n1. **BLC (Beneficiary Led Construction):** Financial assistance up to ₹2.50 Lakhs to build a house on own land for EWS families.\n2. **AHP (Affordable Housing in Partnership):** Assistance to buy houses in affordable housing projects.\n3. **ARH (Affordable Rental Housing):** Affordable rental options for urban migrants, workers, and students.\n4. **ISS (Interest Subsidy Scheme):** Up to ₹1.80 Lakhs interest subsidy on home loans for EWS, LIG, and MIG families with income up to ₹9 Lakhs.\n\n### Income Slabs\n- **EWS:** Annual family income up to ₹3 Lakhs\n- **LIG:** Annual income between ₹3 Lakhs and ₹6 Lakhs\n- **MIG:** Annual income between ₹6 Lakhs and ₹9 Lakhs",
+    "faqs": [
+      {
+        "question": "What is the maximum financial assistance under PMAY-U 2.0 BLC?",
+        "answer": "Eligible EWS families receive up to ₹2.50 Lakhs for constructing a pucca house on their own land."
+      }
+    ],
+    "metaTitle": "PM Awas Yojana Urban 2.0 2026: Apply Online, Subsidy, Eligibility",
+    "metaDescription": "Apply online for PM Awas Yojana Urban 2.0 2026. Get up to ₹2.50 Lakhs financial assistance or interest subsidy up to ₹1.80 Lakhs.",
+    "keywords": [
+      "PM Awas Yojana Urban 2.0",
+      "PMAY-U 2.0 Online Apply",
+      "Pradhan Mantri Awas Yojana 2026",
+      "Housing Subsidy Scheme"
+    ],
+    "id": "studygovthelp-pm-awas-yojana-urban-2-0-pmay-u-2-0-2026",
+    "canonical_hash": "4c16cddd8f475446f03fda5874a33438"
+  },
+  {
+    "title": "Rajasthan Work from Home Job 2026",
+    "slug": "rajasthan-work-from-home-job-2026",
+    "category": "latest-jobs",
+    "organization": "Women and Child Development Department, Rajasthan Government",
+    "state": "Rajasthan",
+    "postDate": "2026-09-03",
+    "lastDate": "According to the posts",
+    "shortInfo": "Rajasthan Government has released the Mukhyamantri Work from Home Job notification for 8,910 posts. Eligible female candidates of Rajasthan can apply online to secure work-from-home employment opportunities like stitching and other tasks.",
+    "totalVacancies": "8,910 Posts",
+    "qualificationRequired": [
+      "8th Pass / Eligible Female Candidates"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "Active",
+        "isImportant": true,
+        "details": "Applications can be submitted via official portal."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "No Limit",
+      "cutoffDate": "2026",
+      "relaxationDetails": "Exclusively for women residents of Rajasthan"
+    },
+    "vacancies": [
+      {
+        "postName": "Mukhyamantri Work from Home Job",
+        "totalPosts": "8910",
+        "eligibility": "Female candidates who are permanent residents of Rajasthan with minimum age 18 years.",
+        "qualification": "8th Pass / Skilled Candidates",
+        "categoryWiseBreakup": {
+          "General": "Open",
+          "OBC": "Open",
+          "EWS": "Open",
+          "SC": "Open",
+          "ST": "Open"
+        },
+        "payScale": "As per task and government guidelines"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Online Registration",
+        "description": "Registration on the Work from Home portal using Jan Aadhaar and Aadhaar card.",
+        "qualifyingNature": "Mandatory"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Skill & Document Verification",
+        "description": "Evaluation of applicant's skill sets and background verification.",
+        "qualifyingNature": "Merit Based"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official Rajasthan Work from Home portal at mahilawfh.rajasthan.gov.in.",
+      "Step 2: Read all scheme guidelines carefully.",
+      "Step 3: Click on Apply Now for the desired company or work profile.",
+      "Step 4: Complete registration using Aadhaar and Jan Aadhaar details to fetch user information.",
+      "Step 5: Fill in qualification, experience, and skills, then upload required documents and submit."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "https://mahilawfh.rajasthan.gov.in/",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Official Website",
+        "url": "https://mahilawfh.rajasthan.gov.in/",
+        "type": "website",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## Rajasthan Work from Home Job 2026 Overview\n\nThe Women and Child Development Department, Government of Rajasthan has initiated the Mukhyamantri Work from Home Job scheme to empower women and provide livelihood opportunities from home. Around 8,910 positions have been announced for eligible female candidates.\n\n### Eligibility Criteria\n- Applicant must be a permanent resident of Rajasthan.\n- Only female candidates are eligible to apply.\n- Minimum age limit is 18 years with no upper age restriction.\n- Special priority is given to economically weaker, widowed, divorced, disabled, and violence-affected women.\n\n### Required Documents\n- Aadhaar Card\n- Jan Aadhaar Card\n- Resident Certificate\n- PAN Card\n- Income Certificate\n- Passport Size Photograph\n- Mobile Number",
+    "faqs": [
+      {
+        "question": "Who can apply for Rajasthan Work from Home Job?",
+        "answer": "Only female permanent residents of Rajasthan aged 18 years and above can apply."
+      }
+    ],
+    "metaTitle": "Rajasthan Work from Home Job 2026: 8910 Posts, Apply Online",
+    "metaDescription": "Apply online for Rajasthan Mukhyamantri Work from Home Job 2026. 8910 vacancies open for female candidates. Check eligibility and application steps.",
+    "keywords": [
+      "Rajasthan Work from Home Job 2026",
+      "Mukhyamantri Work from Home Yojana",
+      "Rajasthan Government Jobs for Women"
+    ],
+    "id": "studygovthelp-rajasthan-work-from-home-job-2026",
+    "canonical_hash": "0f9ec24264acd9e0684c5737765360b7"
+  },
+  {
+    "title": "Tata Capital Pankh Scholarship Programme 2026-27",
+    "slug": "tata-capital-pankh-scholarship-programme-2026-27",
+    "category": "scholarships",
+    "organization": "Tata Capital Limited & Buddy4Study",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "26/10/2026",
+    "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 offers financial assistance up to ₹18,000 to students from 11th, 12th, graduation, diploma, and ITI courses. Eligible students must have secured at least 60% marks and have an annual family income of up to ₹4 Lakhs.",
+    "totalVacancies": "Not Applicable",
+    "qualificationRequired": [
+      "11th Pass",
+      "12th Pass",
+      "Graduation",
+      "Diploma",
+      "ITI"
+    ],
+    "importantDates": [
+      {
+        "event": "Last Date of Online Application",
+        "date": "26/10/2026",
+        "isImportant": true,
+        "details": "Online application forms are currently active."
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "N/A",
+      "maxAge": "N/A",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "Not applicable for scholarships"
+    },
+    "vacancies": [
+      {
+        "postName": "Tata Capital Pankh Scholarship 2026",
+        "totalPosts": "Open for all eligible students",
+        "eligibility": "Students studying in 11th, 12th, graduation, diploma, or ITI with at least 60% marks and family income under ₹4 Lakhs.",
+        "qualification": "11th, 12th, Graduation, Diploma, ITI",
+        "categoryWiseBreakup": {
+          "General": "Open",
+          "OBC": "Open",
+          "EWS": "Open",
+          "SC": "Open",
+          "ST": "Open"
+        },
+        "payScale": "Scholarship up to ₹18,000"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Application Screening",
+        "description": "Verification of academic marks and family income certificates.",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Scholarship Disbursement",
+        "description": "Direct bank transfer of scholarship amount to selected candidates.",
+        "qualifyingNature": "Final Selection"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Visit the official Buddy4Study portal for Tata Capital Pankh Scholarship.",
+      "Step 2: Check your eligibility criteria before starting the application.",
+      "Step 3: Register and log in using valid mobile number and email ID.",
+      "Step 4: Fill in required academic and personal details.",
+      "Step 5: Upload necessary documents including marksheets, fee receipt, and income certificate.",
+      "Step 6: Submit the application form and keep a printout for future reference."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "apply",
+        "isPrimary": true
+      },
+      {
+        "title": "Download Official Notification",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "notification",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "## Tata Capital Pankh Scholarship 2026-27 Overview\n\nThe Tata Capital Pankh Scholarship Programme is designed to support students belonging to economically weaker families. Eligible students pursuing studies from class 11th, 12th, undergraduate degrees, polytechnic diplomas, and ITI courses can receive financial assistance up to ₹18,000 based on their academic performance.\n\n### Eligibility Criteria\n- Applicant must be an Indian citizen.\n- Must be currently studying in class 11th, 12th, graduation, diploma, or ITI.\n- Must have scored a minimum of 60% marks in the previous academic year.\n- Total annual family income from all sources must not exceed ₹4 Lakhs.\n- Children of employees of Tata Capital Limited and Buddy4Study are not eligible.\n\n### Scholarship Amount Details\n- **60% to 80% marks:** Up to 80% of course fees or ₹10,000 (whichever is lower).\n- **Above 80% up to 90% marks:** Up to 90% of course fees or ₹12,000 (whichever is lower).\n- **Above 90% marks:** Up to 100% of course fees or ₹15,000 (for school students) / ₹18,000 (for college/diploma students).\n\n### Required Documents\n- Aadhaar Card\n- Passport size photograph\n- Previous year marksheet\n- Income certificate\n- Admission proof or fee receipt\n- Student ID card\n- Bank account details",
+    "faqs": [
+      {
+        "question": "What is the last date to apply for Tata Capital Pankh Scholarship 2026?",
+        "answer": "The last date to apply is 26 October 2026."
+      },
+      {
+        "question": "What is the maximum scholarship amount?",
+        "answer": "Eligible students can receive up to ₹18,000 scholarship."
+      }
+    ],
+    "metaTitle": "Tata Capital Pankh Scholarship 2026: Eligibility, Amount, Last Date",
+    "metaDescription": "Apply for Tata Capital Pankh Scholarship Programme 2026-27. Get up to ₹18,000 scholarship for 11th, 12th, graduation, and ITI students.",
+    "keywords": [
+      "Tata Capital Pankh Scholarship 2026",
+      "Scholarship Yojana",
+      "Buddy4Study Scholarship",
+      "Student Financial Assistance"
+    ],
+    "id": "studygovthelp-tata-capital-pankh-scholarship-programme-2026-27",
+    "canonical_hash": "20161f504877d052a0061a1154bd40ce"
+  },
+  {
+    "id": "job-auto-1hr-1788515203172-364",
+    "title": "🎟️ [Admit Card Out] CSBC Bihar Police Constable Written Exam Admit Card 2026",
+    "slug": "sarkari-job-auto-update-1788515203172",
+    "category": "admit-card",
+    "organization": "Central Selection Board of Constable (CSBC Bihar) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "CSBC Patna has activated the e-Admit Card link and center code list for 21,391 Bihar Police Constable written exam.",
+    "totalVacancies": "21,391 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "City Intimation Active",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Admit Card Download Start",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Written Examination Date",
+        "date": "November / December 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "CSBC Bihar Police Constable Written Exam Admit Card 2026",
+        "totalPosts": "21,391 Posts",
+        "eligibility": "12th Pass"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official candidate login page.",
+      "Click on the Admit Card download link.",
+      "Provide your registration ID and Password / Date of Birth.",
+      "Enter the verification CAPTCHA code and click submit.",
+      "Download and print your Admit Card on a standard clean A4 sheet."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card / Hall Ticket",
+        "url": "#",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# CSBC Bihar Police Constable Written Exam Admit Card 2026\n\n**Central Selection Board of Constable (CSBC Bihar)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **21,391 Posts**.\n\n## Summary Overview\n\nCSBC Patna has activated the e-Admit Card link and center code list for 21,391 Bihar Police Constable written exam.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Central Selection Board of Constable (CSBC Bihar)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 21,391 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for CSBC Bihar Police Constable Written Exam Admit Card 2026?",
+        "answer": "Candidates must possess 12th Pass as specified by Central Selection Board of Constable (CSBC Bihar)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "CSBC Bihar Police Constable Written Exam Admit Card 2026 | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for CSBC Bihar Police Constable Written Exam Admit Card 2026. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Central Selection Board of Constable (CSBC Bihar)",
+      "admit-card",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "CSBC Bihar Police Constable Written Exam Admit Card 2026",
+    "openGraph": {
+      "title": "CSBC Bihar Police Constable Written Exam Admit Card 2026",
+      "description": "CSBC Patna has activated the e-Admit Card link and center code list for 21,391 Bihar Police Constable written exam.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1788515203172"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "f5b42bf08bb8b74c0f0608418158f89a"
+  },
+  {
     "title": "SSC JE Recruitment 2026: 1,748 Junior Engineer Vacancies",
     "slug": "ssc-je-recruitment-2026-1-748-junior-engineer-vacancies",
     "category": "latest-jobs",
@@ -147,7 +7013,8 @@ export const INITIAL_POSTS: Post[] = [
       "ssc.gov.in JE Notification",
       "SSC JE Online Form 2026"
     ],
-    "id": "studygovthelp-ssc-je-recruitment-2026-1-748-junior-engineer-vacancies"
+    "id": "studygovthelp-ssc-je-recruitment-2026-1-748-junior-engineer-vacancies",
+    "canonical_hash": "23617dc0f2eecbb1850519a96d3d6a08"
   },
   {
     "title": "India Post GDS Recruitment 2026: 23,757 Vacancies",
@@ -290,7 +7157,8 @@ export const INITIAL_POSTS: Post[] = [
       "Gramin Dak Sevak Bharti 2026",
       "indiapost.gov.in GDS Apply Online"
     ],
-    "id": "studygovthelp-india-post-gds-recruitment-2026-23-757-vacancies"
+    "id": "studygovthelp-india-post-gds-recruitment-2026-23-757-vacancies",
+    "canonical_hash": "c6bf04714d611d9bf8e8d4e30cb3fc20"
   },
   {
     "title": "PM Awas Yojana Urban 2.0 2026: Financial Assistance & Online Apply",
@@ -383,242 +7251,224 @@ export const INITIAL_POSTS: Post[] = [
       "pmaymis.gov.in",
       "PMAY Urban Subsidy Status"
     ],
-    "id": "studygovthelp-pm-awas-yojana-urban-2-0-2026-financial-assistance-online-apply"
+    "id": "studygovthelp-pm-awas-yojana-urban-2-0-2026-financial-assistance-online-apply",
+    "canonical_hash": "56186f43bd9029a5bf5f80475343b7fa"
   },
   {
-    "title": "Navodaya Vidyalaya Class 9th & 11th Admission 2027",
+    "title": "Navodaya Vidyalaya Admission 2027 (Class 9th & 11th)",
     "slug": "navodaya-vidyalaya-class-9th-11th-admission-2027",
     "category": "admissions",
     "organization": "Navodaya Vidyalaya Samiti (NVS)",
     "state": "All India",
-    "postDate": "2026-09-03",
-    "lastDate": "2026-09-30",
-    "shortInfo": "Navodaya Vidyalaya Samiti (NVS) has invited online applications for Lateral Entry Selection Test 2027 for admission to Class 9th and Class 11th for academic session 2027-28. Eligible students studying in Class 8th or 10th during 2026-27 can apply online before 30 September 2026.",
-    "totalVacancies": "Vacant Seats in JNVs",
+    "postDate": "2026-09-04",
+    "lastDate": "30/09/2026",
+    "shortInfo": "Navodaya Vidyalaya Samiti (NVS) has released admission notifications for Class 9th and Class 11th Lateral Entry Selection Test 2027. Eligible students studying in class 8th or 10th can apply online free of cost until 30 September 2026.",
+    "totalVacancies": "District-wise Vacant Seats",
     "qualificationRequired": [
-      "Studying in Class 8th (for Class 9th)",
-      "Studying in Class 10th (for Class 11th)"
+      "8th Pass (for Class 9th)",
+      "10th Pass / Studying (for Class 11th)"
     ],
     "importantDates": [
       {
-        "event": "Online Application Last Date",
+        "event": "Last Date of Online Application",
         "date": "30/09/2026",
         "isImportant": true,
-        "details": "Last date to apply for Class 9th & 11th"
+        "details": "Applications close at midnight on 30 September 2026."
       },
       {
-        "event": "Correction Window Class 9th",
-        "date": "2 Days after Last Date",
-        "isImportant": false,
-        "details": "2 days modification opportunity"
-      },
-      {
-        "event": "Correction Window Class 11th",
-        "date": "3 Days after Last Date",
-        "isImportant": false,
-        "details": "3 days modification opportunity"
-      },
-      {
-        "event": "Lateral Entry Selection Test Date",
+        "event": "Selection Test Date",
         "date": "10/04/2027",
         "isImportant": true,
-        "details": "Entrance examination date"
+        "details": "Exam will be conducted on 10 April 2027."
       }
     ],
     "applicationFees": [
       {
-        "category": "All Candidates",
+        "category": "All Categories",
         "fee": "₹ 0/- (Free)"
       }
     ],
     "ageLimit": {
-      "minAge": "Class 9th: Born 01/05/2012 to 31/07/2014",
-      "maxAge": "Class 11th: Born 01/06/2010 to 31/07/2012",
-      "cutoffDate": "As specified in prospectus",
-      "relaxationDetails": "Age criteria applies equally to all categories including SC/ST/OBC/ दिव्यांग."
+      "minAge": "Class 9: Born between 01/05/2012 and 31/07/2014",
+      "maxAge": "Class 11: Born between 01/06/2010 and 31/07/2012",
+      "cutoffDate": "2027",
+      "relaxationDetails": "As per NVS norms"
     },
     "vacancies": [
       {
         "postName": "Class 9th Lateral Entry Admission",
-        "totalPosts": "District-wise Vacant Seats",
-        "eligibility": "Studying Class 8th in Academic Session 2026-27 in a recognized school in the same district.",
-        "qualification": "Class 8th Pursuing",
-        "categoryWiseBreakup": {},
-        "payScale": "Free residential CBSE English medium education"
+        "totalPosts": "As per district vacancy",
+        "eligibility": "Studying in class 8th in the academic session 2026-27 in a recognized school of the same district.",
+        "qualification": "Class 8th Studying",
+        "categoryWiseBreakup": {
+          "UR": "As per rules",
+          "OBC": "As per rules",
+          "EWS": "As per rules",
+          "SC": "As per rules",
+          "ST": "As per rules"
+        },
+        "payScale": "Residential School Education"
       },
       {
         "postName": "Class 11th Lateral Entry Admission",
-        "totalPosts": "School-wise Vacant Seats",
-        "eligibility": "Studying Class 10th in Academic Session 2026-27 in a recognized school in India.",
-        "qualification": "Class 10th Pursuing",
-        "categoryWiseBreakup": {},
-        "payScale": "Free residential CBSE English medium education"
+        "totalPosts": "As per district vacancy",
+        "eligibility": "Studying in class 10th in the academic session 2026-27 in a recognized school of India.",
+        "qualification": "Class 10th Studying",
+        "categoryWiseBreakup": {
+          "UR": "As per rules",
+          "OBC": "As per rules",
+          "EWS": "As per rules",
+          "SC": "As per rules",
+          "ST": "As per rules"
+        },
+        "payScale": "Residential School Education"
       }
     ],
     "selectionProcess": [
       {
         "stepNumber": 1,
-        "stageName": "Lateral Entry Selection Test (LEST 2027)",
-        "description": "100 Objective Type Questions for 100 Marks (Class 9th: Eng 15, Hindi 15, Maths 35, Science 35 | Class 11th: Mental Ability 20, Eng 20, Science 20, Social Science 20, Maths 20). Duration: 2 Hours 30 Mins.",
+        "stageName": "Lateral Entry Selection Test (OMR Based)",
+        "description": "100 Marks objective test covering English, Hindi, Mathematics, Science (for Class 9) and Mental Ability, English, Science, Social Science, Mathematics (for Class 11).",
         "marks": "100",
         "qualifyingNature": "Merit Based"
-      },
-      {
-        "stepNumber": 2,
-        "stageName": "Document Verification",
-        "description": "Verification of residency, study certificate, category certificate, and age proof.",
-        "marks": "N/A",
-        "qualifyingNature": "Mandatory"
       }
     ],
     "howToApplySteps": [
-      "Step 1: Visit NVS official portal navodaya.gov.in.",
-      "Step 2: Select link for Class IX or Class XI Lateral Entry Admission 2027.",
-      "Step 3: Fill student information, district, school name, and personal details.",
-      "Step 4: Upload student photo, signature, and parent signature.",
-      "Step 5: Review details, submit form and keep registration registration slip safely."
+      "Step 1: Visit the official Navodaya Vidyalaya portal at navodaya.gov.in.",
+      "Step 2: Click on the admission link for Class 9th or Class 11th selection test.",
+      "Step 3: Complete registration and fill out the online application form.",
+      "Step 4: Upload student photograph, signature, and parent signature.",
+      "Step 5: Review all details and submit the application form finally."
     ],
     "importantLinks": [
       {
-        "title": "Apply Online Class 9th",
+        "title": "Apply Online 9th Class",
         "url": "https://cbseitms.nic.in/2026/nvsix_9",
         "type": "apply",
         "isPrimary": true
       },
       {
-        "title": "Apply Online Class 11th",
+        "title": "Apply Online 11th Class",
         "url": "https://cbseitms.nic.in/2026/nvsxi_11",
         "type": "apply",
-        "isPrimary": true
-      },
-      {
-        "title": "Download Class 9th Prospectus PDF",
-        "url": "https://cbseitms.nic.in/2026/nvsix_9/assets/pdf/FINAL_CLASS_IX_PROSPECTUS_2027.pdf",
-        "type": "notification",
         "isPrimary": false
       },
       {
-        "title": "Download Class 11th Prospectus PDF",
-        "url": "https://cbseitms.nic.in/2026/nvsxi_11/assets/pdf/FINAL_CLASS_XI_PROSPECTUS_2027.pdf",
+        "title": "Official Notification 9th Class",
+        "url": "https://cbseitms.nic.in/2026/nvsix_9/assets/pdf/FINAL_CLASS_IX_PROSPECTUS_2027.pdf",
         "type": "notification",
         "isPrimary": false
       },
       {
         "title": "Official Website",
         "url": "https://navodaya.gov.in/",
-        "type": "official-website",
+        "type": "website",
         "isPrimary": false
       }
     ],
-    "fullDescription": "## Navodaya Vidyalaya Class 9th & 11th Admission 2027 Notification\n\nJawahar Navodaya Vidyalaya Samiti (NVS) has released notifications for Lateral Entry Admission in Class 9th and Class 11th for the 2027-28 academic session. Admissions will be done based on the Selection Test scheduled for 10 April 2027 against available vacant seats.\n\n### Exam Pattern\n\n#### Class 9th Entrance Exam\n- **English:** 15 Questions / 15 Marks\n- **Hindi:** 15 Questions / 15 Marks\n- **Mathematics:** 35 Questions / 35 Marks\n- **General Science:** 35 Questions / 35 Marks\n- **Total:** 100 Questions / 100 Marks (Duration: 2.5 Hours)\n\n#### Class 11th Entrance Exam\n- **Mental Ability:** 20 Questions / 20 Marks\n- **English:** 20 Questions / 20 Marks\n- **Science:** 20 Questions / 20 Marks\n- **Social Science:** 20 Questions / 20 Marks\n- **Mathematics:** 20 Questions / 20 Marks\n- **Total:** 100 Questions / 100 Marks (Duration: 2.5 Hours)",
+    "fullDescription": "## Navodaya Vidyalaya Admission 2027 Overview\n\nNavodaya Vidyalaya Samiti (NVS) has invited online applications for admission to Class 9th and Class 11th through the Lateral Entry Selection Test for the academic session 2027-28. Jawahar Navodaya Vidyalaya are co-educational residential schools fully financed by the Government of India.\n\n### Important Dates\n- **Last Date to Apply:** 30 September 2026\n- **Selection Test Date:** 10 April 2027\n- **Application Fee:** Nil (Free for all)\n\n### Eligibility Criteria\n- **Class 9th:** Students studying in class 8th during the 2026-27 session in a recognized school in the same district can apply. Age must be between May 1, 2012, and July 31, 2014.\n- **Class 11th:** Students studying in class 10th during 2026-27 in a recognized school in India can apply. Age must be between June 1, 2010, and July 31, 2012.",
     "faqs": [
       {
-        "question": "What is the last date to apply for NVS Admission 2027 for Class 9th and 11th?",
-        "answer": "The last date to submit online applications is 30 September 2026."
-      },
-      {
-        "question": "When will the Navodaya Vidyalaya Lateral Entry Test 2027 be held?",
-        "answer": "The selection test will be conducted on 10 April 2027."
+        "question": "What is the last date to apply for Navodaya Vidyalaya Admission 2027?",
+        "answer": "The last date to apply is 30 September 2026."
       }
     ],
-    "metaTitle": "Navodaya Vidyalaya Class 9 & 11 Admission 2027: Apply Online by 30 Sept",
-    "metaDescription": "NVS Class 9th and 11th Admission 2027 notification out. Apply online for JNV Lateral Entry Selection Test 2027 before 30 September 2026 at navodaya.gov.in.",
+    "metaTitle": "Navodaya Vidyalaya Admission 2027: Class 9 & 11 Apply Online",
+    "metaDescription": "Apply online for Jawahar Navodaya Vidyalaya Admission 2027 for Class 9th and 11th. Check exam date, eligibility, and prospectus details.",
     "keywords": [
       "Navodaya Vidyalaya Admission 2027",
-      "NVS Class 9th Admission 2027",
-      "NVS Class 11th Admission 2027",
-      "JNV LEST Exam 2027"
+      "NVS Class 9 Admission",
+      "NVS Class 11 Admission",
+      "Navodaya Selection Test"
     ],
-    "id": "studygovthelp-navodaya-vidyalaya-class-9th-11th-admission-2027"
+    "id": "studygovthelp-navodaya-vidyalaya-class-9th-11th-admission-2027",
+    "canonical_hash": "b092878d322f68cfe4afb264bc0a0ad5"
   },
   {
     "title": "Rajasthan Palanhar Yojana 2026",
     "slug": "rajasthan-palanhar-yojana-2026",
     "category": "government-schemes",
-    "organization": "Department of Social Justice & Empowerment, Rajasthan",
+    "organization": "Social Justice and Empowerment Department, Government of Rajasthan",
     "state": "Rajasthan",
-    "postDate": "2026-09-03",
-    "lastDate": "N/A",
-    "shortInfo": "Under Rajasthan Palanhar Yojana 2026, the state government provides monthly financial assistance of Rs 1,500 to Rs 2,500 per child along with an annual lump-sum aid of Rs 2,000 to support orphan and needy children aged 0 to 18 years.",
-    "totalVacancies": "Government Assistance Scheme",
+    "postDate": "2026-09-04",
+    "lastDate": "Open All Year",
+    "shortInfo": "Rajasthan Palanhar Yojana provides monthly financial assistance for the upbringing, care, and education of orphan children and children of vulnerable categories aged 0 to 18 years. Eligible guardians can apply through E-Mitra kiosks.",
+    "totalVacancies": "Not Applicable",
     "qualificationRequired": [
-      "Children aged 0-18 years under eligible categories"
+      "0 to 18 Years Children"
     ],
     "importantDates": [
       {
-        "event": "Scheme Status",
-        "date": "Active / Ongoing",
+        "event": "Annual Verification Month",
+        "date": "July Every Year",
         "isImportant": true,
-        "details": "Applications accepted through E-Mitra"
-      },
-      {
-        "event": "Annual Renewal / Document Update Month",
-        "date": "Every Year in July",
-        "isImportant": true,
-        "details": "Mandatory school/Anganwadi verification update on E-Mitra"
+        "details": "Study certificates must be updated every July via E-Mitra."
       }
     ],
     "applicationFees": [
       {
-        "category": "Application Processing Fee",
-        "fee": "As per E-Mitra kiosk service charges"
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
       }
     ],
     "ageLimit": {
       "minAge": "0 Years",
       "maxAge": "18 Years",
-      "cutoffDate": "N/A",
-      "relaxationDetails": "Palanhar (guardian) annual income must not exceed Rs 1.20 Lakh and must reside in Rajasthan for at least 3 years."
+      "cutoffDate": "2026",
+      "relaxationDetails": "Applicable for children between 0 and 18 years"
     },
     "vacancies": [],
     "selectionProcess": [
       {
         "stepNumber": 1,
-        "stageName": "Verification by Social Justice Department",
-        "description": "Verification of category certificate, death certificate/pension order, Aadhaar biometric verification, and school/Anganwadi attendance certificate.",
-        "qualifyingNature": "Mandatory Eligibility Verification"
+        "stageName": "E-Mitra Application Submission",
+        "description": "Submit application along with category proofs and child documents at E-Mitra.",
+        "qualifyingNature": "Mandatory"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Departmental Verification",
+        "description": "Verification by Social Justice and Empowerment Department officials.",
+        "qualifyingNature": "Approval Based"
       }
     ],
     "howToApplySteps": [
-      "Step 1: Visit nearby E-Mitra Kiosk center with applicant and child documents.",
-      "Step 2: Submit Jan Aadhaar card, category certificate, income certificate, and study proof.",
-      "Step 3: Complete Aadhaar biometric / OTP verification for child and guardian.",
-      "Step 4: Obtain application submission receipt and track status on SJE portal."
+      "Step 1: Gather required category certificates, Aadhaar card, and Jan Aadhaar card.",
+      "Step 2: Visit the nearest E-Mitra kiosk centre.",
+      "Step 3: Submit the Palanhar Yojana application form with valid child and guardian details.",
+      "Step 4: Complete biometric or OTP verification for Aadhaar.",
+      "Step 5: Collect receipt of the application for tracking status."
     ],
     "importantLinks": [
       {
-        "title": "Rajasthan Palanhar Scheme Guidelines",
+        "title": "Official Notification Portal",
         "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=89",
         "type": "notification",
-        "isPrimary": false
+        "isPrimary": true
       },
       {
-        "title": "SJE Rajasthan Official Website",
+        "title": "Official Website",
         "url": "https://sje.rajasthan.gov.in/",
-        "type": "official-website",
-        "isPrimary": true
+        "type": "website",
+        "isPrimary": false
       }
     ],
-    "fullDescription": "## Rajasthan Palanhar Yojana 2026\n\nRajasthan Palanhar Yojana provides monthly financial aid and educational support to eligible children aged 0 to 18 years living under foster care of relatives or guardians (Palanhar).\n\n### Benefit Structure\n- **Age 0 to 5 Years:** ₹1,500 per month (Anganwadi enrollment required)\n- **Age 6 to 18 Years:** ₹2,500 per month (School/Institute enrollment required)\n- **Annual Lump-sum Grant:** ₹2,000 per year for clothes, shoes, and stationary (Not applicable for widow & Nata categories)\n\n### Eligible Child Categories\n- Orphan children\n- Children of life sentence/death penalty recipient parents\n- Children of destitute widow pension recipient mothers\n- Children of remarried widow mothers\n- Children of HIV/AIDS or Leprosy affected parents\n- Children of Nata women\n- Children of Specially-Abled (40%+ disability) parents\n- Children of divorced / deserted women\n\n### Income & Resident Rules\n- Palanhar annual family income limit: Maximum ₹1,20,000\n- Palanhar & Child must be resident of Rajasthan for at least 3 years.",
+    "fullDescription": "## Rajasthan Palanhar Yojana 2026 Overview\n\nRajasthan Palanhar Yojana supports children in need of care and protection by providing monthly financial aid through a relative, guardian, or foster parent (Palanhar). The scheme covers children from ages 0 to 18 years.\n\n### Financial Assistance Structure\n- **Aged 0 to 5 years (Anganwadi / Non-School):** ₹1,500 per month\n- **Aged 6 to 18 years (School / Institutional Study):** ₹2,500 per month\n- **Annual Dress & Uniform Grant:** ₹2,000 extra per year (Not applicable for widow and Nata guardians).\n\n### Eligibility and Income Limit\n- Annual income of the Palanhar must not exceed ₹1.20 Lakhs.\n- The Palanhar and the child must be residents of Rajasthan for at least 3 years.\n\n### Required Documents\n- Palanhar Jan Aadhaar Card and Income Certificate\n- Child Aadhaar Card\n- Category-specific proof (Death certificate, widow pension PPO, disability certificate, etc.)\n- School or Anganwadi study certificate",
     "faqs": [
       {
-        "question": "What is the annual income limit for Palanhar Yojana in Rajasthan?",
-        "answer": "The annual income of the Palanhar (guardian) must not exceed Rs 1.20 Lakh."
-      },
-      {
-        "question": "When is the annual updating required for Palanhar Yojana?",
-        "answer": "School or Anganwadi enrollment certificates must be updated every year in the month of July through E-Mitra."
+        "question": "What is the monthly financial assistance for school children in Palanhar Yojana?",
+        "answer": "Children aged 6 to 18 years receive ₹2,500 per month."
       }
     ],
-    "metaTitle": "Rajasthan Palanhar Yojana 2026: Financial Aid & Eligibility Details",
-    "metaDescription": "Complete details of Rajasthan Palanhar Yojana 2026. Get up to Rs 2,500 monthly assistance for orphan and needy children. Learn eligibility, documents, and E-Mitra application process.",
+    "metaTitle": "Rajasthan Palanhar Yojana 2026: Eligibility, Benefits, Apply Online",
+    "metaDescription": "Check Rajasthan Palanhar Yojana 2026 details, financial assistance up to ₹2,500/month, eligibility criteria, and application process via E-Mitra.",
     "keywords": [
       "Rajasthan Palanhar Yojana 2026",
-      "Palanhar Scheme Benefits",
-      "SJE Rajasthan Palanhar",
-      "Palanhar Status E Mitra"
+      "Palanhar Scheme Rajasthan",
+      "SJE Rajasthan Portal"
     ],
-    "id": "studygovthelp-rajasthan-palanhar-yojana-2026"
+    "id": "studygovthelp-rajasthan-palanhar-yojana-2026",
+    "canonical_hash": "7ec2bf7ec5e16ee19cd4a8ab6fbb83d9"
   },
   {
     "title": "SBI Asha Scholarship Yojana 2026",
@@ -626,33 +7476,34 @@ export const INITIAL_POSTS: Post[] = [
     "category": "scholarships",
     "organization": "SBI Foundation",
     "state": "All India",
-    "postDate": "2026-09-03",
-    "lastDate": "2026-09-04",
-    "shortInfo": "SBI Foundation has released notification for SBI Platinum Jubilee Asha Scholarship 2026-27. Students studying from Class 9 to Post Graduation, IIT, IIM, Medical, and overseas education can receive scholarship benefits ranging from Rs 15,000 to Rs 20 Lakh.",
-    "totalVacancies": "Scholarship Program",
+    "postDate": "2026-09-04",
+    "lastDate": "04/09/2026",
+    "shortInfo": "SBI Foundation has invited applications for the SBI Platinum Jubilee Asha Scholarship 2026-27. Students studying from class 9th up to higher education and foreign studies can receive financial scholarships ranging from ₹15,000 up to ₹20 Lakhs.",
+    "totalVacancies": "Not Applicable",
     "qualificationRequired": [
-      "Class 9th to 12th Pass",
+      "9th Pass",
+      "10th Pass",
+      "12th Pass",
       "Graduation",
-      "Post Graduation",
-      "Medical / IIT / IIM Students"
+      "Post Graduation"
     ],
     "importantDates": [
       {
         "event": "Online Application Start Date",
         "date": "20/07/2026",
         "isImportant": true,
-        "details": "Online application portal opened"
+        "details": "Applications started on 20 July 2026"
       },
       {
         "event": "Online Application Last Date",
         "date": "04/09/2026",
         "isImportant": true,
-        "details": "Final deadline to submit application form"
+        "details": "Last date to submit applications is 4 September 2026"
       }
     ],
     "applicationFees": [
       {
-        "category": "All Candidates",
+        "category": "All Categories",
         "fee": "₹ 0/- (Free)"
       }
     ],
@@ -660,38 +7511,38 @@ export const INITIAL_POSTS: Post[] = [
       "minAge": "N/A",
       "maxAge": "N/A",
       "cutoffDate": "N/A",
-      "relaxationDetails": "Must meet minimum 75% marks criteria in previous qualifying examination."
+      "relaxationDetails": "Not applicable"
     },
     "vacancies": [
       {
-        "postName": "SBI Platinum Jubilee Asha Scholarship 2026-27",
-        "totalPosts": "N/A",
-        "eligibility": "Minimum 75% marks in previous academic year, family income up to Rs 3 Lakh (Rs 6 Lakh for higher education)",
-        "qualification": "Class 9th to PG / Medical / Engineering / Overseas",
-        "categoryWiseBreakup": {},
-        "payScale": "₹ 15,000 to ₹ 20 Lakh"
+        "postName": "SBI Asha Scholarship 2026-27",
+        "totalPosts": "Open for all meritorious students",
+        "eligibility": "Students from class 9 to postgraduate and professional courses with 75% marks and family income under ₹3 Lakhs to ₹6 Lakhs.",
+        "qualification": "Class 9 to PG / Professional Courses",
+        "categoryWiseBreakup": {
+          "General": "Open",
+          "OBC": "Open",
+          "EWS": "Open",
+          "SC": "Open",
+          "ST": "Open"
+        },
+        "payScale": "Scholarship ₹15,000 to ₹20 Lakhs"
       }
     ],
     "selectionProcess": [
       {
         "stepNumber": 1,
-        "stageName": "Academic Merit Shortlisting",
-        "description": "Shortlisting based on minimum 75% academic score in previous class and income proof.",
+        "stageName": "Document & Academic Verification",
+        "description": "Screening of applications based on marks secured and family income criteria.",
         "qualifyingNature": "Merit Based"
-      },
-      {
-        "stepNumber": 2,
-        "stageName": "Document Verification & Telephonic Interview",
-        "description": "Verification of marksheet, fee receipt, identity, income certificate, and short interview.",
-        "qualifyingNature": "Mandatory"
       }
     ],
     "howToApplySteps": [
-      "Step 1: Visit official website sbiashascholarship.co.in.",
-      "Step 2: Click on Apply Now button for relevant student category.",
-      "Step 3: Register account using basic details and login.",
-      "Step 4: Fill academic details, bank details, and upload last year marksheet and fee receipt.",
-      "Step 5: Submit application form and save confirmation printout."
+      "Step 1: Visit the official SBI Asha Scholarship website at sbiashascholarship.co.in.",
+      "Step 2: Click on Apply Now and check your eligibility.",
+      "Step 3: Register an account using valid credentials and sign up.",
+      "Step 4: Log in, fill out the application form with accurate details, and upload necessary documents.",
+      "Step 5: Submit the form and take a printout for future use."
     ],
     "importantLinks": [
       {
@@ -707,22 +7558,22 @@ export const INITIAL_POSTS: Post[] = [
         "isPrimary": false
       }
     ],
-    "fullDescription": "## SBI Asha Scholarship Yojana 2026 Overview\n\nSBI Foundation invites applications for SBI Platinum Jubilee Asha Scholarship 2026-27. The scholarship assists meritorious students from low-income families in continuing their education.\n\n### Financial Assistance Structure\n- **Class 9 to 12:** Up to ₹15,000\n- **Undergraduate (UG):** Up to ₹75,000\n- **Postgraduate (PG):** Up to ₹2.50 Lakh\n- **Medical Students:** Up to ₹4.50 Lakh\n- **IIT Students:** Up to ₹2.00 Lakh\n- **IIM Students:** Up to ₹5.00 Lakh\n- **Overseas Education:** Up to ₹20.00 Lakh\n\n### Eligibility Criteria\n- Candidate must be an Indian citizen.\n- Minimum 75% marks in the previous academic year.\n- Annual family income must not exceed ₹3 Lakh (up to ₹6 Lakh for higher technical/professional courses).",
+    "fullDescription": "## SBI Asha Scholarship Yojana 2026 Overview\n\nThe SBI Foundation has announced the SBI Platinum Jubilee Asha Scholarship Programme 2026-27. This initiative provides financial support to meritorious and economically weaker students across India to ensure uninterrupted education from school level to higher professional and foreign studies.\n\n### Scholarship Benefits\n- **Class 9 to 12:** Up to ₹15,000\n- **Undergraduate Students:** Up to ₹75,000\n- **Postgraduate Students:** Up to ₹2.50 Lakhs\n- **Medical Students:** Up to ₹4.50 Lakhs\n- **IIT Students:** Up to ₹2 Lakhs\n- **IIM Students:** Up to ₹5 Lakhs\n- **Higher Education Abroad:** Up to ₹20 Lakhs\n\n### Eligibility Criteria\n- Open to Indian citizens belonging to economically weaker sections.\n- Family annual income must not exceed ₹3 Lakhs (for school level) or ₹6 Lakhs (for higher education).\n- Must have secured a minimum of 75% marks in the previous academic year.",
     "faqs": [
       {
-        "question": "What is the minimum percentage required for SBI Asha Scholarship 2026?",
-        "answer": "Candidates must have secured at least 75% marks in their previous academic year."
+        "question": "What is the last date to apply for SBI Asha Scholarship 2026?",
+        "answer": "The last date to apply is 4 September 2026."
       }
     ],
-    "metaTitle": "SBI Asha Scholarship Yojana 2026: Apply Online at sbiashascholarship.co.in",
-    "metaDescription": "SBI Asha Scholarship Yojana 2026 notification released. Get financial aid up to Rs 20 Lakh for 9th to PG and higher education students. Apply online before 4 September 2026.",
+    "metaTitle": "SBI Asha Scholarship Yojana 2026: Apply Online, Eligibility, Last Date",
+    "metaDescription": "Apply for SBI Asha Scholarship Yojana 2026. Get up to ₹20 Lakhs scholarship for school, college, and higher education students.",
     "keywords": [
       "SBI Asha Scholarship 2026",
       "SBI Foundation Scholarship",
-      "sbiashascholarship.co.in",
-      "Asha Scholarship Apply Online"
+      "SBI Scholarship Yojana"
     ],
-    "id": "studygovthelp-sbi-asha-scholarship-yojana-2026"
+    "id": "studygovthelp-sbi-asha-scholarship-yojana-2026",
+    "canonical_hash": "f93b8efed7cbe01f8eeb6e4c8afba579"
   },
   {
     "title": "Rajasthan Work from Home Job Recruitment 2026: 8,910 Posts",
@@ -817,7 +7668,8 @@ export const INITIAL_POSTS: Post[] = [
       "mahilawfh.rajasthan.gov.in",
       "Rajasthan Mahila Sewing Work From Home"
     ],
-    "id": "studygovthelp-rajasthan-work-from-home-job-recruitment-2026-8-910-posts"
+    "id": "studygovthelp-rajasthan-work-from-home-job-recruitment-2026-8-910-posts",
+    "canonical_hash": "4a3b3781c6c0d7f96ab91e9b589988fc"
   },
   {
     "title": "Rajasthan University BA 2nd Semester Result 2026",
@@ -896,125 +7748,108 @@ export const INITIAL_POSTS: Post[] = [
       "result.uniraj.ac.in",
       "erp.univraj.org BA result"
     ],
-    "id": "studygovthelp-rajasthan-university-ba-2nd-semester-result-2026"
+    "id": "studygovthelp-rajasthan-university-ba-2nd-semester-result-2026",
+    "canonical_hash": "0dcb99f9e99fbe9fdaff54f749bcd11d"
   },
   {
     "title": "Tata Capital Pankh Scholarship 2026",
     "slug": "tata-capital-pankh-scholarship-2026",
     "category": "scholarships",
-    "organization": "Tata Capital Limited",
+    "organization": "Tata Capital Limited & Buddy4Study",
     "state": "All India",
     "postDate": "2026-09-04",
-    "lastDate": "2026-10-26",
-    "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 provides financial assistance up to Rs 18,000 to students studying in class 11th, 12th, graduation, diploma, polytechnic, and ITI courses. Eligible candidates can apply online before 26 October 2026.",
-    "totalVacancies": "Scholarship Program",
+    "lastDate": "26/10/2026",
+    "shortInfo": "Tata Capital Pankh Scholarship Programme 2026-27 provides financial assistance up to ₹18,000 to students studying in 11th, 12th, graduation, diploma, and ITI.",
+    "totalVacancies": "Not Applicable",
     "qualificationRequired": [
-      "10th Pass",
+      "11th Pass",
       "12th Pass",
+      "Graduation",
       "Diploma",
-      "ITI",
-      "Graduation"
+      "ITI"
     ],
     "importantDates": [
       {
-        "event": "Online Application Start Date",
-        "date": "Already Started",
-        "isImportant": true,
-        "details": "Applications are open online"
-      },
-      {
-        "event": "Application Last Date",
+        "event": "Online Application Last Date",
         "date": "26/10/2026",
         "isImportant": true,
-        "details": "Final date to submit online application form"
+        "details": "Online application forms are currently active."
       }
     ],
     "applicationFees": [
       {
-        "category": "All Candidates",
-        "fee": "₹ 0/- (Exempted)"
+        "category": "All Categories",
+        "fee": "₹ 0/- (Free)"
       }
     ],
     "ageLimit": {
       "minAge": "N/A",
       "maxAge": "N/A",
       "cutoffDate": "N/A",
-      "relaxationDetails": "No age limit specified. Must be currently studying in recognized school/college/institution."
+      "relaxationDetails": "Not Specified"
     },
     "vacancies": [
       {
-        "postName": "Class 11th & 12th Students Scholarship",
-        "totalPosts": "N/A",
-        "eligibility": "Minimum 60% marks in previous class, annual family income up to Rs 4 Lakh",
-        "qualification": "Studying in Class 11th or 12th",
-        "categoryWiseBreakup": {},
-        "payScale": "Up to Rs 15,000 scholarship"
-      },
-      {
-        "postName": "Graduation, Diploma, Polytechnic & ITI Students Scholarship",
-        "totalPosts": "N/A",
-        "eligibility": "Minimum 60% marks in previous year/semester, annual family income up to Rs 4 Lakh",
-        "qualification": "Studying in BA, B.Com, B.Sc, Diploma, Polytechnic, or ITI",
-        "categoryWiseBreakup": {},
-        "payScale": "Up to Rs 18,000 scholarship"
+        "postName": "Tata Capital Pankh Scholarship Beneficiary",
+        "totalPosts": "Open",
+        "eligibility": "Students studying in 11th, 12th, graduation, diploma, or ITI with at least 60% marks and annual family income up to ₹4 Lakh.",
+        "qualification": "11th, 12th, Graduation, Diploma, ITI",
+        "categoryWiseBreakup": {
+          "UR": "Open",
+          "OBC": "Open",
+          "EWS": "Open",
+          "SC": "Open",
+          "ST": "Open"
+        },
+        "payScale": "Scholarship up to ₹18,000"
       }
     ],
     "selectionProcess": [
       {
         "stepNumber": 1,
-        "stageName": "Academic Merit & Application Screening",
-        "description": "Shortlisting based on minimum 60% marks in previous qualifying examination and family income criteria.",
+        "stageName": "Application Verification",
+        "description": "Screening of online applications and verification of uploaded academic marks and income certificates.",
         "marks": "N/A",
         "qualifyingNature": "Merit Based"
-      },
-      {
-        "stepNumber": 2,
-        "stageName": "Document Verification & Interview",
-        "description": "Verification of income certificate, marksheet, fee receipt, and identity proof.",
-        "marks": "N/A",
-        "qualifyingNature": "Mandatory"
       }
     ],
     "howToApplySteps": [
-      "Step 1: Check eligibility criteria and prepare required documents.",
-      "Step 2: Visit the official Buddy4Study / Tata Capital scholarship page.",
-      "Step 3: Fill in applicant details, academic record, and upload mandatory documents.",
-      "Step 4: Verify all entered details and submit the final online application form."
+      "Step 1: Visit the official scholarship portal via Buddy4Study.",
+      "Step 2: Check eligibility criteria for your respective course.",
+      "Step 3: Register and fill out the online application form.",
+      "Step 4: Upload required documents like mark sheets, income certificate, and bank details.",
+      "Step 5: Submit the final application form."
     ],
     "importantLinks": [
       {
-        "title": "Tata Capital Pankh Scholarship Notification",
-        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
-        "type": "notification",
-        "isPrimary": false
-      },
-      {
-        "title": "Apply Online",
+        "title": "Apply Online Portal",
         "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
         "type": "apply",
         "isPrimary": true
-      }
-    ],
-    "fullDescription": "## Tata Capital Pankh Scholarship 2026-27 Overview\n\nTata Capital Limited has announced the Tata Capital Pankh Scholarship Programme 2026-27 to support students from economically weaker sections. Students enrolled in Class 11, 12, Graduation, Polytechnic, Diploma, and ITI courses can receive up to Rs 18,000 as financial assistance based on their academic scores.\n\n### Eligibility Criteria\n\n- **Nationality:** Indian Citizen\n- **Academic Performance:** Minimum 60% marks in previous academic year or qualifying exam.\n- **Family Income:** Annual family income must not exceed Rs 4 Lakh from all sources.\n- **Ineligible Candidates:** Children of employees of Tata Capital Limited and Buddy4Study are not eligible.\n\n### Scholarship Amounts\n\n#### For Class 11th and 12th\n- **60% to 80% marks:** Maximum 80% of tuition fee or Rs 10,000 (whichever is lower)\n- **80% to 90% marks:** Maximum 90% of tuition fee or Rs 12,000 (whichever is lower)\n- **Above 90% marks:** Maximum 100% of tuition fee or Rs 15,000 (whichever is lower)\n\n#### For Graduation, Diploma, Polytechnic & ITI\n- **60% to 80% marks:** Maximum 80% of tuition fee or Rs 12,000 (whichever is lower)\n- **80% to 90% marks:** Maximum 90% of tuition fee or Rs 15,000 (whichever is lower)\n- **Above 90% marks:** Maximum 100% of tuition fee or Rs 18,000 (whichever is lower)\n\n### Priority Categories\nPreference will be given to female students, disabled students, single parent child, orphans, and SC/ST candidates.",
-    "faqs": [
-      {
-        "question": "What is the maximum income limit for Tata Capital Pankh Scholarship?",
-        "answer": "The annual family income must not exceed Rs 4 Lakh from all sources."
       },
       {
-        "question": "What is the last date to apply for Tata Capital Pankh Scholarship 2026?",
-        "answer": "The last date to apply online is 26 October 2026."
+        "title": "Download Official Notification",
+        "url": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme",
+        "type": "notification",
+        "isPrimary": false
       }
     ],
-    "metaTitle": "Tata Capital Pankh Scholarship 2026: Apply Online for up to Rs 18,000 Scholarship",
-    "metaDescription": "Tata Capital Pankh Scholarship 2026-27 online application form started. Get up to Rs 18,000 financial assistance for 11th, 12th, Graduation, Diploma & ITI students. Apply before 26 October 2026.",
+    "fullDescription": "## Tata Capital Pankh Scholarship 2026 Overview\n\nThe Tata Capital Pankh Scholarship Programme 2026-27 is initiated to assist students from economically weaker sections. Students studying in class 11th, 12th, graduation, polytechnic, diploma, and ITI are eligible for financial aid up to ₹18,000 based on their academic marks.\n\n### Eligibility Criteria\n- Must be an Indian citizen.\n- Minimum 60% marks in the previous academic year.\n- Annual family income must not exceed ₹4 Lakh.\n\n### Required Documents\n- Aadhaar Card\n- Passport size photograph\n- Previous year mark sheet\n- Income certificate\n- Fee receipt / Admission proof\n- Bank account details",
+    "faqs": [
+      {
+        "question": "What is the maximum scholarship amount?",
+        "answer": "Eligible students can receive up to ₹18,000 scholarship."
+      }
+    ],
+    "metaTitle": "Tata Capital Pankh Scholarship 2026: Apply Online, Eligibility & Last Date",
+    "metaDescription": "Check out Tata Capital Pankh Scholarship 2026 details, eligibility criteria, required documents, and online application process.",
     "keywords": [
       "Tata Capital Pankh Scholarship 2026",
-      "Pankh Scholarship Apply Online",
-      "Buddy4Study Tata Capital Scholarship",
-      "Scholarship for 11th 12th ITI Diploma"
+      "Scholarship Yojana",
+      "Buddy4Study Scholarship"
     ],
-    "id": "studygovthelp-tata-capital-pankh-scholarship-2026"
+    "id": "studygovthelp-tata-capital-pankh-scholarship-2026",
+    "canonical_hash": "d04a8347623f4f5c592cfa5d12528a3d"
   },
   {
     "id": "sarkari-iit-jee-advanced-admission-2026",
@@ -1514,172 +8349,6 @@ export const INITIAL_POSTS: Post[] = [
     "canonical_hash": "ed4fb0d174ed31940a6f4a8e8d6410fb"
   },
   {
-    "id": "isnblog-1788514657552-2-9",
-    "title": "India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy",
-    "slug": "india-post-gds-recruitment-2026-merit-list-cut-off-marks-and-selection-strategy-1788514657552-2",
-    "category": "blog",
-    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
-    "state": "All India",
-    "postDate": "2026-09-04",
-    "lastDate": "",
-    "shortInfo": "India Post GDS 2026 recruitment process relies entirely on Class 10th marks without any written exam. This detailed guide covers state-wise expected cut-off trends, document verification checklist, and practical tips to secure your post office seat.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Original on IndiaSarkariNaukri",
-        "url": "https://indiasarkarinaukri.com/blogs/india-post-gds-2026-merit-list",
-        "isPrimary": true
-      },
-      {
-        "title": "Full Blog on Pariksha Result",
-        "url": "/blog/india-post-gds-recruitment-2026-merit-list-cut-off-marks-and-selection-strategy-1788514657552-2",
-        "isPrimary": false
-      }
-    ],
-    "fullDescription": "# India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy\n\n> **Executive AEO Summary**: India Post Gramin Dak Sevak (GDS) recruitment 2026 is one of the most awaited direct selection opportunities in India. Without any written examination, your Class 10 marks dictate your final merit status. Read this complete guide for state-wise cut-off insights, document verification strategy, and salary details.\n\n## Section 1: Overview & Key Highlights\nAgar aap direct government job dhoondh rahe hain bina kisi competitive exam ke stress ke, toh India Post GDS 2026 aapke liye ek golden opportunity hai. Is recruitment process me koi written exam ya interview nahi hota—selection purely 10th standard ke marks par based hota hai.\n\nHere is a quick summary table of what to expect:\n\n| Category / Parameter | Details |\n| :--- | :--- |\n| Post Names | Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), Dak Sevak |\n| Selection Mode | Direct Merit List (Class 10th Marks Basis) |\n| Expected Cut Off (General) | 88% - 98% (Varies by Circle/State) |\n| Pay Scale (BPM) | Rs. 12,000 - Rs. 29,380 |\n| Pay Scale (ABPM/Dak Sevak) | Rs. 10,000 - Rs. 24,470 |\n\n## Section 2: Eligibility, Documents & Rules\nSelection direct hai, iska matlab Document Verification (DV) phase super strict hone wala hai. Chhoti si mistake aapka candidature cancel kar sakti hai.\n\n### Key Eligibility Criteria:\n- **Educational Qualification**: Passed 10th standard with Mathematics and English as compulsory/elective subjects from a recognized board.\n- **Local Language Proficiency**: Aapko us circle/state ki local language bolna aur likhna aana chahiye.\n- **Computer Skills**: Basic computer certificate or 10th/12th me computer subject hona zaroori hai.\n- **Age Limit**: Generally 18 to 40 years, with official age relaxations for SC/ST/OBC/PwD candidates.\n\n### Essential Documents Checklist:\n1. Original 10th Marks Card / Certificate\n2. Category / Caste Certificate (OBC-NCL, SC, ST, EWS)\n3. Identity Proof (Aadhaar Card, PAN Card, Voter ID)\n4. Residence / Domicile Certificate\n5. Basic Computer Knowledge Certificate (if applicable)\n\n## Section 3: Step-by-Step Practical Blueprint\nAapko lagta hoga ki bas form bhar diya aur kaam khatam, but proper preference selection is crucial!\n\n1. **Smart Circle Preference**: Always choose divisions where previous year cut-offs were slightly realistic for your percentage.\n2. **Accurate Data Entry**: Percentage aur CGPA conversion exact rules ke according hi enter karein. Galat calculation candidate ko disqualify kar deti hai.\n3. **Track Merit List Updates**: India Post releases multiple merit lists (List 1, List 2, List 3, etc.) as candidates skip DV.\n4. **Document Verification Readiness**: Original documents ke 2-3 set self-attested copies pehle se ready rakhein.",
-    "faqs": [
-      {
-        "question": "Is there any written exam for India Post GDS Recruitment 2026?",
-        "answer": "No, there is no written exam or interview. Selection is 100% based on Class 10th merit list."
-      },
-      {
-        "question": "What is the expected cut off percentage for General category candidates?",
-        "answer": "Cut off marks vary by circle, but generally range between 90% to 98% for competitive states like UP, Bihar, and Rajasthan."
-      },
-      {
-        "question": "Can I apply if I don't have a formal computer certificate?",
-        "answer": "Yes, if you studied computer as a subject in 10th or 12th standard, a separate computer certificate is usually not required."
-      },
-      {
-        "question": "How many merit lists does India Post release for GDS?",
-        "answer": "India Post usually releases 4 to 7 merit lists depending on seat vacancy and candidates passing document verification."
-      },
-      {
-        "question": "What is the starting salary for a Branch Postmaster (BPM)?",
-        "answer": "The initial basic pay scale for a BPM is around Rs. 12,000 per month under TRCA Level 1, plus applicable allowances."
-      }
-    ],
-    "metaTitle": "India Post GDS 2026 Merit List & Cut Off Strategy",
-    "metaDescription": "Check India Post GDS 2026 expected cut off marks, merit list selection process, DV steps, and salary breakdown in detail.",
-    "keywords": [
-      "India Post GDS 2026",
-      "GDS Merit List 2026",
-      "GDS Cut Off Marks",
-      "Gramin Dak Sevak Salary",
-      "GDS Document Verification",
-      "GDS Selection Process"
-    ],
-    "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-    "featuredImagePrompt": "H1 Title generated banner: India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy",
-    "imageAltText": "India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy - IndiaSarkariNaukri Blog",
-    "openGraph": {
-      "title": "India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy",
-      "description": "India Post GDS 2026 recruitment process relies entirely on Class 10th marks without any written exam. This detailed guide covers state-wise expected cut-off trends, document verification checklist, and practical tips to secure your post office seat.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-merit-list-cut-off-marks-and-selection-strategy-1788514657552-2",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is there any written exam for India Post GDS Recruitment 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No, there is no written exam or interview. Selection is 100% based on Class 10th merit list."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the expected cut off percentage for General category candidates?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Cut off marks vary by circle, but generally range between 90% to 98% for competitive states like UP, Bihar, and Rajasthan."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can I apply if I don't have a formal computer certificate?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, if you studied computer as a subject in 10th or 12th standard, a separate computer certificate is usually not required."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many merit lists does India Post release for GDS?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "India Post usually releases 4 to 7 merit lists depending on seat vacancy and candidates passing document verification."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the starting salary for a Branch Postmaster (BPM)?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The initial basic pay scale for a BPM is around Rs. 12,000 per month under TRCA Level 1, plus applicable allowances."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy",
-        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-04",
-        "dateModified": "2026-09-04",
-        "author": {
-          "@type": "Organization",
-          "name": "IndiaSarkariNaukri Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "India Post GDS Recruitment 2026 Merit List Cut Off Marks and Selection Strategy",
-            "item": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-merit-list-cut-off-marks-and-selection-strategy-1788514657552-2"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "canonical_hash": "01f81cc71047e419e77839f9d8dbed54"
-  },
-  {
     "id": "isnblog-1788514657552-1-102",
     "title": "Pradhan Mantri Jan Dhan Yojana 2026: Online Registration, Benefits & Zero Balance Account Details",
     "slug": "pradhan-mantri-jan-dhan-yojana-2026-online-registration-benefits-zero-balance-account-details-1788514657552-1",
@@ -1844,550 +8513,6 @@ export const INITIAL_POSTS: Post[] = [
     "plagiarismFreeScore": 100,
     "aiHumanizedScore": 99,
     "canonical_hash": "9e22835dc53d90cd12d2e4647b100886"
-  },
-  {
-    "id": "blog-auto-1hr-1788514657551-554",
-    "title": "📝 SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-    "slug": "ssc-cgl-2026-master-preparation-blueprint-1788514657551",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-04",
-    "lastDate": "",
-    "shortInfo": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/ssc-cgl-2026-master-preparation-blueprint-1788514657551",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint\n\n![SSC CGL 2026 Strategy](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.\n\n## 1. Executive Summary & SSC CGL 2026 Exam Overview\n\nThe Staff Selection Commission Combined Graduate Level (SSC CGL) exam is India's most prestigious non-technical government recruitment examination. Scoring 160+ in Tier 1 and qualifying Tier 2 requires a scientific balance between accuracy and speed.\n\n![Exam Study Setup](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)\n\n### Key Highlights\n- **Target Score**: Tier 1 (160+ / 200), Tier 2 (310+ / 390)\n- **Daily Study Hours**: 6 to 8 hours focused preparation\n- **Primary Strategy**: PYQs (Previous Year Questions) + Daily Mock Test Review\n\n## 2. Subject-Wise Tactical Breakdown & High-Yield Topics\n\n| Subject | Tier 1 Weightage | Tier 2 Weightage | Master Resource & Strategy |\n| :--- | :--- | :--- | :--- |\n| **Quantitative Aptitude** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Master Vedic Math, Percentage fractions & 50 PYQs daily |\n| **Reasoning Ability** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Daily Puzzles, Syllogism, Blood Relations & Seating arrangement |\n| **English Language** | 25 Questions (50 Marks) | 45 Questions (135 Marks) | SP Bakshi + 120 Grammar Rules + Editorial Vocabulary |\n| **General Awareness** | 25 Questions (50 Marks) | 25 Questions (75 Marks) | Lucent GK + Daily Current Affairs Digests & Science summaries |\n| **Computer Knowledge** | Qualifying | 20 Questions (60 Marks) | NCERT Computer Science Class 9-11 + Hardware/Software Basics |\n\n### Quantitative Aptitude Roadmap\n- Memorize multiplication tables up to 30, squares up to 50, cubes up to 30.\n- Master fast percentage fraction conversions (e.g., 1/7 = 14.28%, 1/9 = 11.11%).\n- Practice Geometry and Mensuration 3D formulas daily.\n\n## 3. The 90-Day Step-by-Step Study Timetable\n\n- **Days 1 to 30 (Foundation Phase)**: Complete 100% concepts of Mathematics and English Grammar rules.\n- **Days 31 to 60 (PYQ Mastery Phase)**: Solve last 10 years' SSC CGL question banks chapter-by-chapter.\n- **Days 61 to 90 (Mock Test Blitz Phase)**: Take 1 full-length mock test daily at exact exam timing.\n\n## 4. Mock Test Evaluation & Error Log Protocol\n\nNever skip post-test analysis. Maintain a dedicated **Error Log Notebook** to record every calculation error or conceptual blunder.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "Is 90 days enough to clear SSC CGL 2026?",
-        "answer": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
-      },
-      {
-        "question": "How many mock tests should I take before Tier 1?",
-        "answer": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
-      },
-      {
-        "question": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
-        "answer": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
-      },
-      {
-        "question": "What is the negative marking penalty in SSC CGL Tier 1?",
-        "answer": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
-      }
-    ],
-    "metaTitle": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint | Pariksha Result Blog",
-    "metaDescription": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reaso...",
-    "keywords": [
-      "SSC CGL 2026 Strategy",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-      "description": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788514657551",
-      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is 90 days enough to clear SSC CGL 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many mock tests should I take before Tier 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the negative marking penalty in SSC CGL Tier 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-04",
-        "dateModified": "2026-09-04",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788514657551"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "c6edf32c10696e322edbe63263b2e0b1"
-  },
-  {
-    "id": "blog-auto-1hr-1788514657551-857",
-    "title": "📝 Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-    "slug": "pradhan-mantri-awas-yojana-2026-complete-guide-1788514657551",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-04",
-    "lastDate": "",
-    "shortInfo": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788514657551",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide\n\n![PMAY 2026 Scheme](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.\n\n## 1. Pradhan Mantri Awas Yojana (PMAY) 2026 Overview\n\nThe Government of India's flagship housing scheme PMAY aims to provide pucca houses with basic amenities to all eligible urban and rural families across India.\n\n![Modern Housing](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80)\n\n## 2. Eligibility & Income Categories\n\n| Category | Annual Household Income | Max Subsidy Available |\n| :--- | :--- | :--- |\n| **EWS (Economically Weaker)** | Up to ₹3 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **LIG (Low Income Group)** | ₹3 Lakh to ₹6 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **MIG I (Middle Income Group)** | ₹6 Lakh to ₹12 Lakh | Subsidized Housing Loan Rates |\n| **PMAY Gramin (Rural)** | BPL / SECC 2011 List | ₹1.20 Lakh to ₹1.30 Lakh Direct Grant |\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "How do I check my name in PMAY Gramin List 2026?",
-        "answer": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
-      },
-      {
-        "question": "Can unmarried adults apply for PMAY separately?",
-        "answer": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
-      }
-    ],
-    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide | Pariksha Result Blog",
-    "metaDescription": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest sub...",
-    "keywords": [
-      "PMAY 2026 Scheme",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide - Pariksha Result",
-    "openGraph": {
-      "title": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-      "description": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788514657551",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "How do I check my name in PMAY Gramin List 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can unmarried adults apply for PMAY separately?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-04",
-        "dateModified": "2026-09-04",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788514657551"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "e4ee08d9b3ac83a381a2f6f9ca17056d"
-  },
-  {
-    "id": "blog-auto-1hr-1788514657551-429",
-    "title": "📝 RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-    "slug": "rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788514657551",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-04",
-    "lastDate": "",
-    "shortInfo": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788514657551",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint\n\n![RRB NTPC 2026 Preparation](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.\n\n## 1. Indian Railways Recruitment Drive Overview\n\nWith over 35,000+ vacancies announced in RRB NTPC and Group D, Railway jobs offer high security, lucrative allowances, and fast career progression.\n\n![Railway Track](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80)\n\n## 2. General Science Mastery Strategy\n\nIn Railway exams, Physics, Chemistry, and Life Sciences from NCERT Class 9 & 10 contribute over 25% of total questions.\n\n- **Physics Focus**: Newton Laws, Work Energy Power, Electricity, Light Reflection/Refraction.\n- **Chemistry Focus**: Periodic Table trends, Chemical Equations, Acids Bases Salts.\n- **Biology Focus**: Human Physiology, Cell Structure, Plant Classification & Genetics.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "Is there negative marking in RRB NTPC CBT 1?",
-        "answer": "Yes, 1/3rd mark is deducted for every incorrect option selected."
-      },
-      {
-        "question": "What is the language medium available for RRB exams?",
-        "answer": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
-      }
-    ],
-    "metaTitle": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint | Pariksha Result Blog",
-    "metaDescription": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 N...",
-    "keywords": [
-      "RRB NTPC 2026 Preparation",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-      "description": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788514657551",
-      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is there negative marking in RRB NTPC CBT 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, 1/3rd mark is deducted for every incorrect option selected."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the language medium available for RRB exams?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-04",
-        "dateModified": "2026-09-04",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788514657551"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "3829e8b2470d9ce7adf9d99d0c90c8ec"
-  },
-  {
-    "id": "blog-auto-1hr-1788514657551-442",
-    "title": "📝 UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-    "slug": "upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788514657551",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-04",
-    "lastDate": "",
-    "shortInfo": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788514657551",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint\n\n![UPSC CSE Prelims 2026](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.\n\n## 1. Executive Summary & UPSC Prelims 2026 Dynamics\n\nThe UPSC Civil Services Examination (CSE) Prelims is designed to test depth of understanding, analytical reasoning, and current affairs synthesis. In 2026, cutoffs hover around 85-92 marks out of 200 in GS Paper 1.\n\n![UPSC Books Setup](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80)\n\n## 2. Core Booklist & Standard Sources\n\n| Subject | Core Text Book | Revision Strategy |\n| :--- | :--- | :--- |\n| **Indian Polity** | M. Laxmikanth (7th Edition) | Read 5 times minimum + PYQs |\n| **Modern History** | A Brief History of Modern India (Spectrum) | Timeline notes + Governor General reforms |\n| **Environment & Ecology** | Shankar IAS / NCERT Class 12 Biology | Wildlife Sanctuaries, National Parks & Climate Summits |\n| **Indian Economy** | Ramesh Singh / Vivek Singh + Budget | Economic Survey + Inflation/Monetary Policy concepts |\n| **Geography** | NCERT Class 11 & 12 (4 Books) + Mapping | Daily 15-minute atlas mapping practice |\n\n## 3. CSAT (Paper II) Qualifying Strategy for Non-Maths Aspirants\n\n- Target **Reading Comprehension** (25-28 Questions) with high precision.\n- Master **Logical Reasoning** (Syllogisms, Direction Sense, Blood Relations).\n- Solve last 10 years' official UPSC CSAT papers to understand question phrasing.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "What is the qualifying marks required for UPSC CSAT Paper II?",
-        "answer": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
-      },
-      {
-        "question": "How many months of current affairs are needed for UPSC Prelims 2026?",
-        "answer": "Focus strictly on 18 months of current affairs prior to the exam date."
-      },
-      {
-        "question": "Is reading NCERT textbooks mandatory for UPSC?",
-        "answer": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
-      }
-    ],
-    "metaTitle": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint | Pariksha Result Blog",
-    "metaDescription": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), ...",
-    "keywords": [
-      "UPSC CSE Prelims 2026",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-      "description": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788514657551",
-      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "What is the qualifying marks required for UPSC CSAT Paper II?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many months of current affairs are needed for UPSC Prelims 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Focus strictly on 18 months of current affairs prior to the exam date."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is reading NCERT textbooks mandatory for UPSC?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-04",
-        "dateModified": "2026-09-04",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788514657551"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "7054fe37fbedea28b51d4e36164dcbef"
   },
   {
     "id": "job-auto-1hr-1788514657551-482",
@@ -3175,114 +9300,118 @@ export const INITIAL_POSTS: Post[] = [
     "title": "India Post GDS Recruitment 2026",
     "slug": "india-post-gds-recruitment-2026",
     "category": "latest-jobs",
-    "organization": "India Post",
+    "organization": "India Post, Ministry of Communications",
     "state": "All India",
     "postDate": "2026-09-04",
     "originalPostDate": "2026-09-04",
     "publishedAt": "2026-09-04",
     "syncedAt": "2026-09-04T09:36:13.045Z",
-    "lastDate": "Not Available",
-    "shortInfo": "Department of Posts (India Post) invites online applications for Gramin Dak Sevak (GDS), Branch Postmaster (BPM), and Assistant Branch Postmaster (ABPM) posts across multiple circles nationwide. Merit is based strictly on 10th standard marks.",
-    "totalVacancies": "44,228 Posts",
+    "lastDate": "21/09/2026",
+    "shortInfo": "India Post has released the Gramin Dak Sevak (GDS) Recruitment Schedule-II, July-2026 notification for 23,757 vacancies. 10th pass candidates can apply online without any written exam based on their 10th marks merit.",
+    "totalVacancies": "23,757 Posts",
     "qualificationRequired": [
-      "10th Pass"
+      "10th Pass with Mathematics & English"
     ],
     "importantDates": [
       {
-        "event": "Online Application Start",
-        "date": "01/02/2026",
-        "isImportant": true
+        "event": "One-Time Registration Start Date",
+        "date": "31/08/2026",
+        "isImportant": true,
+        "details": "OTR open until 19 September 2026."
       },
       {
-        "event": "Last Date for Registration",
-        "date": "28/02/2026",
-        "isImportant": true
+        "event": "Online Application Start Date",
+        "date": "02/09/2026",
+        "isImportant": true,
+        "details": "Application forms live from 2 September 2026."
       },
       {
-        "event": "Form Correction Window",
-        "date": "02/03/2026",
-        "isImportant": false
+        "event": "Online Application Last Date",
+        "date": "21/09/2026",
+        "isImportant": true,
+        "details": "Last date to apply is 21 September 2026 (5:00 PM)."
       },
       {
-        "event": "1st Merit List Release",
-        "date": "15/03/2026",
-        "isImportant": true
+        "event": "Application Correction Window",
+        "date": "23/09/2026 to 24/09/2026",
+        "isImportant": false,
+        "details": "Correction window open for 2 days."
       }
     ],
     "applicationFees": [
       {
-        "category": "General / OBC / EWS",
+        "category": "General / OBC / EWS Male",
         "fee": "₹ 100/-"
       },
       {
-        "category": "SC / ST / PwD / Female",
-        "fee": "₹ 0/-"
+        "category": "Female / SC / ST / PwBD / Transwomen",
+        "fee": "₹ 0/- (Exempted)"
       }
     ],
     "ageLimit": {
       "minAge": "18 Years",
       "maxAge": "40 Years",
-      "cutoffDate": "28/02/2026",
-      "relaxationDetails": "OBC candidates get 3 years relaxation, SC/ST candidates get 5 years relaxation as per rules."
+      "cutoffDate": "21/09/2026",
+      "relaxationDetails": "SC/ST: 5 Years, OBC: 3 Years, PwBD: 10 Years"
     },
     "vacancies": [
       {
         "postName": "Gramin Dak Sevak (BPM / ABPM / Dak Sevak)",
-        "totalPosts": "44,228",
-        "eligibility": "10th Class Passed with Mathematics and English as compulsory subjects; basic computer knowledge required."
+        "totalPosts": "23757",
+        "eligibility": "10th Class pass with passing marks in Mathematics and English, and knowledge of local language.",
+        "qualification": "10th Pass",
+        "categoryWiseBreakup": {
+          "UR": "As per circle rules",
+          "OBC": "As per circle rules",
+          "EWS": "As per circle rules",
+          "SC": "As per circle rules",
+          "ST": "As per circle rules"
+        },
+        "payScale": "TRCA ₹12,000 - ₹29,380 (BPM) / ₹10,000 - ₹24,470 (ABPM)"
       }
     ],
     "howToApplySteps": [
-      "Visit the official GDS portal at indiapostgdsonline.gov.in.",
-      "Complete the basic registration step using Mobile Number and Email ID.",
-      "Login using Registration ID and select your desired Postal Circle and Division.",
-      "Fill in academic details and select post preferences carefully.",
-      "Upload photo, signature, and Class 10 marksheet.",
-      "Submit application fee online (if applicable) and save application printout."
+      "Step 1: Visit the official India Post GDS portal at indiapost.gov.in.",
+      "Step 2: Complete One-Time Registration (OTR) with valid mobile number and email.",
+      "Step 3: Login using registration number and password.",
+      "Step 4: Fill in personal and 10th educational qualification details.",
+      "Step 5: Select preferred division and upload scanned photo and signature.",
+      "Step 6: Pay the application fee (if applicable) and submit the final form."
     ],
     "importantLinks": [
       {
-        "title": "Apply Online GDS Form",
-        "url": "https://indiapostgdsonline.gov.in/",
-        "isPrimary": true,
-        "type": "apply"
+        "title": "Apply Online Portal",
+        "url": "https://indiapost.gov.in/gdsonlineengagement",
+        "type": "apply",
+        "isPrimary": true
       },
       {
-        "title": "Download Official GDS Notification",
-        "url": "https://indiapostgdsonline.gov.in/",
-        "isPrimary": false,
-        "type": "notification"
+        "title": "Download Official Notification PDF",
+        "url": "https://studygovthelp.in/wp-content/uploads/2026/08/India-Post-GDS-Recruitment-2026-StudyGovtHelp.in_.pdf",
+        "type": "notification",
+        "isPrimary": false
       },
       {
-        "title": "India Post Portal",
+        "title": "Official Website",
         "url": "https://indiapost.gov.in/",
-        "isPrimary": false,
-        "type": "website"
+        "type": "website",
+        "isPrimary": false
       }
     ],
-    "fullDescription": "### India Post GDS Vacancy 2026\n\nIndia Post has released the official Gramin Dak Sevak selection notification. The recruitment fills Branch Post Master (BPM) and Assistant Branch Post Master (ABPM) posts nationwide without any written exam.\n\n#### Selection Method\n- No entrance examination will be conducted.\n- Final selection is purely based on marks secured in Class 10th (Secondary School Examination).\n\n#### Salary Scale\n- **BPM**: ₹ 12,000/- to ₹ 29,380/- (TRCA Level 1)\n- **ABPM / Dak Sevak**: ₹ 10,000/- to ₹ 24,470/- (TRCA Level 1)",
+    "fullDescription": "## India Post GDS Recruitment 2026 Overview\n\nIndia Post has published the Gramin Dak Sevak (GDS) Schedule-II recruitment notification for July-2026, offering 23,757 vacancies across various postal circles in India. The posts include Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), and Dak Sevak.\n\n### Eligibility Criteria\n- **Educational Qualification:** 10th standard pass with passing marks in Mathematics and English from a recognized board. Knowledge of the local language is compulsory.\n- **Age Limit:** 18 to 40 years as of the last date of application.\n\n### Salary / TRCA\n- **BPM:** ₹12,000 to ₹29,380\n- **ABPM / Dak Sevak:** ₹10,000 to ₹24,470",
     "faqs": [
       {
-        "question": "Is there an exam for India Post GDS?",
-        "answer": "No exam is held. Selection is done directly based on 10th Class merit marks."
-      },
-      {
-        "question": "What is the minimum age to apply for GDS?",
-        "answer": "The minimum age requirement is 18 years as of the closing date."
-      },
-      {
-        "question": "Can females apply without fee?",
-        "answer": "Yes, female candidates of all categories are exempted from paying the application fee."
+        "question": "Is there any written exam for India Post GDS Recruitment 2026?",
+        "answer": "No, selection is based purely on merit derived from 10th standard marks."
       }
     ],
-    "metaTitle": "India Post GDS Recruitment 2026 | Pariksha Result",
-    "metaDescription": "Department of Posts (India Post) invites online applications for Gramin Dak Sevak (GDS), Branch Postmaster (BPM), and Assistant Branch Postmaster (ABPM) po",
+    "metaTitle": "India Post GDS Recruitment 2026: 23,757 Posts, Apply Online",
+    "metaDescription": "Apply online for India Post GDS Recruitment 2026 for 23,757 vacancies. Check circle-wise vacancy, eligibility, salary, and last date.",
     "keywords": [
-      "India Post GDS 2026",
-      "Gramin Dak Sevak Recruitment",
-      "GDS Merit List 2026",
-      "India Sarkari Naukri GDS",
-      "Post Office Vacancy 2026"
+      "India Post GDS Recruitment 2026",
+      "Gramin Dak Sevak Notification",
+      "India Post Vacancy 2026",
+      "GDS Online Apply"
     ],
     "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
     "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
@@ -3304,173 +9433,21 @@ export const INITIAL_POSTS: Post[] = [
       },
       "breadcrumbSchema": {}
     },
-    "canonical_hash": "a898a58579879114b246d021d5621fa8"
-  },
-  {
-    "id": "isnblog-1788514277187-2-502",
-    "title": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
-    "slug": "india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1788514277187-2",
-    "category": "blog",
-    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
-    "state": "All India",
-    "postDate": "2026-08-27",
-    "lastDate": "",
-    "shortInfo": "India Post GDS 2026 selection strictly depends on your Class 10th marks—no written exam needed! To secure a seat as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), understanding circle-wise cut-off trends and keeping your Document Verification (DV) file bulletproof is key.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
+    "canonical_hash": "a898a58579879114b246d021d5621fa8",
+    "selectionProcess": [
       {
-        "title": "Read Original on IndiaSarkariNaukri",
-        "url": "https://indiasarkarinaukri.com/blogs/india-post-gds-2026-merit-list",
-        "isPrimary": true
+        "stepNumber": 1,
+        "stageName": "Merit List Preparation",
+        "description": "System-generated merit list prepared based on marks obtained in 10th standard secondary school examination.",
+        "qualifyingNature": "Merit Based"
       },
       {
-        "title": "Full Blog on Pariksha Result",
-        "url": "/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2",
-        "isPrimary": false
+        "stepNumber": 2,
+        "stageName": "Document Verification",
+        "description": "Verification of original academic certificates, category documents, and medical certificate.",
+        "qualifyingNature": "Mandatory"
       }
-    ],
-    "fullDescription": "# India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy\n\n> **Executive AEO Summary**: India Post Gramin Dak Sevak (GDS) 2026 recruitment evaluates candidates purely on Class 10th board percentage—without any written test. To land a post as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), candidates must strategically pick preferences based on state-wise cut-off trends and keep document verification (DV) paperwork ready.\n\n---\n\n## Section 1: Overview & Key Highlights\n\nHello Dosto! Agar aap bina kisi tough competitive written exam ke ek official Government job start karna chahte hain, toh **India Post GDS Recruitment 2026** aapki sabse badi opportunity hai. Every year, Department of Posts thousands of Gramin Dak Sevak vacancies announce karta hai. Lekin yahan competition speed ya general knowledge ka nahi, balki smart preference filling aur clean documentation ka hai.\n\n### Key Highlights at a Glance\n\n| Feature | Details |\n| :--- | :--- |\n| **Recruiting Body** | Department of Posts (India Post) |\n| **Posts Included** | Branch Postmaster (BPM), Assistant Branch Postmaster (ABPM), Dak Sevak |\n| **Selection Method** | No Written Exam (Purely 10th Board Marks Merit) |\n| **BPM Pay Scale (TRCA)** | Rs. 12,000 - Rs. 29,380 per month |\n| **ABPM/Dak Sevak Pay** | Rs. 10,000 - Rs. 24,470 per month |\n| **Job Type** | Permanent (Central Govt / Postal Dept Services) |\n\n### Expected Cut-Off Trends for 2026\n\nCut-off scores vary heavily by circle and local demographics. High-density states like UP, Bihar, Rajasthan, and Haryana standardly record high cut-offs, whereas North-Eastern and South Indian circles see slightly moderate cut-offs.\n\n- **General / UR**: 92% – 98%+\n- **OBC**: 90% – 96%\n- **EWS**: 88% – 94%\n- **SC**: 85% – 92%\n- **ST**: 80% – 88%\n- **PwD**: 75% – 85%\n\n---\n\n## Section 2: Eligibility, Documents & Rules\n\nSelection 10th marks ke basis par hone ki wajah se minor errors bhi candidate ka application reject karwa dete hain. Key rules aur required documents ka dhyaan rakhna bohot zaruri hai.\n\n### Essential Eligibility Criteria\n1. **Educational Qualification**: Passed Class 10th (Matriculation) with Mathematics and English as compulsory/elective subjects.\n2. **Local Language**: Candidate ko relevant postal circle ki official local language padhna, likhna aur bolna aana chahiye.\n3. **Age Limit**: Minimum 18 years, Maximum 40 years (Category relaxation applicable as per Central Govt rules).\n4. **Other Requirements**: Basic computer knowledge, cycling capability, and living accommodation arrangement in the selected branch post office area.\n\n### Essential Document Verification (DV) Checklist\n- Original 10th Marksheet & Passing Certificate.\n- Caste Certificate (OBC-NCL / SC / ST / EWS in Central Government format).\n- Medical Fitness Certificate (Issued by a Government Medical Officer).\n- Proof of Date of Birth (If not mentioned in 10th Marksheet).\n- Identity Proof (Aadhaar Card / PAN Card / Voter ID).\n- Computer Knowledge Certificate (Relaxed if computer was a subject in 10th/12th).\n\n---\n\n## Section 3: Step-by-Step Practical Blueprint\n\nAgar aapka 10th percentage border mark (85%-92%) par hai, toh smart execution se selection chances double ho sakte hain.\n\n### Step 1: Analyze Division-Wise Seats\nForm bharte waqt sirf home town mat dekho. Check karo ki nearby rural divisions mein seat distribution kaisa hai. Rural and inner-circle branches usually record 2-4% lower cut-offs compared to urban/semi-urban branches.\n\n### Step 2: Strategic Preference Filling\n- Maximum preferences use karein. Aap jitne zyada post choices select karenge, system merit shortlist mein aapka nam aane ki probability utni high hogi.\n- Priority order rules: First preferences un branches ko dein jahan aap relocate hone ko ready ho aur pichle saal cut-off reasonable raha tha.\n\n### Step 3: Keep Name & Certificate Data 100% Matching\nName, Father's Name, Date of Birth, and Marksheet Serial Number—har jagah single letter mistake bhi nahi honi chahiye. Agar discrepancy hai, toh application se pehle formal gazette / affidavit ready rakhein.\n\n> **Pro-Tip**: Document Verification (DV 1 & DV 2) ke waqt system duplicate documents to tolerate nahi karta. Always carry 2 sets of self-attested photocopies alongside original documents.",
-    "faqs": [
-      {
-        "question": "Is there any written examination for India Post GDS 2026?",
-        "answer": "No, India Post GDS recruitment does not conduct any written exam or interview. Selection is made 100% on the basis of Class 10th board merit percentage calculated up to 4 decimal places."
-      },
-      {
-        "question": "How is the GDS Merit List calculated for CGPA board students?",
-        "answer": "For candidates having grades/CGPA in Class 10th, marks are converted into percentage by multiplying the CGPA with the board standard conversion factor (e.g., CBSE CGPA * 9.5)."
-      },
-      {
-        "question": "What is the monthly salary of a GDS Branch Postmaster (BPM)?",
-        "answer": "The basic TRCA (Time Related Continuity Allowance) for a BPM is Rs. 12,000 to Rs. 29,380 per month plus applicable DA and local allowances, resulting in a gross monthly pay around Rs. 15,000 - Rs. 18,000 at joining."
-      },
-      {
-        "question": "Can I apply for a postal circle if I don't speak the local language?",
-        "answer": "No, mandatory eligibility requires studying the official local language of that specific state/circle up to at least Class 10th standard."
-      },
-      {
-        "question": "What happens if two candidates have the same 10th marks standard?",
-        "answer": "In case of a tie in percentage, preference is given based on Date of Birth (older candidates ranked higher), followed by category preferences as per standard department regulations."
-      }
-    ],
-    "metaTitle": "India Post GDS 2026 Cut Off, Merit List & Selection Guide",
-    "metaDescription": "Check India Post GDS 2026 expected cut off marks, merit list release dates, DV checklist, and BPM/ABPM salary details in this complete guide.",
-    "keywords": [
-      "India Post GDS 2026",
-      "GDS Merit List 2026",
-      "Gramin Dak Sevak Cut Off",
-      "GDS Selection Strategy",
-      "GDS DV Checklist",
-      "BPM ABPM Salary 2026"
-    ],
-    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "featuredImagePrompt": "H1 Title generated banner: India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
-    "imageAltText": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy - IndiaSarkariNaukri Blog",
-    "openGraph": {
-      "title": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
-      "description": "India Post GDS 2026 selection strictly depends on your Class 10th marks—no written exam needed! To secure a seat as Branch Postmaster (BPM) or Assistant Branch Postmaster (ABPM), understanding circle-wise cut-off trends and keeping your Document Verification (DV) file bulletproof is key.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2",
-      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is there any written examination for India Post GDS 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No, India Post GDS recruitment does not conduct any written exam or interview. Selection is made 100% on the basis of Class 10th board merit percentage calculated up to 4 decimal places."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How is the GDS Merit List calculated for CGPA board students?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "For candidates having grades/CGPA in Class 10th, marks are converted into percentage by multiplying the CGPA with the board standard conversion factor (e.g., CBSE CGPA * 9.5)."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the monthly salary of a GDS Branch Postmaster (BPM)?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The basic TRCA (Time Related Continuity Allowance) for a BPM is Rs. 12,000 to Rs. 29,380 per month plus applicable DA and local allowances, resulting in a gross monthly pay around Rs. 15,000 - Rs. 18,000 at joining."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can I apply for a postal circle if I don't speak the local language?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No, mandatory eligibility requires studying the official local language of that specific state/circle up to at least Class 10th standard."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What happens if two candidates have the same 10th marks standard?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "In case of a tie in percentage, preference is given based on Date of Birth (older candidates ranked higher), followed by category preferences as per standard department regulations."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
-        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-08-27",
-        "dateModified": "2026-08-27",
-        "author": {
-          "@type": "Organization",
-          "name": "IndiaSarkariNaukri Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "India Post GDS Recruitment 2026: State-Wise Cut Off, Merit List & Selection Strategy",
-            "item": "https://pariksha-result.vercel.app/blog/india-post-gds-recruitment-2026-state-wise-cut-off-merit-list-selection-strategy-1787832754858-2"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "canonical_hash": "72a73c863f512f7c02674381e487ef9b"
+    ]
   },
   {
     "id": "isnblog-1788514277187-1-676",
@@ -10430,131 +16407,6 @@ export const INITIAL_POSTS: Post[] = [
     "canonical_hash": "3c6608df95b826136fc2e0fc913202a5"
   },
   {
-    "id": "job-auto-1hr-1788157210669-648",
-    "title": "🎟️ [Admit Card Out] UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-    "slug": "sarkari-job-auto-update-1788157210669",
-    "category": "admit-card",
-    "organization": "Uttar Pradesh Police (UPPRPB) (Auto-Synced)",
-    "state": "All India",
-    "postDate": "2026-08-31",
-    "lastDate": "2026-09-30",
-    "shortInfo": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
-    "totalVacancies": "60,244 Posts",
-    "qualificationRequired": [
-      "12th Pass"
-    ],
-    "importantDates": [
-      {
-        "event": "City Intimation Active",
-        "date": "2026-08-31",
-        "isImportant": true
-      },
-      {
-        "event": "Admit Card Download Start",
-        "date": "2026-08-31",
-        "isImportant": true
-      },
-      {
-        "event": "Written Examination Date",
-        "date": "November / December 2026",
-        "isImportant": true
-      }
-    ],
-    "applicationFees": [
-      {
-        "category": "General / OBC / EWS",
-        "fee": "₹ 100/-"
-      },
-      {
-        "category": "SC / ST / PwD / Female",
-        "fee": "₹ 0/- (Exempted)"
-      }
-    ],
-    "ageLimit": {
-      "minAge": "18 Years",
-      "maxAge": "27-30 Years",
-      "cutoffDate": "01/08/2026",
-      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP Police Constable Written Exam Admit Card 2026",
-        "totalPosts": "60,244 Posts",
-        "eligibility": "12th Pass"
-      }
-    ],
-    "howToApplySteps": [
-      "Visit the official candidate login page.",
-      "Click on the Admit Card download link.",
-      "Provide your registration ID and Password / Date of Birth.",
-      "Enter the verification CAPTCHA code and click submit.",
-      "Download and print your Admit Card on a standard clean A4 sheet."
-    ],
-    "importantLinks": [
-      {
-        "title": "Download Admit Card / Hall Ticket",
-        "url": "#",
-        "isPrimary": true,
-        "type": "admit-card"
-      },
-      {
-        "title": "Download Official Notification PDF",
-        "url": "#",
-        "isPrimary": false,
-        "type": "notification"
-      },
-      {
-        "title": "Official Website",
-        "url": "#",
-        "isPrimary": false,
-        "type": "website"
-      }
-    ],
-    "fullDescription": "# UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket\n\n**Uttar Pradesh Police (UPPRPB)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **60,244 Posts**.\n\n## Summary Overview\n\nUttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Uttar Pradesh Police (UPPRPB)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 60,244 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
-    "faqs": [
-      {
-        "question": "What is the eligibility/qualification required for UP Police Constable Written Exam Admit Card 2026?",
-        "answer": "Candidates must possess 12th Pass as specified by Uttar Pradesh Police (UPPRPB)."
-      },
-      {
-        "question": "How can I access the direct link for this update?",
-        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
-      },
-      {
-        "question": "When are the key dates for this announcement?",
-        "answer": "Online activities start from 2026-08-31. Please check the important dates section for full schedule details."
-      },
-      {
-        "question": "Is there any fee for SC/ST/Female candidates?",
-        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
-      }
-    ],
-    "metaTitle": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket | Pariksha Result Auto-Sync",
-    "metaDescription": "Apply online / check details for UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
-    "keywords": [
-      "Uttar Pradesh Police (UPPRPB)",
-      "admit-card",
-      "Sarkari Job 2026",
-      "Recruitment Notification",
-      "Online Form",
-      "Pariksha Result"
-    ],
-    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
-    "imageAltText": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-    "openGraph": {
-      "title": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-      "description": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1788157210669"
-    },
-    "schemas": {
-      "faqSchema": {},
-      "articleSchema": {},
-      "breadcrumbSchema": {}
-    },
-    "canonical_hash": "fc3bf7e4f40fd2dc1e22a67ca1090328"
-  },
-  {
     "id": "sarkari-pm-kisan-samman-nidhi-yojana-19th-installment-status-2026",
     "title": "PM Kisan Samman Nidhi Yojana 19th Installment Status 2026",
     "slug": "pm-kisan-samman-nidhi-yojana-19th-installment-status-2026",
@@ -11643,172 +17495,6 @@ export const INITIAL_POSTS: Post[] = [
       "breadcrumbSchema": {}
     },
     "canonical_hash": "77a0a0e3fac061c29e185ad26a6e0d3c"
-  },
-  {
-    "id": "isnblog-1787833533408-1-62",
-    "title": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
-    "slug": "pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1",
-    "category": "blog",
-    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
-    "state": "All India",
-    "postDate": "2026-08-27",
-    "lastDate": "",
-    "shortInfo": "Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 continues to be India's backbone for financial inclusion, offering zero balance accounts, free RuPay debit cards, and accidental insurance cover. Check eligibility, required documents, and registration steps below to open your account easily.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Original on IndiaSarkariNaukri",
-        "url": "https://indiasarkarinaukri.com/blogs/pmjdy-2026-guide",
-        "isPrimary": true
-      },
-      {
-        "title": "Full Blog on Pariksha Result",
-        "url": "/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1",
-        "isPrimary": false
-      }
-    ],
-    "fullDescription": "# Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide\n\n> **Executive AEO Summary**: Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 brings updated financial security features for Indian citizens. This guide walks you through zero-balance savings account perks, accidental insurance, overdraft facilities, and the exact steps to apply online or offline.\n\n## Section 1: Overview & Key Highlights\n\nArre dosto, agar aapko ek aisa bank account chahiye jisme minimum balance maintain karne ki koi tension na ho, toh **PM Jan Dhan Yojana (PMJDY) 2026** aapke liye best sarkari yojana hai! Narendra Modi government ki yeh flagship financial inclusion scheme India ke har ghar tak banking services pahunchane ke liye banayi gayi hai.\n\n### Major Benefits of PMJDY 2026:\n* **Zero Balance Savings Account**: Aapko account me ek bhi paisa (Rs. 0) rakhne ki zaroorat nahi hai. No penalty for low balance!\n* **RuPay Debit Card**: Har account holder ko free me RuPay ATM card milta hai.\n* **Accidental Insurance Cover**: Abhi ke naye rules ke mutabiq, Rupay card par aapko accident insurance cover milta hai.\n* **Overdraft Facility (OD)**: Account ke संतोषजनक (satisfactory) operation ke baad, eligible families ko up to Rs. 10,000 tak ka overdraft (loan jaisa support) mil jata hai.\n* **Direct Benefit Transfer (DBT)**: Saari sarkari subsidiyan (LPG, PM-Kisan, scholarships) seedhe aapke ishi account me aati hain.\n\n---\n\n## Section 2: Eligibility, Documents & Rules\n\nSarkari schemes ka fayda uthane ke liye eligibility criteria samajhna sabse pehle zaroori hai. Chaliye dekhte hain ki 2026 me Jan Dhan account kaun khulwa sakta hai:\n\n### Who is Eligible?\n* Applicant **Indian citizen** hona chahiye.\n* Age **10 years ya usse zyada** honi chahiye (minor account ke liye guardians ki help lagti hai).\n* Jiske paas pehle se koi regular savings bank account nahi hai, woh easily apply kar sakta hai.\n\n### Documents Required:\n1. **Aadhaar Card** (Mandatory)\n2. **PAN Card** (agar available ho, nahi toh Form 60)\n3. **Address Proof** (Voter ID, Driving License, MNREGA Job Card, etc.)\n4. Passport-size photographs\n\n> *Pro Tip*: Agar aapke paas official address proof nahi hai, toh aap bank me jaakar **Small Account** khulwa sakte hain jisme bank officials ki presence me KYC complete hoti hai.\n\n---\n\n## Section 3: Step-by-Step Practical Blueprint\n\nAb baat aati hai ki **PM Jan Dhan Yojana 2026 ke liye apply kaise karein?** Aap ise online aur offline dono tareeqon se kar sakte hain.\n\n### Step-by-Step Offline Registration Process:\n1. Apke nazdeeki public sector bank (jaise SBI, PNB, Bank of Baroda) ya kisi bhi authorized Gramin Bank me jayein.\n2. Wahan se **PMJDY Account Opening Form** maangein (yeh form online PMJDY official website se bhi download kiya ja sakta hai).\n3. Form me apni saari details (Name, Address, Mobile Number, Nominee details) dhyan se bharein.\n4. Apne Aadhaar card aur photo ki self-attested copies attach karein.\n5. Bank officer ko form submit karein. Verification ke baad aapka account kuch hi dino me activate ho jayega aur aapko RuPay card mil jayega.\n\n### Step-by-Step Online Download Process:\n1. Official website **pmjdy.gov.in** par visit karein.\n2. 'Forms' section me jayein.\n3. Apni pasand ki language (Hindi ya English) me **Account Opening Form (PDF)** download karein.\n4. Print nikal kar form fill karein aur apne nearest bank branch me jama kar dein.\n\n| Feature | Details | Benefit |\n| :--- | :--- | :--- |\n| Minimum Balance | Rs. 0 | No penalty charges |\n| Interest Rate | Standard Savings Rate | Earns interest on deposits |\n| Mobile Banking | USSD & App Support | Easy checking via *99# |\n\nBanking services ab har ek Indian ki reach me hain. Aaj hi apna Jan Dhan account khulwayein aur sarkari schemes ka seedha labh uthayein!",
-    "faqs": [
-      {
-        "question": "What is the minimum balance required in a PM Jan Dhan Yojana account in 2026?",
-        "answer": "There is no minimum balance requirement for a PM Jan Dhan account. You can maintain a zero balance (Rs. 0) without facing any penalty charges from the bank."
-      },
-      {
-        "question": "Who is eligible to open a Jan Dhan account?",
-        "answer": "Any Indian citizen aged 10 years or above is eligible to open a PMJDY account. Minors above 10 can open accounts under the supervision of a guardian."
-      },
-      {
-        "question": "Can I apply for a Jan Dhan account completely online?",
-        "answer": "While you can download the application form online from the official PMJDY website (pmjdy.gov.in), you must visit a bank branch physically or submit documents to complete KYC verification."
-      },
-      {
-        "question": "What documents are needed for PMJDY registration?",
-        "answer": "You primarily need an Aadhaar Card. If Aadhaar is not available, valid official documents like a Voter ID, PAN card, driving license, or MNREGA job card can be used for address and identity proof."
-      },
-      {
-        "question": "Is there any insurance benefit linked with the Jan Dhan account?",
-        "answer": "Yes, account holders receive a RuPay debit card which includes accidental insurance cover, and an overdraft facility of up to Rs. 10,000 is available for eligible, well-managed accounts."
-      }
-    ],
-    "metaTitle": "PM Jan Dhan Yojana 2026: Benefits & Online Guide",
-    "metaDescription": "Discover PM Jan Dhan Yojana 2026 benefits, eligibility, zero balance account features, insurance cover, and step-by-step registration guide in Hinglish.",
-    "keywords": [
-      "PM Jan Dhan Yojana 2026",
-      "Jan Dhan Account Online",
-      "Sarkari Yojana 2026",
-      "Zero Balance Bank Account",
-      "PMJDY Benefits",
-      "Jan Dhan Documents Required"
-    ],
-    "heroImage": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
-    "featuredImagePrompt": "H1 Title generated banner: Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
-    "imageAltText": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide - IndiaSarkariNaukri Blog",
-    "openGraph": {
-      "title": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
-      "description": "Pradhan Mantri Jan Dhan Yojana (PMJDY) 2026 continues to be India's backbone for financial inclusion, offering zero balance accounts, free RuPay debit cards, and accidental insurance cover. Check eligibility, required documents, and registration steps below to open your account easily.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1",
-      "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "What is the minimum balance required in a PM Jan Dhan Yojana account in 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "There is no minimum balance requirement for a PM Jan Dhan account. You can maintain a zero balance (Rs. 0) without facing any penalty charges from the bank."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Who is eligible to open a Jan Dhan account?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Any Indian citizen aged 10 years or above is eligible to open a PMJDY account. Minors above 10 can open accounts under the supervision of a guardian."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can I apply for a Jan Dhan account completely online?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "While you can download the application form online from the official PMJDY website (pmjdy.gov.in), you must visit a bank branch physically or submit documents to complete KYC verification."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What documents are needed for PMJDY registration?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "You primarily need an Aadhaar Card. If Aadhaar is not available, valid official documents like a Voter ID, PAN card, driving license, or MNREGA job card can be used for address and identity proof."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is there any insurance benefit linked with the Jan Dhan account?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, account holders receive a RuPay debit card which includes accidental insurance cover, and an overdraft facility of up to Rs. 10,000 is available for eligible, well-managed accounts."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
-        "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-08-27",
-        "dateModified": "2026-08-27",
-        "author": {
-          "@type": "Organization",
-          "name": "IndiaSarkariNaukri Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Pradhan Mantri Jan Dhan Yojana 2026 Benefits & Online Registration Guide",
-            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-jan-dhan-yojana-2026-benefits-online-registration-guide-1787833533408-1"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "canonical_hash": "392b2e0c084ea5e94e1f8d60566f5154"
   },
   {
     "title": "Rajasthan Vidyut Vibhag Recruitment 2026: Notification Released for 2,005 Posts",
@@ -13529,6 +19215,1516 @@ export const INITIAL_POSTS: Post[] = [
 
 export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
   {
+    "id": "ca-auto-5min-1788516348540-564",
+    "title": "⚡ [5-Min Update] India Secures 5 Medals at International Science Olympiad 2026",
+    "date": "04 September 2026",
+    "category": "Sports & Awards",
+    "summary": "Indian student delegation wins 3 Gold and 2 Silver medals competing against 80+ nations in Zurich, Switzerland.",
+    "keyPoints": [
+      "Top performance recorded in Physics and Chemistry practical challenges.",
+      "Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR.",
+      "Ministry of Education announces national felicitation award for winners."
+    ],
+    "fullContent": "Indian student delegation wins 3 Gold and 2 Silver medals competing against 80+ nations in Zurich, Switzerland.\n\nKey details:\n- Top performance recorded in Physics and Chemistry practical challenges.\n- Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR.\n- Ministry of Education announces national felicitation award for winners.\n\nPublished automatically via Pariksha Result 5-Minute Current Affairs Real-Time Engine on 04 September 2026.",
+    "canonical_hash": "41841e151ff59b386bb00f30303fbb9b"
+  },
+  {
+    "id": "gktoday-indigenously-developed-astra-mk3-beyond-visual-range-air-to-air-missile-cleared-for-induction",
+    "title": "Indigenously Developed 'Astra-MK3' Beyond-Visual-Range Air-to-Air Missile Cleared for Induction",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "The Ministry of Defense has cleared the induction of the Astra-MK3 Beyond-Visual-Range Air-to-Air Missile (BVRAAM) equipped with an indigenous solid fuel ducted ramjet (SFDR) propulsion system. The missile will equip the Indian Air Force's frontline fighter fleets.",
+    "keyPoints": [
+      "Astra-MK3 features advanced Solid Fuel Ducted Ramjet (SFDR) propulsion.",
+      "Offers an extended operational range exceeding 160 kilometers.",
+      "Designed and developed by DRDO and manufactured by public-private consortiums.",
+      "Key defense update for CDS, NDA, and Civil Services examinations."
+    ],
+    "keyHighlights": [
+      "Astra-MK3 features advanced Solid Fuel Ducted Ramjet (SFDR) propulsion.",
+      "Offers an extended operational range exceeding 160 kilometers.",
+      "Designed and developed by DRDO and manufactured by public-private consortiums.",
+      "Key defense update for CDS, NDA, and Civil Services examinations."
+    ],
+    "fullContent": "Bolstering India's aerial combat capabilities, the Defence Acquisition Council (DAC) has given the green light for the induction of the Astra-MK3 Beyond-Visual-Range Air-to-Air Missile (BVRAAM). Developed by the Defence Research and Development Organisation (DRDO), the missile introduces cutting-edge Solid Fuel Ducted Ramjet (SFDR) technology, giving it a distinct tactical edge over conventional rocket-motor-powered missiles. The SFDR technology allows the missile to throttle its thrust during flight by ingesting atmospheric air, which drastically extends its no-escape zone and overall operational range beyond 160 kilometers. This capability ensures that Indian fighter aircraft—including Su-30MKI, LCA Tejas, and Rafale platforms—can engage enemy targets from standoff distances without exposing themselves to hostile air defense networks. The project underscores India's accelerating momentum in defense self-reliance (Aatmanirbhar Bharat), with critical sub-systems designed domestically. Defense aspirants must memorize technological specifics like SFDR propulsion and operational ranges for upcoming military and civil examinations.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:48.533Z",
+    "canonical_hash": "5b58e212f52e3954e9421ccf1cb26f2b"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-next-generation-semi-cryogenic-engine-for-heavy-lift-launchers",
+    "title": "ISRO Successfully Tests Next-Generation Semi-Cryogenic Engine for Heavy Lift Launchers",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "ISRO has achieved a major milestone by successfully conducting the hot-fire test of its newly developed 2000 kN semi-cryogenic engine. The engine runs on an environmentally sustainable mix of liquid oxygen and refined kerosene, boosting the payload capacity of future LVM3 missions.",
+    "keyPoints": [
+      "2000 kN semi-cryogenic engine successfully tested at ISRO Propulsion Complex, Mahendragiri.",
+      "Replaces toxic hypergolic fuels with eco-friendly liquid oxygen and kerosene.",
+      "Significantly enhances payload capacity for future Gaganyaan and lunar missions.",
+      "Vital current affairs topic for science and technology questions in SSC and UPSC."
+    ],
+    "keyHighlights": [
+      "2000 kN semi-cryogenic engine successfully tested at ISRO Propulsion Complex, Mahendragiri.",
+      "Replaces toxic hypergolic fuels with eco-friendly liquid oxygen and kerosene.",
+      "Significantly enhances payload capacity for future Gaganyaan and lunar missions.",
+      "Vital current affairs topic for science and technology questions in SSC and UPSC."
+    ],
+    "fullContent": "The Indian Space Research Organisation (ISRO) has successfully completed the qualification hot-fire test of its high-thrust semi-cryogenic engine at the ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu. Generating an impressive thrust of 2000 kilonewtons (kN), this engine represents a massive leap forward in India's propulsion technology roadmap, specifically tailored for heavy and super-heavy lift launch vehicles. Unlike traditional cryogenic engines that use liquid hydrogen and liquid oxygen—which require cryogenic storage at extremely low temperatures and possess lower density—the semi-cryogenic engine utilizes a combination of liquid oxygen (Lox) and Is espacial-grade kerosene (RP-1). This mixture provides higher payload capability per unit volume of the propellant tank, allowing launch vehicles to carry heavier spacecraft structures into Geostationary Transfer Orbits (GTO) and deep-space trajectories. The successful integration of this engine into the Next-Generation Launch Vehicle (NGLV) and upgraded variants of the Launch Vehicle Mark-3 (LVM3) will substantially reduce mission costs while bolstering India's commercial launch credentials. Aspirants must keep track of ISRO's technological milestones for defense and space modules in competitive tests.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:48.532Z",
+    "canonical_hash": "c568c216b6ef1e64e16a1f4768655c9e"
+  },
+  {
+    "id": "gktoday-india-and-asean-conclude-comprehensive-review-of-trade-in-goods-agreement",
+    "title": "India and ASEAN Conclude Comprehensive Review of Trade in Goods Agreement",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and ASEAN member states have successfully concluded the long-awaited review of the ASEAN-India Trade in Goods Agreement (AITIGA). The upgraded pact aims to eliminate non-tariff barriers, streamline rules of origin, and rebalance bilateral trade parity.",
+    "keyPoints": [
+      "AITIGA review completed after extensive ministerial negotiations.",
+      "Introduces stringent asymmetric trade safeguards to protect domestic MSMEs.",
+      "Facilitates seamless digital documentation and customs clearance procedures.",
+      "Important for UPSC IR and Banking exams covering global trade pacts."
+    ],
+    "keyHighlights": [
+      "AITIGA review completed after extensive ministerial negotiations.",
+      "Introduces stringent asymmetric trade safeguards to protect domestic MSMEs.",
+      "Facilitates seamless digital documentation and customs clearance procedures.",
+      "Important for UPSC IR and Banking exams covering global trade pacts."
+    ],
+    "fullContent": "India and the Association of Southeast Asian Nations (ASEAN) have officially finalized the comprehensive review of the AITIGA (ASEAN-India Trade in Goods Agreement), marking a watershed moment in Indo-Pacific economic diplomacy. Originally signed in 2009, the trade pact had faced persistent criticism from Indian industry bodies over skewed trade deficits and lax rules of origin that allowed third-party countries to dump goods into India via ASEAN gateways. The newly negotiated framework introduces a modernized chapter on Rules of Origin (ROO) that mandates higher value addition within ASEAN or India to qualify for preferential customs duties. Furthermore, the updated agreement incorporates robust 'async safeguard mechanisms' enabling either party to temporarily suspend tariff concessions if a sudden surge in imports threatens domestic manufacturers. Bilateral trade between India and ASEAN crossed the USD 130 billion mark recently, and the revised AITIGA targets scaling this figure to USD 200 billion by 2030. Key sectors expected to benefit include pharmaceuticals, IT services, automobile components, and specialized electronics. Exam candidates must note the strategic significance of ASEAN centrality in India's Act East Policy.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:48.528Z",
+    "canonical_hash": "706ab0e67632a9f619136d59cf53f8ec"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-expanded-scope-for-pm-pranam-scheme-to-boost-organic-farming",
+    "title": "Union Cabinet Approves Expanded Scope for PM-PRANAM Scheme to Boost Organic Farming",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has approved an expanded outlay and modified guidelines for the PM-PRANAM scheme aimed at incentivizing states to promote alternative fertilizers. The policy aggressively pushes for a transition from chemical fertilizers to organic and natural farming inputs across major agricultural belts.",
+    "keyPoints": [
+      "PM-PRANAM scheme incentivizes states to reduce chemical fertilizer usage.",
+      "New guidelines introduce direct cash transfer incentives for grassroots farming cooperatives.",
+      "Allocates a specialized corpus for bio-fertilizer manufacturing hubs pan-India.",
+      "Crucial topic for UPSC mains agriculture and economic development sections."
+    ],
+    "keyHighlights": [
+      "PM-PRANAM scheme incentivizes states to reduce chemical fertilizer usage.",
+      "New guidelines introduce direct cash transfer incentives for grassroots farming cooperatives.",
+      "Allocates a specialized corpus for bio-fertilizer manufacturing hubs pan-India.",
+      "Crucial topic for UPSC mains agriculture and economic development sections."
+    ],
+    "fullContent": "The Union Cabinet chaired by the Prime Minister has given its formal nod to expand the scope and financial outlay of the PM-PRANAM (Promotion of Alternate Nutrients for Agriculture Management Yojana) scheme. Launched initially to tackle the mounting fiscal burden of chemical fertilizer subsidies, the revamped framework provides enhanced financial autonomy to state governments that successfully curtail urea and DAP consumption. Under the upgraded modalities, 50% of the subsidy savings made by a state in a particular financial year through reduced chemical fertilizer usage will be directly transferred as grants. Out of this grant money, 70% can be utilized for asset creation related to technological adoption of alternate fertilizers at village and district levels, while 30% will reward endorsing farmer groups, Mahila Kisan collectives, and Krishi Vigyan Kendras. Agricultural experts note that India's heavy reliance on imported urea makes this policy imperative for macroeconomic stability and long-term soil health rejuvenation. The scheme aligns seamlessly with the National Mission on Natural Farming, aiming to bring an additional 2 million hectares under chemical-free farming by the end of fiscal 2027-28. For competitive exam aspirants, understanding the fiscal architecture of PM-PRANAM is essential for questions related to sustainable development goals, sub-national fiscal federalism, and agricultural subsidies.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:48.525Z",
+    "canonical_hash": "0e08829a2effc61474d58ecae2cd8ca9"
+  },
+  {
+    "id": "gktoday-sahitya-akademi-announces-bal-sahitya-puraskar-and-yuva-puraskar-for-2026",
+    "title": "Sahitya Akademi Announces Bal Sahitya Puraskar and Yuva Puraskar for 2026",
+    "date": "04 September 2026",
+    "category": "Awards",
+    "summary": "The Sahitya Akademi has announced the recipients of the prestigious Bal Sahitya Puraskar and Yuva Puraskar for 2026, recognizing outstanding literary contributions across multiple regional Indian languages.",
+    "keyPoints": [
+      "Covers literary works published across 22 Scheduled languages plus English and Rajasthani.",
+      "Includes prominent young poets and children's fiction authors.",
+      "Carries a cash prize of Rs 50,000 along with an engraved copper-plaque."
+    ],
+    "keyHighlights": [
+      "Covers literary works published across 22 Scheduled languages plus English and Rajasthani.",
+      "Includes prominent young poets and children's fiction authors.",
+      "Carries a cash prize of Rs 50,000 along with an engraved copper-plaque."
+    ],
+    "fullContent": "The Executive Board of the Sahitya Akademi has declared the winners of the Bal Sahitya Puraskar and Yuva Puraskar for the year 2026. These awards celebrate exceptional literary works penned by emerging young authors and dedicated children's literature writers across recognized Indian languages. The selection committee reviewed hundreds of entries encompassing novels, poetry anthologies, short stories, and folklore adaptations. The awards aim to encourage regional language writing and inspire the younger generation to connect with cultural heritage and contemporary socio-literary issues. For competitive exams such as UPSC, SSC, and State PCS, questions regarding prestigious national awards, literary honors, and linguistic recognitions under the 8th Schedule of the Constitution carry substantial weight. Aspirants should note the award criteria, prize money, and notable winners in regional categories.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.760Z",
+    "canonical_hash": "56f61d9fd5d2b861782d3332447d332e"
+  },
+  {
+    "id": "gktoday-government-appoints-new-chairperson-for-securities-and-exchange-board-of-india",
+    "title": "Government Appoints New Chairperson for Securities and Exchange Board of India",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "The Appointments Committee of the Cabinet (ACC) has approved the appointment of senior financial technocrat Dr. Alok Kumar Verma as the new Chairperson of the Securities and Exchange Board of India (SEBI).",
+    "keyPoints": [
+      "Appointed for a tenure of three years effective immediately.",
+      "Succeeds the outgoing chief following the conclusion of their successful term.",
+      "Brings extensive regulatory experience in capital markets and algorithmic trading oversight."
+    ],
+    "keyHighlights": [
+      "Appointed for a tenure of three years effective immediately.",
+      "Succeeds the outgoing chief following the conclusion of their successful term.",
+      "Brings extensive regulatory experience in capital markets and algorithmic trading oversight."
+    ],
+    "fullContent": "In a high-profile administrative reshuffle, the Appointments Committee of the Cabinet (ACC) has announced the appointment of Dr. Alok Kumar Verma as the Chairperson of the Securities and Exchange Board of India (SEBI). Dr. Verma, a veteran financial economist and regulatory expert, brings over three decades of experience in capital market governance and institutional finance. As the head of India's market regulator, Dr. Verma faces the critical responsibility of overseeing rapid technological innovations in retail trading, strengthening cybersecurity protocols against algorithmic market manipulations, and boosting investor confidence across mutual funds and equity derivatives. Appointments to constitutional and statutory bodies like SEBI, RBI, UPSC, and CAG are frequent questions in banking and civil service examinations. Candidates should familiarize themselves with the statutory origins of SEBI under the SEBI Act, 1992, along with the administrative tenure rules governing regulatory board leadership.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.759Z",
+    "canonical_hash": "05c9a628f0533ff046069165c2c01ed2"
+  },
+  {
+    "id": "gktoday-manika-batra-clinches-gold-at-wtt-contender-singles-championship",
+    "title": "Manika Batra Clinches Gold at WTT Contender Singles Championship",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Ace Indian paddler Manika Batra secured the women's singles title at the World Table Tennis (WTT) Contender tournament, defeating top-ranked international opponents in a stellar campaign.",
+    "keyPoints": [
+      "Defeated World No. 4 in a thrilling five-game final showdown.",
+      "Marks her third career WTT Contender singles title.",
+      "Boosts her world ranking quota points ahead of the upcoming Asian Games."
+    ],
+    "keyHighlights": [
+      "Defeated World No. 4 in a thrilling five-game final showdown.",
+      "Marks her third career WTT Contender singles title.",
+      "Boosts her world ranking quota points ahead of the upcoming Asian Games."
+    ],
+    "fullContent": "Star Indian table tennis player Manika Batra added another glittering feather to her cap by clinching the gold medal in the women's singles event at the World Table Tennis (WTT) Contender championship. Displaying exceptional grit and her trademark unorthodox rubber racket skills, Batra triumphed over formidable opponents throughout the tournament, culminating in a nail-biting victory in the finals against a top-four world-ranked challenger. This victory marks a significant resurgence for Indian table tennis on the global stage, proving the consistent growth of racquet sports infrastructure in the country. Her tactical adaptability and mental resilience under pressure have drawn widespread acclaim from sports analysts. Sports awareness is a staple segment in SSC, Banking, and State PSC examinations. Aspirants must keep track of major tournament winners, venue locations, and sports personalities representing India in international circuits to secure high scores in general awareness sections.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.757Z",
+    "canonical_hash": "7f8243f068061bf4801375f914910db9"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-reusable-launch-vehicle-booster-for-gaganyaan-2",
+    "title": "ISRO Successfully Tests Reusable Launch Vehicle Booster for Gaganyaan-2",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "The Indian Space Research Organisation (ISRO) successfully conducted the atmospheric re-entry test of its next-generation Reusable Launch Vehicle (RLV) booster prototype. The test marks a critical milestone for lowering the payload costs of upcoming human spaceflight missions.",
+    "keyPoints": [
+      "Tested from the Satish Dhawan Space Centre (SDSC) in Sriharikota.",
+      "Features advanced thermal protection tiles designed and manufactured indigenously.",
+      "Significantly reduces cost per kilogram of payload delivery to Low Earth Orbit (LEO)."
+    ],
+    "keyHighlights": [
+      "Tested from the Satish Dhawan Space Centre (SDSC) in Sriharikota.",
+      "Features advanced thermal protection tiles designed and manufactured indigenously.",
+      "Significantly reduces cost per kilogram of payload delivery to Low Earth Orbit (LEO)."
+    ],
+    "fullContent": "The Indian Space Research Organisation (ISRO) has achieved a major technological breakthrough with the successful atmospheric re-entry and precision landing test of its Reusable Launch Vehicle (RLV) booster prototype at the Satish Dhawan Space Centre, Sriharikota. Codenamed 'Pushpak-II', the test validated autonomous landing capabilities under simulated high-velocity re-entry conditions. The reusable booster incorporates state-of-the-art navigation sensors, high-temperature resistant silica-based thermal protection tiles, and sophisticated aero-surface controls developed entirely by Indian laboratories. By recovering the most expensive component of the rocket launcher, ISRO aims to slash mission costs by up to 60 percent for commercial launches and future interplanetary explorations. Space technology and defense current affairs are high-yield areas for UPSC and CDS examinations. Candidates should remember key technical terms like RLV-TD, scramjet engine developments, and ISRO's long-term roadmap leading up to Bharatiya Antariksha Station by 2035.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.755Z",
+    "canonical_hash": "f76548802f14095cc64cf9eb55bccc56"
+  },
+  {
+    "id": "gktoday-rbi-introduces-unified-regulatory-framework-for-digital-lending-platforms",
+    "title": "RBI Introduces Unified Regulatory Framework for Digital Lending Platforms",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has issued a unified regulatory framework to streamline digital lending apps and non-banking financial companies (NBFCs). The guidelines aim to curb predatory lending practices and enhance data privacy compliance.",
+    "keyPoints": [
+      "Mandates mandatory cooling-off period for all digital consumer loans.",
+      "Prohibits automatic data harvesting of phone contacts and media files by loan apps.",
+      "Establishes a centralized registry for verified Digital Lending Service Providers (DLSPs)."
+    ],
+    "keyHighlights": [
+      "Mandates mandatory cooling-off period for all digital consumer loans.",
+      "Prohibits automatic data harvesting of phone contacts and media files by loan apps.",
+      "Establishes a centralized registry for verified Digital Lending Service Providers (DLSPs)."
+    ],
+    "fullContent": "In a decisive step to protect retail borrowers from exploitative financial practices, the Reserve Bank of India (RBI) has unveiled a unified regulatory framework for all Digital Lending Platforms operating in the country. The fresh guidelines come in the wake of rising complaints regarding coercive recovery methods and exorbitant interest rates charged by unauthorized apps. Key features of the framework include a mandatory cooling-off period during which borrowers can exit loans without penalty. Furthermore, lending apps are strictly barred from accessing sensitive device permissions such as contact lists, photo galleries, and external storage. The RBI has also mandated the creation of a centralized public registry to list all verified Digital Lending Service Providers (DLSPs), allowing consumers to verify credentials before applying for credit. Banking and SSC aspirants must understand the regulatory powers of the RBI under the Reserve Bank of India Act, 1934, and the Banking Regulation Act, 1949, while studying this development. This policy significantly strengthens consumer protection and curbs the menace of illegal loan apps in the Indian financial sector.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.754Z",
+    "canonical_hash": "effc1d5f915c38465c844dd28e7d571b"
+  },
+  {
+    "id": "gktoday-india-and-nordic-nations-sign-comprehensive-green-energy-corridor-pact",
+    "title": "India and Nordic Nations Sign Comprehensive Green Energy Corridor Pact",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and the Nordic Council of Nations have signed a landmark pact to establish a joint Green Energy Corridor. The agreement focuses on offshore wind energy sharing, grid modernization, and green hydrogen supply chains.",
+    "keyPoints": [
+      "Bilateral framework focusing on offshore wind farm development along the western coastline.",
+      "Joint funding mechanism of $2 billion established for green hydrogen research.",
+      "Promotes interoperability standards for smart power grids across participating nations."
+    ],
+    "keyHighlights": [
+      "Bilateral framework focusing on offshore wind farm development along the western coastline.",
+      "Joint funding mechanism of $2 billion established for green hydrogen research.",
+      "Promotes interoperability standards for smart power grids across participating nations."
+    ],
+    "fullContent": "Strengthening its global climate commitments, India has entered into a comprehensive Green Energy Corridor pact with the Nordic Council of Nations comprising Denmark, Sweden, Norway, Finland, and Iceland. Signed during the bilateral summit in New Delhi, the agreement aims to accelerate the deployment of clean technology and expedite the transition towards carbon neutrality. Under the pact, Nordic energy giants will partner with Indian public sector undertakings to construct offshore wind farms along the coastlines of Gujarat and Tamil Nadu. Additionally, a dedicated $2 billion joint research fund has been set up to drive innovations in green hydrogen production, storage, and maritime transport fuel. For competitive examinations, questions often test international frameworks and bilateral clean energy agreements. This pact builds upon the earlier India-Denmark Green Strategic Partnership, aligning closely with India's Nationally Determined Contributions (NDCs) under the Paris Agreement. UPSC and Banking exam aspirants should take note of the financial outlay and participating countries.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:05:40.752Z",
+    "canonical_hash": "fe33aa811f3f70299cd8587c346835c8"
+  },
+  {
+    "id": "gktoday-unesco-awards-three-heritage-sites-in-india-prestigious-biosphere-status",
+    "title": "UNESCO Awards Three Heritage Sites in India Prestigious Biosphere Status",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "UNESCO has officially designated three ecologically sensitive zones in India as new Biosphere Reserves under its Man and the Biosphere (MAB) Programme. The recognition highlights India's outstanding biodiversity conservation efforts and sustainable ecosystem management.",
+    "keyPoints": [
+      "Involves diverse ecological landscapes ranging from coastal mangroves to high-altitude Himalayan ranges.",
+      "Aims to promote scientific research, environmental education, and community-led conservation.",
+      "Expands India's total network of UNESCO-recognized biosphere reserves significantly."
+    ],
+    "keyHighlights": [
+      "Involves diverse ecological landscapes ranging from coastal mangroves to high-altitude Himalayan ranges.",
+      "Aims to promote scientific research, environmental education, and community-led conservation.",
+      "Expands India's total network of UNESCO-recognized biosphere reserves significantly."
+    ],
+    "fullContent": "In a momentous recognition of India's environmental stewardship, **UNESCO** has added three unique ecological regions to its prestigious global network of **Biosphere Reserves** under the **Man and the Biosphere (MAB) Programme**. The newly inducted sites span diverse geographical zones, reflecting the country's rich mega-biodiversity. The inclusion underlines successful local conservation models that balance ecological preservation with sustainable socio-economic development for indigenous communities. The designated reserves will now receive enhanced international technical cooperation, funding support for ecological research, and global visibility to promote eco-tourism. The Ministry of Environment, Forest and Climate Change (MoEFCC) stated that the recognition reinforces India's commitment to international biodiversity frameworks, including the Kunming-Montreal Global Biodiversity Framework aimed at protecting 30 percent of terrestrial and marine areas by 2030. *Exam Relevance:* Essential for geography and environment questions in UPSC Civil Studies, State PSCs, and forest service examinations focusing on protected areas and international environmental conventions.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.049Z",
+    "canonical_hash": "590aa8f429b43c51785baaa3b6fc31cb"
+  },
+  {
+    "id": "gktoday-appointment-of-new-chief-economic-advisor-and-key-financial-regulators-announced",
+    "title": "Appointment of New Chief Economic Advisor and Key Financial Regulators Announced",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "The Appointments Committee of the Cabinet has approved the appointment of Dr. Alok Sharma as the new Chief Economic Advisor (CEA) to the Government of India. Simultaneously, key leadership positions at prominent regulatory bodies have been filled.",
+    "keyPoints": [
+      "Dr. Alok Sharma succeeds the outgoing CEA following the completion of his tenure.",
+      "New executive director appointments announced for capital market and insurance regulators.",
+      "Re-emphasizes institutional stability and macro-fiscal policy continuity."
+    ],
+    "keyHighlights": [
+      "Dr. Alok Sharma succeeds the outgoing CEA following the completion of his tenure.",
+      "New executive director appointments announced for capital market and insurance regulators.",
+      "Re-emphasizes institutional stability and macro-fiscal policy continuity."
+    ],
+    "fullContent": "The **Appointments Committee of the Cabinet (ACC)** has officially announced the appointment of renowned macroeconomist Dr. Alok Sharma as the new **Chief Economic Advisor (CEA)** to the Ministry of Finance, Government of India. Dr. Sharma brings over two decades of global economic policy experience, having previously served with premier international financial institutions and advisory councils. The CEA plays a critical role in shaping macroeconomic policy, drafting the annual **Economic Survey**, and advising the Union Finance Minister on fiscal discipline, inflation management, and growth projections. The transition comes at a vital juncture as the Indian economy navigates dynamic global trade conditions and robust domestic expansion. In tandem with this announcement, the ACC also cleared appointments for key regulatory positions within the Securities and Exchange Board of India (SEBI) and the Insurance Regulatory and Development Authority of India (IRDAI), reinforcing governance standards across the financial sector. *Exam Relevance:* Highly important for static GK and current affairs in banking, UPSC, and regulatory exams where questions on high-level bureaucratic appointments frequently appear.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.047Z",
+    "canonical_hash": "8fad00a91734732b015817a453bc9856"
+  },
+  {
+    "id": "gktoday-neeraj-chopra-wins-gold-at-zurich-diamond-league-finals-2026",
+    "title": "Neeraj Chopra Wins Gold at Zurich Diamond League Finals 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Ace Indian javelin thrower Neeraj Chopra has clinched the gold medal at the prestigious Zurich Diamond League Finals 2026 with a sensational throw of 89.45 meters. The victory solidifies his status as one of the preeminent track and field athletes in modern athletics.",
+    "keyPoints": [
+      "Secured the top podium finish against a stellar global lineup of javelin throwers.",
+      "Achieved the winning mark of 89.45 meters on his fourth attempt.",
+      "Adds another glittering accolade to his illustrious international sports career."
+    ],
+    "keyHighlights": [
+      "Secured the top podium finish against a stellar global lineup of javelin throwers.",
+      "Achieved the winning mark of 89.45 meters on his fourth attempt.",
+      "Adds another glittering accolade to his illustrious international sports career."
+    ],
+    "fullContent": "Olympic champion and Indian track and field icon **Neeraj Chopra** added another golden chapter to his legendary career by winning the gold medal at the prestigious **Zurich Diamond League Finals 2026**. Competing against the world's finest javelin throwers in challenging weather conditions, Chopra delivered a stellar performance, sealing victory with a magnificent throw of 89.45 meters on his fourth attempt. Despite facing stiff competition from reigning world champions and European elite throwers, Chopra maintained exceptional consistency throughout the six rounds. His technical precision, explosive run-up, and mental resilience under pressure once again set him apart on the global stage. This victory underlines his relentless preparation and sustained dominance in international athletics following a rigorous competitive season. Sports enthusiasts and aspirants across India celebrated the achievement, which serves as a massive inspiration for upcoming athletes in field events. *Exam Relevance:* Important for current affairs segments in SSC CGL, banking, and state examinations that feature questions on prominent sports personalities and international tournament winners.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.046Z",
+    "canonical_hash": "4d826d0aa4cbbdb72d5d48d895b15c36"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-advanced-semi-cryogenic-engine-for-next-gen-launch-vehicles",
+    "title": "ISRO Successfully Tests Advanced Semi-Cryogenic Engine for Next-Gen Launch Vehicles",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "The Indian Space Research Organisation (ISRO) has successfully completed the hot-fire test of its high-thrust semi-cryogenic engine at the Mahendragiri propulsion complex. The milestone brings India closer to deploying its Next-Generation Launch Vehicle (NGLV) for heavy payload missions.",
+    "keyPoints": [
+      "Utilizes an eco-friendly propellant combination of refined kerosene and liquid oxygen.",
+      "Engine generates a massive thrust of 2000 kN, boosting heavy lift capabilities.",
+      "Crucial stepping stone for future crewed interplanetary expeditions and space station expansion."
+    ],
+    "keyHighlights": [
+      "Utilizes an eco-friendly propellant combination of refined kerosene and liquid oxygen.",
+      "Engine generates a massive thrust of 2000 kN, boosting heavy lift capabilities.",
+      "Crucial stepping stone for future crewed interplanetary expeditions and space station expansion."
+    ],
+    "fullContent": "The **Indian Space Research Organisation (ISRO)** has achieved a major technological breakthrough with the successful long-duration hot test of its advanced 2000 kN semi-cryogenic engine at the Liquid Propulsion Systems Centre (LPSC) facility in Mahendragiri, Tamil Nadu. Unlike traditional cryogenic engines that use liquid hydrogen and liquid oxygen—which require complex cryogenic storage—semi-cryogenic engines utilize refined rocket-grade kerosene (Isomax) combined with liquid oxygen. This combination provides higher payload capability, enhanced safety, and greater storability, making it ideal for the **Next-Generation Launch Vehicle (NGLV)**, which is designed to replace the workhorse Polar Satellite Launch Vehicle (PSLV) and Geosynchronous Satellite Launch Vehicle (GSLV) Mk III over the next decade. The successful test validates the engine's ignition systems, turbopump performance, and thrust control dynamics under simulated flight conditions. This development marks a vital leap forward for India's independent space exploration ambitions, including upcoming lunar sample return missions and the sustained buildup of the Bharatiya Antariksha Station. *Exam Relevance:* Highly relevant for UPSC General Studies Paper III (Science and Technology) and state public service exams covering India's space milestones.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.042Z",
+    "canonical_hash": "436bc022ec7375795faac61c693c359b"
+  },
+  {
+    "id": "gktoday-india-and-nordic-baltic-eight-sign-clean-energy-technology-pact",
+    "title": "India and Nordic-Baltic Eight Sign Clean Energy Technology Pact",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and the Nordic-Baltic Eight (NB8) nations have formalized a comprehensive partnership focused on green hydrogen, critical mineral supply chains, and AI-driven smart grids. The agreement seeks to deepen bilateral trade and technological collaboration in sustainable development.",
+    "keyPoints": [
+      "Strategic framework established for joint research and development in green hydrogen technologies.",
+      "Establishment of the India-NB8 Critical Minerals Taskforce to secure resilient supply chains.",
+      "Focus on maritime decarbonization and green shipping corridors."
+    ],
+    "keyHighlights": [
+      "Strategic framework established for joint research and development in green hydrogen technologies.",
+      "Establishment of the India-NB8 Critical Minerals Taskforce to secure resilient supply chains.",
+      "Focus on maritime decarbonization and green shipping corridors."
+    ],
+    "fullContent": "In a significant diplomatic development, India and the **Nordic-Baltic Eight (NB8)**—comprising Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, and Sweden—have signed a landmark pact on clean energy technology cooperation. The signing ceremony took place during the high-level multilateral ministerial dialogue aimed at fostering innovation-led sustainable growth. The partnership centers around three core pillars: scaling up green hydrogen production, securing sustainable access to critical minerals essential for electric mobility, and deploying artificial intelligence in smart energy grids. Both sides agreed to establish a joint technology transfer mechanism that will allow Indian renewable energy firms to collaborate directly with Scandinavian clean-tech startups. Significantly, the pact also addresses maritime logistics, laying the groundwork for a dedicated 'Green Shipping Corridor' between major Indian ports and Nordic maritime hubs. This initiative aligns with the International Maritime Organization's (IMO) net-zero greenhouse gas emissions targets for international shipping by 2050. *Exam Relevance:* Important for International Relations sections in UPSC Civil Services and Banking mains exams, focusing on plurilateral groupings, European diplomatic engagements, and global climate governance.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.038Z",
+    "canonical_hash": "3ae8180e56e2a0de654cd2c8cfd545e1"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-expanded-scope-of-pm-surya-ghar-muft-bijli-yojana",
+    "title": "Union Cabinet Approves Expanded Scope of PM-Surya Ghar Muft Bijli Yojana",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has approved an expanded outlay for the PM-Surya Ghar Muft Bijli Yojana, introducing enhanced subsidies for housing societies and rural micro-grids. The initiative aims to accelerate India's rooftop solar adoption to meet ambitious renewable energy targets by 2030.",
+    "keyPoints": [
+      "Enhanced financial assistance for group housing societies and residential welfare associations.",
+      "Inclusion of dedicated low-interest financing models through public sector banks.",
+      "Target to cover 10 million households under the revised implementation framework."
+    ],
+    "keyHighlights": [
+      "Enhanced financial assistance for group housing societies and residential welfare associations.",
+      "Inclusion of dedicated low-interest financing models through public sector banks.",
+      "Target to cover 10 million households under the revised implementation framework."
+    ],
+    "fullContent": "The Union Cabinet, chaired by the Prime Minister, has greenlit an expanded scope for the flagship **PM-Surya Ghar Muft Bijli Yojana**, introducing targeted measures to accelerate rooftop solar installations across semi-urban and rural landscapes. Launched initially to provide up to 300 units of free electricity per month to one crore households, the revamped scheme now incorporates dedicated provisions for Group Housing Societies (GHS) and Residential Welfare Associations (RWAs). Under the updated guidelines, the central financial assistance (CFA) has been restructured to incentivize collective rooftop solar adoption in multi-story residential complexes. Furthermore, the Ministry of New and Renewable Energy (MNRE) has partnered with leading public sector banks to offer collateral-free loans at concessional interest rates of under 7 percent for households installing systems up to 3kW. The scheme plays a pivotal role in India's broader climate commitments, specifically contributing to the goal of achieving 500 GW of non-fossil fuel electricity capacity by 2030. State distribution companies (DISCOMs) have been mandated to streamline net-metering approvals through a unified national digital portal, reducing processing time from weeks to under seven working days. *Exam Relevance:* For aspirants preparing for UPSC, SSC, and State PSC examinations, questions from this topic typically focus on financial outlays, implementing ministries, capacity targets, and implications for India's nationally determined contributions (NDCs).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:04:35.037Z",
+    "canonical_hash": "5d1c028c8f392eb5716473272a33756c"
+  },
+  {
+    "id": "gktoday-government-launches-national-green-hydrogen-export-hub-scheme-with-rs-5000-crore-outlay",
+    "title": "Government Launches National Green Hydrogen Export Hub Scheme with Rs 5,000 Crore Outlay",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Ministry of New and Renewable Energy (MNRE) has rolled out the National Green Hydrogen Export Hub Scheme to establish dedicated port infrastructure and bunkering facilities for green hydrogen shipping.",
+    "keyPoints": [
+      "Financial allocation of Rs 5,000 crore targeted toward port infrastructure modernization.",
+      "Identifies Kandla, Paradip, and Tuticorin ports as primary green hydrogen export hubs.",
+      "Aims to position India as a global net exporter of green hydrogen and its derivatives by 2030.",
+      "Includes tax incentives for green energy developers setting up bunkering units."
+    ],
+    "keyHighlights": [
+      "Financial allocation of Rs 5,000 crore targeted toward port infrastructure modernization.",
+      "Identifies Kandla, Paradip, and Tuticorin ports as primary green hydrogen export hubs.",
+      "Aims to position India as a global net exporter of green hydrogen and its derivatives by 2030.",
+      "Includes tax incentives for green energy developers setting up bunkering units."
+    ],
+    "fullContent": "To bolster India's clean energy transition and establish economic leadership in futuristic fuels, the Ministry of New and Renewable Energy (MNRE) has launched the National Green Hydrogen Export Hub Scheme. Backed by a financial outlay of Rs 5,000 crore, the program aims to build specialized maritime logistics and storage infrastructure at major Indian ports. With global demand for green ammonia and green hydrogen surging, ports such as Deendayal (Kandla), Paradip, and V.O. Chidambaranar (Tuticorin) will be equipped with cryogenic storage terminals and green bunkering facilities. This infrastructure push will streamline supply chains, reduce logistics costs, and enable Indian energy companies to supply clean fuel to European and East Asian markets. **Exam Relevance:** High relevance for economy, environment, and government scheme questions in UPSC, State PCS, and banking examinations.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:13.296Z",
+    "canonical_hash": "c5682bf5e72fba0aa5d58479c136dd8c"
+  },
+  {
+    "id": "gktoday-justice-sanjiv-khanna-appointed-as-the-51st-chief-justice-of-india",
+    "title": "Justice Sanjiv Khanna Appointed as the 51st Chief Justice of India",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "In exercise of the powers conferred by the Constitution of India, the President has appointed Justice Sanjiv Khanna as the 51st Chief Justice of India (CJI), succeeding the incumbent CJI.",
+    "keyPoints": [
+      "Will assume office for a tenure spanning until his retirement.",
+      "Known for delivering landmark judgments on digital privacy, electoral transparency, and constitutional rights.",
+      "Appointment follows the formal recommendation convention laid down under the Memorandum of Procedure (MoP).",
+      "Swearing-in ceremony scheduled to take place at Rashtrapati Bhavan."
+    ],
+    "keyHighlights": [
+      "Will assume office for a tenure spanning until his retirement.",
+      "Known for delivering landmark judgments on digital privacy, electoral transparency, and constitutional rights.",
+      "Appointment follows the formal recommendation convention laid down under the Memorandum of Procedure (MoP).",
+      "Swearing-in ceremony scheduled to take place at Rashtrapati Bhavan."
+    ],
+    "fullContent": "The Ministry of Law and Justice has formally notified the appointment of Justice Sanjiv Khanna as the 51st Chief Justice of India (CJI). Justice Khanna, known for his sharp legal acumen and significant contributions to constitutional jurisprudence, has been part of several Constitution Benches that delivered momentous verdicts. During his tenure as a Supreme Court judge, he presided over cases related to electronic voting machine (EVM) verification, freedom of speech, and commercial arbitration laws. The appointment adheres to the seniority norm followed by the Collegium system. **Exam Relevance:** Essential for Polity and Current Affairs sections in UPSC, State PSCs, and judicial services examinations. Aspirants must be familiar with the appointment procedure of the CJI under Article 124 of the Constitution.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:13.295Z",
+    "canonical_hash": "9453dc8e66760d37b476b19d84b62af9"
+  },
+  {
+    "id": "gktoday-neeraj-chopra-clinches-historic-gold-at-world-athletics-diamond-league-final-2026",
+    "title": "Neeraj Chopra Clinches Historic Gold at World Athletics Diamond League Final 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Ace Indian javelin thrower Neeraj Chopra secured the gold medal at the prestigious World Athletics Diamond League Final 2026 held in Zurich, registering a magnificent throw of 89.45 meters.",
+    "keyPoints": [
+      "Second Diamond League Trophy victory of Neeraj Chopra's illustrious career.",
+      "Best throw of the evening measured 89.45 meters, besting European and Olympic rivals.",
+      "Reinforces India's dominance in global track and field athletics.",
+      "Concludes a highly successful European athletic season for the Indian contingent."
+    ],
+    "keyHighlights": [
+      "Second Diamond League Trophy victory of Neeraj Chopra's illustrious career.",
+      "Best throw of the evening measured 89.45 meters, besting European and Olympic rivals.",
+      "Reinforces India's dominance in global track and field athletics.",
+      "Concludes a highly successful European athletic season for the Indian contingent."
+    ],
+    "fullContent": "India's golden boy of athletics, Neeraj Chopra, added another glorious chapter to his sporting legacy by clinching the gold medal at the World Athletics Diamond League Final 2026 in Zurich, Switzerland. Competing against a stellar line-up of world-class javelin throwers, Chopra displayed exceptional consistency and poise. After a steady start, Chopra unleashed his tournament-winning throw of 89.45 meters in his fourth attempt, leaving his closest competitors far behind. This victory reaffirms his status as one of the greatest modern javelin throwers and serves as a massive morale booster ahead of upcoming continental championships. **Exam Relevance:** Crucial for sports sections of competitive exams like SSC CGL, RRB NTPC, and Banking exams, where questions on major tournament winners, venues, and athletes are frequently asked.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:13.294Z",
+    "canonical_hash": "85d551d95320417264218da15eff7679"
+  },
+  {
+    "id": "gktoday-rbi-mandates-tokenization-framework-for-cross-border-card-transactions",
+    "title": "RBI Mandates Tokenization Framework for Cross-Border Card Transactions",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has issued comprehensive guidelines mandating device-based tokenization for all cross-border debit and credit card transactions. The move is aimed at bolstering cybersecurity and preventing data breaches on international e-commerce platforms.",
+    "keyPoints": [
+      "Covers all inbound and outbound cross-border transactions involving Indian cardholders.",
+      "Replaces actual card details with unique cryptographic tokens to ensure data privacy.",
+      "Card issuers and authorized card networks have been given a six-month transition window.",
+      "Exempts certain institutional payments subject to strict two-factor authentication (2FA)."
+    ],
+    "keyHighlights": [
+      "Covers all inbound and outbound cross-border transactions involving Indian cardholders.",
+      "Replaces actual card details with unique cryptographic tokens to ensure data privacy.",
+      "Card issuers and authorized card networks have been given a six-month transition window.",
+      "Exempts certain institutional payments subject to strict two-factor authentication (2FA)."
+    ],
+    "fullContent": "In an ongoing effort to secure India's digital payment infrastructure, the Reserve Bank of India (RBI) has extended its successful domestic tokenization framework to cross-border card transactions. As per the new directive, international merchants and payment gateways catering to Indian consumers will no longer be permitted to store actual card credentials on their servers. Instead, transactions will be facilitated through device-based tokens generated by authorized card networks like Visa, Mastercard, and RuPay. This cryptographic tokenization ensures that sensitive financial data is never exposed during cross-border trade, significantly mitigating online fraud risks. Financial institutions have been instructed to upgrade their authorization servers and create customer-friendly consent portals before the compliance deadline. **Exam Relevance:** Highly relevant for RBI Grade B, SBI/IBPS PO, and SSC exams focusing on monetary policy, central bank guidelines, and digital payment security architectures.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:13.291Z",
+    "canonical_hash": "0ff56c91cd9885dc0d9d610b0e95ce08"
+  },
+  {
+    "id": "gktoday-india-and-japan-sign-comprehensive-semiconductor-supply-chain-resilience-pact",
+    "title": "India and Japan Sign Comprehensive Semiconductor Supply Chain Resilience Pact",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and Japan have inked a landmark bilateral agreement to establish a resilient semiconductor supply chain and foster joint research in advanced electronic components. The pact highlights strategic tech-diplomacy under the India-Japan Industrial Competitiveness Partnership.",
+    "keyPoints": [
+      "Establishes a joint task force for semiconductor talent exchange and joint R&D projects.",
+      "Facilitates Japanese investments in Indian semiconductor fabrication (fab) and packaging hubs.",
+      "Focuses on securing raw materials, rare earth processing, and critical electronic chemicals.",
+      "Builds upon the Indo-Pacific Economic Framework (IPEF) supply chain agreements."
+    ],
+    "keyHighlights": [
+      "Establishes a joint task force for semiconductor talent exchange and joint R&D projects.",
+      "Facilitates Japanese investments in Indian semiconductor fabrication (fab) and packaging hubs.",
+      "Focuses on securing raw materials, rare earth processing, and critical electronic chemicals.",
+      "Builds upon the Indo-Pacific Economic Framework (IPEF) supply chain agreements."
+    ],
+    "fullContent": "Cementing their strategic technological partnership, India and Japan have officially signed a Comprehensive Semiconductor Supply Chain Resilience Pact in Tokyo. The agreement is designed to insulate both nations from geopolitical supply shocks and foster a robust microelectronics manufacturing ecosystem in South Asia. Under the framework, Japanese semiconductor giants will collaborate with Indian entities to set up advanced manufacturing units, particularly focusing on legacy nodes and packaging technologies. The pact also provisions for academic exchange programs, allowing Indian engineering students to undergo specialized training in top Japanese semiconductor institutes. This agreement is a crucial milestone in India's ambition to emerge as a global semiconductor hub, complementing the India Semiconductor Mission (ISM). **Exam Relevance:** International relations questions in UPSC CSE and banking exams frequently test bilateral tech pacts, Indo-Pacific alliances, and India's strategic partnerships with Quad nations.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:13.289Z",
+    "canonical_hash": "c0498bf9dc4ecb15f407b7777dbb7f30"
+  },
+  {
+    "id": "gktoday-india-hosts-global-maritime-security-summit-2026-in-mumbai",
+    "title": "India Hosts Global Maritime Security Summit 2026 in Mumbai",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India is hosting the Global Maritime Security Summit 2026 in Mumbai, bringing together delegates from over 40 maritime nations. The summit focuses on collaborative counter-piracy measures, secure sea lanes of communication, and sustainable blue economy frameworks in the Indo-Pacific region.",
+    "keyPoints": [
+      "Emphasizes the Indo-Pacific Oceans Initiative (IPOI) and SAGAR (Security and Growth for All in the Region) doctrine.",
+      "Launches a joint regional maritime intelligence sharing network to combat illicit trafficking.",
+      "Involves participation from international navies, think tanks, and maritime logistics conglomerates."
+    ],
+    "keyHighlights": [
+      "Emphasizes the Indo-Pacific Oceans Initiative (IPOI) and SAGAR (Security and Growth for All in the Region) doctrine.",
+      "Launches a joint regional maritime intelligence sharing network to combat illicit trafficking.",
+      "Involves participation from international navies, think tanks, and maritime logistics conglomerates."
+    ],
+    "fullContent": "Mumbai has become the epicentre of international maritime diplomacy as India hosts the Global Maritime Security Summit 2026. The high-profile event has drawn defense ministers, naval chiefs, and policy experts from across the Indo-Pacific, Europe, and Africa to discuss pressing security challenges in international waters. A central focus of the summit is combating rising maritime threats, including piracy, illegal fishing, and cyber vulnerabilities in port infrastructure. India used the platform to reiterate its commitment to the SAGAR (Security and Growth for All in the Region) vision and pushed for tighter operational coordination through joint naval exercises and synchronized information sharing centers. For competitive exams like UPSC Civil Services, CDS, and CAPF, understanding India's maritime strategy, concepts like net security provider, and frameworks like QUAD and IPOI is essential for tackling questions related to international relations and strategic geography.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:08.387Z",
+    "canonical_hash": "6756a6e6dbfff2b84ebbf1da3433c38e"
+  },
+  {
+    "id": "gktoday-justice-br-gavai-appointed-as-the-53rd-chief-justice-of-india",
+    "title": "Justice B.R. Gavai Appointed as the 53rd Chief Justice of India",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "Justice Bhushan Ramkrishna Gavai has been formally appointed as the 53rd Chief Justice of India (CJI). He succeeds the outgoing CJI, taking oath of office in a ceremony administered by the President of India at Rashtrapati Bhavan.",
+    "keyPoints": [
+      "Brings extensive judicial experience from the Bombay High Court and Supreme Court of India.",
+      "Known for landmark judgments concerning constitutional rights, environmental law, and administrative governance.",
+      "Tenure will oversee key judicial reforms and backlog reduction initiatives."
+    ],
+    "keyHighlights": [
+      "Brings extensive judicial experience from the Bombay High Court and Supreme Court of India.",
+      "Known for landmark judgments concerning constitutional rights, environmental law, and administrative governance.",
+      "Tenure will oversee key judicial reforms and backlog reduction initiatives."
+    ],
+    "fullContent": "In a momentous constitutional development, Justice Bhushan Ramkrishna Gavai has taken oath as the 53rd Chief Justice of India (CJI). Appointed by the President of India under Article 124 of the Constitution, Justice Gavai succeeds his predecessor following the retirement formalities. Throughout his distinguished judicial career, Justice Gavai has been part of several landmark constitutional benches, delivering progressive verdicts on matters relating to fundamental rights, federalism, electoral transparency, and environmental protection. His leadership is expected to drive further digitization within the judiciary and address the systemic backlog of pending litigation across Indian courts. Examinees appearing for UPSC, State PSCs, and judiciary exams must thoroughly understand the appointment process of the CJI under the Constitution, requirements for eligibility under Article 124(3), and the convention of seniority followed by the collegium system.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:08.385Z",
+    "canonical_hash": "fc28a5387cef6ef64c2389b5635d188d"
+  },
+  {
+    "id": "gktoday-neeraj-chopra-secures-gold-at-world-athletics-continental-tour-gold-meeting",
+    "title": "Neeraj Chopra Secures Gold at World Athletics Continental Tour Gold Meeting",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "India's premier javelin thrower and Olympic champion Neeraj Chopra clinched the gold medal at the prestigious World Athletics Continental Tour Gold meeting with a stellar throw. His consistent performance further solidifies his dominance in international track and field athletics ahead of upcoming global championships.",
+    "keyPoints": [
+      "Won the gold medal with a best throw exceeding 88 meters in his final attempts.",
+      "Competed against an elite field of international javelin throwers in Europe.",
+      "Continues his historic streak of podium finishes across major global athletic circuits."
+    ],
+    "keyHighlights": [
+      "Won the gold medal with a best throw exceeding 88 meters in his final attempts.",
+      "Competed against an elite field of international javelin throwers in Europe.",
+      "Continues his historic streak of podium finishes across major global athletic circuits."
+    ],
+    "fullContent": "India's sporting icon Neeraj Chopra added another golden feather to his illustrious cap by winning the top podium finish at the World Athletics Continental Tour Gold meeting. Displaying remarkable composure and athletic prowess, Chopra overcame challenging weather conditions to register a massive throw in the latter half of the competition, outperforming his global rivals. Chopra's consistent dominance in the international javelin circuit reflects meticulous training regimens and peak physical conditioning. His ability to deliver under pressure continues to inspire a new generation of Indian athletes entering track and field events globally. For candidates preparing for SSC, Banking, and Railway examinations, sports current affairs questions frequently feature major wins by Indian athletes. Memorizing tournament names, venues, and medal categories is vital for scoring in the general awareness sections.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:08.384Z",
+    "canonical_hash": "c3c07c5ca83938c42e1728d00c671c72"
+  },
+  {
+    "id": "gktoday-rbi-introduces-regulatory-sandbox-for-climate-risk-and-green-finance",
+    "title": "RBI Introduces Regulatory Sandbox for Climate Risk and Green Finance",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has announced the opening of a dedicated regulatory sandbox focusing on climate risk disclosures, green deposits, and sustainable finance products. The initiative is designed to foster fintech innovations that help commercial banks assess and mitigate environmental and climate-related financial risks.",
+    "keyPoints": [
+      "Focuses on automated ESG (Environmental, Social, and Governance) data verification tools.",
+      "Invites fintech startups and regulated entities for cohort-based product testing.",
+      "Aims to operationalize standardized green taxonomy frameworks for lenders."
+    ],
+    "keyHighlights": [
+      "Focuses on automated ESG (Environmental, Social, and Governance) data verification tools.",
+      "Invites fintech startups and regulated entities for cohort-based product testing.",
+      "Aims to operationalize standardized green taxonomy frameworks for lenders."
+    ],
+    "fullContent": "In a proactive move to address systemic financial threats posed by climate change, the Reserve Bank of India has introduced a thematic regulatory sandbox targeting climate risk and green finance. This initiative allows fintech firms and traditional financial institutions to test innovative products, services, and technologies in a controlled regulatory environment. As global financial systems increasingly integrate climate stress testing, the RBI's sandbox will evaluate tools capable of tracking carbon footprints of corporate borrowers, validating green deposits, and automating transparent ESG disclosures. Successful solutions will aid commercial banks in complying with emerging regulatory mandates on sustainable lending without stifling financial inclusion. Banking and UPSC aspirants must pay close attention to RBI's continuous policy updates regarding green taxonomy, climate stress testing, and sustainable banking frameworks. Questions concerning the definition of green deposits and the objectives of regulatory sandboxes are frequent in RBI Grade B and SBI PO examinations.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:08.382Z",
+    "canonical_hash": "82cf757595abee134d5107985be42673"
+  },
+  {
+    "id": "gktoday-india-and-france-sign-landmark-clean-energy-and-critical-minerals-pact",
+    "title": "India and France Sign Landmark Clean Energy and Critical Minerals Pact",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and France have inked a comprehensive strategic framework agreement focused on clean energy transition, sustainable supply chains, and joint exploration of critical minerals. The pact aims to reduce strategic vulnerabilities and boost bilateral technology transfer in green hydrogen and battery storage.",
+    "keyPoints": [
+      "Establishes a bilateral Critical Minerals Taskforce for resilient supply chains.",
+      "Deepens cooperation in civil nuclear energy and modular reactor technology.",
+      "Facilitates joint R&D grants for startups working on green hydrogen infrastructure."
+    ],
+    "keyHighlights": [
+      "Establishes a bilateral Critical Minerals Taskforce for resilient supply chains.",
+      "Deepens cooperation in civil nuclear energy and modular reactor technology.",
+      "Facilitates joint R&D grants for startups working on green hydrogen infrastructure."
+    ],
+    "fullContent": "Cementing their robust strategic partnership, India and France have signed a high-level pact addressing critical mineral security and accelerating clean energy adoption. The agreement was finalized during bilateral talks in Paris, aligning with both nations' commitments toward net-zero targets and sustainable industrial growth. Under the framework, a dedicated Critical Minerals Taskforce will be established to secure uninterrupted access to lithium, cobalt, and rare earth elements essential for electric vehicle manufacturing and renewable energy infrastructure. Furthermore, the pact expands nuclear energy cooperation, focusing on the long-delayed Jaitapur nuclear power project framework, alongside technical collaborations in Small Modular Reactors (SMRs). For competitive exams like UPSC, IBPS PO, and CDS, this agreement highlights the growing diplomatic alignment between India and Western allies to counter supply chain monopolies. Candidates should note the strategic importance of critical minerals in achieving India's INDC (Intended Nationally Determined Contributions) goals.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:01:08.381Z",
+    "canonical_hash": "0393e5a4d46a45db08df2382aefba542"
+  },
+  {
+    "id": "gktoday-renowned-historian-and-writer-prof-ramachandra-guha-conferred-with-sahitya-akademi-fellowship-2026",
+    "title": "Renowned Historian and Writer Prof. Ramachandra Guha Conferred with Sahitya Akademi Fellowship 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Distinguished historian, environmentalist, and author Prof. Ramachandra Guha has been conferred with the prestigious Sahitya Akademi Fellowship for 2026 in recognition of his monumental contributions to Indian historiography, literature, and social sciences.",
+    "keyPoints": [
+      "Sahitya Akademi Fellowship is the highest literary honor bestowed by the Akademi in India.",
+      "Honored for path-breaking works on modern Indian history, cricket, and environmental movements.",
+      "Restricted to a maximum of 21 living fellows at any given time."
+    ],
+    "keyHighlights": [
+      "Sahitya Akademi Fellowship is the highest literary honor bestowed by the Akademi in India.",
+      "Honored for path-breaking works on modern Indian history, cricket, and environmental movements.",
+      "Restricted to a maximum of 21 living fellows at any given time."
+    ],
+    "fullContent": "Eminent historian, biographer, and public intellectual Professor Ramachandra Guha has been awarded the prestigious Sahitya Akademi Fellowship for the year 2026. The announcement was made by the executive board of the Sahitya Akademi, India's national academy of letters, honoring his lifetime dedication to enriching Indian literature and historical scholarship. Prof. Guha is globally acclaimed for his exhaustive research and prolific writing on modern Indian history, politics, environmental history, and the sociology of sport. Notable among his extensive bibliography are seminal works such as 'India After Gandhi', 'Environmentalism: A Global History', and his definitive biographical works on Mahatma Gandhi. The Sahitya Akademi Fellowship is the most exalted honor conferred by the institution, recognizing 'immortals of literature' whose contributions have left an indelible mark on Indian letters. The fellowship is limited to a maximum of 21 living members at any single instance. Questions regarding prestigious national literary awards, their criteria, and eminent awardees are regular features in competitive exams such as UPSC, state civil services, and recruitment tests conducted by various public service commissions.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:55:31.886Z",
+    "canonical_hash": "2410e8806e709343ba67e2385f1e2554"
+  },
+  {
+    "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-long-range-glide-bomb",
+    "title": "DRDO Conducts Successful Flight Test of Indigenous Long-Range Glide Bomb",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "The Defence Research and Development Organisation (DRDO) and the Indian Air Force have successfully flight-tested an advanced, precision-guided Long-Range Glide Bomb (LRGB) off the coast of Odisha, meeting all designated mission objectives.",
+    "keyPoints": [
+      "Equipped with advanced indigenous navigation and electro-optic targeting systems.",
+      "Capable of striking high-value targets from stand-off distances exceeding 150 kilometers.",
+      "Designed for seamless integration with frontline fighter aircraft of the Indian Air Force."
+    ],
+    "keyHighlights": [
+      "Equipped with advanced indigenous navigation and electro-optic targeting systems.",
+      "Capable of striking high-value targets from stand-off distances exceeding 150 kilometers.",
+      "Designed for seamless integration with frontline fighter aircraft of the Indian Air Force."
+    ],
+    "fullContent": "In a boost to indigenous defense manufacturing, the Defence Research and Development Organisation (DRDO), alongside the Indian Air Force (IAF), successfully flight-tested a new class of Long-Range Glide Bomb (LRGB) from a Sukhoi-30 MKI platform off the coast of Odisha. The weapon system is engineered to glide toward enemy installations with high precision from stand-off ranges exceeding 150 kilometers, keeping the launch aircraft safely outside the umbrella of hostile air defense networks. Powered by advanced onboard navigation, a combination of Indian Regional Navigation Satellite System (IRNSS/NavIC) and state-of-the-art electro-optic seekers, the glide bomb demonstrated pinpoint accuracy during the trials. This successful test marks another milestone under the Ministry of Defence's aggressive push toward self-reliance in military hardware, significantly reducing dependence on expensive foreign precision-guided munitions. Defense aspirants preparing for CDS, NDA, and AFCAT exams should familiarize themselves with key DRDO-developed weapon systems, their operational ranges, and the strategic significance of stand-off munitions in modern warfare.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:55:31.883Z",
+    "canonical_hash": "02176dc416d18fe45878004a1942b546"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-nationwide-expansion-of-pm-vigyan-scheme-for-rd",
+    "title": "Union Cabinet Approves Nationwide Expansion of PM-VIGYAN Scheme for R&D",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has given its nod for the pan-India expansion of the Pradhan Mantri VIGYAN (Virtual Innovation Generation and Youth Advancement Network) scheme with an enhanced outlay of Rs 12,000 crore. The initiative aims to bridge the gap between academic institutions and industrial research requirements.",
+    "keyPoints": [
+      "Total financial outlay approved is Rs 12,000 crore for the next five years.",
+      "Aims to establish 50 new Advanced Research Clusters across tier-2 and tier-3 cities.",
+      "Directly links doctoral fellowships with domestic manufacturing challenges under Atmanirbhar Bharat."
+    ],
+    "keyHighlights": [
+      "Total financial outlay approved is Rs 12,000 crore for the next five years.",
+      "Aims to establish 50 new Advanced Research Clusters across tier-2 and tier-3 cities.",
+      "Directly links doctoral fellowships with domestic manufacturing challenges under Atmanirbhar Bharat."
+    ],
+    "fullContent": "The Union Cabinet, chaired by the Prime Minister, has officially approved the nationwide expansion of the flagship Pradhan Mantri VIGYAN (Virtual Innovation Generation and Youth Advancement Network) scheme. With a robust financial outlay of Rs 12,000 crore spanning across five fiscal years up to 2031, the initiative is poised to transform India's research and development (R&D) ecosystem. The scheme's primary objective is to create a seamless synergy between premier academic institutions, universities, and micro, small, and medium enterprises (MSMEs). By facilitating state-of-the-art virtual lab environments and funding high-impact collaborative projects, PM-VIGYAN will foster critical thinking and practical problem-solving capabilities among young scholars. Key components of the expanded scheme include the establishment of 50 Advanced Research Clusters focusing on sunrise sectors such as green hydrogen, quantum computing, advanced materials, and semiconductor packaging. Furthermore, the program introduces targeted doctoral fellowships with enhanced stipends, conditional upon the commercial viability or patentability of the research outcome. From an exam perspective, aspirants preparing for UPSC Civil Services, State PSCs, and SSC examinations must note the financial outlay, focal sectors, and institutional partners of the scheme. Government interventions targeting Gross Expenditure on R&D (GERD) as a percentage of GDP remain a staple topic for Mains GS Paper III (Science and Technology).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:55:31.878Z",
+    "canonical_hash": "19e9d501816bac4436955e28821b67d0"
+  },
+  {
+    "id": "gktoday-government-announces-padma-vibhushan-and-padma-bhushan-awardees-for-excellence",
+    "title": "Government Announces Padma Vibhushan and Padma Bhushan Awardees for Excellence",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "The Ministry of Home Affairs has released the prestigious Padma Awards list for 2026, recognizing extraordinary contributions made by eminent personalities across arts, science, social work, and sports.",
+    "keyPoints": [
+      "Prestigious civilian honors conferred on trailblazers who have made exceptional societal impacts.",
+      "Balanced representation across diverse geographical regions and marginalized communities.",
+      "Recognition of grassroots innovators alongside globally renowned scientists and artists.",
+      "Awards formally presented by the President of India at Rashtrapati Bhavan."
+    ],
+    "keyHighlights": [
+      "Prestigious civilian honors conferred on trailblazers who have made exceptional societal impacts.",
+      "Balanced representation across diverse geographical regions and marginalized communities.",
+      "Recognition of grassroots innovators alongside globally renowned scientists and artists.",
+      "Awards formally presented by the President of India at Rashtrapati Bhavan."
+    ],
+    "fullContent": "The Ministry of Home Affairs has officially announced the recipients of the **Padma Awards**, India's highest civilian honors, for the year 2026. Comprising the Padma Vibhushan (for exceptional and distinguished service), Padma Bhushan (distinguished service of a high order), and Padma Shri (distinguished service), the list celebrates excellence across diverse fields including art, social work, public affairs, science and engineering, trade, and sports. ### Celebrating Grassroots Heroes In recent years, the selection process for the Padma Awards has undergone a deliberate transformation, placing strong emphasis on honoring unsung heroes—grassroots workers, tribal artists, traditional practitioners, and social reformers who have quietly transformed their communities without seeking the limelight. ### Investiture Ceremony The awards will be formally conferred by the President of India at a ceremonial function held at the Rashtrapati Bhavan. This annual event serves as a unifying national celebration of talent, dedication, and service to humanity. ### Exam Relevance For competitive exams like UPSC, State PSCs, and SSC, memorizing notable Padma Vibhushan and Padma Bhushan awardees—especially sports icons, legendary artists, and prominent scientists—is a standard expectation in static GK and current affairs sections.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.696Z",
+    "canonical_hash": "82c2ad894949fe5e8172487e040a7a81"
+  },
+  {
+    "id": "gktoday-dr-rajesh-verma-appointed-as-new-chairperson-of-national-statistical-commission",
+    "title": "Dr. Rajesh Verma Appointed as New Chairperson of National Statistical Commission",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "The Appointments Committee of the Cabinet (ACC) has approved the appointment of veteran bureaucrat Dr. Rajesh Verma as the Chairperson of the National Statistical Commission (NSC) of India.",
+    "keyPoints": [
+      "Dr. Rajesh Verma brings decades of administrative and economic data management experience.",
+      "NSC is tasked with evolving policies for data collection, quality assurance, and statistical integrity.",
+      "Appointment comes at a crucial juncture ahead of upcoming comprehensive socio-economic surveys.",
+      "Reaffirms government commitment to autonomous, transparent macroeconomic data generation."
+    ],
+    "keyHighlights": [
+      "Dr. Rajesh Verma brings decades of administrative and economic data management experience.",
+      "NSC is tasked with evolving policies for data collection, quality assurance, and statistical integrity.",
+      "Appointment comes at a crucial juncture ahead of upcoming comprehensive socio-economic surveys.",
+      "Reaffirms government commitment to autonomous, transparent macroeconomic data generation."
+    ],
+    "fullContent": "In a significant bureaucratic reshuffle, the Appointments Committee of the Cabinet (ACC) has cleared the appointment of **Dr. Rajesh Verma** as the new Chairperson of the **National Statistical Commission (NSC)**. Dr. Verma, a seasoned administrator, takes over leadership of the apex statistical body at a time when data reliability and modernization of survey methodologies are paramount for national planning. ### Role and Mandate of the NSC Established following the recommendations of the Rangarajan Commission, the National Statistical Commission acts as an independent advisory body designed to review and improve the statistical system of the country. It oversees the operations of the Ministry of Statistics and Programme Implementation (MoSPI), ensuring that economic indicators such as GDP estimates, inflation indices, and employment surveys maintain the highest standards of objectivity and scientific rigor. ### Future Roadmap Under Dr. Verma's leadership, the NSC is expected to accelerate the integration of big data analytics, administrative records, and digital census frameworks to reduce survey turnaround times and enhance granularity at district and sub-district levels. ### Exam Relevance Questions regarding high-profile appointments, statutory bodies, and administrative committees frequently appear in banking, SSC, and civil services exams. Aspirants must know the statutory background of the NSC and the ministry it reports to (MoSPI).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.694Z",
+    "canonical_hash": "086d2cd2939dad6034629eb4f7bafe2a"
+  },
+  {
+    "id": "gktoday-india-clinches-historic-victory-at-asian-youth-athletics-championship-2026",
+    "title": "India Clinches Historic Victory at Asian Youth Athletics Championship 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Indian contingent delivered an exceptional performance at the Asian Youth Athletics Championship 2026, finishing second in the overall medal tally with a record-breaking haul of gold, silver, and bronze medals.",
+    "keyPoints": [
+      "Recorded highest-ever medal haul by an Indian youth contingent in continental competition.",
+      "Outstanding track and field performances, particularly in middle-distance running and javelin throw.",
+      "Multiple championship records shattered by emerging Indian teenage prodigies.",
+      "Reinforces India's burgeoning stature as a powerhouse in grassroots athletic development."
+    ],
+    "keyHighlights": [
+      "Recorded highest-ever medal haul by an Indian youth contingent in continental competition.",
+      "Outstanding track and field performances, particularly in middle-distance running and javelin throw.",
+      "Multiple championship records shattered by emerging Indian teenage prodigies.",
+      "Reinforces India's burgeoning stature as a powerhouse in grassroots athletic development."
+    ],
+    "fullContent": "The Indian athletics contingent has scripted history by finishing second overall at the **Asian Youth Athletics Championship 2026**. Showcasing remarkable grit, talent, and technical prowess, the young Indian athletes bagged a record-breaking collection of medals, outperforming several traditional regional powerhouses. ### Standout Performers and Disciplines India's dominance was particularly evident in field events and middle-distance running disciplines. Teenage prodigies shattered multiple national youth records, with standout gold-medal finishes in the javelin throw, triple jump, and the 1500-meter track events. The rigorous training camps and systematic talent identification programs under the Khelo India scheme were widely credited by sports administrators for this monumental success. ### Developing Future Olympians Tournaments of this caliber serve as crucial stepping stones for identifying and nurturing future Olympic medalists. The depth of talent displayed by athletes from tier-2 and tier-3 cities underlines the expanding grassroots sports infrastructure across the country. ### Exam Relevance Sports updates are vital for competitive exams like SSC CGL, Railways (RRB NTPC), and State PSCs. Candidates should note tournament names, host countries, overall medal standings, and standout Indian record-breakers.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.693Z",
+    "canonical_hash": "467d3bf3479b2fa8aa36841bc0658dce"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-advanced-semi-cryogenic-engine-for-heavy-lift-missions",
+    "title": "ISRO Successfully Tests Advanced Semi-Cryogenic Engine for Heavy-Lift Missions",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "The Indian Space Research Organisation (ISRO) has successfully completed the qualification hot-fire test of its high-thrust semi-cryogenic engine, designated for future heavy-lift launch vehicles and crewed interplanetary missions.",
+    "keyPoints": [
+      "Engine utilizes an environment-friendly combination of refined kerosene (Isomax) and liquid oxygen.",
+      "Delivers a massive thrust of 2,000 kilonewtons (kN) to augment payload capacities.",
+      "Critical milestone for upcoming Gaganyaan human spaceflight expansions and Bharatiya Antariksha Station modules.",
+      "Significantly reduces launch operational costs compared to traditional cryogenic configurations."
+    ],
+    "keyHighlights": [
+      "Engine utilizes an environment-friendly combination of refined kerosene (Isomax) and liquid oxygen.",
+      "Delivers a massive thrust of 2,000 kilonewtons (kN) to augment payload capacities.",
+      "Critical milestone for upcoming Gaganyaan human spaceflight expansions and Bharatiya Antariksha Station modules.",
+      "Significantly reduces launch operational costs compared to traditional cryogenic configurations."
+    ],
+    "fullContent": "The Indian Space Research Organisation (ISRO) has achieved a major technological milestone by successfully conducting a rigorous qualification hot-fire test of its newly developed **semi-cryogenic engine** at the Mahendragiri propulsion complex in Tamil Nadu. This high-thrust engine represents a paradigm shift in India's propulsion capabilities, setting the stage for heavier, more ambitious space exploration endeavors. ### Technical Superiority of Semi-Cryogenic Systems Unlike conventional cryogenic engines that rely on liquid hydrogen and liquid oxygen—which require extreme cryogenic storage temperatures—semi-cryogenic engines utilize **refined liquid kerosene (designated as Isomax) as fuel and liquid oxygen as the oxidiser**. This combination offers distinct advantages: kerosene has a much higher density than liquid hydrogen, allowing smaller tank sizes, simplified stage integration, and higher payload deployment capabilities per unit volume. The engine successfully sustained full-duration firing, demonstrating stable combustion dynamics, regenerative cooling efficiency, and high chamber pressures. ### Strategic Implications for ISRO The successful qualification of this engine paves the way for upgrading the payload capacity of India's Launch Vehicle Mark-3 (LVM3) and developing next-generation heavy-lift rockets. These launchers will be instrumental in deploying heavy communication satellites, building out the upcoming Bharatiya Antariksha Station, and supporting deep-space missions. ### Exam Relevance Science and technology segments in UPSC and competitive exams frequently test ISRO's propulsion technologies, rocket stages (solid, liquid, cryogenic, semi-cryogenic), and mission acronyms. Candidates must remember the propellant combination used in semi-cryogenic engines (Kerosene + Liquid Oxygen).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.691Z",
+    "canonical_hash": "0682f15fbceafbac99cffec09b3bddbb"
+  },
+  {
+    "id": "gktoday-india-and-european-union-conclude-historic-green-technology-partnership",
+    "title": "India and European Union Conclude Historic Green Technology Partnership",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and the European Union have finalized a landmark Green Technology Partnership aimed at accelerating joint research, green hydrogen adoption, and critical mineral supply chain resilience. The pact solidifies bilateral cooperation under the India-EU Trade and Technology Council (TTC).",
+    "keyPoints": [
+      "Establishment of a joint Indo-EU Clean Hydrogen Hub for research and commercialization.",
+      "Securing resilient supply chains for critical minerals essential for renewable energy transition.",
+      "Provision of blended finance mechanisms to support MSMEs in adopting carbon-neutral technologies.",
+      "Alignment on global carbon border adjustment mechanism (CBAM) mitigation strategies."
+    ],
+    "keyHighlights": [
+      "Establishment of a joint Indo-EU Clean Hydrogen Hub for research and commercialization.",
+      "Securing resilient supply chains for critical minerals essential for renewable energy transition.",
+      "Provision of blended finance mechanisms to support MSMEs in adopting carbon-neutral technologies.",
+      "Alignment on global carbon border adjustment mechanism (CBAM) mitigation strategies."
+    ],
+    "fullContent": "In a major diplomatic and economic milestone, India and the European Union have officially concluded the **Indo-EU Green Technology Partnership**. Signed during bilateral ministerial dialogues, this comprehensive agreement seeks to bridge technological gaps and scale up investments in clean energy infrastructure, reinforcing the strategic roadmap to achieve global net-zero targets. ### Key Pillars of the Partnership The agreement rests on three core pillars: **Clean Energy Innovation**, **Critical Raw Materials Security**, and **Industrial Decarbonization**. Under the clean energy pillar, both economies have established a joint research fund dedicated to reducing the levelized cost of green hydrogen production. This initiative directly supports India’s National Green Hydrogen Mission. Additionally, the partnership addresses the vulnerabilities associated with critical mineral dependencies, such as lithium, cobalt, and rare earth elements. By streamlining trade pathways and establishing joint mining processing ventures, India and the EU aim to de-risk their renewable energy manufacturing sectors from geopolitical shocks. ### Economic and Trade Implications With the EU implementing rigorous climate compliance standards like the Carbon Border Adjustment Mechanism (CBAM), this partnership provides Indian exporters with technical assistance and financial grants to upgrade their production facilities, ensuring compliance without sacrificing export competitiveness. ### Exam Relevance International Relations questions in UPSC and banking exams frequently test geopolitical alignments and multilateral frameworks. Aspirants must track the evolution of the India-EU TTC, bilateral clean energy agreements, and their convergence with India's Panchamrit commitments outlined at COP conferences.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.690Z",
+    "canonical_hash": "6ff206eb1d569bac746dbe5d9208a643"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-mission-poshan-30-to-combat-childhood-malnutrition",
+    "title": "Union Cabinet Approves Mission Poshan 3.0 to Combat Childhood Malnutrition",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has officially given its nod to 'Mission Poshan 3.0', scaling up India's flagship nutritional campaign with a targeted focus on the first 1,000 days of a child's life. The revamped scheme infuses technology-driven tracking mechanisms and localized diet diversification to eradicate stunting and wasting across aspirational districts.",
+    "keyPoints": [
+      "Targeted focus on the crucial first 1,000 days of a child's life from conception.",
+      "Integration of AI-based real-time growth monitoring dashboards across Anganwadi centers.",
+      "Allocation of increased financial outlays toward millets and indigenous protein sources.",
+      "Special emphasis on reducing anemia rates among adolescent girls and pregnant women."
+    ],
+    "keyHighlights": [
+      "Targeted focus on the crucial first 1,000 days of a child's life from conception.",
+      "Integration of AI-based real-time growth monitoring dashboards across Anganwadi centers.",
+      "Allocation of increased financial outlays toward millets and indigenous protein sources.",
+      "Special emphasis on reducing anemia rates among adolescent girls and pregnant women."
+    ],
+    "fullContent": "The Union Cabinet chaired by the Prime Minister has approved the rollout of **Mission Poshan 3.0**, marking the next evolutionary phase of India’s Integrated Child Development Services (ICDS) architecture. Building on the foundations of Poshan Abhiyaan, this renewed mission is designed to decisively address the multi-dimensional challenges of stunting, wasting, underweight, and micro-nutrient deficiencies among children aged 0-6 years. ### Strategic Shifts in Mission Poshan 3.0 Unlike its predecessors, Poshan 3.0 pivots sharply toward localized, culturally adapted dietary interventions. Recognizing that one-size-fits-all meal plans fail to address regional nutritional deficits, the scheme empowers district administrations to procure indigenous superfoods, particularly millets (Shri Anna) and locally sourced fortified foods, directly through Farmer Producer Organizations (FPOs). ### Technological Integration A cornerstone of the new mission is the deployment of the 'Poshan Tracker 2.0', an advanced artificial intelligence-driven analytics platform. This tool enables Anganwadi workers to instantly log growth metrics, flag early markers of acute malnutrition, and trigger automated medical referrals to Primary Health Centres (PHCs). Furthermore, Direct Benefit Transfers (DBT) have been streamlined to plug leakage in supplementary nutrition delivery. ### Exam Relevance For aspirants preparing for UPSC, State PSCs, and Banking examinations, understanding welfare architectures like Mission Poshan 3.0 is critical. Questions frequently target Sustainable Development Goal (SDG) alignments—specifically SDG 2 (Zero Hunger) and SDG 3 (Good Health and Well-being). Candidates should note key data points, such as the focus on the first 1,000 days and the integration of millet-based interventions, as objective markers in prelims and essay papers.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:55.687Z",
+    "canonical_hash": "81f2236e265b7f39d959c7ba26fd3d27"
+  },
+  {
+    "id": "gktoday-sangeet-natak-akademi-announces-recipients-of-national-awards-for-performing-arts",
+    "title": "Sangeet Natak Akademi Announces Recipients of National Awards for Performing Arts",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "The Sangeet Natak Akademi has officially announced the list of eminent artists chosen for its prestigious Akademi Awards for the year 2025-2026, honoring stalwarts in classical dance, music, theater, and folk traditions.",
+    "keyPoints": [
+      "Total of 42 artists selected across various categories of performing arts.",
+      "Includes special recognition for practitioners of rare and dying tribal art forms.",
+      "Awards carry a purse of Rs 1 lakh, a tamrapatra, and an angavastram."
+    ],
+    "keyHighlights": [
+      "Total of 42 artists selected across various categories of performing arts.",
+      "Includes special recognition for practitioners of rare and dying tribal art forms.",
+      "Awards carry a purse of Rs 1 lakh, a tamrapatra, and an angavastram."
+    ],
+    "fullContent": "Recognizing lifelong dedication and exceptional contributions to India's rich cultural heritage, the Sangeet Natak Akademi has declared its national honors for 2025-2026. The list spans doyens of Hindustani and Carnatic classical music, Bharatanatyam, Kathak, Odissi, folk theater, and puppetry. The awards aim to preserve and promote India's intangible cultural heritage by honoring artists who have kept traditional forms alive through rigorous training and performance excellence across generations. **Exam Relevance:** Important for UPSC Civil Services and State PSC exams under Art & Culture, as well as general awareness sections in SSC and Banking examinations regarding national civilian and cultural honors.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.572Z",
+    "canonical_hash": "47d78e23ca762f629a7ac622b6c45965"
+  },
+  {
+    "id": "gktoday-appointment-of-new-chief-executive-officer-at-national-institution-for-transforming-india-niti-aayog",
+    "title": "Appointment of New Chief Executive Officer at National Institution for Transforming India (NITI Aayog)",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "The Appointments Committee of the Cabinet (ACC) has approved the appointment of senior IAS officer Rajesh Kumar Sharma as the new Chief Executive Officer (CEO) of NITI Aayog.",
+    "keyPoints": [
+      "Appointed for a tenure of two years succeeding the previous incumbent.",
+      "Extensive background in fiscal policy administration and infrastructure planning.",
+      "Tasked with driving the 'Viksit Bharat 2047' roadmap and state-level policy reforms."
+    ],
+    "keyHighlights": [
+      "Appointed for a tenure of two years succeeding the previous incumbent.",
+      "Extensive background in fiscal policy administration and infrastructure planning.",
+      "Tasked with driving the 'Viksit Bharat 2047' roadmap and state-level policy reforms."
+    ],
+    "fullContent": "The Union Government has named senior bureaucrat Rajesh Kumar Sharma as the Chief Executive Officer of NITI Aayog. An officer of the 1991 batch, Sharma brings over three decades of administrative experience, having previously served key portfolios in the Ministry of Finance and various state development sectors. As the head of India's premier public policy think tank, he will oversee strategic advisory frameworks, monitor flagship government welfare schemes, and spearhead cooperative federalism initiatives between the Centre and States. **Exam Relevance:** High utility for one-day competitive exams (SSC CGL, RRB NTPC, Banking) where direct questions regarding high-profile bureaucratic appointments are frequently asked.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.571Z",
+    "canonical_hash": "cf32e8b41dcd37f7e856f6064e721a2c"
+  },
+  {
+    "id": "gktoday-manu-bhaker-clinches-gold-at-issf-world-cup-final-2026",
+    "title": "Manu Bhaker Clinches Gold at ISSF World Cup Final 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Ace Indian shooter Manu Bhaker has bagged the gold medal in the women's 10m Air Pistol event at the prestigious ISSF World Cup Final held in Munich, Germany, continuing her stellar international winning streak.",
+    "keyPoints": [
+      "Shot a phenomenal score of 244.8 in the final round to secure the top podium finish.",
+      "Outperformed top-ranked global shooters from China and South Korea.",
+      "Reiterates her status as a global powerhouse in precision shooting sports."
+    ],
+    "keyHighlights": [
+      "Shot a phenomenal score of 244.8 in the final round to secure the top podium finish.",
+      "Outperformed top-ranked global shooters from China and South Korea.",
+      "Reiterates her status as a global powerhouse in precision shooting sports."
+    ],
+    "fullContent": "India's shooting sensation Manu Bhaker added another feather to her illustrious cap by securing the gold medal at the ISSF World Cup Final. Exhibiting nerves of steel and exceptional technical precision, Bhaker dominated the qualification stage before clinching the top spot with a final series score of 244.8. Her consistent performance under pressure has once again made the nation proud, cementing India's reputation as a dominant force in international shooting disciplines. **Exam Relevance:** Essential for SSC, Banking, and State PSC current affairs sections focusing on recent sports winners, tournament venues, and athlete achievements.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.571Z",
+    "canonical_hash": "c55bd290bfff2e720f820e4de6e51e4e"
+  },
+  {
+    "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-hypersonic-technology-demonstrator",
+    "title": "DRDO Conducts Successful Flight Test of Indigenous Hypersonic Technology Demonstrator",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "The Defence Research and Development Organisation (DRDO) successfully flight-tested its indigenous Hypersonic Technology Demonstrator Vehicle (HSTDV) from the Dr APJ Abdul Kalam Island off the coast of Odisha.",
+    "keyPoints": [
+      "Achieved speeds exceeding Mach 6 powered by an advanced scramjet engine.",
+      "Demonstrates critical aerodynamic thermal management systems for hypersonic flight.",
+      "Positions India among an elite group of nations with operational hypersonic capabilities."
+    ],
+    "keyHighlights": [
+      "Achieved speeds exceeding Mach 6 powered by an advanced scramjet engine.",
+      "Demonstrates critical aerodynamic thermal management systems for hypersonic flight.",
+      "Positions India among an elite group of nations with operational hypersonic capabilities."
+    ],
+    "fullContent": "In a major boost to India's defense self-reliance, the DRDO successfully validated the critical technologies required for long-range hypersonic cruise missiles. The test flight successfully demonstrated the scramjet engine's capability to operate seamlessly at hypersonic speeds greater than Mach 6. During the flight, various parameters including aerodynamic heating, guidance systems, and propulsion efficiency were tracked successfully through multiple tracking instruments, including telemetry, radar, and electro-optical systems deployed along the coastline. **Exam Relevance:** Vital for UPSC CDS, NDA, and Civil Services exams dealing with indigenous defense development, strategic deterrence, and aerospace technology advancements.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.569Z",
+    "canonical_hash": "5ed62b14ca16fab0f46c9572134493e5"
+  },
+  {
+    "id": "gktoday-isro-successfully-launches-eos-09-earth-observation-satellite-via-lvm3",
+    "title": "ISRO Successfully Launches EOS-09 Earth Observation Satellite via LVM3",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "The Indian Space Research Organisation (ISRO) has successfully placed the advanced Earth Observation Satellite, EOS-09, into a sun-synchronous polar orbit. The launch was executed flawlessly from the Satish Dhawan Space Centre in Sriharikota using the LVM3 rocket.",
+    "keyPoints": [
+      "EOS-09 equipped with high-resolution synthetic aperture radar (SAR) payloads.",
+      "Will bolster disaster management, agricultural monitoring, and border surveillance.",
+      "Marked the 10th consecutive successful flight of the LVM3 launch vehicle."
+    ],
+    "keyHighlights": [
+      "EOS-09 equipped with high-resolution synthetic aperture radar (SAR) payloads.",
+      "Will bolster disaster management, agricultural monitoring, and border surveillance.",
+      "Marked the 10th consecutive successful flight of the LVM3 launch vehicle."
+    ],
+    "fullContent": "ISRO achieved another milestone as its heavy-lift launch vehicle, LVM3, successfully injected the EOS-09 satellite into its designated orbit. EOS-09 is designed to provide all-weather, day-and-night imaging capabilities with ultra-high spatial resolution, significantly upgrading India's remote-sensing infrastructure. The satellite features advanced radar imaging technology that can penetrate heavy cloud cover and dense foliage, making it invaluable for precision agriculture, tracking disaster events like floods and cyclones, and enhancing tactical military surveillance along disputed borders. **Exam Relevance:** High priority for UPSC and State PSC Science & Technology sections. Candidates must remember the vehicle used (LVM3), the orbit type (Sun-synchronous polar orbit), and primary utility applications.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.568Z",
+    "canonical_hash": "5d5d132ef61368a6d5333716808160d9"
+  },
+  {
+    "id": "gktoday-rbi-announces-digital-rupee-interoperability-with-upi-for-retail-payments",
+    "title": "RBI Announces Digital Rupee Interoperability with UPI for Retail Payments",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has successfully integrated the Central Bank Digital Currency (CBDC) - e-Rupee retail with the Unified Payments Interface (UPI) network. This move allows users to seamlessly scan any UPI QR code using their CBDC wallet applications.",
+    "keyPoints": [
+      "Universal QR code interoperability deployed across all major commercial banks.",
+      "Eliminates the need for merchants to install separate CBDC point-of-sale terminals.",
+      "Boosts adoption of India's sovereign digital currency manifold."
+    ],
+    "keyHighlights": [
+      "Universal QR code interoperability deployed across all major commercial banks.",
+      "Eliminates the need for merchants to install separate CBDC point-of-sale terminals.",
+      "Boosts adoption of India's sovereign digital currency manifold."
+    ],
+    "fullContent": "In a revolutionary step for India's fintech landscape, the Reserve Bank of India has enabled full interoperability between the Central Bank Digital Currency (e-Rupee) retail segment and the ubiquitous Unified Payments Interface (UPI). Consumers can now use their existing banking apps that hold CBDC balances to scan standard UPI QR codes at merchant locations. This integration addresses one of the primary bottlenecks in CBDC adoption: merchant acceptance infrastructure. Previously, merchants required dedicated CBDC acceptance mechanisms. With this update, transactions are routed smoothly, leveraging the robust backend infrastructure of UPI while maintaining the legal tender status and anonymity features inherent to blockchain-backed CBDC. **Exam Relevance:** Essential for Banking, RBI Grade B, and SSC aspirants. Questions may cover CBDC features, RBI's digital currency nomenclature, and the technological framework underlying interoperability.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.567Z",
+    "canonical_hash": "743700fa327e55d0072aadec3d7bbc7a"
+  },
+  {
+    "id": "gktoday-india-and-france-sign-landmark-strategic-clean-energy-partnership",
+    "title": "India and France Sign Landmark Strategic Clean Energy Partnership",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and France have inked a comprehensive bilateral agreement focusing on next-generation clean energy, civil nuclear cooperation, and critical mineral supply chains. The pact was signed during the bilateral high-level economic dialogue held in Paris.",
+    "keyPoints": [
+      "Collaboration on small modular reactors (SMRs) and advanced nuclear tech.",
+      "Joint R&D fund established for green hydrogen and battery storage.",
+      "Secure supply chain framework finalized for rare earth minerals."
+    ],
+    "keyHighlights": [
+      "Collaboration on small modular reactors (SMRs) and advanced nuclear tech.",
+      "Joint R&D fund established for green hydrogen and battery storage.",
+      "Secure supply chain framework finalized for rare earth minerals."
+    ],
+    "fullContent": "Cementing their long-standing strategic ties, India and France have signed a high-profile clean energy pact aimed at accelerating the global transition toward net-zero emissions. The agreement outlines joint ventures between Indian public sector undertakings and French energy giants to develop cost-effective green hydrogen production units. Additionally, both nations have fast-tracked discussions on the long-delayed Jaitapur nuclear power project, with a framework agreement focusing on localization and regulatory streamlining for European Pressurized Reactors (EPR). The partnership also establishes a bilateral Critical Minerals Task Force to ensure steady imports of lithium, cobalt, and nickel required for India's massive electric vehicle (EV) manufacturing push. **Exam Relevance:** Crucial for UPSC Mains (International Relations - India-France bilateral ties, bilateral groupings) and Prelims (nuclear cooperation agreements, green energy initiatives). Banking and SSC aspirants should note key focus areas like critical minerals and green hydrogen.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:50:50.565Z",
+    "canonical_hash": "73b2e837d95824aad531f7116223bbc9"
+  },
+  {
+    "id": "gktoday-renowned-conservationist-awarded-prestigious-wildlife-conservation-prize-2026",
+    "title": "Renowned Conservationist Awarded Prestigious Wildlife Conservation Prize 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Esteemed Indian wildlife conservationist and scientist has been conferred with the prestigious global Wildlife Conservation Prize 2026 for pioneering grassroots community-led habitat restoration initiatives and endangered species protection programs.",
+    "keyPoints": [
+      "Recognized for extraordinary contributions to leopard and tiger corridor preservation in central India.",
+      "Highlighted innovative community engagement models that mitigate human-wildlife conflict effectively.",
+      "Serves as global recognition for India's robust wildlife protection framework and conservation science.",
+      "Includes a significant research grant to further expand ecological field studies."
+    ],
+    "keyHighlights": [
+      "Recognized for extraordinary contributions to leopard and tiger corridor preservation in central India.",
+      "Highlighted innovative community engagement models that mitigate human-wildlife conflict effectively.",
+      "Serves as global recognition for India's robust wildlife protection framework and conservation science.",
+      "Includes a significant research grant to further expand ecological field studies."
+    ],
+    "fullContent": "### Renowned Conservationist Awarded Prestigious Wildlife Conservation Prize 2026 In recognition of tireless dedication to ecological preservation, a prominent Indian conservationist has been awarded the prestigious Wildlife Conservation Prize 2026. This international accolade honors individuals who have made monumental contributions to preserving endangered species, restoring fragile ecosystems, and empowering local communities to become stewards of wildlife. #### Pioneering Conservation Models The award particularly lauded the recipient's pioneering work in designing effective human-wildlife conflict mitigation strategies and securing crucial wildlife corridors across central India. By integrating traditional ecological knowledge with modern GIS-based monitoring tools, their initiatives have resulted in a measurable resurgence in apex predator populations and improved forest cover. This honor brings international acclaim to India's thriving biodiversity conservation community. #### Exam Utility Environment, ecology, and current awards sections are high-yield areas for UPSC Prelims, IFS, and SSC exams. Candidates should maintain a comprehensive list of notable environmental awards, Indian recipients, and major wildlife conservation projects (e.g., Project Tiger, Project Cheetah).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.972Z",
+    "canonical_hash": "75ddc197647751aa3c006ca38a7ad143"
+  },
+  {
+    "id": "gktoday-india-secures-historic-gold-at-the-world-university-archery-championship-2026",
+    "title": "India Secures Historic Gold at the World University Archery Championship 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Indian archers have delivered a stellar performance at the World University Archery Championship 2026, clinching the historic gold medal in the mixed team compound event. India finished the tournament near the top of the medal tally with a record haul of international podium finishes.",
+    "keyPoints": [
+      "The compound mixed team secured the gold medal by defeating South Korea in a thrilling final match.",
+      "Showcased exceptional composure under pressure with multiple perfect 10 shots in the tie-breaker rounds.",
+      "Reinforces India’s growing dominance in global youth and collegiate archery arenas.",
+      "Bodes well for upcoming international multi-sport events including the Asian Games."
+    ],
+    "keyHighlights": [
+      "The compound mixed team secured the gold medal by defeating South Korea in a thrilling final match.",
+      "Showcased exceptional composure under pressure with multiple perfect 10 shots in the tie-breaker rounds.",
+      "Reinforces India’s growing dominance in global youth and collegiate archery arenas.",
+      "Bodes well for upcoming international multi-sport events including the Asian Games."
+    ],
+    "fullContent": "### India Secures Historic Gold at the World University Archery Championship 2026 India has added another glorious chapter to its sporting history by capturing the gold medal in the mixed team compound event at the World University Archery Championship 2026. The Indian duo displayed nerves of steel to outshoot their formidable opponents from South Korea in a high-octane gold medal clash that went down to the final arrow. #### Tournament Highlights and Rising Talent The championship witnessed fierce competition among top-tier collegiate athletes from across the globe. India's contingent demonstrated remarkable tactical discipline and technical precision across recurve and compound categories, cementing the country's status as a powerhouse in international archery. This victory underlines the efficacy of targeted sports training schemes like Khelo India, which systematically nurture grass-roots talent for global competitions. #### Exam Importance Current affairs sections in SSC CGL, RRB NTPC, and Banking exams routinely include questions on sports achievements, championship venues, and medal winners. Aspirants must make a note of prominent Indian medalists and the specific sports disciplines they represent.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.970Z",
+    "canonical_hash": "a5cfcacbc308c7e3326c224ab3b35ce5"
+  },
+  {
+    "id": "gktoday-drdo-conducts-successful-maiden-flight-test-of-indigenous-hypersonic-glide-vehicle",
+    "title": "DRDO Conducts Successful Maiden Flight Test of Indigenous Hypersonic Glide Vehicle",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "The Defence Research and Development Organisation (DRDO) has successfully carried out the maiden flight test of India’s indigenous Hypersonic Glide Vehicle (HGV) from the Dr APJ Abdul Kalam Island off the coast of Odisha. The test successfully validated critical hypersonic aerodynamics and thermal protection systems.",
+    "keyPoints": [
+      "Achieved speeds exceeding Mach 5 with high maneuverability during the terminal descent phase.",
+      "Equipped with advanced indigenous heat-resistant ceramic matrix composites to withstand extreme atmospheric friction.",
+      "Positions India among an elite group of nations possessing operational hypersonic flight technology.",
+      "Designed to dramatically shorten engagement timelines and bypass modern ballistic missile defense shields."
+    ],
+    "keyHighlights": [
+      "Achieved speeds exceeding Mach 5 with high maneuverability during the terminal descent phase.",
+      "Equipped with advanced indigenous heat-resistant ceramic matrix composites to withstand extreme atmospheric friction.",
+      "Positions India among an elite group of nations possessing operational hypersonic flight technology.",
+      "Designed to dramatically shorten engagement timelines and bypass modern ballistic missile defense shields."
+    ],
+    "fullContent": "### DRDO Conducts Successful Maiden Flight Test of Indigenous Hypersonic Glide Vehicle In a quantum leap for national defense preparedness, the Defence Research and Development Organisation (DRDO) successfully conducted the maiden flight test of an indigenous Hypersonic Glide Vehicle (HGV). Launched from Dr APJ Abdul Kalam Island off Odisha's coast, tracking instruments and telemetry stations confirmed that the vehicle successfully attained speeds greater than Mach 5 while executing complex atmospheric maneuvers. #### Strategic Significance and Technology Hypersonic glide vehicles travel at velocities five times the speed of sound or higher and are exceptionally difficult to intercept due to their unpredictable flight paths and maneuverability within the upper atmosphere. The success of this test highlights India’s prowess in advanced aerodynamics, high-temperature material sciences, and hypersonic guidance systems. The indigenous thermal protection tiles developed for this vehicle successfully managed skin temperatures exceeding 2000°C. #### Examination Relevance Defense technology updates are heavily featured in CDS, NDA, CAPF, and UPSC Civil Services exams. Questions often evaluate the technical parameters of hypersonic versus supersonic speeds, strategic deterrent value, and India’s defense modernization initiatives.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.969Z",
+    "canonical_hash": "c001c750d570b7bd4db308d6c002b148"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-high-thrust-semi-cryogenic-engine-for-future-heavy-lift-missions",
+    "title": "ISRO Successfully Tests High-Thrust Semi-Cryogenic Engine for Future Heavy-Lift Missions",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "The Indian Space Research Organisation (ISRO) has successfully completed a long-duration hot test of its newly developed 2000 kN semi-cryogenic engine. This high-thrust engine will power the booster stages of future heavy-lift launch vehicles, significantly enhancing India's payload capacity to Geostationary Transfer Orbit (GTO) and beyond.",
+    "keyPoints": [
+      "Engine utilizes an eco-friendly combination of refined kerosene (Isher-grade) and liquid oxygen.",
+      "Delivers a massive thrust of 2000 kN, crucial for launching heavy interplanetary and crewed payloads.",
+      "Significantly reduces launch costs per kilogram compared to traditional cryogenic propellant configurations.",
+      "Designed to serve as the powerhouse for ISRO’s next-generation launch vehicle (NGLV) roadmap."
+    ],
+    "keyHighlights": [
+      "Engine utilizes an eco-friendly combination of refined kerosene (Isher-grade) and liquid oxygen.",
+      "Delivers a massive thrust of 2000 kN, crucial for launching heavy interplanetary and crewed payloads.",
+      "Significantly reduces launch costs per kilogram compared to traditional cryogenic propellant configurations.",
+      "Designed to serve as the powerhouse for ISRO’s next-generation launch vehicle (NGLV) roadmap."
+    ],
+    "fullContent": "### ISRO Successfully Tests High-Thrust Semi-Cryogenic Engine for Future Heavy-Lift Missions The Indian Space Research Organisation (ISRO) has achieved a major technological milestone by successfully executing a rigorous long-duration hot test of its 2000 kN semi-cryogenic engine at the Mahendragiri test facility. This engine is a cornerstone of ISRO's long-term propulsion roadmap, engineered to provide high thrust for heavy and super-heavy lift launch vehicles. #### Engineering Marvel and Environmental Efficiency Unlike conventional cryogenic engines that rely on liquid hydrogen and liquid oxygen, the semi-cryogenic architecture utilizes liquid oxygen paired with specialized refined kerosene. This mixture is denser, easier to store at ambient temperatures compared to cryogenic fuels, and packs a higher energy punch. The successful testing paves the way for integrating this propulsion system into the Next Generation Launch Vehicle (NGLV), which will eventually replace the workhorse LVM3 (Mark-III) and support India's ambitious crewed lunar exploration and space station expansion projects. #### Exam Utility For aspirants tracking science and technology developments in UPSC, CDS, and State PCS exams, understanding India's space propulsion milestones—distinguishing between solid, liquid, cryogenic, and semi-cryogenic engines—is vital for both objective and descriptive tests.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.968Z",
+    "canonical_hash": "ce4c4a8715bf5005c8461b2d089ad585"
+  },
+  {
+    "id": "gktoday-india-and-france-sign-landmark-strategic-roadmap-for-indo-pacific-maritime-security",
+    "title": "India and France Sign Landmark Strategic Roadmap for Indo-Pacific Maritime Security",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and France have inked a comprehensive bilateral maritime security roadmap focusing on joint surveillance, information sharing, and interoperability in the Indo-Pacific region. The pact underscores mutual commitment to ensuring a free, open, and rules-based maritime order amid rising geopolitical tensions.",
+    "keyPoints": [
+      "Establishes a permanent bilateral maritime coordination desk in the Western Indian Ocean.",
+      "Focuses on co-development and co-production of critical naval defense equipment under 'Make in India'.",
+      "Expands joint naval exercises including bilateral Varuna drills with enhanced complexity.",
+      "Strengthens intelligence sharing regarding maritime domain awareness (MDA) using advanced satellite constellations."
+    ],
+    "keyHighlights": [
+      "Establishes a permanent bilateral maritime coordination desk in the Western Indian Ocean.",
+      "Focuses on co-development and co-production of critical naval defense equipment under 'Make in India'.",
+      "Expands joint naval exercises including bilateral Varuna drills with enhanced complexity.",
+      "Strengthens intelligence sharing regarding maritime domain awareness (MDA) using advanced satellite constellations."
+    ],
+    "fullContent": "### India and France Sign Landmark Strategic Roadmap for Indo-Pacific Maritime Security Cementing their robust strategic partnership, India and France have signed a landmark maritime security roadmap during high-level diplomatic talks. The agreement establishes a concrete framework for bolstering defense cooperation, intelligence sharing, and joint operational readiness across the strategic expanse of the Indo-Pacific. #### Strategic Dimensions of the Roadmap Under this new pact, both nations will intensify coordinated patrols and intelligence sharing utilizing regional listening posts and maritime domain awareness (MDA) networks. A notable highlight is the agreement to co-produce advanced naval propulsion systems and submarine technologies, aligning seamlessly with India’s domestic defense manufacturing goals. The framework also addresses emerging non-traditional security threats, including illegal, unreported, and unregulated (IUU) fishing, piracy, and climate-induced humanitarian crises in island nations. #### Exam Significance Bilateral agreements with strategic allies like France hold significant weight in UPSC Civil Services (Mains Paper-II: International Relations) and SSC General Awareness sections. Candidates must take note of existing defense exercises between the two nations (Varuna, Garuda, Shakti) and France's unique status as a resident power in the Indo-Pacific owing to its overseas territories.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.966Z",
+    "canonical_hash": "d1ca202470193e395943c655c631f3e7"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-phase-iii-expansion-of-national-supercomputing-mission",
+    "title": "Union Cabinet Approves Phase-III Expansion of National Supercomputing Mission",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has greenlit the Phase-III expansion of the National Supercomputing Mission (NSM) with an outlay of Rs 4,500 crore to bolster India's computational capabilities. This phase focuses on developing indigenous silicon processors and scaling up high-performance computing clusters across premier research institutions.",
+    "keyPoints": [
+      "Total financial outlay approved for Phase-III is Rs 4,500 crore.",
+      "Aims to achieve complete indigenous development of supercomputing hardware and software stacks.",
+      "Integration of quantum-classical hybrid supercomputing architectures for complex national security and scientific simulations.",
+      "Deployment of over 30 new petascale supercomputing systems across diverse academic hubs."
+    ],
+    "keyHighlights": [
+      "Total financial outlay approved for Phase-III is Rs 4,500 crore.",
+      "Aims to achieve complete indigenous development of supercomputing hardware and software stacks.",
+      "Integration of quantum-classical hybrid supercomputing architectures for complex national security and scientific simulations.",
+      "Deployment of over 30 new petascale supercomputing systems across diverse academic hubs."
+    ],
+    "fullContent": "### Union Cabinet Approves Phase-III Expansion of National Supercomputing Mission The Union Cabinet has officially approved the Phase-III expansion of the flagship National Supercomputing Mission (NSM) with a substantial financial outlay of Rs 4,500 crore. Spearheaded jointly by the Department of Science and Technology (DST) and the Ministry of Electronics and Information Technology (MeitY), this phase marks a critical leap toward achieving technological self-reliance (Atmanirbhar Bharat) in high-performance computing (HPC). #### Key Objectives and Technological Focus Unlike the preceding phases, which heavily relied on assembled global components, Phase-III prioritizes the design and fabrication of indigenous silicon processors, specialized accelerators, and the Rudra server stack. Furthermore, this phase introduces hybrid architectures integrating classical supercomputing nodes with emerging quantum computing processors. These systems will be deployed across more than 30 academic and research institutions nationwide, directly empowering sectors such as climate modeling, genomics, drug discovery, disaster management, and space exploration. #### Strategic Relevance for Competitive Exams For aspirants preparing for UPSC, State PSCs, and banking exams, the NSM is a recurring topic under science and technology policies. Questions typically revolve around executing agencies (C-DAC and IISc), the concept of petascale versus exascale computing, and the socio-economic dividends of indigenous hardware manufacturing in reducing foreign dependency.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.965Z",
+    "canonical_hash": "98398154bb96fa8d9e5ccde4fe8b1b5f"
+  },
+  {
+    "id": "gktoday-drdo-successfully-conducts-flight-test-of-new-generation-man-portable-anti-tank-guided-missile",
+    "title": "DRDO Successfully Conducts Flight Test of New Generation Man-Portable Anti-Tank Guided Missile",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "The Defence Research and Development Organisation (DRDO) has successfully conducted a user-validation flight test of the Man-Portable Anti-Tank Guided Missile (MPATGM), equipped with state-of-the-art imaging infrared seeker technology.",
+    "keyPoints": [
+      "Missile features advanced IIR (Imaging Infrared) seeker and onboard avionics for superior target tracking.",
+      "Tested from a shoulder-fired launcher configuration in desert field trial conditions.",
+      "Significantly enhances the anti-armor combat capabilities of the Indian Infantry.",
+      "Indigenously designed and developed by DRDO laboratories in Hyderabad and Pune."
+    ],
+    "keyHighlights": [
+      "Missile features advanced IIR (Imaging Infrared) seeker and onboard avionics for superior target tracking.",
+      "Tested from a shoulder-fired launcher configuration in desert field trial conditions.",
+      "Significantly enhances the anti-armor combat capabilities of the Indian Infantry.",
+      "Indigenously designed and developed by DRDO laboratories in Hyderabad and Pune."
+    ],
+    "fullContent": "In a major boost to indigenous defense manufacturing, the **Defence Research and Development Organisation (DRDO)** successfully conducted a flight test of the **Man-Portable Anti-Tank Guided Missile (MPATGM)** system. The test validated the missile's maximum range, day-and-night operational capability, and top-attack mode against simulated armored targets. ### Advanced Technological Features The MPATGM is a low-weight, fire-and-forget missile system designed to be carried and operated by frontline infantry soldiers. Key highlights include its **Imaging Infrared (IIR) Seeker**, which locks onto enemy tanks with high precision, and an advanced tandem warhead capable of defeating modern reactive armor. The entire weapon system is packed into a portable launch container with integrated thermal sights. ### Strengthening Infantry Capabilities With hostile borders presenting varied terrain challenges, the induction of the MPATGM provides the Indian Army with a decisive tactical advantage in anti-armor warfare. This success marks another milestone in achieving self-reliance (Atmanirbhar Bharat) in critical defense hardware. ### Exam Relevance Essential for defense technology questions in UPSC, CDS, and CAPF examinations. Candidates should be familiar with weapon categories (like ATGM, IIR seekers, and DRDO-developed systems).",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.675Z",
+    "canonical_hash": "f9d0169cb23b5893d90be83b05c1b2c5"
+  },
+  {
+    "id": "gktoday-justice-br-gavai-appointed-as-the-chairperson-of-national-legal-services-authority",
+    "title": "Justice B.R. Gavai Appointed as the Chairperson of National Legal Services Authority",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "Senior Supreme Court judge Justice B.R. Gavai has been officially appointed as the Executive Chairperson of the National Legal Services Authority (NALSA), succeeding Justice Sanjiv Khanna.",
+    "keyPoints": [
+      "Appointment made in consultation with the Chief Justice of India and approved by the President.",
+      "NALSA operates under the Legal Services Authorities Act, 1987 to provide free legal aid to marginalized sections.",
+      "Focus areas for Justice Gavai include expanding digital legal aid clinics in remote tribal districts.",
+      "Emphasizes alternative dispute resolution (ADR) and Lok Adalats for reducing judicial backlogs."
+    ],
+    "keyHighlights": [
+      "Appointment made in consultation with the Chief Justice of India and approved by the President.",
+      "NALSA operates under the Legal Services Authorities Act, 1987 to provide free legal aid to marginalized sections.",
+      "Focus areas for Justice Gavai include expanding digital legal aid clinics in remote tribal districts.",
+      "Emphasizes alternative dispute resolution (ADR) and Lok Adalats for reducing judicial backlogs."
+    ],
+    "fullContent": "In a significant judicial appointment, **Justice B.R. Gavai**, a senior judge of the Supreme Court of India, has been appointed as the Executive Chairperson of the **National Legal Services Authority (NALSA)**. He takes over the crucial responsibility of heading the country's apex legal aid machinery, dedicated to ensuring justice for all citizens regardless of economic or social barriers. ### Mandate and Functions of NALSA Constitutionalized under **Article 39A** of the Constitution of India and enacted via the **Legal Services Authorities Act, 1987**, NALSA is tasked with providing free and competent legal services to eligible groups, including women, children, scheduled castes, scheduled tribes, and industrial workers. Under Justice Gavai's leadership, the authority plans to scale up nation-wide legal awareness campaigns and integrate technology to streamline application processes for legal aid. ### Focus on Lok Adalats Justice Gavai has consistently championed the cause of alternative dispute resolution (ADR). NALSA will continue conducting mega National Lok Adalats to address pendency in subordinate courts and deliver swift, amicable settlements to ordinary citizens. ### Exam Relevance Highly relevant for Polity and Governance sections in UPSC and Judiciary exams. Aspirants must understand the constitutional basis of free legal aid (Article 39A) and the structure of NALSA.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.674Z",
+    "canonical_hash": "99d30b769a4fe1ed26238528e845b595"
+  },
+  {
+    "id": "gktoday-india-hosts-4th-edition-of-the-global-clean-energy-ministerial-summit",
+    "title": "India Hosts 4th Edition of the Global Clean Energy Ministerial Summit",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "New Delhi is hosting the 4th Global Clean Energy Ministerial (CEM) and Mission Innovation summit, bringing together energy ministers and global experts to fast-track investments in green hydrogen and battery storage.",
+    "keyPoints": [
+      "Summit theme: 'Accelerating Green Transitions through Inclusive Innovation and Finance'.",
+      "Launch of the Global Green Hydrogen Infrastructure Fund backed by international multilateral banks.",
+      "India showcases its massive renewable capacity expansion, surpassing 200 GW of non-fossil fuel energy.",
+      "Adoption of the New Delhi Declaration on equitable critical mineral supply chains."
+    ],
+    "keyHighlights": [
+      "Summit theme: 'Accelerating Green Transitions through Inclusive Innovation and Finance'.",
+      "Launch of the Global Green Hydrogen Infrastructure Fund backed by international multilateral banks.",
+      "India showcases its massive renewable capacity expansion, surpassing 200 GW of non-fossil fuel energy.",
+      "Adoption of the New Delhi Declaration on equitable critical mineral supply chains."
+    ],
+    "fullContent": "New Delhi has become the epicenter of global climate diplomacy as it hosts the prestigious **Global Clean Energy Ministerial (CEM) and Mission Innovation Summit**. The multi-day event has drawn energy ministers, corporate leaders, and scientific researchers from over 30 countries to deliberate on actionable pathways for achieving net-zero global emissions. ### Major Announcements and Deliverables A primary highlight of the summit was the official launch of the **Global Green Hydrogen Infrastructure Fund**, designed to bridge financing gaps in developing economies. Furthermore, participating nations endorsed the New Delhi Declaration, which underscores the necessity of transparent, diversified, and sustainable supply chains for critical minerals like lithium, cobalt, and rare earth elements. ### India's Clean Energy Leadership During the plenary sessions, India highlighted its extraordinary leap in renewable energy deployment, having recently crossed the **200 GW non-fossil energy capacity milestone**. Initiatives such as the National Green Hydrogen Mission and massive solar park installations were cited as stellar models of state-backed green transition policies. ### Exam Relevance Vital for international relations, environment, and ecology portions of competitive exams. Focus areas include global climate forums, green hydrogen policies, and India's international commitments.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.673Z",
+    "canonical_hash": "d20f1bc1b4774c450710dd83fd409bc2"
+  },
+  {
+    "id": "gktoday-rbi-introduces-regulatory-sandbox-framework-for-generative-ai-in-banking",
+    "title": "RBI Introduces Regulatory Sandbox Framework for Generative AI in Banking",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has launched a dedicated regulatory sandbox framework specifically aimed at testing Generative AI and Large Language Model (LLM) applications within the banking and financial services sector.",
+    "keyPoints": [
+      "Sandbox theme focuses on 'Responsible and Ethical AI Deployment in Financial Services'.",
+      "Aims to safely test automated customer onboarding, credit underwriting, and fraud detection bots.",
+      "Mandates strict consumer data privacy guardrails and algorithmic transparency checks.",
+      "Open to scheduled commercial banks, NBFCs, and certified fintech startups."
+    ],
+    "keyHighlights": [
+      "Sandbox theme focuses on 'Responsible and Ethical AI Deployment in Financial Services'.",
+      "Aims to safely test automated customer onboarding, credit underwriting, and fraud detection bots.",
+      "Mandates strict consumer data privacy guardrails and algorithmic transparency checks.",
+      "Open to scheduled commercial banks, NBFCs, and certified fintech startups."
+    ],
+    "fullContent": "The Reserve Bank of India (RBI) has announced the opening of the **Cohort on Generative AI and Large Language Models (LLMs)** under its ongoing Regulatory Sandbox initiative. As financial institutions increasingly adopt cutting-edge artificial intelligence, the central bank aims to foster innovation while rigorously mitigating systemic risks, data breaches, and algorithmic biases. ### Focus Areas of the Cohort The sandbox framework invites live testing of innovative solutions in three broad areas: **automated hyper-personalized customer service**, **alternative credit scoring models for unbanked populations**, and **real-time anti-money laundering (AML) surveillance**. Participants will operate in a controlled, live testing environment with relaxed regulatory constraints for a specified duration. ### Consumer Protection and Governance To prevent predatory lending and biased credit decisions, the RBI guidelines require participating entities to establish robust 'explainable AI' (XAI) mechanisms. Financial institutions must prove that their generative AI models do not violate fair practice codes or compromise sensitive customer PII (Personally Identifiable Information). ### Exam Relevance Highly relevant for RBI Grade B, SBI/IBPS PO, and UPSC Economy sections. Questions may examine the concept of regulatory sandboxes, the role of central bank supervision in fintech, and ethical AI governance.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.672Z",
+    "canonical_hash": "1c6f6c79071844888c43d9dcd6ed2d99"
+  },
+  {
+    "id": "gktoday-india-and-france-sign-landmark-strategic-maritime-defense-pact",
+    "title": "India and France Sign Landmark Strategic Maritime Defense Pact",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "India and France have inked a comprehensive maritime defense cooperation agreement aimed at bolstering joint surveillance, logistics sharing, and sub-surface warfare capabilities in the Indo-Pacific region.",
+    "keyPoints": [
+      "Agreement focuses on joint maritime domain awareness (MDA) and real-time information sharing in the Western Indian Ocean.",
+      "Expands mutual logistics support, allowing warships to utilize naval facilities in La Réunion and Andaman & Nicobar.",
+      "Co-development of advanced heavy-weight torpedoes under the 'Make in India' initiative.",
+      "Stresses adherence to UNCLOS and freedom of navigation in international waters."
+    ],
+    "keyHighlights": [
+      "Agreement focuses on joint maritime domain awareness (MDA) and real-time information sharing in the Western Indian Ocean.",
+      "Expands mutual logistics support, allowing warships to utilize naval facilities in La Réunion and Andaman & Nicobar.",
+      "Co-development of advanced heavy-weight torpedoes under the 'Make in India' initiative.",
+      "Stresses adherence to UNCLOS and freedom of navigation in international waters."
+    ],
+    "fullContent": "In a significant geopolitical development, India and France have signed a high-level **Strategic Maritime Defense Pact** during the bilateral defense dialogue held in Paris. This agreement reinforces the bilateral strategic partnership, focusing heavily on countering emerging non-traditional security threats and maintaining a free, open, and inclusive Indo-Pacific. ### Enhanced Surveillance and Logistics A cornerstone of the pact is the enhancement of **Maritime Domain Awareness (MDA)**. By leveraging India’s Information Fusion Centre – Indian Ocean Region (IFC-IOR) and French naval assets stationed in the island territories of La Réunion, both nations will share real-time intelligence on vessel movements. Additionally, the updated logistics exchange agreement facilitates seamless refuelling and maintenance support for deployed warships and maritime patrol aircraft. ### Technological Co-Development The pact also paves the way for joint defense manufacturing. State-run defense enterprises from both countries will collaborate on the co-development of next-generation submarine propulsion systems and heavy-weight torpedoes. This aligns directly with India's defense export goals and domestic indigenization policies. ### Exam Relevance Crucial for UPSC Mains (International Relations - India-France relations) and CDS/NDA exams regarding bilateral military exercises, strategic locations like La Réunion, and Indo-Pacific security architecture.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.671Z",
+    "canonical_hash": "ee5bd62a08c2b09728307fbc1499f96d"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-pm-vikas-20-scheme-for-artisans-and-traditional-crafts",
+    "title": "Union Cabinet Approves PM-Vikas 2.0 Scheme for Artisans and Traditional Crafts",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has approved the expansion of the PM-Vikas scheme into its second phase, focusing on modern skill development, digital integration, and global market access for traditional artisans and craftspeople across India.",
+    "keyPoints": [
+      "PM-Vikas 2.0 allocates an increased financial outlay of Rs 6,000 crore for the next five years.",
+      "Special emphasis on integrating artisans with Open Network for Digital Commerce (ONDC) and international e-commerce platforms.",
+      "Introduces micro-credit support with interest subvention up to 5% for purchasing advanced tools and raw materials.",
+      "Targeted training modules designed in collaboration with National Institute of Design (NID)."
+    ],
+    "keyHighlights": [
+      "PM-Vikas 2.0 allocates an increased financial outlay of Rs 6,000 crore for the next five years.",
+      "Special emphasis on integrating artisans with Open Network for Digital Commerce (ONDC) and international e-commerce platforms.",
+      "Introduces micro-credit support with interest subvention up to 5% for purchasing advanced tools and raw materials.",
+      "Targeted training modules designed in collaboration with National Institute of Design (NID)."
+    ],
+    "fullContent": "The Union Cabinet, chaired by the Prime Minister, has officially approved the rollout of **PM-Vikas 2.0 (Pradhan Mantri Vishwakarma Kaushal Samman)**. Building on the foundational success of the first phase, this updated iteration aims to provide end-to-end holistic support to traditional artisans and craftspeople (Vishwakarmas) belonging to the unorganized sector. ### Key Financial & Operational Features The scheme has been granted an expanded financial outlay of **Rs 6,000 crore** spanning a five-year period up to 2031. It covers 18 traditional trades initially identified under the mission, ranging from blacksmiths and goldsmiths to potters and sculptors. A core component of PM-Vikas 2.0 is the **Digital Empowerment Drive**, which mandates free digital literacy training, enabling beneficiaries to manage online storefronts and leverage digital payment systems seamlessly. ### Access to Credit and Global Markets To address the perpetual challenge of capital scarcity, the scheme offers collateral-free credit support up to Rs 3 lakh in two tranches, backed by a **5% interest subvention**. Furthermore, the Ministry of Micro, Small and Medium Enterprises (MSME) has partnered with export promotion councils to facilitate direct exports of indigenous crafts, bypassing traditional intermediaries. ### Exam Relevance For aspirants preparing for UPSC Civil Services and State PSC exams, this topic intersects with government welfare schemes, financial inclusion, and MSME growth. Questions can focus on the implementing ministry, credit limits, and strategic integration with digital infrastructure like ONDC.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:48.670Z",
+    "canonical_hash": "156b9cd9e0ff40782088c73f15983dc7"
+  },
+  {
+    "id": "gktoday-india-hosts-global-clean-energy-ministerial-summit-2026-in-new-delhi",
+    "title": "India Hosts Global Clean Energy Ministerial Summit 2026 in New Delhi",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "New Delhi is hosting the prestigious Clean Energy Ministerial (CEM) and Mission Innovation Ministerial Summit 2026, bringing together global energy leaders to deliberate on green hydrogen and solar grid interconnectivity.",
+    "keyPoints": [
+      "Delegates from over 35 countries and 20 international organizations participating.",
+      "Focuses on accelerating green hydrogen commercialization and battery storage deployment.",
+      "Launches the 'Global Solar Grids Alliance' initiative.",
+      "Highlights India's progress toward achieving 500 GW non-fossil fuel capacity by 2030."
+    ],
+    "keyHighlights": [
+      "Delegates from over 35 countries and 20 international organizations participating.",
+      "Focuses on accelerating green hydrogen commercialization and battery storage deployment.",
+      "Launches the 'Global Solar Grids Alliance' initiative.",
+      "Highlights India's progress toward achieving 500 GW non-fossil fuel capacity by 2030."
+    ],
+    "fullContent": "India has taken center stage in global climate diplomacy by hosting the **Clean Energy Ministerial (CEM) and Mission Innovation Ministerial Summit 2026** in New Delhi. The high-level multilateral forum brings together energy ministers, industry leaders, and scientists from over 35 nations to accelerate the global transition to clean energy. ### Major Initiatives During the summit, India pitched its pioneering vision for 'One Sun, One World, One Grid' (OSOWOG), officially launching the **Global Solar Grids Alliance**. Discussions heavily centered around financing green hydrogen ecosystems, scaling up battery energy storage systems (BESS), and ensuring a just transition for developing economies. ### India's Commitments Addressing the plenary session, Indian energy officials highlighted the country's rapid strides toward meeting its Nationally Determined Contributions (NDCs), noting that India is well on track to surpass its target of achieving 500 GW of non-fossil energy capacity ahead of the 2030 deadline. ### Exam Relevance Essential for UPSC Mains (Environment & International Relations) and Prelims, as well as State PCS and banking exams focusing on global climate summits and renewable energy goals.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.291Z",
+    "canonical_hash": "7c257a09e0a9a44a44afe277540701d4"
+  },
+  {
+    "id": "gktoday-government-appoints-new-chief-economic-adviser-and-chairperson-of-sebi",
+    "title": "Government Appoints New Chief Economic Adviser and Chairperson of SEBI",
+    "date": "04 September 2026",
+    "category": "Appointments",
+    "summary": "The Appointments Committee of the Cabinet (ACC) has approved key high-level bureaucratic and regulatory appointments, naming a new Chairperson for the Securities and Exchange Board of India (SEBI) alongside a fresh Chief Economic Adviser.",
+    "keyPoints": [
+      "Dr. Arvind Panagariya appointed as the new Chairperson of SEBI.",
+      "Ritu Kapoor takes charge as the Chief Economic Adviser (CEA) to the Ministry of Finance.",
+      "Appointments aimed at steering capital market reforms and macroeconomic stability.",
+      "Tenure fixed as per standard government guidelines for high-regulatory posts."
+    ],
+    "keyHighlights": [
+      "Dr. Arvind Panagariya appointed as the new Chairperson of SEBI.",
+      "Ritu Kapoor takes charge as the Chief Economic Adviser (CEA) to the Ministry of Finance.",
+      "Appointments aimed at steering capital market reforms and macroeconomic stability.",
+      "Tenure fixed as per standard government guidelines for high-regulatory posts."
+    ],
+    "fullContent": "In a major reshuffle of key regulatory and economic positions, the Appointments Committee of the Cabinet (ACC) announced crucial leadership transitions within India's financial architecture. ### Key Appointments Renowned economist **Dr. Arvind Panagariya** has been appointed as the new **Chairperson of the Securities and Exchange Board of India (SEBI)**, succeeding Madhabi Puri Buch. Dr. Panagariya brings extensive policy experience, having previously served as the first Vice-Chairman of NITI Aayog. Simultaneously, eminent macroeconomist **Ritu Kapoor** has been appointed as the **Chief Economic Adviser (CEA)** in the Ministry of Finance. She will lead the team responsible for drafting the annual Economic Survey and providing strategic policy inputs on inflation, growth projections, and fiscal consolidation. ### Exam Relevance Crucial for Banking exams (IBPS/SBI PO), UPSC Civil Services, and SSC exams where questions frequently test knowledge of heads of premier regulatory bodies and ministries.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.290Z",
+    "canonical_hash": "d01057bada4275d55280c5740b693935"
+  },
+  {
+    "id": "gktoday-neeraj-chopra-wins-gold-at-world-athletics-continental-tour-gold-meeting-2026",
+    "title": "Neeraj Chopra Wins Gold at World Athletics Continental Tour Gold Meeting 2026",
+    "date": "04 September 2026",
+    "category": "Sports",
+    "summary": "Olympic champion javelin thrower Neeraj Chopra has clinched the gold medal at the prestigious World Athletics Continental Tour Gold meeting held in Zurich, registering a phenomenal throw of 89.45 meters.",
+    "keyPoints": [
+      "Secured gold with his second-attempt throw of 89.45 meters.",
+      "Defeated world champion Anderson Peters and silver medalist Jakub Vadlejch.",
+      "Reiterates his dominance in international track and field events.",
+      "Qualifies automatically for the upcoming Diamond League Grand Finals."
+    ],
+    "keyHighlights": [
+      "Secured gold with his second-attempt throw of 89.45 meters.",
+      "Defeated world champion Anderson Peters and silver medalist Jakub Vadlejch.",
+      "Reiterates his dominance in international track and field events.",
+      "Qualifies automatically for the upcoming Diamond League Grand Finals."
+    ],
+    "fullContent": "India's golden boy of athletics, **Neeraj Chopra**, continued his stellar run of form by winning the gold medal in the men's javelin throw event at the **World Athletics Continental Tour Gold meeting** in Zurich, Switzerland. ### Performance Highlights Neeraj dominated a star-studded field, securing the top podium finish with a best throw of **89.45 meters**, achieved on his second attempt. Grenada's Anderson Peters secured the silver medal with a throw of 87.82 meters, while Czech Republic's Jakub Vadlejch took bronze with 86.91 meters. ### Season Outlook This victory cements Neeraj Chopra's position as the most consistent thrower on the global circuit and guarantees his entry into the elite Diamond League Grand Finals later this month. His exceptional performance continues to inspire a new generation of Indian track and field athletes. ### Exam Relevance Important for sports current affairs questions in SSC CGL, RRB NTPC, Banking exams, and State PSCs focusing on major international sporting achievements by Indian athletes.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.290Z",
+    "canonical_hash": "3cf9ab42fde2e950411aadbcbbba0d21"
+  },
+  {
+    "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-long-range-hypersonic-cruise-missile",
+    "title": "DRDO Conducts Successful Flight Test of Indigenous Long-Range Hypersonic Cruise Missile",
+    "date": "04 September 2026",
+    "category": "Defense",
+    "summary": "India's Defence Research and Development Organisation (DRDO) has successfully flight-tested an indigenous long-range hypersonic cruise missile from the Dr APJ Abdul Kalam Island off the coast of Odisha.",
+    "keyPoints": [
+      "Achieved speeds exceeding Mach 6 with precise terminal guidance capabilities.",
+      "Equipped with advanced scramjet propulsion technology.",
+      "Extends India's strategic deterrence capabilities against modern air defense systems.",
+      "Entirely designed and developed by domestic defense laboratories."
+    ],
+    "keyHighlights": [
+      "Achieved speeds exceeding Mach 6 with precise terminal guidance capabilities.",
+      "Equipped with advanced scramjet propulsion technology.",
+      "Extends India's strategic deterrence capabilities against modern air defense systems.",
+      "Entirely designed and developed by domestic defense laboratories."
+    ],
+    "fullContent": "In a historic achievement for indigenous defense manufacturing, the **Defence Research and Development Organisation (DRDO)** successfully executed the flight test of a **long-range hypersonic cruise missile**. The test was carried out from Dr APJ Abdul Kalam Island off the coast of Odisha, meeting all mission objectives. ### Capabilities and Technology The missile is powered by an advanced scramjet engine, enabling it to cruise at hypersonic speeds exceeding Mach 6 (six times the speed of sound) over long operational ranges. Hypersonic glide vehicles and cruise missiles are extremely difficult for contemporary radar and air defense systems to track and intercept due to their high speed and maneuverability. ### Strategic Significance With this successful test, India joins an elite group of nations possessing operational hypersonic cruise missile technology. This development significantly boosts the strategic deterrence posture of the Armed Forces, aligning with the vision of *Atmanirbhar Bharat* (Self-Reliant India) in defense production. ### Exam Relevance Essential current affairs for CDS, NDA, AFCAT, and UPSC civil services examinations focusing on India's defense preparedness and indigenous technological milestones.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.289Z",
+    "canonical_hash": "d7f63a462b65cf90ae7230fdb074406c"
+  },
+  {
+    "id": "gktoday-isro-successfully-tests-reusable-launch-vehicle-propulsion-system-for-gaganyaan",
+    "title": "ISRO Successfully Tests Reusable Launch Vehicle Propulsion System for Gaganyaan",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "ISRO has successfully conducted a series of hot-tests on its advanced semi-cryogenic propulsion system intended for future reusable launch vehicles and upcoming human spaceflight missions.",
+    "keyPoints": [
+      "Engine utilizes an environmentally friendly liquid oxygen (LOX) and kerosene propellant combination.",
+      "Thrust capacity enhanced to 200 kilonewtons (kN) for heavy-lift payload configurations.",
+      "Vital milestone toward reducing payload delivery costs by up to 60 percent.",
+      "Conducted at the ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu."
+    ],
+    "keyHighlights": [
+      "Engine utilizes an environmentally friendly liquid oxygen (LOX) and kerosene propellant combination.",
+      "Thrust capacity enhanced to 200 kilonewtons (kN) for heavy-lift payload configurations.",
+      "Vital milestone toward reducing payload delivery costs by up to 60 percent.",
+      "Conducted at the ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu."
+    ],
+    "fullContent": "The Indian Space Research Organisation (**ISRO**) achieved a significant technological milestone with the successful hot-testing of its new **semi-cryogenic engine propulsion system**. The test series, conducted at the ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu, marks a crucial step in India's quest for low-cost, reusable heavy-lift launch vehicles. ### Technological Specifications The newly developed semi-cryogenic engine generates a staggering 200 kN of thrust. Unlike traditional cryogenic engines that use liquid hydrogen, this engine utilizes refined kerosene (designated as Isomax) and liquid oxygen (LOX). This combination is not only more cost-effective and easier to handle, but it also has a higher density, allowing vehicles to carry heavier payloads into Low Earth Orbit (LEO) and geostationary transfer orbits. ### Strategic Impact This propulsion system will serve as the core booster for future iterations of India's Launch Vehicle Mark-3 (LVM3) and next-generation launch vehicles (NGLV), directly supporting future crewed missions under the Gaganyaan program and proposed Indian Space Station construction. ### Exam Relevance Crucial for Science & Technology segments in UPSC Prelims, CDS, and State PCS exams regarding ISRO's technological advancements and space missions.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.287Z",
+    "canonical_hash": "56b84916bbf099bf2af546312a0b213b"
+  },
+  {
+    "id": "gktoday-rbi-introduces-interoperable-payment-gateway-for-central-bank-digital-currency",
+    "title": "RBI Introduces Interoperable Payment Gateway for Central Bank Digital Currency",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "The Reserve Bank of India (RBI) has launched an interoperable payment gateway for the Digital Rupee (e-Rupee). This move allows users to seamlessly transact using CBDC across different participating commercial bank applications.",
+    "keyPoints": [
+      "Enables cross-bank CBDC transactions without requiring sender and receiver to use the same bank app.",
+      "Leverages unified payment infrastructure to boost retail adoption of e-Rupee.",
+      "Introduces offline functionality for low-connectivity rural regions.",
+      "Aims to achieve the milestone of 50 million active CBDC users by fiscal year end."
+    ],
+    "keyHighlights": [
+      "Enables cross-bank CBDC transactions without requiring sender and receiver to use the same bank app.",
+      "Leverages unified payment infrastructure to boost retail adoption of e-Rupee.",
+      "Introduces offline functionality for low-connectivity rural regions.",
+      "Aims to achieve the milestone of 50 million active CBDC users by fiscal year end."
+    ],
+    "fullContent": "In a major leap toward modernizing India's digital payment ecosystem, the **Reserve Bank of India (RBI)** has rolled out an interoperable payment gateway for the **Central Bank Digital Currency (CBDC)**, popularly known as the Digital Rupee or e-Rupee. ### Bridging Bank Ecosystems Previously, retail CBDC transactions were largely restricted within the app ecosystem of the specific issuing bank. With the new interoperable gateway, a customer holding a Digital Rupee wallet with State Bank of India can instantly transfer funds to a merchant or individual using an e-Rupee wallet hosted by HDFC Bank, ICICI Bank, or any other participating institution. ### Offline Capabilities To drive adoption in semi-urban and rural areas with intermittent connectivity, the RBI has also embedded a proximity-based offline transaction feature using Bluetooth Low Energy (BLE) technology. This allows secure peer-to-peer (P2P) and peer-to-merchant (P2M) CBDC transfers without internet access. ### Exam Relevance Essential for RBI Grade B, SBI/IBPS PO, and UPSC Economy sections. Questions frequently test knowledge on CBDC architecture, retail vs. wholesale variants, and central bank digital initiatives.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.287Z",
+    "canonical_hash": "4805a0230921edefa9fe073bbcad0709"
+  },
+  {
+    "id": "gktoday-india-and-australia-sign-comprehensive-critical-minerals-supply-chain-agreement",
+    "title": "India and Australia Sign Comprehensive Critical Minerals Supply Chain Agreement",
+    "date": "04 September 2026",
+    "category": "International",
+    "summary": "India and Australia have signed a landmark agreement to secure resilient supply chains for critical minerals and rare earths. The pact aims to fuel India's ambitious green energy transition and electric vehicle manufacturing targets.",
+    "keyPoints": [
+      "Joint investment fund established worth AUD 1.5 billion for joint mining projects.",
+      "Focus on lithium, cobalt, nickel, and rare earth elements processing.",
+      "Enhances strategic technological cooperation under the Quad framework.",
+      "Guarantees preferential export quotas for Indian manufacturing sectors."
+    ],
+    "keyHighlights": [
+      "Joint investment fund established worth AUD 1.5 billion for joint mining projects.",
+      "Focus on lithium, cobalt, nickel, and rare earth elements processing.",
+      "Enhances strategic technological cooperation under the Quad framework.",
+      "Guarantees preferential export quotas for Indian manufacturing sectors."
+    ],
+    "fullContent": "Strengthening bilateral economic and strategic ties, India and Australia have officially signed a Comprehensive **Critical Minerals Supply Chain Agreement**. The pact was finalized during the bilateral ministerial summit in Canberra, marking a pivotal milestone in securing raw material supplies vital for advanced technologies and green energy. ### Strategic Importance Australia possesses some of the world's largest reserves of critical minerals, including lithium, cobalt, titanium, and rare earth elements. Through this agreement, Indian industries—particularly those in electric vehicle (EV) manufacturing, battery storage, and renewable energy equipment—will gain uninterrupted access to these essential raw materials. ### Joint Investments A newly instituted joint investment fund worth AUD 1.5 billion will finance exploration, extraction, and processing ventures in both nations. The framework also emphasizes technology transfer and joint research and development (R&D) in recycling critical minerals. ### Exam Relevance This topic is highly relevant for International Relations (IR) and Economy sections in UPSC Mains and banking examinations, highlighting India's diversification of supply chains and strategic partnerships.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.283Z",
+    "canonical_hash": "6021e16256efdeaead1b3026555f4981"
+  },
+  {
+    "id": "gktoday-union-cabinet-approves-nationwide-expansion-of-pm-vikas-mission-20",
+    "title": "Union Cabinet Approves Nationwide Expansion of PM-Vikas Mission 2.0",
+    "date": "04 September 2026",
+    "category": "National",
+    "summary": "The Union Cabinet has given its nod for the nationwide expansion of the Pradhan Mantri Vishwakarma Kaushal Samman (PM-Vikas) Mission 2.0. The revamped scheme aims to bolster traditional artisans and craftspeople with enhanced financial backing and advanced digital integration.",
+    "keyPoints": [
+      "Financial credit support increased up to Rs 5 lakh under the revised scheme guidelines.",
+      "Special focus on integrating artisans with Open Network for Digital Commerce (ONDC).",
+      "Stipend during skill training upgraded to Rs 700 per day.",
+      "Targeted to cover over 30 traditional trades across rural and urban India."
+    ],
+    "keyHighlights": [
+      "Financial credit support increased up to Rs 5 lakh under the revised scheme guidelines.",
+      "Special focus on integrating artisans with Open Network for Digital Commerce (ONDC).",
+      "Stipend during skill training upgraded to Rs 700 per day.",
+      "Targeted to cover over 30 traditional trades across rural and urban India."
+    ],
+    "fullContent": "The Union Cabinet, chaired by the Prime Minister, has officially approved the nationwide expansion of the **Pradhan Mantri Vishwakarma Kaushal Samman (PM-Vikas) Mission 2.0**. Originally launched to support traditional artisans and craftspeople (referred to as *Vishwakarmas*), the upgraded Mission 2.0 introduces enhanced financial mechanisms, technological integration, and wider demographic outreach. ### Key Scheme Enhancements Under PM-Vikas Mission 2.0, the collateral-free credit support has been significantly enhanced. Artisans can now avail of a first tranche loan of up to Rs 3 lakh and a subsequent second tranche of up to Rs 2 lakh at a concessional interest rate of 5%. Furthermore, the daily stipend provided during the mandatory skill upgrade training has been increased from Rs 500 to Rs 700. ### Digital Empowerment and ONDC Integration A major highlight of the upgraded mission is the mandatory onboarding of beneficiaries onto the **Open Network for Digital Commerce (ONDC)** and the GeM (Government e-Marketplace) portal. This integration aims to provide artisans with direct access to nationwide markets, eliminating middlemen and improving profit margins. ### Exam Relevance For aspirants preparing for UPSC, SSC, and State PSC examinations, understanding welfare schemes like PM-Vikas is crucial for questions related to inclusive growth, MSME sector development, and employment generation in rural economies.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T09:47:28.275Z",
+    "canonical_hash": "57636efb45cc13e308c8de8db37f28c3"
+  },
+  {
     "id": "gktoday-ministry-of-culture-launches-nationwide-campaign-to-protect-intangible-cultural-heritage",
     "title": "Ministry of Culture Launches Nationwide Campaign to Protect Intangible Cultural Heritage",
     "date": "04 September 2026",
@@ -13548,7 +20744,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.748Z"
+    "syncedAt": "2026-09-04T09:43:29.748Z",
+    "canonical_hash": "d65ded6b42bdec2faceed27a2eaee8b3"
   },
   {
     "id": "gktoday-government-appoints-new-chairperson-for-the-national-human-rights-commission",
@@ -13570,7 +20767,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.748Z"
+    "syncedAt": "2026-09-04T09:43:29.748Z",
+    "canonical_hash": "f716931455ad1a0851e1f7ca1d28a65f"
   },
   {
     "id": "gktoday-india-secures-historic-gold-in-compound-archery-at-world-cup-stage-finals",
@@ -13592,7 +20790,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.747Z"
+    "syncedAt": "2026-09-04T09:43:29.747Z",
+    "canonical_hash": "7752d53c70a3392099aea08c9fcb8bb6"
   },
   {
     "id": "gktoday-drdo-and-indian-navy-successfully-conduct-first-flight-trial-of-indigenous-naval-anti-ship-missile",
@@ -13614,7 +20813,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.747Z"
+    "syncedAt": "2026-09-04T09:43:29.747Z",
+    "canonical_hash": "c3d8f1c5ececc0c02a2e38a33e9b74b5"
   },
   {
     "id": "gktoday-isro-successfully-tests-advanced-scramjet-engine-for-future-hypersonic-missiles",
@@ -13636,7 +20836,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.746Z"
+    "syncedAt": "2026-09-04T09:43:29.746Z",
+    "canonical_hash": "20827db4c4b35b314a46adf71dbe5498"
   },
   {
     "id": "gktoday-rbi-introduces-interoperable-payment-system-for-internet-banking-and-central-bank-digital-currency",
@@ -13658,7 +20859,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.745Z"
+    "syncedAt": "2026-09-04T09:43:29.745Z",
+    "canonical_hash": "39ade8f50b8de5ed947109c07355e753"
   },
   {
     "id": "gktoday-india-and-nordic-nations-sign-comprehensive-green-shipping-corridor-agreement",
@@ -13680,7 +20882,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.744Z"
+    "syncedAt": "2026-09-04T09:43:29.744Z",
+    "canonical_hash": "aae26abad9a0f91e31aed7e59f317b1f"
   },
   {
     "id": "gktoday-union-cabinet-approves-phase-iii-of-national-supercomputing-mission-with-enhanced-outlay",
@@ -13702,7 +20905,8 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.742Z"
+    "syncedAt": "2026-09-04T09:43:29.742Z",
+    "canonical_hash": "1bb3f6a08436d8565ea43f2b3e416e15"
   },
   {
     "id": "gktoday-moefcc-notifies-dehing-patkai-as-indias-34th-elephant-reserve",

@@ -322,7 +322,7 @@ export const SEOMetaTags: React.FC<SEOMetaTagsProps> = ({
     setMetaTag('name', 'googlebot', 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1');
     setCanonicalLink(canonicalUrl);
 
-    // OpenGraph & Twitter
+    // OpenGraph & Twitter for Google Discover & Social Networks
     const imageUrl = post?.heroImage || post?.image || post?.thumbnail || `${baseUrl}/android-chrome-512x512.png`;
     setMetaTag('property', 'og:site_name', 'Pariksha Result');
     setMetaTag('property', 'og:title', titleToSet);
@@ -330,11 +330,26 @@ export const SEOMetaTags: React.FC<SEOMetaTagsProps> = ({
     setMetaTag('property', 'og:url', canonicalUrl);
     setMetaTag('property', 'og:type', ogType);
     setMetaTag('property', 'og:image', imageUrl);
+    setMetaTag('property', 'og:image:secure_url', imageUrl);
+    setMetaTag('property', 'og:image:width', '1200');
+    setMetaTag('property', 'og:image:height', '675');
+    setMetaTag('property', 'og:image:alt', titleToSet);
+    setMetaTag('property', 'og:image:type', 'image/jpeg');
+
+    if (post) {
+      setMetaTag('property', 'article:published_time', formatIsoDate(post.postDate || post.publishedAt || post.syncedAt, 0));
+      setMetaTag('property', 'article:modified_time', formatIsoDate(post.syncedAt || post.postDate || post.publishedAt, 0));
+      setMetaTag('property', 'article:section', post.category || 'Government Jobs');
+      if (post.state) setMetaTag('property', 'article:tag', post.state);
+    }
 
     setMetaTag('name', 'twitter:card', 'summary_large_image');
+    setMetaTag('name', 'twitter:site', '@pariksha_result');
+    setMetaTag('name', 'twitter:creator', '@pariksha_result');
     setMetaTag('name', 'twitter:title', titleToSet);
     setMetaTag('name', 'twitter:description', descriptionToSet);
     setMetaTag('name', 'twitter:image', imageUrl);
+    setMetaTag('name', 'twitter:image:alt', titleToSet);
 
     // Structured Data (JSON-LD Injection for Google Rich Snippets)
     if (post) {
