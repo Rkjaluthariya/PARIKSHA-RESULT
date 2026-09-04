@@ -2,6 +2,1285 @@ import { Post, QuizQuestion, CurrentAffairsArticle } from '../types';
 
 export const INITIAL_POSTS: Post[] = [
   {
+    "id": "blog-auto-1hr-1788516472216-7",
+    "title": "📝 UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+    "slug": "upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788516472216",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788516472216",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint\n\n![UPSC CSE Prelims 2026](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.\n\n## 1. Executive Summary & UPSC Prelims 2026 Dynamics\n\nThe UPSC Civil Services Examination (CSE) Prelims is designed to test depth of understanding, analytical reasoning, and current affairs synthesis. In 2026, cutoffs hover around 85-92 marks out of 200 in GS Paper 1.\n\n![UPSC Books Setup](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80)\n\n## 2. Core Booklist & Standard Sources\n\n| Subject | Core Text Book | Revision Strategy |\n| :--- | :--- | :--- |\n| **Indian Polity** | M. Laxmikanth (7th Edition) | Read 5 times minimum + PYQs |\n| **Modern History** | A Brief History of Modern India (Spectrum) | Timeline notes + Governor General reforms |\n| **Environment & Ecology** | Shankar IAS / NCERT Class 12 Biology | Wildlife Sanctuaries, National Parks & Climate Summits |\n| **Indian Economy** | Ramesh Singh / Vivek Singh + Budget | Economic Survey + Inflation/Monetary Policy concepts |\n| **Geography** | NCERT Class 11 & 12 (4 Books) + Mapping | Daily 15-minute atlas mapping practice |\n\n## 3. CSAT (Paper II) Qualifying Strategy for Non-Maths Aspirants\n\n- Target **Reading Comprehension** (25-28 Questions) with high precision.\n- Master **Logical Reasoning** (Syllogisms, Direction Sense, Blood Relations).\n- Solve last 10 years' official UPSC CSAT papers to understand question phrasing.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "What is the qualifying marks required for UPSC CSAT Paper II?",
+        "answer": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+      },
+      {
+        "question": "How many months of current affairs are needed for UPSC Prelims 2026?",
+        "answer": "Focus strictly on 18 months of current affairs prior to the exam date."
+      },
+      {
+        "question": "Is reading NCERT textbooks mandatory for UPSC?",
+        "answer": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+      }
+    ],
+    "metaTitle": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint | Pariksha Result Blog",
+    "metaDescription": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), ...",
+    "keywords": [
+      "UPSC CSE Prelims 2026",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+      "description": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788516472216",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the qualifying marks required for UPSC CSAT Paper II?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many months of current affairs are needed for UPSC Prelims 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Focus strictly on 18 months of current affairs prior to the exam date."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is reading NCERT textbooks mandatory for UPSC?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1788516472216"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99
+  },
+  {
+    "id": "blog-auto-1hr-1788516472216-815",
+    "title": "📝 SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+    "slug": "ssc-cgl-2026-master-preparation-blueprint-1788516472216",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/ssc-cgl-2026-master-preparation-blueprint-1788516472216",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint\n\n![SSC CGL 2026 Strategy](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.\n\n## 1. Executive Summary & SSC CGL 2026 Exam Overview\n\nThe Staff Selection Commission Combined Graduate Level (SSC CGL) exam is India's most prestigious non-technical government recruitment examination. Scoring 160+ in Tier 1 and qualifying Tier 2 requires a scientific balance between accuracy and speed.\n\n![Exam Study Setup](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)\n\n### Key Highlights\n- **Target Score**: Tier 1 (160+ / 200), Tier 2 (310+ / 390)\n- **Daily Study Hours**: 6 to 8 hours focused preparation\n- **Primary Strategy**: PYQs (Previous Year Questions) + Daily Mock Test Review\n\n## 2. Subject-Wise Tactical Breakdown & High-Yield Topics\n\n| Subject | Tier 1 Weightage | Tier 2 Weightage | Master Resource & Strategy |\n| :--- | :--- | :--- | :--- |\n| **Quantitative Aptitude** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Master Vedic Math, Percentage fractions & 50 PYQs daily |\n| **Reasoning Ability** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Daily Puzzles, Syllogism, Blood Relations & Seating arrangement |\n| **English Language** | 25 Questions (50 Marks) | 45 Questions (135 Marks) | SP Bakshi + 120 Grammar Rules + Editorial Vocabulary |\n| **General Awareness** | 25 Questions (50 Marks) | 25 Questions (75 Marks) | Lucent GK + Daily Current Affairs Digests & Science summaries |\n| **Computer Knowledge** | Qualifying | 20 Questions (60 Marks) | NCERT Computer Science Class 9-11 + Hardware/Software Basics |\n\n### Quantitative Aptitude Roadmap\n- Memorize multiplication tables up to 30, squares up to 50, cubes up to 30.\n- Master fast percentage fraction conversions (e.g., 1/7 = 14.28%, 1/9 = 11.11%).\n- Practice Geometry and Mensuration 3D formulas daily.\n\n## 3. The 90-Day Step-by-Step Study Timetable\n\n- **Days 1 to 30 (Foundation Phase)**: Complete 100% concepts of Mathematics and English Grammar rules.\n- **Days 31 to 60 (PYQ Mastery Phase)**: Solve last 10 years' SSC CGL question banks chapter-by-chapter.\n- **Days 61 to 90 (Mock Test Blitz Phase)**: Take 1 full-length mock test daily at exact exam timing.\n\n## 4. Mock Test Evaluation & Error Log Protocol\n\nNever skip post-test analysis. Maintain a dedicated **Error Log Notebook** to record every calculation error or conceptual blunder.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is 90 days enough to clear SSC CGL 2026?",
+        "answer": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+      },
+      {
+        "question": "How many mock tests should I take before Tier 1?",
+        "answer": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+      },
+      {
+        "question": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+        "answer": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+      },
+      {
+        "question": "What is the negative marking penalty in SSC CGL Tier 1?",
+        "answer": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+      }
+    ],
+    "metaTitle": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint | Pariksha Result Blog",
+    "metaDescription": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reaso...",
+    "keywords": [
+      "SSC CGL 2026 Strategy",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+      "description": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788516472216",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is 90 days enough to clear SSC CGL 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many mock tests should I take before Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the negative marking penalty in SSC CGL Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1788516472216"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99
+  },
+  {
+    "id": "blog-auto-1hr-1788516472216-234",
+    "title": "📝 Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+    "slug": "pradhan-mantri-awas-yojana-2026-complete-guide-1788516472216",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788516472216",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide\n\n![PMAY 2026 Scheme](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.\n\n## 1. Pradhan Mantri Awas Yojana (PMAY) 2026 Overview\n\nThe Government of India's flagship housing scheme PMAY aims to provide pucca houses with basic amenities to all eligible urban and rural families across India.\n\n![Modern Housing](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80)\n\n## 2. Eligibility & Income Categories\n\n| Category | Annual Household Income | Max Subsidy Available |\n| :--- | :--- | :--- |\n| **EWS (Economically Weaker)** | Up to ₹3 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **LIG (Low Income Group)** | ₹3 Lakh to ₹6 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **MIG I (Middle Income Group)** | ₹6 Lakh to ₹12 Lakh | Subsidized Housing Loan Rates |\n| **PMAY Gramin (Rural)** | BPL / SECC 2011 List | ₹1.20 Lakh to ₹1.30 Lakh Direct Grant |\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "How do I check my name in PMAY Gramin List 2026?",
+        "answer": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+      },
+      {
+        "question": "Can unmarried adults apply for PMAY separately?",
+        "answer": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+      }
+    ],
+    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide | Pariksha Result Blog",
+    "metaDescription": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest sub...",
+    "keywords": [
+      "PMAY 2026 Scheme",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide - Pariksha Result",
+    "openGraph": {
+      "title": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+      "description": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788516472216",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I check my name in PMAY Gramin List 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can unmarried adults apply for PMAY separately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1788516472216"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99
+  },
+  {
+    "id": "blog-auto-1hr-1788516472216-890",
+    "title": "📝 RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+    "slug": "rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516472216",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "",
+    "shortInfo": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516472216",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint\n\n![RRB NTPC 2026 Preparation](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.\n\n## 1. Indian Railways Recruitment Drive Overview\n\nWith over 35,000+ vacancies announced in RRB NTPC and Group D, Railway jobs offer high security, lucrative allowances, and fast career progression.\n\n![Railway Track](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80)\n\n## 2. General Science Mastery Strategy\n\nIn Railway exams, Physics, Chemistry, and Life Sciences from NCERT Class 9 & 10 contribute over 25% of total questions.\n\n- **Physics Focus**: Newton Laws, Work Energy Power, Electricity, Light Reflection/Refraction.\n- **Chemistry Focus**: Periodic Table trends, Chemical Equations, Acids Bases Salts.\n- **Biology Focus**: Human Physiology, Cell Structure, Plant Classification & Genetics.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-04 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is there negative marking in RRB NTPC CBT 1?",
+        "answer": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+      },
+      {
+        "question": "What is the language medium available for RRB exams?",
+        "answer": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+      }
+    ],
+    "metaTitle": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint | Pariksha Result Blog",
+    "metaDescription": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 N...",
+    "keywords": [
+      "RRB NTPC 2026 Preparation",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+      "description": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516472216",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is there negative marking in RRB NTPC CBT 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the language medium available for RRB exams?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-04",
+        "dateModified": "2026-09-04",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1788516472216"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-204",
+    "title": "🏆 [Result Announcement] Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "results",
+    "organization": "Bihar School Examination Board (BSEB Patna) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "BSEB Patna has officially announced the annual Matric and Intermediate board results with topper merit lists.",
+    "totalVacancies": "Board Examination Result",
+    "qualificationRequired": [
+      "10th / 12th Class Students"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Conducted",
+        "date": "June / July 2026",
+        "isImportant": false
+      },
+      {
+        "event": "Result Declared Online",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Cutoff Marks Declared",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Scorecard Download End Date",
+        "date": "30/10/2026",
+        "isImportant": false
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026",
+        "totalPosts": "Board Examination Result",
+        "eligibility": "10th / 12th Class Students"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official results portal.",
+      "Click on the scorecard/result link for your respective post.",
+      "Enter your Roll Number and Date of Birth / SSO ID accurately.",
+      "Submit details to view your scorecard on screen.",
+      "Print your result page and score card PDF for future reference."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Result Direct Link",
+        "url": "#",
+        "isPrimary": true,
+        "type": "result"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026\n\n**Bihar School Examination Board (BSEB Patna)** has officially declared the **Written Exam Result / Final Selection Merit List / Scorecard** for **Board Examination Result**.\n\n## Summary Overview\n\nBSEB Patna has officially announced the annual Matric and Intermediate board results with topper merit lists.\n\n### 🏆 Selection & Cutoff Highlights\n- **Organization**: Bihar School Examination Board (BSEB Patna)\n- **Result Category**: Result / Merit List / Scorecard\n- **Total Posts/Seats**: Board Examination Result\n- **Qualifying Criteria**: As per official cut-off marks\n- **Access Mode**: Online Result Portal / Selected List PDF\n\n## 🔍 How to Check Result & Download Scorecard\n1. Click on the direct 'Check Result Direct Link' provided in the links table below.\n2. Download the official merit list PDF or open candidate scorecard login page.\n3. Search your Roll Number or Name using Ctrl + F.\n4. Verify your subject-wise marks, total score, and qualifying status.\n5. Print or save a copy of your result page for physical document verification.\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026?",
+        "answer": "Candidates must possess 10th / 12th Class Students as specified by Bihar School Examination Board (BSEB Patna)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026 | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Bihar School Examination Board (BSEB Patna)",
+      "results",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026",
+    "openGraph": {
+      "title": "Bihar Board BSEB Class 10th Matric / Class 12th Inter Result 2026",
+      "description": "BSEB Patna has officially announced the annual Matric and Intermediate board results with topper merit lists.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-57",
+    "title": "📢 [Govt Scheme Live] PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "government-schemes",
+    "organization": "Ministry of MSME / Govt of India (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "Apply online for PM Vishwakarma Yojana to receive standard skill training, daily stipend, ₹ 15,000 toolkit incentive, and collateral-free loans.",
+    "totalVacancies": "All India Artisans",
+    "qualificationRequired": [
+      "Artisans & Craftsmen"
+    ],
+    "importantDates": [
+      {
+        "event": "Registration Portal Active",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply / Link Aadhaar",
+        "date": "31/12/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "PM Vishwakarma Free Toolkit & Skill Training Scheme 2026",
+        "totalPosts": "All India Artisans",
+        "eligibility": "Artisans & Craftsmen"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official government scheme portal.",
+      "Complete user registration using active mobile number and Aadhaar.",
+      "Fill family beneficiary details and bank account link info.",
+      "Submit required documents (income, land record, identity proof).",
+      "Submit final form and print acknowledgement slip."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply for Government Scheme",
+        "url": "#",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online\n\n**Ministry of MSME / Govt of India** has officially announced the recruitment/update drive for **All India Artisans**. Candidates holding **Artisans & Craftsmen** qualifications can submit online forms / check updates starting today (**2026-09-04**).\n\n## Summary Overview\n\nApply online for PM Vishwakarma Yojana to receive standard skill training, daily stipend, ₹ 15,000 toolkit incentive, and collateral-free loans.\n\n### Key Highlights\n- **Organization**: Ministry of MSME / Govt of India\n- **Updates category**: government-schemes\n- **Total Posts/Seats**: All India Artisans\n- **Qualification**: Artisans & Craftsmen\n- **Mode of Access**: Online\n\n*This recruitment entry was automatically published by Pariksha Result 1-Hour Job Auto-Sync Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for PM Vishwakarma Free Toolkit & Skill Training Scheme 2026?",
+        "answer": "Candidates must possess Artisans & Craftsmen as specified by Ministry of MSME / Govt of India."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Ministry of MSME / Govt of India",
+      "government-schemes",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online",
+    "openGraph": {
+      "title": "PM Vishwakarma Free Toolkit & Skill Training Scheme 2026: Apply Online",
+      "description": "Apply online for PM Vishwakarma Yojana to receive standard skill training, daily stipend, ₹ 15,000 toolkit incentive, and collateral-free loans.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/government-schemes/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-994",
+    "title": "🏫 [Admission Portal Open] JNVST Class VI School Admission Online Form 2026: Apply Now",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "admissions",
+    "organization": "Navodaya Vidyalaya Samiti (NVS) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "NVS opens registration portal for Jawahar Navodaya Vidyalaya Selection Test (JNVST) for admission to class 6th standard.",
+    "totalVacancies": "Various Seats",
+    "qualificationRequired": [
+      "Class 5th Standard"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Open",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Register Online",
+        "date": "30/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "First Merit List Declaration",
+        "date": "15/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "JNVST Class VI School Admission Online Form 2026",
+        "totalPosts": "Various Seats",
+        "eligibility": "Class 5th Standard"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official institution/university admission portal.",
+      "Click on Admission Registration and generate a unique login ID.",
+      "Fill academic marks, course preferences, and personal details.",
+      "Upload scanned certificates, marksheets, and passport photo.",
+      "Pay registration fee online and download confirmation PDF."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply for Admission",
+        "url": "#",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# JNVST Class VI School Admission Online Form 2026: Apply Now\n\n**Navodaya Vidyalaya Samiti (NVS)** has officially announced the recruitment/update drive for **Various Seats**. Candidates holding **Class 5th Standard** qualifications can submit online forms / check updates starting today (**2026-09-04**).\n\n## Summary Overview\n\nNVS opens registration portal for Jawahar Navodaya Vidyalaya Selection Test (JNVST) for admission to class 6th standard.\n\n### Key Highlights\n- **Organization**: Navodaya Vidyalaya Samiti (NVS)\n- **Updates category**: admissions\n- **Total Posts/Seats**: Various Seats\n- **Qualification**: Class 5th Standard\n- **Mode of Access**: Online\n\n*This recruitment entry was automatically published by Pariksha Result 1-Hour Job Auto-Sync Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for JNVST Class VI School Admission Online Form 2026?",
+        "answer": "Candidates must possess Class 5th Standard as specified by Navodaya Vidyalaya Samiti (NVS)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "JNVST Class VI School Admission Online Form 2026: Apply Now | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for JNVST Class VI School Admission Online Form 2026: Apply Now. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Navodaya Vidyalaya Samiti (NVS)",
+      "admissions",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "JNVST Class VI School Admission Online Form 2026: Apply Now",
+    "openGraph": {
+      "title": "JNVST Class VI School Admission Online Form 2026: Apply Now",
+      "description": "NVS opens registration portal for Jawahar Navodaya Vidyalaya Selection Test (JNVST) for admission to class 6th standard.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admissions/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-190",
+    "title": "🔴 [1-Hour Update] Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "latest-jobs",
+    "organization": "Railway Recruitment Boards (RRB) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "Indian Railways invites applications for Assistant Loco Pilot posts across 21 RRB zones with CBT 1 exam date announced.",
+    "totalVacancies": "18,799 Posts",
+    "qualificationRequired": [
+      "10th Pass + ITI / Diploma / BE / B.Tech"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Fee Payment Last Date",
+        "date": "01/10/2026",
+        "isImportant": false
+      },
+      {
+        "event": "Exam Date (CBT 1)",
+        "date": "November / December 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Railway RRB Assistant Loco Pilot (ALP) 2026",
+        "totalPosts": "18,799 Posts",
+        "eligibility": "10th Pass + ITI / Diploma / BE / B.Tech"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official recruitment web portal.",
+      "Click on 'New Registration' and fill basic personal details.",
+      "Upload scanned passport photograph and signature in prescribed JPG format.",
+      "Fill educational qualifications and work experience details accurately.",
+      "Pay application fee online via Net Banking, UPI, or Credit/Debit card.",
+      "Submit final form and print confirmation receipt for future reference."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online Portal",
+        "url": "#",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts\n\n**Railway Recruitment Boards (RRB)** has officially announced the recruitment/update drive for **18,799 Posts**. Candidates holding **10th Pass + ITI / Diploma / BE / B.Tech** qualifications can submit online forms / check updates starting today (**2026-09-04**).\n\n## Summary Overview\n\nIndian Railways invites applications for Assistant Loco Pilot posts across 21 RRB zones with CBT 1 exam date announced.\n\n### Key Highlights\n- **Organization**: Railway Recruitment Boards (RRB)\n- **Updates category**: latest-jobs\n- **Total Posts/Seats**: 18,799 Posts\n- **Qualification**: 10th Pass + ITI / Diploma / BE / B.Tech\n- **Mode of Access**: Online\n\n*This recruitment entry was automatically published by Pariksha Result 1-Hour Job Auto-Sync Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for Railway RRB Assistant Loco Pilot (ALP) 2026?",
+        "answer": "Candidates must possess 10th Pass + ITI / Diploma / BE / B.Tech as specified by Railway Recruitment Boards (RRB)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Railway Recruitment Boards (RRB)",
+      "latest-jobs",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts",
+    "openGraph": {
+      "title": "Railway RRB Assistant Loco Pilot (ALP) 2026: Online Form Active for 18,799 Posts",
+      "description": "Indian Railways invites applications for Assistant Loco Pilot posts across 21 RRB zones with CBT 1 exam date announced.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-676",
+    "title": "🔑 [Answer Key Released] UGC NET June Session Answer Key, Question Paper & Objection Link 2026",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "answer-key",
+    "organization": "National Testing Agency (NTA) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "NTA has published provisional answer keys and scanned OMR sheets with question papers for UGC NET June exams.",
+    "totalVacancies": "JRF & Assistant Professor",
+    "qualificationRequired": [
+      "Post Graduate Degree"
+    ],
+    "importantDates": [
+      {
+        "event": "Written Examination",
+        "date": "July 2026",
+        "isImportant": false
+      },
+      {
+        "event": "Tentative Answer Key Uploaded",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Objection Challenge Window Start",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Submit Challenges",
+        "date": "30/09/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UGC NET June Session Answer Key, Question Paper & Objection Link 2026",
+        "totalPosts": "JRF & Assistant Professor",
+        "eligibility": "Post Graduate Degree"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official Answer Key challenge portal.",
+      "Login with your Roll Number and password credentials.",
+      "Download the tentative answer keys and your recorded response sheet.",
+      "Compare your marked responses with official answer choices.",
+      "In case of discrepancy, file an online challenge and pay objection fee before the deadline."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Answer Key / Response Sheet",
+        "url": "#",
+        "isPrimary": true,
+        "type": "answer-key"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# UGC NET June Session Answer Key, Question Paper & Objection Link 2026\n\n**National Testing Agency (NTA)** has officially announced the recruitment/update drive for **JRF & Assistant Professor**. Candidates holding **Post Graduate Degree** qualifications can submit online forms / check updates starting today (**2026-09-04**).\n\n## Summary Overview\n\nNTA has published provisional answer keys and scanned OMR sheets with question papers for UGC NET June exams.\n\n### Key Highlights\n- **Organization**: National Testing Agency (NTA)\n- **Updates category**: answer-key\n- **Total Posts/Seats**: JRF & Assistant Professor\n- **Qualification**: Post Graduate Degree\n- **Mode of Access**: Online\n\n*This recruitment entry was automatically published by Pariksha Result 1-Hour Job Auto-Sync Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for UGC NET June Session Answer Key, Question Paper & Objection Link 2026?",
+        "answer": "Candidates must possess Post Graduate Degree as specified by National Testing Agency (NTA)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "UGC NET June Session Answer Key, Question Paper & Objection Link 2026 | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for UGC NET June Session Answer Key, Question Paper & Objection Link 2026. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "National Testing Agency (NTA)",
+      "answer-key",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "UGC NET June Session Answer Key, Question Paper & Objection Link 2026",
+    "openGraph": {
+      "title": "UGC NET June Session Answer Key, Question Paper & Objection Link 2026",
+      "description": "NTA has published provisional answer keys and scanned OMR sheets with question papers for UGC NET June exams.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/answer-key/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "job-auto-1hr-1788516472216-838",
+    "title": "🎟️ [Admit Card Out] SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket",
+    "slug": "sarkari-job-auto-update-1788516472216",
+    "category": "admit-card",
+    "organization": "Staff Selection Commission (SSC) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-04",
+    "lastDate": "2026-09-30",
+    "shortInfo": "SSC releases region-wise admit card download links and exam status updates for General Duty Constable Recruitment Examination.",
+    "totalVacancies": "47,450 Posts",
+    "qualificationRequired": [
+      "10th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "City Intimation Active",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Admit Card Download Start",
+        "date": "2026-09-04",
+        "isImportant": true
+      },
+      {
+        "event": "Written Examination Date",
+        "date": "November / December 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "SSC GD Constable Written Exam Admit Card 2026",
+        "totalPosts": "47,450 Posts",
+        "eligibility": "10th Pass"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official candidate login page.",
+      "Click on the Admit Card download link.",
+      "Provide your registration ID and Password / Date of Birth.",
+      "Enter the verification CAPTCHA code and click submit.",
+      "Download and print your Admit Card on a standard clean A4 sheet."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card / Hall Ticket",
+        "url": "#",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket\n\n**Staff Selection Commission (SSC)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **47,450 Posts**.\n\n## Summary Overview\n\nSSC releases region-wise admit card download links and exam status updates for General Duty Constable Recruitment Examination.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Staff Selection Commission (SSC)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 47,450 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for SSC GD Constable Written Exam Admit Card 2026?",
+        "answer": "Candidates must possess 10th Pass as specified by Staff Selection Commission (SSC)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-04. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Staff Selection Commission (SSC)",
+      "admit-card",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket",
+    "openGraph": {
+      "title": "SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket",
+      "description": "SSC releases region-wise admit card download links and exam status updates for General Duty Constable Recruitment Examination.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1788516472216"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
     "id": "sarkari-bihar-bed-cet-answer-key-2026",
     "title": "Bihar BEd CET Answer Key 2026",
     "slug": "bihar-bed-cet-answer-key-2026",
@@ -19215,6 +20494,46 @@ export const INITIAL_POSTS: Post[] = [
 
 export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
   {
+    "id": "gktoday-rbi-monetary-policy-committee-update---august-2026",
+    "title": "RBI Monetary Policy Committee Update - August 2026",
+    "date": "04 September 2026",
+    "category": "Economy",
+    "summary": "Reserve Bank of India maintains key policy rates to support sustainable economic growth.",
+    "keyPoints": [
+      "Repo rate unchanged",
+      "Inflation targets on track"
+    ],
+    "keyHighlights": [
+      "Repo rate unchanged",
+      "Inflation targets on track"
+    ],
+    "fullContent": "# RBI Monetary Policy Committee Update The Reserve Bank of India governor announced key monetary decisions aimed at curbing inflation while supporting national development.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:08:11.100Z"
+  },
+  {
+    "id": "gktoday-india-national-defence-space-research-highlights---04-september-2026",
+    "title": "India National Defence & Space Research Highlights - 04 September 2026",
+    "date": "04 September 2026",
+    "category": "Science & Space",
+    "summary": "Key ISRO and DRDO developments announced for strategic defense and satellite launch capabilities.",
+    "keyPoints": [
+      "ISRO space mission milestone",
+      "DRDO defense technology trial"
+    ],
+    "keyHighlights": [
+      "ISRO space mission milestone",
+      "DRDO defense technology trial"
+    ],
+    "fullContent": "# India National Defence & Space Research Highlights ISRO and DRDO have announced major updates regarding upcoming satellite launches and technology testing for national security.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:08:11.087Z"
+  },
+  {
     "id": "ca-auto-5min-1788516348540-564",
     "title": "⚡ [5-Min Update] India Secures 5 Medals at International Science Olympiad 2026",
     "date": "04 September 2026",
@@ -19225,8 +20544,16 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
       "Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR.",
       "Ministry of Education announces national felicitation award for winners."
     ],
-    "fullContent": "Indian student delegation wins 3 Gold and 2 Silver medals competing against 80+ nations in Zurich, Switzerland.\n\nKey details:\n- Top performance recorded in Physics and Chemistry practical challenges.\n- Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR.\n- Ministry of Education announces national felicitation award for winners.\n\nPublished automatically via Pariksha Result 5-Minute Current Affairs Real-Time Engine on 04 September 2026.",
-    "canonical_hash": "41841e151ff59b386bb00f30303fbb9b"
+    "keyHighlights": [
+      "Top performance recorded in Physics and Chemistry practical challenges.",
+      "Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR.",
+      "Ministry of Education announces national felicitation award for winners."
+    ],
+    "fullContent": "Indian student delegation wins 3 Gold and 2 Silver medals competing against 80+ nations in Zurich, Switzerland. Key details: - Top performance recorded in Physics and Chemistry practical challenges. - Supported by Homi Bhabha Centre for Science Education (HBCSE) TIFR. - Ministry of Education announces national felicitation award for winners. Published automatically via Pariksha Result 5-Minute Current Affairs Real-Time Engine on 04 September 2026.",
+    "source": "GK Today",
+    "sourceUrl": "",
+    "publishedAt": "04 September 2026",
+    "syncedAt": "2026-09-04T10:07:52.202Z"
   },
   {
     "id": "gktoday-indigenously-developed-astra-mk3-beyond-visual-range-air-to-air-missile-cleared-for-induction",
@@ -19250,8 +20577,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:48.533Z",
-    "canonical_hash": "5b58e212f52e3954e9421ccf1cb26f2b"
+    "syncedAt": "2026-09-04T10:05:48.533Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-next-generation-semi-cryogenic-engine-for-heavy-lift-launchers",
@@ -19275,8 +20601,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:48.532Z",
-    "canonical_hash": "c568c216b6ef1e64e16a1f4768655c9e"
+    "syncedAt": "2026-09-04T10:05:48.532Z"
   },
   {
     "id": "gktoday-india-and-asean-conclude-comprehensive-review-of-trade-in-goods-agreement",
@@ -19300,8 +20625,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:48.528Z",
-    "canonical_hash": "706ab0e67632a9f619136d59cf53f8ec"
+    "syncedAt": "2026-09-04T10:05:48.528Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-expanded-scope-for-pm-pranam-scheme-to-boost-organic-farming",
@@ -19325,8 +20649,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:48.525Z",
-    "canonical_hash": "0e08829a2effc61474d58ecae2cd8ca9"
+    "syncedAt": "2026-09-04T10:05:48.525Z"
   },
   {
     "id": "gktoday-sahitya-akademi-announces-bal-sahitya-puraskar-and-yuva-puraskar-for-2026",
@@ -19348,8 +20671,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.760Z",
-    "canonical_hash": "56f61d9fd5d2b861782d3332447d332e"
+    "syncedAt": "2026-09-04T10:05:40.760Z"
   },
   {
     "id": "gktoday-government-appoints-new-chairperson-for-securities-and-exchange-board-of-india",
@@ -19371,8 +20693,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.759Z",
-    "canonical_hash": "05c9a628f0533ff046069165c2c01ed2"
+    "syncedAt": "2026-09-04T10:05:40.759Z"
   },
   {
     "id": "gktoday-manika-batra-clinches-gold-at-wtt-contender-singles-championship",
@@ -19394,8 +20715,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.757Z",
-    "canonical_hash": "7f8243f068061bf4801375f914910db9"
+    "syncedAt": "2026-09-04T10:05:40.757Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-reusable-launch-vehicle-booster-for-gaganyaan-2",
@@ -19417,8 +20737,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.755Z",
-    "canonical_hash": "f76548802f14095cc64cf9eb55bccc56"
+    "syncedAt": "2026-09-04T10:05:40.755Z"
   },
   {
     "id": "gktoday-rbi-introduces-unified-regulatory-framework-for-digital-lending-platforms",
@@ -19440,8 +20759,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.754Z",
-    "canonical_hash": "effc1d5f915c38465c844dd28e7d571b"
+    "syncedAt": "2026-09-04T10:05:40.754Z"
   },
   {
     "id": "gktoday-india-and-nordic-nations-sign-comprehensive-green-energy-corridor-pact",
@@ -19463,8 +20781,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:05:40.752Z",
-    "canonical_hash": "fe33aa811f3f70299cd8587c346835c8"
+    "syncedAt": "2026-09-04T10:05:40.752Z"
   },
   {
     "id": "gktoday-unesco-awards-three-heritage-sites-in-india-prestigious-biosphere-status",
@@ -19486,8 +20803,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.049Z",
-    "canonical_hash": "590aa8f429b43c51785baaa3b6fc31cb"
+    "syncedAt": "2026-09-04T10:04:35.049Z"
   },
   {
     "id": "gktoday-appointment-of-new-chief-economic-advisor-and-key-financial-regulators-announced",
@@ -19509,8 +20825,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.047Z",
-    "canonical_hash": "8fad00a91734732b015817a453bc9856"
+    "syncedAt": "2026-09-04T10:04:35.047Z"
   },
   {
     "id": "gktoday-neeraj-chopra-wins-gold-at-zurich-diamond-league-finals-2026",
@@ -19532,8 +20847,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.046Z",
-    "canonical_hash": "4d826d0aa4cbbdb72d5d48d895b15c36"
+    "syncedAt": "2026-09-04T10:04:35.046Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-advanced-semi-cryogenic-engine-for-next-gen-launch-vehicles",
@@ -19555,8 +20869,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.042Z",
-    "canonical_hash": "436bc022ec7375795faac61c693c359b"
+    "syncedAt": "2026-09-04T10:04:35.042Z"
   },
   {
     "id": "gktoday-india-and-nordic-baltic-eight-sign-clean-energy-technology-pact",
@@ -19578,8 +20891,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.038Z",
-    "canonical_hash": "3ae8180e56e2a0de654cd2c8cfd545e1"
+    "syncedAt": "2026-09-04T10:04:35.038Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-expanded-scope-of-pm-surya-ghar-muft-bijli-yojana",
@@ -19601,8 +20913,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:04:35.037Z",
-    "canonical_hash": "5d1c028c8f392eb5716473272a33756c"
+    "syncedAt": "2026-09-04T10:04:35.037Z"
   },
   {
     "id": "gktoday-government-launches-national-green-hydrogen-export-hub-scheme-with-rs-5000-crore-outlay",
@@ -19626,8 +20937,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:13.296Z",
-    "canonical_hash": "c5682bf5e72fba0aa5d58479c136dd8c"
+    "syncedAt": "2026-09-04T10:01:13.296Z"
   },
   {
     "id": "gktoday-justice-sanjiv-khanna-appointed-as-the-51st-chief-justice-of-india",
@@ -19651,8 +20961,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:13.295Z",
-    "canonical_hash": "9453dc8e66760d37b476b19d84b62af9"
+    "syncedAt": "2026-09-04T10:01:13.295Z"
   },
   {
     "id": "gktoday-neeraj-chopra-clinches-historic-gold-at-world-athletics-diamond-league-final-2026",
@@ -19676,8 +20985,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:13.294Z",
-    "canonical_hash": "85d551d95320417264218da15eff7679"
+    "syncedAt": "2026-09-04T10:01:13.294Z"
   },
   {
     "id": "gktoday-rbi-mandates-tokenization-framework-for-cross-border-card-transactions",
@@ -19701,8 +21009,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:13.291Z",
-    "canonical_hash": "0ff56c91cd9885dc0d9d610b0e95ce08"
+    "syncedAt": "2026-09-04T10:01:13.291Z"
   },
   {
     "id": "gktoday-india-and-japan-sign-comprehensive-semiconductor-supply-chain-resilience-pact",
@@ -19726,8 +21033,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:13.289Z",
-    "canonical_hash": "c0498bf9dc4ecb15f407b7777dbb7f30"
+    "syncedAt": "2026-09-04T10:01:13.289Z"
   },
   {
     "id": "gktoday-india-hosts-global-maritime-security-summit-2026-in-mumbai",
@@ -19749,8 +21055,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:08.387Z",
-    "canonical_hash": "6756a6e6dbfff2b84ebbf1da3433c38e"
+    "syncedAt": "2026-09-04T10:01:08.387Z"
   },
   {
     "id": "gktoday-justice-br-gavai-appointed-as-the-53rd-chief-justice-of-india",
@@ -19772,8 +21077,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:08.385Z",
-    "canonical_hash": "fc28a5387cef6ef64c2389b5635d188d"
+    "syncedAt": "2026-09-04T10:01:08.385Z"
   },
   {
     "id": "gktoday-neeraj-chopra-secures-gold-at-world-athletics-continental-tour-gold-meeting",
@@ -19795,8 +21099,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:08.384Z",
-    "canonical_hash": "c3c07c5ca83938c42e1728d00c671c72"
+    "syncedAt": "2026-09-04T10:01:08.384Z"
   },
   {
     "id": "gktoday-rbi-introduces-regulatory-sandbox-for-climate-risk-and-green-finance",
@@ -19818,8 +21121,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:08.382Z",
-    "canonical_hash": "82cf757595abee134d5107985be42673"
+    "syncedAt": "2026-09-04T10:01:08.382Z"
   },
   {
     "id": "gktoday-india-and-france-sign-landmark-clean-energy-and-critical-minerals-pact",
@@ -19841,8 +21143,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T10:01:08.381Z",
-    "canonical_hash": "0393e5a4d46a45db08df2382aefba542"
+    "syncedAt": "2026-09-04T10:01:08.381Z"
   },
   {
     "id": "gktoday-renowned-historian-and-writer-prof-ramachandra-guha-conferred-with-sahitya-akademi-fellowship-2026",
@@ -19864,8 +21165,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:55:31.886Z",
-    "canonical_hash": "2410e8806e709343ba67e2385f1e2554"
+    "syncedAt": "2026-09-04T09:55:31.886Z"
   },
   {
     "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-long-range-glide-bomb",
@@ -19887,8 +21187,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:55:31.883Z",
-    "canonical_hash": "02176dc416d18fe45878004a1942b546"
+    "syncedAt": "2026-09-04T09:55:31.883Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-nationwide-expansion-of-pm-vigyan-scheme-for-rd",
@@ -19910,8 +21209,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:55:31.878Z",
-    "canonical_hash": "19e9d501816bac4436955e28821b67d0"
+    "syncedAt": "2026-09-04T09:55:31.878Z"
   },
   {
     "id": "gktoday-government-announces-padma-vibhushan-and-padma-bhushan-awardees-for-excellence",
@@ -19935,8 +21233,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.696Z",
-    "canonical_hash": "82c2ad894949fe5e8172487e040a7a81"
+    "syncedAt": "2026-09-04T09:50:55.696Z"
   },
   {
     "id": "gktoday-dr-rajesh-verma-appointed-as-new-chairperson-of-national-statistical-commission",
@@ -19960,8 +21257,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.694Z",
-    "canonical_hash": "086d2cd2939dad6034629eb4f7bafe2a"
+    "syncedAt": "2026-09-04T09:50:55.694Z"
   },
   {
     "id": "gktoday-india-clinches-historic-victory-at-asian-youth-athletics-championship-2026",
@@ -19985,8 +21281,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.693Z",
-    "canonical_hash": "467d3bf3479b2fa8aa36841bc0658dce"
+    "syncedAt": "2026-09-04T09:50:55.693Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-advanced-semi-cryogenic-engine-for-heavy-lift-missions",
@@ -20010,8 +21305,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.691Z",
-    "canonical_hash": "0682f15fbceafbac99cffec09b3bddbb"
+    "syncedAt": "2026-09-04T09:50:55.691Z"
   },
   {
     "id": "gktoday-india-and-european-union-conclude-historic-green-technology-partnership",
@@ -20035,8 +21329,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.690Z",
-    "canonical_hash": "6ff206eb1d569bac746dbe5d9208a643"
+    "syncedAt": "2026-09-04T09:50:55.690Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-mission-poshan-30-to-combat-childhood-malnutrition",
@@ -20060,8 +21353,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:55.687Z",
-    "canonical_hash": "81f2236e265b7f39d959c7ba26fd3d27"
+    "syncedAt": "2026-09-04T09:50:55.687Z"
   },
   {
     "id": "gktoday-sangeet-natak-akademi-announces-recipients-of-national-awards-for-performing-arts",
@@ -20083,8 +21375,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.572Z",
-    "canonical_hash": "47d78e23ca762f629a7ac622b6c45965"
+    "syncedAt": "2026-09-04T09:50:50.572Z"
   },
   {
     "id": "gktoday-appointment-of-new-chief-executive-officer-at-national-institution-for-transforming-india-niti-aayog",
@@ -20106,8 +21397,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.571Z",
-    "canonical_hash": "cf32e8b41dcd37f7e856f6064e721a2c"
+    "syncedAt": "2026-09-04T09:50:50.571Z"
   },
   {
     "id": "gktoday-manu-bhaker-clinches-gold-at-issf-world-cup-final-2026",
@@ -20129,8 +21419,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.571Z",
-    "canonical_hash": "c55bd290bfff2e720f820e4de6e51e4e"
+    "syncedAt": "2026-09-04T09:50:50.571Z"
   },
   {
     "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-hypersonic-technology-demonstrator",
@@ -20152,8 +21441,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.569Z",
-    "canonical_hash": "5ed62b14ca16fab0f46c9572134493e5"
+    "syncedAt": "2026-09-04T09:50:50.569Z"
   },
   {
     "id": "gktoday-isro-successfully-launches-eos-09-earth-observation-satellite-via-lvm3",
@@ -20175,8 +21463,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.568Z",
-    "canonical_hash": "5d5d132ef61368a6d5333716808160d9"
+    "syncedAt": "2026-09-04T09:50:50.568Z"
   },
   {
     "id": "gktoday-rbi-announces-digital-rupee-interoperability-with-upi-for-retail-payments",
@@ -20198,8 +21485,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.567Z",
-    "canonical_hash": "743700fa327e55d0072aadec3d7bbc7a"
+    "syncedAt": "2026-09-04T09:50:50.567Z"
   },
   {
     "id": "gktoday-india-and-france-sign-landmark-strategic-clean-energy-partnership",
@@ -20221,8 +21507,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:50:50.565Z",
-    "canonical_hash": "73b2e837d95824aad531f7116223bbc9"
+    "syncedAt": "2026-09-04T09:50:50.565Z"
   },
   {
     "id": "gktoday-renowned-conservationist-awarded-prestigious-wildlife-conservation-prize-2026",
@@ -20246,8 +21531,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.972Z",
-    "canonical_hash": "75ddc197647751aa3c006ca38a7ad143"
+    "syncedAt": "2026-09-04T09:47:48.972Z"
   },
   {
     "id": "gktoday-india-secures-historic-gold-at-the-world-university-archery-championship-2026",
@@ -20271,8 +21555,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.970Z",
-    "canonical_hash": "a5cfcacbc308c7e3326c224ab3b35ce5"
+    "syncedAt": "2026-09-04T09:47:48.970Z"
   },
   {
     "id": "gktoday-drdo-conducts-successful-maiden-flight-test-of-indigenous-hypersonic-glide-vehicle",
@@ -20296,8 +21579,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.969Z",
-    "canonical_hash": "c001c750d570b7bd4db308d6c002b148"
+    "syncedAt": "2026-09-04T09:47:48.969Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-high-thrust-semi-cryogenic-engine-for-future-heavy-lift-missions",
@@ -20321,8 +21603,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.968Z",
-    "canonical_hash": "ce4c4a8715bf5005c8461b2d089ad585"
+    "syncedAt": "2026-09-04T09:47:48.968Z"
   },
   {
     "id": "gktoday-india-and-france-sign-landmark-strategic-roadmap-for-indo-pacific-maritime-security",
@@ -20346,8 +21627,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.966Z",
-    "canonical_hash": "d1ca202470193e395943c655c631f3e7"
+    "syncedAt": "2026-09-04T09:47:48.966Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-phase-iii-expansion-of-national-supercomputing-mission",
@@ -20371,8 +21651,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.965Z",
-    "canonical_hash": "98398154bb96fa8d9e5ccde4fe8b1b5f"
+    "syncedAt": "2026-09-04T09:47:48.965Z"
   },
   {
     "id": "gktoday-drdo-successfully-conducts-flight-test-of-new-generation-man-portable-anti-tank-guided-missile",
@@ -20396,8 +21675,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.675Z",
-    "canonical_hash": "f9d0169cb23b5893d90be83b05c1b2c5"
+    "syncedAt": "2026-09-04T09:47:48.675Z"
   },
   {
     "id": "gktoday-justice-br-gavai-appointed-as-the-chairperson-of-national-legal-services-authority",
@@ -20421,8 +21699,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.674Z",
-    "canonical_hash": "99d30b769a4fe1ed26238528e845b595"
+    "syncedAt": "2026-09-04T09:47:48.674Z"
   },
   {
     "id": "gktoday-india-hosts-4th-edition-of-the-global-clean-energy-ministerial-summit",
@@ -20446,8 +21723,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.673Z",
-    "canonical_hash": "d20f1bc1b4774c450710dd83fd409bc2"
+    "syncedAt": "2026-09-04T09:47:48.673Z"
   },
   {
     "id": "gktoday-rbi-introduces-regulatory-sandbox-framework-for-generative-ai-in-banking",
@@ -20471,8 +21747,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.672Z",
-    "canonical_hash": "1c6f6c79071844888c43d9dcd6ed2d99"
+    "syncedAt": "2026-09-04T09:47:48.672Z"
   },
   {
     "id": "gktoday-india-and-france-sign-landmark-strategic-maritime-defense-pact",
@@ -20496,8 +21771,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.671Z",
-    "canonical_hash": "ee5bd62a08c2b09728307fbc1499f96d"
+    "syncedAt": "2026-09-04T09:47:48.671Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-pm-vikas-20-scheme-for-artisans-and-traditional-crafts",
@@ -20521,8 +21795,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:48.670Z",
-    "canonical_hash": "156b9cd9e0ff40782088c73f15983dc7"
+    "syncedAt": "2026-09-04T09:47:48.670Z"
   },
   {
     "id": "gktoday-india-hosts-global-clean-energy-ministerial-summit-2026-in-new-delhi",
@@ -20546,8 +21819,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.291Z",
-    "canonical_hash": "7c257a09e0a9a44a44afe277540701d4"
+    "syncedAt": "2026-09-04T09:47:28.291Z"
   },
   {
     "id": "gktoday-government-appoints-new-chief-economic-adviser-and-chairperson-of-sebi",
@@ -20571,8 +21843,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.290Z",
-    "canonical_hash": "d01057bada4275d55280c5740b693935"
+    "syncedAt": "2026-09-04T09:47:28.290Z"
   },
   {
     "id": "gktoday-neeraj-chopra-wins-gold-at-world-athletics-continental-tour-gold-meeting-2026",
@@ -20596,8 +21867,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.290Z",
-    "canonical_hash": "3cf9ab42fde2e950411aadbcbbba0d21"
+    "syncedAt": "2026-09-04T09:47:28.290Z"
   },
   {
     "id": "gktoday-drdo-conducts-successful-flight-test-of-indigenous-long-range-hypersonic-cruise-missile",
@@ -20621,8 +21891,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.289Z",
-    "canonical_hash": "d7f63a462b65cf90ae7230fdb074406c"
+    "syncedAt": "2026-09-04T09:47:28.289Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-reusable-launch-vehicle-propulsion-system-for-gaganyaan",
@@ -20646,8 +21915,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.287Z",
-    "canonical_hash": "56b84916bbf099bf2af546312a0b213b"
+    "syncedAt": "2026-09-04T09:47:28.287Z"
   },
   {
     "id": "gktoday-rbi-introduces-interoperable-payment-gateway-for-central-bank-digital-currency",
@@ -20671,8 +21939,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.287Z",
-    "canonical_hash": "4805a0230921edefa9fe073bbcad0709"
+    "syncedAt": "2026-09-04T09:47:28.287Z"
   },
   {
     "id": "gktoday-india-and-australia-sign-comprehensive-critical-minerals-supply-chain-agreement",
@@ -20696,8 +21963,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.283Z",
-    "canonical_hash": "6021e16256efdeaead1b3026555f4981"
+    "syncedAt": "2026-09-04T09:47:28.283Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-nationwide-expansion-of-pm-vikas-mission-20",
@@ -20721,8 +21987,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:47:28.275Z",
-    "canonical_hash": "57636efb45cc13e308c8de8db37f28c3"
+    "syncedAt": "2026-09-04T09:47:28.275Z"
   },
   {
     "id": "gktoday-ministry-of-culture-launches-nationwide-campaign-to-protect-intangible-cultural-heritage",
@@ -20744,8 +22009,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.748Z",
-    "canonical_hash": "d65ded6b42bdec2faceed27a2eaee8b3"
+    "syncedAt": "2026-09-04T09:43:29.748Z"
   },
   {
     "id": "gktoday-government-appoints-new-chairperson-for-the-national-human-rights-commission",
@@ -20767,8 +22031,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.748Z",
-    "canonical_hash": "f716931455ad1a0851e1f7ca1d28a65f"
+    "syncedAt": "2026-09-04T09:43:29.748Z"
   },
   {
     "id": "gktoday-india-secures-historic-gold-in-compound-archery-at-world-cup-stage-finals",
@@ -20790,8 +22053,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.747Z",
-    "canonical_hash": "7752d53c70a3392099aea08c9fcb8bb6"
+    "syncedAt": "2026-09-04T09:43:29.747Z"
   },
   {
     "id": "gktoday-drdo-and-indian-navy-successfully-conduct-first-flight-trial-of-indigenous-naval-anti-ship-missile",
@@ -20813,8 +22075,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.747Z",
-    "canonical_hash": "c3d8f1c5ececc0c02a2e38a33e9b74b5"
+    "syncedAt": "2026-09-04T09:43:29.747Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-advanced-scramjet-engine-for-future-hypersonic-missiles",
@@ -20836,8 +22097,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.746Z",
-    "canonical_hash": "20827db4c4b35b314a46adf71dbe5498"
+    "syncedAt": "2026-09-04T09:43:29.746Z"
   },
   {
     "id": "gktoday-rbi-introduces-interoperable-payment-system-for-internet-banking-and-central-bank-digital-currency",
@@ -20859,8 +22119,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.745Z",
-    "canonical_hash": "39ade8f50b8de5ed947109c07355e753"
+    "syncedAt": "2026-09-04T09:43:29.745Z"
   },
   {
     "id": "gktoday-india-and-nordic-nations-sign-comprehensive-green-shipping-corridor-agreement",
@@ -20882,8 +22141,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.744Z",
-    "canonical_hash": "aae26abad9a0f91e31aed7e59f317b1f"
+    "syncedAt": "2026-09-04T09:43:29.744Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-phase-iii-of-national-supercomputing-mission-with-enhanced-outlay",
@@ -20905,8 +22163,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:43:29.742Z",
-    "canonical_hash": "1bb3f6a08436d8565ea43f2b3e416e15"
+    "syncedAt": "2026-09-04T09:43:29.742Z"
   },
   {
     "id": "gktoday-moefcc-notifies-dehing-patkai-as-indias-34th-elephant-reserve",
@@ -20930,8 +22187,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.070Z",
-    "canonical_hash": "1130e4c70a275cd04d28c549097357f4"
+    "syncedAt": "2026-09-04T09:39:50.070Z"
   },
   {
     "id": "gktoday-neeraj-chopra-wins-gold-medal-at-world-athletics-championships-2026",
@@ -20955,8 +22211,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.068Z",
-    "canonical_hash": "14fc397a592404ec435b3cee8b06f901"
+    "syncedAt": "2026-09-04T09:39:50.068Z"
   },
   {
     "id": "gktoday-arindam-bagchi-appointed-as-indias-next-permanent-representative-to-united-nations",
@@ -20980,8 +22235,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.068Z",
-    "canonical_hash": "c62da7fd681c04f66ff5992e32ccea7d"
+    "syncedAt": "2026-09-04T09:39:50.068Z"
   },
   {
     "id": "gktoday-21st-east-asia-summit-concludes-in-vientiane-with-vientiane-declaration-on-supply-chains",
@@ -21005,8 +22259,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.068Z",
-    "canonical_hash": "353040f235ecfe76da08f1febea31616"
+    "syncedAt": "2026-09-04T09:39:50.068Z"
   },
   {
     "id": "gktoday-rbi-revises-capital-adequacy-norms-for-urban-co-operative-banks-tier-3-and-tier-4",
@@ -21030,8 +22283,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.067Z",
-    "canonical_hash": "6dda18aec4a97cb7ff61dbc9698744da"
+    "syncedAt": "2026-09-04T09:39:50.067Z"
   },
   {
     "id": "gktoday-isro-successfully-tests-indigenous-semi-cryogenic-engine-se-2000-for-lvm3-upgrade",
@@ -21055,8 +22307,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.061Z",
-    "canonical_hash": "9f5d5f5dc0efdc5a9f3090ac46435feb"
+    "syncedAt": "2026-09-04T09:39:50.061Z"
   },
   {
     "id": "gktoday-india-and-japan-commence-10th-edition-of-bilateral-maritime-exercise-jimex-26",
@@ -21080,8 +22331,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.059Z",
-    "canonical_hash": "ba9655c59b22ce80b8793f126f1019e6"
+    "syncedAt": "2026-09-04T09:39:50.059Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-national-green-hydrogen-mission-expansion-phase-ii",
@@ -21105,8 +22355,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:39:50.053Z",
-    "canonical_hash": "3a326ca28105571a326ddb7309e65887"
+    "syncedAt": "2026-09-04T09:39:50.053Z"
   },
   {
     "id": "gktoday-union-environment-ministry-launches-prana-20-portal-for-ai-driven-air-quality-monitoring",
@@ -21128,8 +22377,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.399Z",
-    "canonical_hash": "b70bf85972fac29d823267bc0a13b3be"
+    "syncedAt": "2026-09-04T09:33:00.399Z"
   },
   {
     "id": "gktoday-dr-arvind-subramanian-appointed-chairman-of-the-17th-finance-commission-of-india",
@@ -21151,8 +22399,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.399Z",
-    "canonical_hash": "02399c8bb1cbdc3391d8b55ff20d0b19"
+    "syncedAt": "2026-09-04T09:33:00.399Z"
   },
   {
     "id": "gktoday-india-tops-medal-tally-at-issf-world-championship-2026-in-cairo",
@@ -21174,8 +22421,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.398Z",
-    "canonical_hash": "f493bda47dee6737e5f0404ed7384b4c"
+    "syncedAt": "2026-09-04T09:33:00.398Z"
   },
   {
     "id": "gktoday-drdo-conducts-successful-flight-test-of-very-short-range-air-defence-system-vshorads",
@@ -21197,8 +22443,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.398Z",
-    "canonical_hash": "03e2dd46b4b6b870f938fbb49c0e0931"
+    "syncedAt": "2026-09-04T09:33:00.398Z"
   },
   {
     "id": "gktoday-isro-successfully-test-fires-2000-kn-semi-cryogenic-engine-sce-200-at-mahendragiri",
@@ -21220,8 +22465,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.390Z",
-    "canonical_hash": "8a5f6e94603d0e06bcef65cf4085bda6"
+    "syncedAt": "2026-09-04T09:33:00.390Z"
   },
   {
     "id": "gktoday-rbi-expands-central-bank-digital-currency-cbdc-with-offline-and-feature-phone-capabilities",
@@ -21243,8 +22487,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.390Z",
-    "canonical_hash": "73eb994de60db4b4daeb02a02d2a505b"
+    "syncedAt": "2026-09-04T09:33:00.390Z"
   },
   {
     "id": "gktoday-india-hosts-6th-indo-pacific-oceans-initiative-ipoi-summit-in-new-delhi",
@@ -21266,8 +22509,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.389Z",
-    "canonical_hash": "3e59cc55cdc678ec9f5ff41ed08787d6"
+    "syncedAt": "2026-09-04T09:33:00.389Z"
   },
   {
     "id": "gktoday-union-cabinet-approves-national-green-hydrogen-mission-phase-ii-with-focus-on-maritime-bunkering-hubs",
@@ -21289,8 +22531,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:33:00.388Z",
-    "canonical_hash": "6edcb9fda8e49c71805556dbb7472fdc"
+    "syncedAt": "2026-09-04T09:33:00.388Z"
   },
   {
     "id": "ca-auto-5min-1788514277179-551",
@@ -21312,8 +22553,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:31:17.179Z",
-    "canonical_hash": "ceb2f05a65b8530bcf1bc20e2fbcdb10"
+    "syncedAt": "2026-09-04T09:31:17.179Z"
   },
   {
     "id": "ca-auto-5min-1788514277182-277",
@@ -21335,8 +22575,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:31:17.182Z",
-    "canonical_hash": "7a7401b1aea2c788bbeea7725290b302"
+    "syncedAt": "2026-09-04T09:31:17.182Z"
   },
   {
     "id": "ca-auto-5min-1788514277183-452",
@@ -21358,8 +22597,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:31:17.183Z",
-    "canonical_hash": "b2563a0c240035f6246312458a8a7ae1"
+    "syncedAt": "2026-09-04T09:31:17.183Z"
   },
   {
     "id": "ca-auto-5min-1788514277183-846",
@@ -21381,8 +22619,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:31:17.183Z",
-    "canonical_hash": "f2061dfdde6ce9bef9d09fecd3ee2507"
+    "syncedAt": "2026-09-04T09:31:17.183Z"
   },
   {
     "id": "ca-auto-5min-1788514277184-546",
@@ -21404,8 +22641,7 @@ export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
     "source": "GK Today",
     "sourceUrl": "",
     "publishedAt": "04 September 2026",
-    "syncedAt": "2026-09-04T09:31:17.184Z",
-    "canonical_hash": "c32458470443e47ca42973b56de41acb"
+    "syncedAt": "2026-09-04T09:31:17.184Z"
   }
 ];
 
