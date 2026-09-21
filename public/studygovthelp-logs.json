@@ -1,5 +1,547 @@
 [
   {
+    "id": "log-1789958662202-b6h9",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 StudyGovtHelp.in",
+    "organization": "Rajasthan Vidyut Vibhag",
+    "category": "syllabus",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:44:22.202Z",
+    "changesDetected": [
+      "Last Date (2026-09-21 → 2026-08-31)"
+    ],
+    "postData": {
+      "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 StudyGovtHelp.in",
+      "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "category": "syllabus",
+      "organization": "Rajasthan Vidyut Vibhag",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "2026-08-31",
+      "shortInfo": "Rajasthan Vidyut Vibhag has released the LDC Syllabus 2026. Candidates can check the exam pattern, subject-wise syllabus, and download details from Study Govt Help.",
+      "totalVacancies": "Not Specified",
+      "qualificationRequired": [
+        "12th Pass",
+        "Graduation"
+      ],
+      "importantDates": [
+        {
+          "event": "Syllabus Release Date",
+          "date": "05/08/2026",
+          "isImportant": true,
+          "details": "Released officially by Rajasthan Vidyut Vibhag"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "General / OBC",
+          "fee": "As per rules"
+        },
+        {
+          "category": "SC / ST",
+          "fee": "As per rules"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "As per Rajasthan Government rules."
+      },
+      "vacancies": [
+        {
+          "postName": "Lower Division Clerk (LDC)",
+          "totalPosts": "As per notification",
+          "eligibility": "12th pass with O Level or equivalent",
+          "qualification": "12th Pass",
+          "categoryWiseBreakup": {
+            "UR": "N/A",
+            "OBC": "N/A",
+            "EWS": "N/A",
+            "SC": "N/A",
+            "ST": "N/A"
+          },
+          "payScale": "Pay Matrix Level-5"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Written Examination (Phase I)",
+          "description": "Objective type test covering General Knowledge, Everyday Science, Mathematics, Hindi, and English.",
+          "marks": "100",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Typing Test (Phase II)",
+          "description": "Hindi and English typing speed test on computer.",
+          "qualifyingNature": "Qualifying Only"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit the official portal.",
+        "Step 2: Check the latest updates for LDC syllabus and notifications.",
+        "Step 3: Download the PDF for future preparation."
+      ],
+      "importantLinks": [
+        {
+          "title": "Official Website",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "notification",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026\n\nThe Rajasthan Vidyut Vibhag has updated the LDC syllabus and exam pattern for 2026. Aspirants preparing for the Lower Division Clerk examination can review the detailed topic-wise syllabus to streamline their preparation.\n\n### Exam Pattern\n- Phase 1: Written Test\n- Phase 2: Typing Test",
+      "faqs": [
+        {
+          "question": "Where can I download the Rajasthan Vidyut Vibhag LDC Syllabus 2026?",
+          "answer": "You can check and download it directly via Study Govt Help updates."
+        }
+      ],
+      "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 | StudyGovtHelp",
+      "metaDescription": "Check Rajasthan Vidyut Vibhag LDC Syllabus 2026, exam pattern, and selection details on Study Govt Help.",
+      "keywords": [
+        "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+        "StudyGovtHelp",
+        "LDC Exam Pattern"
+      ],
+      "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
+    }
+  },
+  {
+    "id": "log-1789958570238-5r8u",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Official Website",
+    "organization": "StudyGovtHelp",
+    "category": "latest-jobs",
+    "status": "Needs Review",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:42:50.238Z",
+    "reason": "Incomplete links or description. Flagged for admin review.",
+    "postData": {
+      "title": "Official Website",
+      "url": "https://studygovthelp.in",
+      "type": "official-website",
+      "isPrimary": true,
+      "shortInfo": "",
+      "organization": "StudyGovtHelp",
+      "postDate": "2026-09-21",
+      "state": "All India",
+      "category": "latest-jobs",
+      "id": "studygovthelp-official-website",
+      "slug": "official-website",
+      "fullDescription": "# Official Website\n\n"
+    }
+  },
+  {
+    "id": "log-1789958268925-gsvc",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "organization": "Rajasthan Vidyut Vibhag",
+    "category": "syllabus",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:37:48.925Z",
+    "changesDetected": [
+      "Last Date (2026-08-31 → 2026-09-21)"
+    ],
+    "postData": {
+      "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+      "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "category": "syllabus",
+      "organization": "Rajasthan Vidyut Vibhag",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "2026-09-21",
+      "shortInfo": "Check the detailed Rajasthan Vidyut Vibhag LDC Syllabus 2026 along with exam pattern and selection process on Study Govt Help.",
+      "totalVacancies": "Not Specified",
+      "qualificationRequired": [
+        "10th Pass",
+        "12th Pass"
+      ],
+      "importantDates": [
+        {
+          "event": "Syllabus Release Date",
+          "date": "05/08/2026",
+          "isImportant": true,
+          "details": "Released by Rajasthan Vidyut Vibhag"
+        }
+      ],
+      "applicationFees": [],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "As per rules"
+      },
+      "vacancies": [],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Written Examination",
+          "description": "CBT / Written Exam based on official syllabus.",
+          "qualifyingNature": "Merit Based"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit the official website.",
+        "Step 2: Navigate to the LDC Syllabus section.",
+        "Step 3: Download and save the syllabus PDF for preparation."
+      ],
+      "importantLinks": [
+        {
+          "title": "Official Website",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "notification",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026\n\nCandidates preparing for the Rajasthan Vidyut Vibhag LDC recruitment can check the complete syllabus, exam pattern, and preparation guidelines here. Stay tuned for further updates regarding exam dates and admit cards.",
+      "faqs": [
+        {
+          "question": "Where can I download the Rajasthan Vidyut Vibhag LDC Syllabus 2026?",
+          "answer": "You can check and download the syllabus directly from Study Govt Help portal."
+        }
+      ],
+      "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 | Pariksha Result",
+      "metaDescription": "Download Rajasthan Vidyut Vibhag LDC Syllabus 2026 and exam pattern details.",
+      "keywords": [
+        "Rajasthan Vidyut Vibhag LDC",
+        "Syllabus 2026",
+        "Study Govt Help"
+      ],
+      "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
+    }
+  },
+  {
+    "id": "log-1789957970421-by1n",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "organization": "Rajasthan Vidyut Vibhag",
+    "category": "syllabus",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:32:50.422Z",
+    "changesDetected": [
+      "Last Date (2026-09-21 → 2026-08-31)",
+      "Important Links updated"
+    ],
+    "postData": {
+      "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+      "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "category": "syllabus",
+      "organization": "Rajasthan Vidyut Vibhag",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "2026-08-31",
+      "shortInfo": "Rajasthan Vidyut Vibhag has released the LDC Syllabus 2026. Candidates can check the exam pattern, subject-wise syllabus, and download the detailed PDF from StudyGovtHelp.in.",
+      "totalVacancies": "Not Specified",
+      "qualificationRequired": [
+        "12th Pass",
+        "O Level / Equivalent"
+      ],
+      "importantDates": [
+        {
+          "event": "Syllabus Release Date",
+          "date": "05/08/2026",
+          "isImportant": true,
+          "details": "Official notification and syllabus released online."
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "General / UR",
+          "fee": "As per rules"
+        },
+        {
+          "category": "SC / ST / BC / MBC",
+          "fee": "As per rules"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "Age relaxation applicable as per Rajasthan Government rules."
+      },
+      "vacancies": [
+        {
+          "postName": "Lower Division Clerk (LDC)",
+          "totalPosts": "As per notification",
+          "eligibility": "12th class pass from recognized board with computer knowledge.",
+          "qualification": "12th Pass",
+          "categoryWiseBreakup": {
+            "UR": "As per rules",
+            "OBC": "As per rules",
+            "EWS": "As per rules",
+            "SC": "As per rules",
+            "ST": "As per rules"
+          },
+          "payScale": "As per Pay Matrix Level"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Phase 1: Written Examination (Stage I & Stage II)",
+          "description": "Objective type questions covering General Knowledge, Everyday Science, Mathematics, Hindi, and English.",
+          "marks": "As per rules",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Phase 2: Typing Test / Computer Efficiency Test",
+          "description": "Practical speed test in Hindi and English typing on computer.",
+          "qualifyingNature": "Qualifying Only"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit the official website or portal.",
+        "Step 2: Check the latest updates for Rajasthan Vidyut Vibhag LDC 2026.",
+        "Step 3: Download the syllabus PDF for exam preparation."
+      ],
+      "importantLinks": [
+        {
+          "title": "Download Syllabus PDF",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "notification",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Website",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026\n\nThe Rajasthan Vidyut Vibhag has published the syllabus and exam pattern for the Lower Division Clerk (LDC) recruitment 2026. Aspirants preparing for the examination must go through the detailed syllabus to strategize their preparation effectively.\n\n### Exam Pattern Overview\n- **Phase 1:** Written Test comprising two papers.\n- **Phase 2:** Typing and Efficiency Test on Computer.\n\nStay tuned to StudyGovtHelp.in for more updates regarding admit cards, exam dates, and results.",
+      "faqs": [
+        {
+          "question": "Where can I download the Rajasthan Vidyut Vibhag LDC Syllabus 2026?",
+          "answer": "You can download the syllabus directly from StudyGovtHelp.in."
+        }
+      ],
+      "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 | StudyGovtHelp.in",
+      "metaDescription": "Check Rajasthan Vidyut Vibhag LDC Syllabus 2026, exam pattern, subject-wise topics, and selection process details.",
+      "keywords": [
+        "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+        "LDC Exam Pattern",
+        "StudyGovtHelp.in"
+      ],
+      "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
+    }
+  },
+  {
+    "id": "log-1789957669213-imc9",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "organization": "Rajasthan Vidyut Vibhag",
+    "category": "syllabus",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:27:49.213Z",
+    "changesDetected": [
+      "Last Date (N/A → 2026-09-21)"
+    ],
+    "postData": {
+      "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+      "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "category": "syllabus",
+      "organization": "Rajasthan Vidyut Vibhag",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "2026-09-21",
+      "shortInfo": "Check and download the detailed Rajasthan Vidyut Vibhag LDC Syllabus 2026 released by StudyGovtHelp.in for upcoming examinations.",
+      "totalVacancies": "Not Specified",
+      "qualificationRequired": [
+        "10th Pass",
+        "12th Pass"
+      ],
+      "importantDates": [
+        {
+          "event": "Syllabus Release Date",
+          "date": "05/08/2026",
+          "isImportant": true,
+          "details": "Released for Rajasthan Vidyut Vibhag LDC Exam 2026"
+        }
+      ],
+      "applicationFees": [],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "As per Rajasthan Government rules."
+      },
+      "vacancies": [],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Written Examination",
+          "description": "Objective type test covering general knowledge, reasoning, and language proficiency.",
+          "marks": "100",
+          "qualifyingNature": "Merit Based"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Visit the official StudyGovtHelp.in website or portal.",
+        "Step 2: Navigate to the Syllabus section.",
+        "Step 3: Download the Rajasthan Vidyut Vibhag LDC Syllabus 2026 PDF."
+      ],
+      "importantLinks": [
+        {
+          "title": "Official Website",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "notification",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026\n\nCandidates preparing for the Rajasthan Vidyut Vibhag LDC recruitment can now check the complete syllabus. The examination will test candidates on various subjects including quantitative aptitude, reasoning, and general awareness.",
+      "faqs": [
+        {
+          "question": "Where can I download the LDC syllabus?",
+          "answer": "You can download it directly from StudyGovtHelp.in."
+        }
+      ],
+      "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 | Pariksha Result",
+      "metaDescription": "Download Rajasthan Vidyut Vibhag LDC Syllabus 2026 PDF and exam pattern.",
+      "keywords": [
+        "Rajasthan LDC Syllabus",
+        "Vidyut Vibhag LDC 2026",
+        "StudyGovtHelp"
+      ],
+      "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
+    }
+  },
+  {
+    "id": "log-1789957393697-ve9a",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "RSSB Result 2026: Rajasthan Staff Selection Board Recruitment Results",
+    "organization": "RSSB (RSMSSB)",
+    "category": "results",
+    "status": "New",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:23:13.697Z",
+    "postData": {
+      "title": "RSSB Result 2026: Rajasthan Staff Selection Board Recruitment Results",
+      "slug": "rssb-result-2026-rajasthan-staff-selection-board-recruitment-results",
+      "category": "results",
+      "organization": "RSSB (RSMSSB)",
+      "state": "Rajasthan",
+      "postDate": "2026-08-13",
+      "lastDate": "N/A",
+      "shortInfo": "Rajasthan Staff Selection Board (RSSB / RSMSSB) releases exam results, answer keys, document verification lists, and cut off marks for various direct recruitment exams.",
+      "totalVacancies": "Various Posts",
+      "qualificationRequired": [
+        "10th Pass",
+        "12th Pass",
+        "Graduation"
+      ],
+      "importantDates": [
+        {
+          "event": "Result Notice Date",
+          "date": "13/08/2026",
+          "isImportant": true,
+          "details": "Regular result update portal"
+        }
+      ],
+      "applicationFees": [],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "As per recruitment notification",
+        "relaxationDetails": "As per Rajasthan government guidelines"
+      },
+      "vacancies": [
+        {
+          "postName": "Various Posts (Patwari, CET, LDC, Informatics Assistant, Stenographer, etc.)",
+          "totalPosts": "N/A",
+          "eligibility": "10th / 12th / Diploma / Degree as per post notification",
+          "qualification": "10th Pass / 12th Pass / Graduation",
+          "categoryWiseBreakup": {},
+          "payScale": "As per Rajasthan Pay Matrix"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Written Examination",
+          "description": "OMR based or Computer Based Test (CBT).",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Skill Test / Efficiency Test (If Applicable)",
+          "description": "Typing/Steno/Physical test based on post requirement.",
+          "qualifyingNature": "Qualifying"
+        },
+        {
+          "stepNumber": 3,
+          "stageName": "Document Verification (DV)",
+          "description": "Scrutiny of original eligibility documents.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Go to rssb.rajasthan.gov.in.",
+        "Step 2: Click on the 'Results' tab on the homepage.",
+        "Step 3: Find the respective recruitment exam result link.",
+        "Step 4: Download the Result PDF and check roll number & category cut off."
+      ],
+      "importantLinks": [
+        {
+          "title": "RSSB Official Results Portal",
+          "url": "https://rssb.rajasthan.gov.in/",
+          "type": "official",
+          "isPrimary": true
+        }
+      ],
+      "fullDescription": "## RSSB / RSMSSB Recruitment Results Portal\n\nRajasthan Staff Selection Board (RSSB) regularly conducts various recruitment examinations across Rajasthan state. Candidates can check category-wise cut-off marks, candidate selection lists, and merit lists from the official website.",
+      "faqs": [
+        {
+          "question": "Where can I check RSSB exam results?",
+          "answer": "You can check RSSB recruitment results directly on rssb.rajasthan.gov.in under Results section."
+        }
+      ],
+      "metaTitle": "RSSB Result 2026 - Check RSMSSB Recruitment Exam Results",
+      "metaDescription": "Check RSSB (RSMSSB) exam results, cut off marks, and document verification lists online.",
+      "keywords": [
+        "RSSB Result 2026",
+        "RSMSSB Result PDF",
+        "Rajasthan Karamchari Chayan Board Result"
+      ],
+      "id": "studygovthelp-rssb-result-2026-rajasthan-staff-selection-board-recruitment-results",
+      "canonical_hash": "cf2e407e5ab42a75dd92b284c7803197"
+    }
+  },
+  {
+    "id": "log-1789957393664-sfxh",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "RPSC RAS Final Result 2026",
+    "organization": "RPSC",
+    "category": "results",
+    "status": "Duplicate",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:23:13.664Z",
+    "reason": "Post already exists with identical details."
+  },
+  {
+    "id": "log-1789957393653-cg9u",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "organization": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+    "category": "syllabus",
+    "status": "Duplicate",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:23:13.653Z",
+    "reason": "Post already exists with identical details."
+  },
+  {
     "id": "log-1789957265933-yxov",
     "sourceUrl": "https://www.india.gov.in",
     "title": "RSSB Exam Results 2026 Link",

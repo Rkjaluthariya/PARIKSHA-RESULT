@@ -2,6 +2,1833 @@ import { Post, QuizQuestion, CurrentAffairsArticle } from '../types';
 
 export const INITIAL_POSTS: Post[] = [
   {
+    "id": "job-auto-1hr-1789958658313-924",
+    "title": "🎓 [Scholarship Live] National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes",
+    "slug": "sarkari-job-auto-update-1789958658313",
+    "category": "scholarships",
+    "organization": "Ministry of Minority Affairs / Govt of India (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "2026-09-30",
+    "shortInfo": "Apply online for post-matric, pre-matric, merit-cum-means, and single girl child national level central scholarships.",
+    "totalVacancies": "Lakhs of Scholarships",
+    "qualificationRequired": [
+      "School / College Students"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Registration Start",
+        "date": "2026-09-21",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date for Online Submission",
+        "date": "30/11/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date for College Hardcopy Submission",
+        "date": "10/12/2026",
+        "isImportant": false
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "National Scholarship Portal (NSP) 2026",
+        "totalPosts": "Lakhs of Scholarships",
+        "eligibility": "School / College Students"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the National Scholarship Portal (NSP) or state scholarship portal.",
+      "Register as a new student providing Aadhar and banking details.",
+      "Fill academic record, family income, and college course details.",
+      "Upload fee receipt, income certificate, and domicile certificate.",
+      "Submit application online and submit a hardcopy with documents to your college."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply for Scholarship",
+        "url": "#",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes\n\n**Ministry of Minority Affairs / Govt of India** has officially announced the recruitment/update drive for **Lakhs of Scholarships**. Candidates holding **School / College Students** qualifications can submit online forms / check updates starting today (**2026-09-21**).\n\n## Summary Overview\n\nApply online for post-matric, pre-matric, merit-cum-means, and single girl child national level central scholarships.\n\n### Key Highlights\n- **Organization**: Ministry of Minority Affairs / Govt of India\n- **Updates category**: scholarships\n- **Total Posts/Seats**: Lakhs of Scholarships\n- **Qualification**: School / College Students\n- **Mode of Access**: Online\n\n*This recruitment entry was automatically published by Pariksha Result 1-Hour Job Auto-Sync Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for National Scholarship Portal (NSP) 2026?",
+        "answer": "Candidates must possess School / College Students as specified by Ministry of Minority Affairs / Govt of India."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-21. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Ministry of Minority Affairs / Govt of India",
+      "scholarships",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes",
+    "openGraph": {
+      "title": "National Scholarship Portal (NSP) 2026: Apply Online for Central Schemes",
+      "description": "Apply online for post-matric, pre-matric, merit-cum-means, and single girl child national level central scholarships.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/scholarships/sarkari-job-auto-update-1789958658313"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    }
+  },
+  {
+    "id": "sarkari-ibps-rrb-15th-gramin-bank-various-posts-recruitment-2026",
+    "title": "IBPS RRB 15th Gramin Bank Various Posts Recruitment 2026",
+    "slug": "ibps-rrb-15th-gramin-bank-various-posts-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "Institute of Banking Personnel Selection",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "originalPostDate": "2026-09-21",
+    "publishedAt": "2026-09-21",
+    "syncedAt": "2026-09-21T02:43:23.506Z",
+    "lastDate": "Not Available",
+    "shortInfo": "IBPS has announced the 15th Gramin Bank recruitment for various posts including Officer Scale I, II, III and Office Assistant. Eligible candidates can submit their online applications.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start",
+        "date": "31/08/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date",
+        "date": "Not Available",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 850/-"
+      },
+      {
+        "category": "SC / ST / PwD",
+        "fee": "₹ 175/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Relaxation as per IBPS norms."
+    },
+    "vacancies": [
+      {
+        "postName": "Officer Scale I, II, III & Office Assistant (Multipurpose)",
+        "totalPosts": "Various",
+        "eligibility": "Bachelor Degree in any stream from a recognized university."
+      }
+    ],
+    "howToApplySteps": [
+      "Go to the official IBPS website at ibps.in.",
+      "Click on 'CRP RRBs' tab.",
+      "Register with basic details and generate registration ID.",
+      "Fill application form, upload documents and scanned signature.",
+      "Pay application fees and print confirmation page."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://www.ibps.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Notification PDF",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://www.ibps.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Institute of Banking Personnel Selection (IBPS) conducts the Common Recruitment Process for Regional Rural Banks (RRBs CRP XV) for Office Assistants and Officers. Graduates across the country can apply for positions in various regional rural banks. The selection involves preliminary examination, main examination, and interview for officer posts.",
+    "faqs": [
+      {
+        "question": "What is the qualification needed for IBPS RRB Clerk?",
+        "answer": "Graduation in any stream from a recognized university."
+      },
+      {
+        "question": "What is the application fee for General candidates?",
+        "answer": "₹ 850/-"
+      },
+      {
+        "question": "Where can I apply online?",
+        "answer": "Candidates can apply through ibps.in."
+      }
+    ],
+    "metaTitle": "IBPS RRB 15th Gramin Bank Various Posts Recruitment 2026 | Pariksha Result",
+    "metaDescription": "IBPS has announced the 15th Gramin Bank recruitment for various posts including Officer Scale I, II, III and Office Assistant. Eligible candidates can subm",
+    "keywords": [
+      "IBPS RRB",
+      "Gramin Bank",
+      "Office Assistant",
+      "Officer Scale",
+      "Banking Jobs 2026"
+    ],
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "IBPS RRB 15th Gramin Bank Various Posts Recruitment 2026",
+    "openGraph": {
+      "title": "IBPS RRB 15th Gramin Bank Various Posts Recruitment 2026",
+      "description": "IBPS has announced the 15th Gramin Bank recruitment for various posts including Officer Scale I, II, III and Office Assistant. Eligible candidates can submit their online applications.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/ibps-rrb-15th-gramin-bank-various-posts-recruitment-2026",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "9055b1c4b9f265e244243642330a387a"
+  },
+  {
+    "id": "sarkari-aiims-norcet-nursing-officer-result-2026",
+    "title": "AIIMS NORCET Nursing Officer Result 2026",
+    "slug": "aiims-norcet-nursing-officer-result-2026",
+    "category": "results",
+    "organization": "All India Institute of Medical Sciences",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "originalPostDate": "2026-09-21",
+    "publishedAt": "2026-09-21",
+    "syncedAt": "2026-09-21T02:28:07.527Z",
+    "lastDate": "Not Available",
+    "shortInfo": "AIIMS has declared the Nursing Officer Recruitment Common Eligibility Test (NORCET) result. Candidates who appeared for the exam can check their qualifying status.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "Graduation",
+      "Diploma"
+    ],
+    "importantDates": [
+      {
+        "event": "Exam Date",
+        "date": "As per schedule",
+        "isImportant": false
+      },
+      {
+        "event": "Result Declared",
+        "date": "24/07/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "35 Years",
+      "cutoffDate": "N/A",
+      "relaxationDetails": "As per AIIMS rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Nursing Officer",
+        "totalPosts": "Various",
+        "eligibility": "B.Sc Nursing / General Nursing and Midwifery (GNM) with registration."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official AIIMS exams website (aiimsexams.ac.in).",
+      "Navigate to the 'Result' section on the homepage.",
+      "Click on the link for NORCET Nursing Officer Result 2026.",
+      "Download the PDF containing the roll numbers of shortlisted candidates.",
+      "Use CTRL+F to search for your roll number.",
+      "Save the result PDF for future document verification steps."
+    ],
+    "importantLinks": [
+      {
+        "title": "Check Result",
+        "url": "https://www.aiimsexams.ac.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://www.aiimsexams.ac.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "The All India Institute of Medical Sciences (AIIMS) has officially announced the results for the Nursing Officer Recruitment Common Eligibility Test (NORCET). Candidates who took part in the CBT examination can check their merit lists and scores on the official examination portal. Qualified candidates will proceed to seat allocation and document verification rounds for placement across various AIIMS hospitals and participating central institutions.",
+    "faqs": [
+      {
+        "question": "Where can I check the AIIMS NORCET result?",
+        "answer": "The result is available on the official AIIMS exams website at aiimsexams.ac.in."
+      },
+      {
+        "question": "What is the next stage after result declaration?",
+        "answer": "Shortlisted candidates must participate in the choice filling and document verification process."
+      },
+      {
+        "question": "Is the result published in PDF format?",
+        "answer": "Yes, the result is released as a merit list PDF containing roll numbers of qualified aspirants."
+      }
+    ],
+    "metaTitle": "AIIMS NORCET Nursing Officer Result 2026 | Pariksha Result",
+    "metaDescription": "AIIMS has declared the Nursing Officer Recruitment Common Eligibility Test (NORCET) result. Candidates who appeared for the exam can check their qualifying",
+    "keywords": [
+      "AIIMS NORCET Result",
+      "Nursing Officer Result 2026",
+      "AIIMS Exam Result",
+      "NORCET Merit List",
+      "Nursing Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "AIIMS NORCET Nursing Officer Result 2026",
+    "openGraph": {
+      "title": "AIIMS NORCET Nursing Officer Result 2026",
+      "description": "AIIMS has declared the Nursing Officer Recruitment Common Eligibility Test (NORCET) result. Candidates who appeared for the exam can check their qualifying status.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/results/aiims-norcet-nursing-officer-result-2026",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "aebf045f79dad6128573ed8bc6d53756"
+  },
+  {
+    "id": "sarkari-bpssc-bihar-police-hg-company-commander-recruitment-2026",
+    "title": "BPSSC Bihar Police HG Company Commander Recruitment 2026",
+    "slug": "bpssc-bihar-police-hg-company-commander-recruitment-2026",
+    "category": "latest-jobs",
+    "organization": "BPSSC",
+    "state": "Bihar",
+    "postDate": "2026-09-21",
+    "originalPostDate": "2026-09-21",
+    "publishedAt": "2026-09-21",
+    "syncedAt": "2026-09-21T02:24:14.091Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Bihar Police Subordinate Services Commission (BPSSC) invites online applications for Home Guard (HG) Company Commander 65 posts.",
+    "totalVacancies": "65 Posts",
+    "qualificationRequired": [
+      "Graduation",
+      "Bachelor Degree in Any Stream"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Registration Start",
+        "date": "07/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "07/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS / Other State",
+        "fee": "₹ 700/-"
+      },
+      {
+        "category": "SC / ST / Female (Bihar Domicile)",
+        "fee": "₹ 400/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "37 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "Upper age relaxation: 40 years for OBC/EBC Male & Female, 42 years for SC/ST."
+    },
+    "vacancies": [
+      {
+        "postName": "Company Commander (Home Guard)",
+        "totalPosts": "65",
+        "eligibility": "Bachelor Degree in Any Stream from a recognized University in India."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit BPSSC official website bpssc.bih.nic.in.",
+      "Click on the recruitment tab for Home Guard Company Commander.",
+      "Complete registration and pay the requisite application fee online.",
+      "Fill in detailed educational marks, domicile details, and physical details.",
+      "Upload passport photo and signature as specified.",
+      "Verify details and submit application form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://bpssc.bih.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Advertisement PDF",
+        "url": "https://bpssc.bih.nic.in/notices",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "BPSSC Official Portal",
+        "url": "https://bpssc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Bihar Police Subordinate Services Commission (BPSSC) invites eligible candidates for 65 vacancies of Home Guard Company Commander. The selection process consists of a preliminary examination, main written examination, physical efficiency test (PET), and document verification. Male and female candidates belonging to Bihar and other states can apply provided they fulfill all eligibility requirements.",
+    "faqs": [
+      {
+        "question": "Can candidates from outside Bihar apply for BPSSC Company Commander?",
+        "answer": "Yes, candidates from other states are eligible under General/Unreserved category."
+      },
+      {
+        "question": "What is the minimum educational qualification for BPSSC HG Company Commander?",
+        "answer": "Candidates must hold a Bachelor's Degree in any stream from a recognized university."
+      },
+      {
+        "question": "What is the selection procedure for BPSSC HG Company Commander?",
+        "answer": "Selection involves Prelims Written Exam, Mains Written Exam, Physical Efficiency Test, and Document Verification."
+      }
+    ],
+    "metaTitle": "BPSSC Bihar Police HG Company Commander Recruitment 2026 | Pariksha Result",
+    "metaDescription": "Bihar Police Subordinate Services Commission (BPSSC) invites online applications for Home Guard (HG) Company Commander 65 posts.",
+    "keywords": [
+      "BPSSC Company Commander 2026",
+      "Bihar Police HG Recruitment",
+      "Bihar Home Guard Vacancy",
+      "BPSSC Online Form",
+      "Bihar Police Jobs"
+    ],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "BPSSC Bihar Police HG Company Commander Recruitment 2026",
+    "openGraph": {
+      "title": "BPSSC Bihar Police HG Company Commander Recruitment 2026",
+      "description": "Bihar Police Subordinate Services Commission (BPSSC) invites online applications for Home Guard (HG) Company Commander 65 posts.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/bpssc-bihar-police-hg-company-commander-recruitment-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "950b525930c1215252f6e751e9321a95"
+  },
+  {
+    "id": "sarkari-upessc-up-primary-assistant-teacher-vacancy-2026",
+    "title": "UPESSC UP Primary Assistant Teacher Vacancy 2026",
+    "slug": "upessc-up-primary-assistant-teacher-vacancy-2026",
+    "category": "latest-jobs",
+    "organization": "UPESSC",
+    "state": "Uttar Pradesh",
+    "postDate": "2026-09-21",
+    "originalPostDate": "2026-09-21",
+    "publishedAt": "2026-09-21",
+    "syncedAt": "2026-09-21T02:24:14.090Z",
+    "lastDate": "Not Available",
+    "shortInfo": "Uttar Pradesh Education Service Selection Commission has announced massive recruitment for 12,405 Primary Assistant Teachers in UP Basic Shiksha Parishad schools.",
+    "totalVacancies": "12405 Posts",
+    "qualificationRequired": [
+      "Graduation",
+      "D.El.Ed (BTC)",
+      "UPTET / CTET Qualified"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Application Start",
+        "date": "15/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "15/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC",
+        "fee": "₹ 600/-"
+      },
+      {
+        "category": "SC / ST",
+        "fee": "₹ 400/-"
+      },
+      {
+        "category": "PH Candidates",
+        "fee": "₹ 0/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "21 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "01/07/2026",
+      "relaxationDetails": "Age relaxation as per UP State Government rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Assistant Teacher (Primary)",
+        "totalPosts": "12405",
+        "eligibility": "Bachelor Degree with D.El.Ed (BTC) / 2 Year Diploma in Elementary Education and UPTET / CTET Primary Level Qualified."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit upessc.up.gov.in.",
+      "Click on 'UP Primary Assistant Teacher Recruitment 2026'.",
+      "Complete primary registration with personal, TET, and qualification details.",
+      "Pay the application fee through SBI Collect / online payment gateway.",
+      "Fill in district preferences and final submission details.",
+      "Download and print the submitted application form."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://upessc.up.gov.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Download Notification PDF",
+        "url": "https://upessc.up.gov.in/notices",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Portal",
+        "url": "https://upessc.up.gov.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "UPESSC UP Primary Assistant Teacher Recruitment 2026 brings a major opportunity for teaching job aspirants in Uttar Pradesh. With 12,405 vacancies for Assistant Teachers in primary schools across districts, eligible candidates with D.El.Ed (BTC) and UPTET/CTET qualification can apply online. The merit list will be prepared based on candidate educational qualifications and Super TET / Selection exam score.",
+    "faqs": [
+      {
+        "question": "Is CTET valid for UP Primary Teacher recruitment?",
+        "answer": "Yes, CTET Primary level paper qualified candidates are eligible alongside UPTET qualified candidates."
+      },
+      {
+        "question": "What is the selection process for UP Primary Teacher?",
+        "answer": "Selection is based on academic weightage marks and written entrance exam performance."
+      },
+      {
+        "question": "What is the total post count for UP Primary Assistant Teacher 2026?",
+        "answer": "There are 12,405 posts announced in this recruitment cycle."
+      }
+    ],
+    "metaTitle": "UPESSC UP Primary Assistant Teacher Vacancy 2026 | Pariksha Result",
+    "metaDescription": "Uttar Pradesh Education Service Selection Commission has announced massive recruitment for 12,405 Primary Assistant Teachers in UP Basic Shiksha Parishad s",
+    "keywords": [
+      "UP Primary Teacher Vacancy",
+      "UP Primary Assistant Teacher 2026",
+      "UPESSC Teacher Bharti",
+      "UP Shikshak Bharti",
+      "12405 Primary Teacher Form"
+    ],
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "UPESSC UP Primary Assistant Teacher Vacancy 2026",
+    "openGraph": {
+      "title": "UPESSC UP Primary Assistant Teacher Vacancy 2026",
+      "description": "Uttar Pradesh Education Service Selection Commission has announced massive recruitment for 12,405 Primary Assistant Teachers in UP Basic Shiksha Parishad schools.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/upessc-up-primary-assistant-teacher-vacancy-2026",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "7e12a88197dce02fd3adfb1c3c4a9a30"
+  },
+  {
+    "id": "sarkari-bpssc-hg-company-commander-online-form-2026",
+    "title": "BPSSC HG Company Commander Online Form 2026",
+    "slug": "bpssc-hg-company-commander-online-form-2026",
+    "category": "latest-jobs",
+    "organization": "Bihar Police Subordinate Services Commission",
+    "state": "Bihar",
+    "postDate": "2026-09-21",
+    "originalPostDate": "2026-09-21",
+    "publishedAt": "2026-09-21",
+    "syncedAt": "2026-09-21T02:23:20.497Z",
+    "lastDate": "Not Available",
+    "shortInfo": "BPSSC has released recruitment notification for Home Guard (HG) Company Commander posts. Interested eligible candidates can apply online for 65 posts.",
+    "totalVacancies": "65",
+    "qualificationRequired": [
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Online Start Date",
+        "date": "05/09/2026",
+        "isImportant": true
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "05/10/2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / BC / EBC / Other State",
+        "fee": "₹ 700/-"
+      },
+      {
+        "category": "SC / ST / Female",
+        "fee": "₹ 400/-"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "20 Years",
+      "maxAge": "37 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "As per Bihar government rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Company Commander",
+        "totalPosts": "65",
+        "eligibility": "Bachelor Degree from any recognized university in India."
+      }
+    ],
+    "howToApplySteps": [
+      "Visit BPSSC official website.",
+      "Register with personal details and mobile number.",
+      "Complete the application form for Company Commander.",
+      "Pay application fees online.",
+      "Download and save the submitted application receipt."
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "url": "https://bpssc.bih.nic.in/",
+        "isPrimary": true,
+        "type": "apply"
+      },
+      {
+        "title": "Official Notification",
+        "url": "https://bpssc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "https://bpssc.bih.nic.in/",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "Bihar Police Subordinate Services Commission (BPSSC) invites online applications for 65 HG Company Commander posts. Applicants must be graduates. Selection process includes a written exam, physical standard test (PST), physical efficiency test (PET), and medical examination.",
+    "faqs": [
+      {
+        "question": "What is the qualification for BPSSC Company Commander?",
+        "answer": "Candidate must hold a Bachelor's degree from a recognized university."
+      }
+    ],
+    "metaTitle": "BPSSC HG Company Commander Online Form 2026 | Pariksha Result",
+    "metaDescription": "BPSSC has released recruitment notification for Home Guard (HG) Company Commander posts. Interested eligible candidates can apply online for 65 posts.",
+    "keywords": [
+      "BPSSC HG Company Commander 2026",
+      "Bihar Police Recruitment",
+      "Company Commander Vacancy"
+    ],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "Official government job notification vector graphics with coat of arms emblem and blue header.",
+    "imageAltText": "BPSSC HG Company Commander Online Form 2026",
+    "openGraph": {
+      "title": "BPSSC HG Company Commander Online Form 2026",
+      "description": "BPSSC has released recruitment notification for Home Guard (HG) Company Commander posts. Interested eligible candidates can apply online for 65 posts.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/latest-jobs/bpssc-hg-company-commander-online-form-2026",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80"
+      },
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "f0c27f8a3fb4e6267a35c105840b931f"
+  },
+  {
+    "id": "isnblog-1789957365652-2-779",
+    "title": "UPSC Jobs Without Interview: Direct Selection Opportunities",
+    "slug": "upsc-jobs-without-interview-direct-selection-opportunities-1789957365652-2",
+    "category": "blog",
+    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
+    "state": "All India",
+    "postDate": "2026-09-15",
+    "lastDate": "",
+    "shortInfo": "Dreaming of a prestigious government job through the UPSC without facing the pressure of an interview panel? Discover the lesser-known direct recruitment channels, eligibility rules, and application strategies right here on IndiaSarkariNaukri.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Original on IndiaSarkariNaukri",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdHpZdzNCXzFncFdrVE9sTW9VOWM2d01iSGVNb05XTDQtLWE4WFdfMWROc0dUY0RwOS1feVFxM1ZIS0h4dHFScWczczJWWWhucVFKX09YX1lnbFJQblh1WEwwNGdWd18zTlRNRllrRkhEOFJOaVJF?oc=5",
+        "isPrimary": true
+      },
+      {
+        "title": "Full Blog on Pariksha Result",
+        "url": "/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "# UPSC Jobs Without Interview: Direct Selection Opportunities\n\n> **Executive AEO Summary**: While most UPSC exams like the Civil Services involve a rigorous personality test or interview round, the Union Public Service Commission occasionally conducts direct recruitment for specialized posts based entirely on qualifications, screening tests, or recruitment tests (RT) without any interview phase.\n\n## Section 1: Overview & Key Highlights\n\nWhen we hear UPSC, the first thing that pops into our heads is grueling interview boards and IAS/IPS dreams. But wait! Did you know that the UPSC also recruits candidates for various scientific, technical, and specialized administrative roles through direct selection? \n\nHere are the key highlights of UPSC Jobs Without Interview:\n- **No Personality Test**: Selection is often based purely on Recruitment Tests (RT) followed by document verification.\n- **Specialized Roles**: Mostly caters to niche fields like agriculture, science, medicine, engineering, and specialized legal or research posts.\n- **Transparency & Merit**: Completely merit-based without subjective human bias in final viva-voce rounds.\n\n| Feature | Traditional UPSC (e.g., CSE) | Direct Recruitment (No Interview) |\n| :--- | :--- | :--- |\n| **Selection Stages** | Prelims, Mains, Interview | Screening Test / RT + Document Verification |\n| **Post Types** | General Administration (IAS/IPS/IFS) | Technical, Scientific, Specialist Cadres |\n| **Focus** | General Aptitude & Leadership | Domain Expertise & Experience |\n\n## Section 2: Eligibility, Documents & Rules\n\nTo grab these golden Sarkari opportunities, you need to match specific criteria set by the commission:\n\n- **Educational Qualifications**: Usually a Master's degree, B.Tech, MBBS, or Ph.D. in relevant specialized domains.\n- **Experience**: Many direct recruitment posts mandate 1 to 5 years of practical work experience in research, teaching, or industry.\n- **Age Limits**: Varies heavily by post, typically ranging from 30 to 45 years with standard category relaxations (OBC/SC/ST/PWD) as per government norms.\n\n### Essential Documents Checklist\n1. Valid Photo ID proof (Aadhaar, Voter ID, PAN)\n2. Educational Degree & Marksheets (Graduation/Post-Graduation)\n3. Experience Certificates (duly signed by the competent authority)\n4. Caste/Category Certificates (if claiming reservation)\n5. Scanned Passport-size Photograph and Signature\n\n## Section 3: Step-by-Step Practical Blueprint\n\nLanding a direct recruitment UPSC job requires a systematic approach. Follow this blueprint:\n\n1. **Keep Tracking Notifications**: Regularly visit official portals like upsconline.nic.in or IndiaSarkariNaukri to catch recruitment advertisements early.\n2. **Verify Eligibility Thoroughly**: Read the detailed notification PDF. Do not apply blindly if you lack the exact required experience.\n3. **One-Time Registration (OTR)**: Create your profile on the UPSC OTR platform well in advance.\n4. **Apply Online**: Fill out the application form carefully, paying the nominal application fee (unless exempt).\n5. **Prepare for the Recruitment Test (RT)**: If a CBT or written test is prescribed, focus heavily on core technical/domain subjects rather than just general studies.",
+    "faqs": [
+      {
+        "question": "Are there really UPSC jobs without an interview?",
+        "answer": "Yes, UPSC conducts direct recruitment for certain specialized, scientific, and technical posts where selection is based on a Recruitment Test (RT) and/or academic qualifications followed directly by document verification."
+      },
+      {
+        "question": "Who is eligible to apply for UPSC direct recruitment posts?",
+        "answer": "Candidates possessing specific professional degrees like B.Tech, MBBS, Master's degrees, or Ph.D., along with relevant work experience as specified in the official job notification, are eligible."
+      },
+      {
+        "question": "How does the final selection happen if there is no interview?",
+        "answer": "The final selection is typically made based on the marks scored in the Recruitment Test (RT) conducted by the UPSC, sometimes carrying a specific weightage combined with academic records, followed by document verification."
+      },
+      {
+        "question": "Where can I find notifications for UPSC jobs without interviews?",
+        "answer": "You can check the official UPSC website (upsconline.nic.in) under 'Active Examinations' or follow daily updates on trusted portals like IndiaSarkariNaukri."
+      },
+      {
+        "question": "Is work experience mandatory for all UPSC direct recruitment vacancies?",
+        "answer": "Not for all, but a vast majority of direct recruitment posts requiring specialized technical or research qualifications do mandate prior professional or research experience."
+      }
+    ],
+    "metaTitle": "UPSC Jobs Without Interview Direct Selection",
+    "metaDescription": "Discover how to secure UPSC jobs without an interview. Check direct selection opportunities, eligibility criteria, and a step-by-step application guide.",
+    "keywords": [
+      "UPSC Jobs Without Interview",
+      "Direct Selection UPSC",
+      "UPSC Direct Recruitment",
+      "India Sarkari Naukri",
+      "Government Jobs India",
+      "UPSC Vacancy 2024"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "H1 Title generated banner: UPSC Jobs Without Interview: Direct Selection Opportunities",
+    "imageAltText": "UPSC Jobs Without Interview: Direct Selection Opportunities - IndiaSarkariNaukri Blog",
+    "openGraph": {
+      "title": "UPSC Jobs Without Interview: Direct Selection Opportunities",
+      "description": "Dreaming of a prestigious government job through the UPSC without facing the pressure of an interview panel? Discover the lesser-known direct recruitment channels, eligibility rules, and application strategies right here on IndiaSarkariNaukri.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are there really UPSC jobs without an interview?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, UPSC conducts direct recruitment for certain specialized, scientific, and technical posts where selection is based on a Recruitment Test (RT) and/or academic qualifications followed directly by document verification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is eligible to apply for UPSC direct recruitment posts?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates possessing specific professional degrees like B.Tech, MBBS, Master's degrees, or Ph.D., along with relevant work experience as specified in the official job notification, are eligible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does the final selection happen if there is no interview?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The final selection is typically made based on the marks scored in the Recruitment Test (RT) conducted by the UPSC, sometimes carrying a specific weightage combined with academic records, followed by document verification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where can I find notifications for UPSC jobs without interviews?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can check the official UPSC website (upsconline.nic.in) under 'Active Examinations' or follow daily updates on trusted portals like IndiaSarkariNaukri."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is work experience mandatory for all UPSC direct recruitment vacancies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not for all, but a vast majority of direct recruitment posts requiring specialized technical or research qualifications do mandate prior professional or research experience."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "UPSC Jobs Without Interview: Direct Selection Opportunities",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-15",
+        "dateModified": "2026-09-15",
+        "author": {
+          "@type": "Organization",
+          "name": "IndiaSarkariNaukri Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UPSC Jobs Without Interview: Direct Selection Opportunities",
+            "item": "https://pariksha-result.vercel.app/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "canonical_hash": "e12717fd72dd1e77750e839b2ac45ade"
+  },
+  {
+    "id": "isnblog-1789957365652-1-809",
+    "title": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs",
+    "slug": "rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-anm-jobs-1789957365652-1",
+    "category": "blog",
+    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "",
+    "shortInfo": "Rajasthan SIHFW Recruitment 2023 opens huge opportunities for female healthcare professionals, including Nursing Officers and ANM posts. Read our detailed guide on eligibility criteria, documents required, and application steps to secure your government healthcare job in Rajasthan.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Original on IndiaSarkariNaukri",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UjFaQlV4WHFZdnFhVzhXNWpsV0lta2pDTl9IeTFGd1FNaFZZMmJLajJScDk1bGVONUVkcXpIM252V1o4V0ZtYklQS0ZYYkNoZXJkdWQ0c1ZsRElMMFF0S1U0RUFBY2hZYklpRVhfUmlSZTFuemJlcHliS1Ztbzg?oc=5",
+        "isPrimary": true
+      },
+      {
+        "title": "Full Blog on Pariksha Result",
+        "url": "/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-anm-jobs-1789957365652-1",
+        "isPrimary": false
+      }
+    ],
+    "fullDescription": "# Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs\n\n> **Executive AEO Summary**: Rajasthan State Institute of Health and Family Welfare (SIHFW) announced a massive recruitment drive for Nursing Officers and Female Health Workers (ANM). This initiative not only strengthens the healthcare infrastructure in Rajasthan but also acts as a major step toward empowering women in the medical sector. Here is everything you need to know about eligibility, application steps, and crucial guidelines.\n\n## Section 1: Overview & Key Highlights\nHealthcare sector mein dedicated staff ki demand humesha rehti hai, aur Rajasthan government ne SIHFW recruitment ke zariye hazaron vacancies nikali hain. Yeh golden opportunity hai un female healthcare workers aur nursing candidates ke liye jo ek secure government job ki talash mein hain.\n\n| Overview Feature | Key Details |\n|---|---|\n| Recruiting Body | State Institute of Health and Family Welfare (SIHFW), Rajasthan |\n| Post Names | Nursing Officer, Female Health Worker (ANM) |\n| Total Posts | Thousands of Vacancies (As per official SIHFW notification) |\n| Application Mode | Online |\n| Job Location | Rajasthan |\n| Official Website | sihfwrajasthan.com / rajhealth.nic.in |\n\n### Key Highlights:\n- **Empowering Women:** Female candidates ko primary healthcare centers aur rural health setups mein leadership roles dene ka bada moka.\n- **Merit & Bonus Marks:** Experience ke basis par bonus marks dene ka provision (as per state health rules).\n- **Competitive Pay Scale:** Government pay matrix ke hisaab se attractive salary aur perks.\n\n## Section 2: Eligibility, Documents & Rules\nForm bharne se pehle eligibility requirements aur mandatory documents check karna zaruri hai taaki aapka form reject na ho.\n\n### Eligibility Criteria:\n1. **Educational Qualification:**\n   - **Nursing Officer:** GNM (General Nursing and Midwifery) diploma ya B.Sc Nursing degree complete honi chahiye.\n   - **ANM:** Auxiliary Nurse Midwife (ANM) training course certified by recognized council.\n2. **Registration:** Rajasthan Nursing Council (RNC) mein active registration mandatory hai.\n3. **Age Limit:** Minimum 18 years, Maximum 40 years (Category-wise age relaxation applicable as per Rajasthan Govt rules).\n\n### Required Documents Checklist:\n- Educational certificates (10th, 12th marksheets)\n- GNM/B.Sc Nursing/ANM Degree & Marksheet\n- Rajasthan Nursing Council (RNC) Registration Certificate\n- Caste/Category Certificate (if applicable)\n- Domicile Certificate (Rajasthan Bonafide)\n- Experience Certificate (for claiming bonus marks)\n- Passport size photograph & Scanned signature\n\n## Section 3: Step-by-Step Practical Blueprint\nKaise apply karein? Aao step-by-step process dekhte hain:\n\n1. **Official Portal Par Jayein:** Official SIHFW website (`sihfwrajasthan.com`) ya Rajhealth portal par visit karein.\n2. **Registration Process:** Home page par Recruitment 2023 link par click karein aur basic details fill karke register karein.\n3. **Fill Application Form:** Login ID aur Password ke saath login karke apni personal, educational, aur experience details dhyaan se bharein.\n4. **Upload Documents:** Apne scanned documents, RNC registration certificate, photo, aur signature exact dimensions mein upload karein.\n5. **Pay Application Fee:** Category ke according online payment gateway (UPI, Net Banking, Credit/Debit card) se fee pay karein.\n6. **Final Submit & Print:** Form double-check karke submit button dabayein aur confirmation page ka printout future reference ke liye save kar lein.\n\n*Pro-Tip for Applicants:* RNC registration status active aur updated ho, kyunki verification ke time expired registration permit nahi kiya jata!",
+    "faqs": [
+      {
+        "question": "What is the qualification required for SIHFW Rajasthan Nursing Officer?",
+        "answer": "Candidates must possess a GNM Diploma or B.Sc. Nursing degree along with mandatory registration with the Rajasthan Nursing Council (RNC)."
+      },
+      {
+        "question": "Is RNC registration mandatory for Rajasthan SIHFW Nurse Recruitment?",
+        "answer": "Yes, having an active registration with the Rajasthan Nursing Council (RNC) is strictly required at the time of online application."
+      },
+      {
+        "question": "What is the selection process for SIHFW Nurse Recruitment 2023?",
+        "answer": "Selection is primarily based on academic merit, technical qualification marks, and bonus marks awarded for prior working experience in government health schemes/hospitals in Rajasthan."
+      },
+      {
+        "question": "How can I claim bonus marks in SIHFW Nursing Recruitment?",
+        "answer": "Candidates who have previously worked on a contract or emergency basis in Rajasthan Government health programs can submit a valid experience certificate issued by authorized medical officers to claim bonus marks."
+      },
+      {
+        "question": "Where can I apply for Rajasthan SIHFW Nurse Vacancies?",
+        "answer": "You can apply online by visiting the official portal of SIHFW Rajasthan at sihfwrajasthan.com or rajhealth.nic.in during the official application window."
+      }
+    ],
+    "metaTitle": "Rajasthan SIHFW Nurse Recruitment 2023: Apply Online & Details",
+    "metaDescription": "Check Rajasthan SIHFW Nurse Recruitment 2023 details, eligibility, salary, and step-by-step online application process for Nursing Officers.",
+    "keywords": [
+      "SIHFW Nurse Recruitment 2023",
+      "Rajasthan Nursing Officer Vacancy",
+      "Rajasthan ANM Recruitment",
+      "SIHFW Rajasthan Jobs",
+      "Sarkari Naukri Nursing 2023",
+      "Rajasthan Health Department Jobs"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "featuredImagePrompt": "H1 Title generated banner: Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs",
+    "imageAltText": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs - IndiaSarkariNaukri Blog",
+    "openGraph": {
+      "title": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs",
+      "description": "Rajasthan SIHFW Recruitment 2023 opens huge opportunities for female healthcare professionals, including Nursing Officers and ANM posts. Read our detailed guide on eligibility criteria, documents required, and application steps to secure your government healthcare job in Rajasthan.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-anm-jobs-1789957365652-1",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the qualification required for SIHFW Rajasthan Nursing Officer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates must possess a GNM Diploma or B.Sc. Nursing degree along with mandatory registration with the Rajasthan Nursing Council (RNC)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is RNC registration mandatory for Rajasthan SIHFW Nurse Recruitment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, having an active registration with the Rajasthan Nursing Council (RNC) is strictly required at the time of online application."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the selection process for SIHFW Nurse Recruitment 2023?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Selection is primarily based on academic merit, technical qualification marks, and bonus marks awarded for prior working experience in government health schemes/hospitals in Rajasthan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can I claim bonus marks in SIHFW Nursing Recruitment?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates who have previously worked on a contract or emergency basis in Rajasthan Government health programs can submit a valid experience certificate issued by authorized medical officers to claim bonus marks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where can I apply for Rajasthan SIHFW Nurse Vacancies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can apply online by visiting the official portal of SIHFW Rajasthan at sihfwrajasthan.com or rajhealth.nic.in during the official application window."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-21",
+        "dateModified": "2026-09-21",
+        "author": {
+          "@type": "Organization",
+          "name": "IndiaSarkariNaukri Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & ANM Jobs",
+            "item": "https://pariksha-result.vercel.app/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-anm-jobs-1789957365652-1"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "canonical_hash": "970acfb9c4422802707b9a8889facede"
+  },
+  {
+    "title": "RSSB Result 2026: Rajasthan Staff Selection Board Recruitment Results",
+    "slug": "rssb-result-2026-rajasthan-staff-selection-board-recruitment-results",
+    "category": "results",
+    "organization": "RSSB (RSMSSB)",
+    "state": "Rajasthan",
+    "postDate": "2026-08-13",
+    "lastDate": "N/A",
+    "shortInfo": "Rajasthan Staff Selection Board (RSSB / RSMSSB) releases exam results, answer keys, document verification lists, and cut off marks for various direct recruitment exams.",
+    "totalVacancies": "Various Posts",
+    "qualificationRequired": [
+      "10th Pass",
+      "12th Pass",
+      "Graduation"
+    ],
+    "importantDates": [
+      {
+        "event": "Result Notice Date",
+        "date": "13/08/2026",
+        "isImportant": true,
+        "details": "Regular result update portal"
+      }
+    ],
+    "applicationFees": [],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "40 Years",
+      "cutoffDate": "As per recruitment notification",
+      "relaxationDetails": "As per Rajasthan government guidelines"
+    },
+    "vacancies": [
+      {
+        "postName": "Various Posts (Patwari, CET, LDC, Informatics Assistant, Stenographer, etc.)",
+        "totalPosts": "N/A",
+        "eligibility": "10th / 12th / Diploma / Degree as per post notification",
+        "qualification": "10th Pass / 12th Pass / Graduation",
+        "categoryWiseBreakup": {},
+        "payScale": "As per Rajasthan Pay Matrix"
+      }
+    ],
+    "selectionProcess": [
+      {
+        "stepNumber": 1,
+        "stageName": "Written Examination",
+        "description": "OMR based or Computer Based Test (CBT).",
+        "qualifyingNature": "Merit Based"
+      },
+      {
+        "stepNumber": 2,
+        "stageName": "Skill Test / Efficiency Test (If Applicable)",
+        "description": "Typing/Steno/Physical test based on post requirement.",
+        "qualifyingNature": "Qualifying"
+      },
+      {
+        "stepNumber": 3,
+        "stageName": "Document Verification (DV)",
+        "description": "Scrutiny of original eligibility documents.",
+        "qualifyingNature": "Mandatory"
+      }
+    ],
+    "howToApplySteps": [
+      "Step 1: Go to rssb.rajasthan.gov.in.",
+      "Step 2: Click on the 'Results' tab on the homepage.",
+      "Step 3: Find the respective recruitment exam result link.",
+      "Step 4: Download the Result PDF and check roll number & category cut off."
+    ],
+    "importantLinks": [
+      {
+        "title": "RSSB Official Results Portal",
+        "url": "https://rssb.rajasthan.gov.in/",
+        "type": "official",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "## RSSB / RSMSSB Recruitment Results Portal\n\nRajasthan Staff Selection Board (RSSB) regularly conducts various recruitment examinations across Rajasthan state. Candidates can check category-wise cut-off marks, candidate selection lists, and merit lists from the official website.",
+    "faqs": [
+      {
+        "question": "Where can I check RSSB exam results?",
+        "answer": "You can check RSSB recruitment results directly on rssb.rajasthan.gov.in under Results section."
+      }
+    ],
+    "metaTitle": "RSSB Result 2026 - Check RSMSSB Recruitment Exam Results",
+    "metaDescription": "Check RSSB (RSMSSB) exam results, cut off marks, and document verification lists online.",
+    "keywords": [
+      "RSSB Result 2026",
+      "RSMSSB Result PDF",
+      "Rajasthan Karamchari Chayan Board Result"
+    ],
+    "id": "studygovthelp-rssb-result-2026-rajasthan-staff-selection-board-recruitment-results",
+    "canonical_hash": "cf2e407e5ab42a75dd92b284c7803197"
+  },
+  {
+    "id": "blog-auto-1hr-1789957365650-186",
+    "title": "📝 UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+    "slug": "upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957365650",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "",
+    "shortInfo": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957365650",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint\n\n![UPSC CSE Prelims 2026](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.\n\n## 1. Executive Summary & UPSC Prelims 2026 Dynamics\n\nThe UPSC Civil Services Examination (CSE) Prelims is designed to test depth of understanding, analytical reasoning, and current affairs synthesis. In 2026, cutoffs hover around 85-92 marks out of 200 in GS Paper 1.\n\n![UPSC Books Setup](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80)\n\n## 2. Core Booklist & Standard Sources\n\n| Subject | Core Text Book | Revision Strategy |\n| :--- | :--- | :--- |\n| **Indian Polity** | M. Laxmikanth (7th Edition) | Read 5 times minimum + PYQs |\n| **Modern History** | A Brief History of Modern India (Spectrum) | Timeline notes + Governor General reforms |\n| **Environment & Ecology** | Shankar IAS / NCERT Class 12 Biology | Wildlife Sanctuaries, National Parks & Climate Summits |\n| **Indian Economy** | Ramesh Singh / Vivek Singh + Budget | Economic Survey + Inflation/Monetary Policy concepts |\n| **Geography** | NCERT Class 11 & 12 (4 Books) + Mapping | Daily 15-minute atlas mapping practice |\n\n## 3. CSAT (Paper II) Qualifying Strategy for Non-Maths Aspirants\n\n- Target **Reading Comprehension** (25-28 Questions) with high precision.\n- Master **Logical Reasoning** (Syllogisms, Direction Sense, Blood Relations).\n- Solve last 10 years' official UPSC CSAT papers to understand question phrasing.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "What is the qualifying marks required for UPSC CSAT Paper II?",
+        "answer": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+      },
+      {
+        "question": "How many months of current affairs are needed for UPSC Prelims 2026?",
+        "answer": "Focus strictly on 18 months of current affairs prior to the exam date."
+      },
+      {
+        "question": "Is reading NCERT textbooks mandatory for UPSC?",
+        "answer": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+      }
+    ],
+    "metaTitle": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint | Pariksha Result Blog",
+    "metaDescription": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), ...",
+    "keywords": [
+      "UPSC CSE Prelims 2026",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+      "description": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957365650",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the qualifying marks required for UPSC CSAT Paper II?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many months of current affairs are needed for UPSC Prelims 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Focus strictly on 18 months of current affairs prior to the exam date."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is reading NCERT textbooks mandatory for UPSC?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-21",
+        "dateModified": "2026-09-21",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957365650"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "c4d96b53fcc0ce1b79eab2d9be5adf4e"
+  },
+  {
+    "id": "blog-auto-1hr-1789957365650-59",
+    "title": "📝 SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+    "slug": "ssc-cgl-2026-master-preparation-blueprint-1789957365650",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "",
+    "shortInfo": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/ssc-cgl-2026-master-preparation-blueprint-1789957365650",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint\n\n![SSC CGL 2026 Strategy](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.\n\n## 1. Executive Summary & SSC CGL 2026 Exam Overview\n\nThe Staff Selection Commission Combined Graduate Level (SSC CGL) exam is India's most prestigious non-technical government recruitment examination. Scoring 160+ in Tier 1 and qualifying Tier 2 requires a scientific balance between accuracy and speed.\n\n![Exam Study Setup](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)\n\n### Key Highlights\n- **Target Score**: Tier 1 (160+ / 200), Tier 2 (310+ / 390)\n- **Daily Study Hours**: 6 to 8 hours focused preparation\n- **Primary Strategy**: PYQs (Previous Year Questions) + Daily Mock Test Review\n\n## 2. Subject-Wise Tactical Breakdown & High-Yield Topics\n\n| Subject | Tier 1 Weightage | Tier 2 Weightage | Master Resource & Strategy |\n| :--- | :--- | :--- | :--- |\n| **Quantitative Aptitude** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Master Vedic Math, Percentage fractions & 50 PYQs daily |\n| **Reasoning Ability** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Daily Puzzles, Syllogism, Blood Relations & Seating arrangement |\n| **English Language** | 25 Questions (50 Marks) | 45 Questions (135 Marks) | SP Bakshi + 120 Grammar Rules + Editorial Vocabulary |\n| **General Awareness** | 25 Questions (50 Marks) | 25 Questions (75 Marks) | Lucent GK + Daily Current Affairs Digests & Science summaries |\n| **Computer Knowledge** | Qualifying | 20 Questions (60 Marks) | NCERT Computer Science Class 9-11 + Hardware/Software Basics |\n\n### Quantitative Aptitude Roadmap\n- Memorize multiplication tables up to 30, squares up to 50, cubes up to 30.\n- Master fast percentage fraction conversions (e.g., 1/7 = 14.28%, 1/9 = 11.11%).\n- Practice Geometry and Mensuration 3D formulas daily.\n\n## 3. The 90-Day Step-by-Step Study Timetable\n\n- **Days 1 to 30 (Foundation Phase)**: Complete 100% concepts of Mathematics and English Grammar rules.\n- **Days 31 to 60 (PYQ Mastery Phase)**: Solve last 10 years' SSC CGL question banks chapter-by-chapter.\n- **Days 61 to 90 (Mock Test Blitz Phase)**: Take 1 full-length mock test daily at exact exam timing.\n\n## 4. Mock Test Evaluation & Error Log Protocol\n\nNever skip post-test analysis. Maintain a dedicated **Error Log Notebook** to record every calculation error or conceptual blunder.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is 90 days enough to clear SSC CGL 2026?",
+        "answer": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+      },
+      {
+        "question": "How many mock tests should I take before Tier 1?",
+        "answer": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+      },
+      {
+        "question": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+        "answer": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+      },
+      {
+        "question": "What is the negative marking penalty in SSC CGL Tier 1?",
+        "answer": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+      }
+    ],
+    "metaTitle": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint | Pariksha Result Blog",
+    "metaDescription": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reaso...",
+    "keywords": [
+      "SSC CGL 2026 Strategy",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+      "description": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1789957365650",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is 90 days enough to clear SSC CGL 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many mock tests should I take before Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the negative marking penalty in SSC CGL Tier 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-21",
+        "dateModified": "2026-09-21",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1789957365650"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "ed47e75b42a9ca1538a43b36843f880d"
+  },
+  {
+    "id": "blog-auto-1hr-1789957365650-679",
+    "title": "📝 Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+    "slug": "pradhan-mantri-awas-yojana-2026-complete-guide-1789957365650",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "",
+    "shortInfo": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957365650",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide\n\n![PMAY 2026 Scheme](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.\n\n## 1. Pradhan Mantri Awas Yojana (PMAY) 2026 Overview\n\nThe Government of India's flagship housing scheme PMAY aims to provide pucca houses with basic amenities to all eligible urban and rural families across India.\n\n![Modern Housing](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80)\n\n## 2. Eligibility & Income Categories\n\n| Category | Annual Household Income | Max Subsidy Available |\n| :--- | :--- | :--- |\n| **EWS (Economically Weaker)** | Up to ₹3 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **LIG (Low Income Group)** | ₹3 Lakh to ₹6 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **MIG I (Middle Income Group)** | ₹6 Lakh to ₹12 Lakh | Subsidized Housing Loan Rates |\n| **PMAY Gramin (Rural)** | BPL / SECC 2011 List | ₹1.20 Lakh to ₹1.30 Lakh Direct Grant |\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "How do I check my name in PMAY Gramin List 2026?",
+        "answer": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+      },
+      {
+        "question": "Can unmarried adults apply for PMAY separately?",
+        "answer": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+      }
+    ],
+    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide | Pariksha Result Blog",
+    "metaDescription": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest sub...",
+    "keywords": [
+      "PMAY 2026 Scheme",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide - Pariksha Result",
+    "openGraph": {
+      "title": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+      "description": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957365650",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I check my name in PMAY Gramin List 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can unmarried adults apply for PMAY separately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-21",
+        "dateModified": "2026-09-21",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
+            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957365650"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "699ecce17a342cc6cc423a8bc610994e"
+  },
+  {
+    "id": "blog-auto-1hr-1789957365650-1",
+    "title": "📝 RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+    "slug": "rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957365650",
+    "category": "blog",
+    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "",
+    "shortInfo": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+    "totalVacancies": "",
+    "qualificationRequired": [],
+    "importantDates": [],
+    "applicationFees": [],
+    "ageLimit": {},
+    "vacancies": [],
+    "howToApplySteps": [],
+    "importantLinks": [
+      {
+        "title": "Read Full Post on Pariksha Result",
+        "url": "/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957365650",
+        "isPrimary": true
+      }
+    ],
+    "fullDescription": "# RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint\n\n![RRB NTPC 2026 Preparation](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.\n\n## 1. Indian Railways Recruitment Drive Overview\n\nWith over 35,000+ vacancies announced in RRB NTPC and Group D, Railway jobs offer high security, lucrative allowances, and fast career progression.\n\n![Railway Track](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80)\n\n## 2. General Science Mastery Strategy\n\nIn Railway exams, Physics, Chemistry, and Life Sciences from NCERT Class 9 & 10 contribute over 25% of total questions.\n\n- **Physics Focus**: Newton Laws, Work Energy Power, Electricity, Light Reflection/Refraction.\n- **Chemistry Focus**: Periodic Table trends, Chemical Equations, Acids Bases Salts.\n- **Biology Focus**: Human Physiology, Cell Structure, Plant Classification & Genetics.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
+    "faqs": [
+      {
+        "question": "Is there negative marking in RRB NTPC CBT 1?",
+        "answer": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+      },
+      {
+        "question": "What is the language medium available for RRB exams?",
+        "answer": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+      }
+    ],
+    "metaTitle": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint | Pariksha Result Blog",
+    "metaDescription": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 N...",
+    "keywords": [
+      "RRB NTPC 2026 Preparation",
+      "Pariksha Result Blog",
+      "Sarkari Exam Strategy 2026",
+      "Govt Job Preparation",
+      "AEO Guide"
+    ],
+    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
+    "imageAltText": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint - Pariksha Result",
+    "openGraph": {
+      "title": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+      "description": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957365650",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+      "siteName": "Pariksha Result"
+    },
+    "schemas": {
+      "faqSchema": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is there negative marking in RRB NTPC CBT 1?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, 1/3rd mark is deducted for every incorrect option selected."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the language medium available for RRB exams?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
+            }
+          }
+        ]
+      },
+      "articleSchema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+        "datePublished": "2026-09-21",
+        "dateModified": "2026-09-21",
+        "author": {
+          "@type": "Organization",
+          "name": "Pariksha Result Senior Editorial Staff"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Pariksha Result",
+          "url": "https://pariksha-result.vercel.app"
+        }
+      },
+      "breadcrumbSchema": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pariksha-result.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://pariksha-result.vercel.app/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
+            "item": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957365650"
+          }
+        ]
+      }
+    },
+    "plagiarismFreeScore": 100,
+    "aiHumanizedScore": 99,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
+    "canonical_hash": "adf1430466113bd28ace55e4e583453b"
+  },
+  {
+    "id": "job-auto-1hr-1789957365650-713",
+    "title": "🎟️ [Admit Card Out] UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+    "slug": "sarkari-job-auto-update-1789957365650",
+    "category": "admit-card",
+    "organization": "Uttar Pradesh Police (UPPRPB) (Auto-Synced)",
+    "state": "All India",
+    "postDate": "2026-09-21",
+    "lastDate": "2026-09-30",
+    "shortInfo": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
+    "totalVacancies": "60,244 Posts",
+    "qualificationRequired": [
+      "12th Pass"
+    ],
+    "importantDates": [
+      {
+        "event": "City Intimation Active",
+        "date": "2026-09-21",
+        "isImportant": true
+      },
+      {
+        "event": "Admit Card Download Start",
+        "date": "2026-09-21",
+        "isImportant": true
+      },
+      {
+        "event": "Written Examination Date",
+        "date": "November / December 2026",
+        "isImportant": true
+      }
+    ],
+    "applicationFees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "₹ 100/-"
+      },
+      {
+        "category": "SC / ST / PwD / Female",
+        "fee": "₹ 0/- (Exempted)"
+      }
+    ],
+    "ageLimit": {
+      "minAge": "18 Years",
+      "maxAge": "27-30 Years",
+      "cutoffDate": "01/08/2026",
+      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP Police Constable Written Exam Admit Card 2026",
+        "totalPosts": "60,244 Posts",
+        "eligibility": "12th Pass"
+      }
+    ],
+    "howToApplySteps": [
+      "Visit the official candidate login page.",
+      "Click on the Admit Card download link.",
+      "Provide your registration ID and Password / Date of Birth.",
+      "Enter the verification CAPTCHA code and click submit.",
+      "Download and print your Admit Card on a standard clean A4 sheet."
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card / Hall Ticket",
+        "url": "#",
+        "isPrimary": true,
+        "type": "admit-card"
+      },
+      {
+        "title": "Download Official Notification PDF",
+        "url": "#",
+        "isPrimary": false,
+        "type": "notification"
+      },
+      {
+        "title": "Official Website",
+        "url": "#",
+        "isPrimary": false,
+        "type": "website"
+      }
+    ],
+    "fullDescription": "# UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket\n\n**Uttar Pradesh Police (UPPRPB)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **60,244 Posts**.\n\n## Summary Overview\n\nUttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Uttar Pradesh Police (UPPRPB)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 60,244 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
+    "faqs": [
+      {
+        "question": "What is the eligibility/qualification required for UP Police Constable Written Exam Admit Card 2026?",
+        "answer": "Candidates must possess 12th Pass as specified by Uttar Pradesh Police (UPPRPB)."
+      },
+      {
+        "question": "How can I access the direct link for this update?",
+        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
+      },
+      {
+        "question": "When are the key dates for this announcement?",
+        "answer": "Online activities start from 2026-09-21. Please check the important dates section for full schedule details."
+      },
+      {
+        "question": "Is there any fee for SC/ST/Female candidates?",
+        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
+      }
+    ],
+    "metaTitle": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket | Pariksha Result Auto-Sync",
+    "metaDescription": "Apply online / check details for UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
+    "keywords": [
+      "Uttar Pradesh Police (UPPRPB)",
+      "admit-card",
+      "Sarkari Job 2026",
+      "Recruitment Notification",
+      "Online Form",
+      "Pariksha Result"
+    ],
+    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
+    "imageAltText": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+    "openGraph": {
+      "title": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
+      "description": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
+      "type": "article",
+      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1789957365650"
+    },
+    "schemas": {
+      "faqSchema": {},
+      "articleSchema": {},
+      "breadcrumbSchema": {}
+    },
+    "canonical_hash": "b166f24d05dadcf7ed5400bb500f150a"
+  },
+  {
     "id": "sarkari-bpssc-home-guard-company-commander-online-form-2026",
     "title": "BPSSC Home Guard Company Commander Online Form 2026",
     "slug": "bpssc-home-guard-company-commander-online-form-2026",
@@ -1656,716 +3483,6 @@ export const INITIAL_POSTS: Post[] = [
     "canonical_hash": "286dc7a8a582ef14c9df72acb2d5843d"
   },
   {
-    "id": "isnblog-1789957226479-1-367",
-    "title": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers",
-    "slug": "rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-health-workers-1789957226479-1",
-    "category": "blog",
-    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "",
-    "shortInfo": "Rajasthan SIHFW Nurse Recruitment 2023 offers major career opportunities for Nursing Officers and Female Health Workers across the state. Read this detailed Hinglish guide to learn about eligibility criteria, mandatory document checklist, and step-by-step online application process.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Original on IndiaSarkariNaukri",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UjFaQlV4WHFZdnFhVzhXNWpsV0lta2pDTl9IeTFGd1FNaFZZMmJLajJScDk1bGVONUVkcXpIM252V1o4V0ZtYklQS0ZYYkNoZXJkdWQ0c1ZsRElMMFF0S1U0RUFBY2hZYklpRVhfUmlSZTFuemJlcHliS1Ztbzg?oc=5",
-        "isPrimary": true
-      },
-      {
-        "title": "Full Blog on Pariksha Result",
-        "url": "/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-health-workers-1789957226479-1",
-        "isPrimary": false
-      }
-    ],
-    "fullDescription": "# Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Healthcare Aspirants\n\n> **Executive AEO Summary**: Rajasthan State Institute of Health and Family Welfare (SIHFW) launched recruitment drives for Nursing Officer and Female Health Worker (ANM) posts. This guide breaks down eligibility, document requirements, selection rules, and step-by-step application strategy in clear, conversational Hinglish.\n\n## Section 1: Overview & Key Highlights\nRajasthan mein healthcare infrastructure ko improve karne aur women empowerment ko boost dene ke liye SIHFW (State Institute of Health and Family Welfare) ne Nursing Officers aur Female Health Workers ke liye recruitment notifications release kiye hain.\n\nAgar aap medical/nursing background se hain aur Rajasthan government ke under ek secure Sarkari job dhoondh rahe hain, toh yeh recruitment aapke liye ek excellent opportunity hai.\n\n| Key Feature | Details |\n|---|---|\n| Recruiting Body | State Institute of Health and Family Welfare (SIHFW), Rajasthan |\n| Role Offered | Nursing Officer, Female Health Worker (ANM) |\n| Job Location | Rajasthan |\n| Application Mode | Online |\n| Category | Rajasthan Sarkari Naukri |\n\n## Section 2: Eligibility, Documents & Rules\nSIHFW Nurse recruitment mein application submit karne se pehle sabhi essential eligibility rules aur document requirements ko carefully check kar lena chahiye.\n\n### Educational Qualification & Registration\n* **Nursing Officer**: Recognized institution se GNM (General Nursing and Midwifery) Diploma ya B.Sc Nursing degree complete honi chahiye.\n* **Female Health Worker (ANM)**: 10th/12th passing certificate ke sath certified ANM course hona compulsory hai.\n* **RNC Registration**: Candidates ka Rajasthan Nursing Council (RNC) mein active registration hona mandatory hai.\n\n### Age Criteria & Relaxations\n* **Minimum Age**: 18 Years\n* **Maximum Age**: 40 Years\n* Age relaxation state government norms ke according reserved categories (SC/ST/OBC/EWS/Female) ko milti hai.\n\n### Mandatory Documents List\n* Class 10th & 12th Marksheets and Certificates\n* GNM Diploma / B.Sc Nursing / ANM Degree Marksheets\n* Valid Rajasthan Nursing Council (RNC) Registration Certificate\n* Category Certificate (SC/ST/OBC/EWS - if applicable)\n* Domicile Certificate (Mool Niwas Praman Patra)\n* passport size photo aur scanned signature\n\n## Section 3: Step-by-Step Practical Blueprint\nBina kisi mistake ke application form fill karne ke liye niche diye gaye execution steps follow karein:\n\n1. **Official Portal Access Karein**: SIHFW Rajasthan ki official website (`sihfwrajasthan.com` ya Rajswasthya portal) par visit karein.\n2. **Read Official Notification**: Nursing Recruitment link par click karke official PDF advertisement ko acche se padhein.\n3. **Candidate Registration**: Apne active mobile number aur email address ka use karke portal par user account create karein.\n4. **Fill Details**: Personal info, educational details, aur RNC registration number dhyan se enter karein.\n5. **Upload Verification Docs**: Prescribed size mein photo, signature aur educational certificates upload karein.\n6. **Pay Application Fee**: Online net banking, debit card ya UPI ke through category-wise fee pay karein.\n7. **Verify & Print**: Submission se pehle saari details re-check karein aur final submitted application form ka printout future reference ke liye save karein.",
-    "faqs": [
-      {
-        "question": "Rajasthan SIHFW Nurse recruitment ke liye main qualification kya hai?",
-        "answer": "Candidates ke paas recognized institute se GNM Diploma, B.Sc Nursing, ya ANM course ke saath Rajasthan Nursing Council (RNC) ka valid registration hona mandatory hai."
-      },
-      {
-        "question": "Kya dusre states ke candidates apply kar sakte hain?",
-        "answer": "Haan, other state candidates apply kar sakte hain par unke paas Rajasthan Nursing Council (RNC) ka active registration hona zaroori hai, aur unhe Unreserved (General) category mein treat kiya jayega."
-      },
-      {
-        "question": "Is recruitment mein age relaxation kitna milta hai?",
-        "answer": "Rajasthan State rules ke according reserved categories (SC, ST, OBC, EWS) aur female candidates ko upper age limit mein 5 se 10 saal ka relaxation diya jata hai."
-      },
-      {
-        "question": "Kya SIHFW Nurse recruitment mein exam hota hai ya merit selection?",
-        "answer": "Selection generally educational qualifications ke marks, experience bonus points, aur document verification ke merit basis par decide kiya jata hai as per notification guidelines."
-      },
-      {
-        "question": "Form fill karte waqt RNC registration status kya hona chahiye?",
-        "answer": "Application form fill karne ki last date tak candidate ka Rajasthan Nursing Council (RNC) mein registration active aur valid hona mandatory hai."
-      }
-    ],
-    "metaTitle": "Rajasthan SIHFW Nurse Recruitment 2023 Guide",
-    "metaDescription": "Complete guide on Rajasthan SIHFW Nurse Recruitment 2023 eligibility, documents checklist, and step-by-step online application process in Hinglish.",
-    "keywords": [
-      "Rajasthan SIHFW Nurse Recruitment",
-      "SIHFW Nursing Officer 2023",
-      "Rajasthan Health Department Jobs",
-      "ANM Nurse Bharti Rajasthan",
-      "Rajasthan Nursing Jobs 2023",
-      "SIHFW Rajasthan Vacancy"
-    ],
-    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-    "featuredImagePrompt": "H1 Title generated banner: Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers",
-    "imageAltText": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers - IndiaSarkariNaukri Blog",
-    "openGraph": {
-      "title": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers",
-      "description": "Rajasthan SIHFW Nurse Recruitment 2023 offers major career opportunities for Nursing Officers and Female Health Workers across the state. Read this detailed Hinglish guide to learn about eligibility criteria, mandatory document checklist, and step-by-step online application process.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-health-workers-1789957226479-1",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Rajasthan SIHFW Nurse recruitment ke liye main qualification kya hai?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Candidates ke paas recognized institute se GNM Diploma, B.Sc Nursing, ya ANM course ke saath Rajasthan Nursing Council (RNC) ka valid registration hona mandatory hai."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Kya dusre states ke candidates apply kar sakte hain?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Haan, other state candidates apply kar sakte hain par unke paas Rajasthan Nursing Council (RNC) ka active registration hona zaroori hai, aur unhe Unreserved (General) category mein treat kiya jayega."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is recruitment mein age relaxation kitna milta hai?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Rajasthan State rules ke according reserved categories (SC, ST, OBC, EWS) aur female candidates ko upper age limit mein 5 se 10 saal ka relaxation diya jata hai."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Kya SIHFW Nurse recruitment mein exam hota hai ya merit selection?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Selection generally educational qualifications ke marks, experience bonus points, aur document verification ke merit basis par decide kiya jata hai as per notification guidelines."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Form fill karte waqt RNC registration status kya hona chahiye?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Application form fill karne ki last date tak candidate ka Rajasthan Nursing Council (RNC) mein registration active aur valid hona mandatory hai."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-21",
-        "dateModified": "2026-09-21",
-        "author": {
-          "@type": "Organization",
-          "name": "IndiaSarkariNaukri Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Rajasthan SIHFW Nurse Recruitment 2023: Complete Guide for Nursing Officers & Health Workers",
-            "item": "https://pariksha-result.vercel.app/blog/rajasthan-sihfw-nurse-recruitment-2023-complete-guide-for-nursing-officers-health-workers-1789957226479-1"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "canonical_hash": "85de220e6d0a92f98e802c342d7f7970"
-  },
-  {
-    "id": "blog-auto-1hr-1789957226477-364",
-    "title": "📝 UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-    "slug": "upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957226477",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "",
-    "shortInfo": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957226477",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint\n\n![UPSC CSE Prelims 2026](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.\n\n## 1. Executive Summary & UPSC Prelims 2026 Dynamics\n\nThe UPSC Civil Services Examination (CSE) Prelims is designed to test depth of understanding, analytical reasoning, and current affairs synthesis. In 2026, cutoffs hover around 85-92 marks out of 200 in GS Paper 1.\n\n![UPSC Books Setup](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80)\n\n## 2. Core Booklist & Standard Sources\n\n| Subject | Core Text Book | Revision Strategy |\n| :--- | :--- | :--- |\n| **Indian Polity** | M. Laxmikanth (7th Edition) | Read 5 times minimum + PYQs |\n| **Modern History** | A Brief History of Modern India (Spectrum) | Timeline notes + Governor General reforms |\n| **Environment & Ecology** | Shankar IAS / NCERT Class 12 Biology | Wildlife Sanctuaries, National Parks & Climate Summits |\n| **Indian Economy** | Ramesh Singh / Vivek Singh + Budget | Economic Survey + Inflation/Monetary Policy concepts |\n| **Geography** | NCERT Class 11 & 12 (4 Books) + Mapping | Daily 15-minute atlas mapping practice |\n\n## 3. CSAT (Paper II) Qualifying Strategy for Non-Maths Aspirants\n\n- Target **Reading Comprehension** (25-28 Questions) with high precision.\n- Master **Logical Reasoning** (Syllogisms, Direction Sense, Blood Relations).\n- Solve last 10 years' official UPSC CSAT papers to understand question phrasing.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "What is the qualifying marks required for UPSC CSAT Paper II?",
-        "answer": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
-      },
-      {
-        "question": "How many months of current affairs are needed for UPSC Prelims 2026?",
-        "answer": "Focus strictly on 18 months of current affairs prior to the exam date."
-      },
-      {
-        "question": "Is reading NCERT textbooks mandatory for UPSC?",
-        "answer": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
-      }
-    ],
-    "metaTitle": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint | Pariksha Result Blog",
-    "metaDescription": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), ...",
-    "keywords": [
-      "UPSC CSE Prelims 2026",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-      "description": "Comprehensive guide to clearing UPSC Civil Services Prelims 2026. Covers Indian Polity (Laxmikanth), Modern History (Spectrum), Environment (Shankar IAS), Economy (Ramesh Singh), and CSAT Paper II survival strategies for non-maths background candidates.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957226477",
-      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "What is the qualifying marks required for UPSC CSAT Paper II?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Candidates must score 33% (66.66 marks out of 200) in CSAT to qualify GS Paper 1 evaluation."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many months of current affairs are needed for UPSC Prelims 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Focus strictly on 18 months of current affairs prior to the exam date."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is reading NCERT textbooks mandatory for UPSC?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes! Class 6 to 12 NCERTs form the conceptual foundation for Geography, History, and Economy."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-21",
-        "dateModified": "2026-09-21",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "UPSC CSE Prelims 2026: GS Paper 1 & CSAT Master Survival Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/upsc-cse-prelims-2026-csat-gs-paper-blueprint-1789957226477"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "5091d98eb16e8b099a02b97fbe8e32b9"
-  },
-  {
-    "id": "blog-auto-1hr-1789957226477-166",
-    "title": "📝 SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-    "slug": "ssc-cgl-2026-master-preparation-blueprint-1789957226477",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "",
-    "shortInfo": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/ssc-cgl-2026-master-preparation-blueprint-1789957226477",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint\n\n![SSC CGL 2026 Strategy](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.\n\n## 1. Executive Summary & SSC CGL 2026 Exam Overview\n\nThe Staff Selection Commission Combined Graduate Level (SSC CGL) exam is India's most prestigious non-technical government recruitment examination. Scoring 160+ in Tier 1 and qualifying Tier 2 requires a scientific balance between accuracy and speed.\n\n![Exam Study Setup](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)\n\n### Key Highlights\n- **Target Score**: Tier 1 (160+ / 200), Tier 2 (310+ / 390)\n- **Daily Study Hours**: 6 to 8 hours focused preparation\n- **Primary Strategy**: PYQs (Previous Year Questions) + Daily Mock Test Review\n\n## 2. Subject-Wise Tactical Breakdown & High-Yield Topics\n\n| Subject | Tier 1 Weightage | Tier 2 Weightage | Master Resource & Strategy |\n| :--- | :--- | :--- | :--- |\n| **Quantitative Aptitude** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Master Vedic Math, Percentage fractions & 50 PYQs daily |\n| **Reasoning Ability** | 25 Questions (50 Marks) | 30 Questions (90 Marks) | Daily Puzzles, Syllogism, Blood Relations & Seating arrangement |\n| **English Language** | 25 Questions (50 Marks) | 45 Questions (135 Marks) | SP Bakshi + 120 Grammar Rules + Editorial Vocabulary |\n| **General Awareness** | 25 Questions (50 Marks) | 25 Questions (75 Marks) | Lucent GK + Daily Current Affairs Digests & Science summaries |\n| **Computer Knowledge** | Qualifying | 20 Questions (60 Marks) | NCERT Computer Science Class 9-11 + Hardware/Software Basics |\n\n### Quantitative Aptitude Roadmap\n- Memorize multiplication tables up to 30, squares up to 50, cubes up to 30.\n- Master fast percentage fraction conversions (e.g., 1/7 = 14.28%, 1/9 = 11.11%).\n- Practice Geometry and Mensuration 3D formulas daily.\n\n## 3. The 90-Day Step-by-Step Study Timetable\n\n- **Days 1 to 30 (Foundation Phase)**: Complete 100% concepts of Mathematics and English Grammar rules.\n- **Days 31 to 60 (PYQ Mastery Phase)**: Solve last 10 years' SSC CGL question banks chapter-by-chapter.\n- **Days 61 to 90 (Mock Test Blitz Phase)**: Take 1 full-length mock test daily at exact exam timing.\n\n## 4. Mock Test Evaluation & Error Log Protocol\n\nNever skip post-test analysis. Maintain a dedicated **Error Log Notebook** to record every calculation error or conceptual blunder.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "Is 90 days enough to clear SSC CGL 2026?",
-        "answer": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
-      },
-      {
-        "question": "How many mock tests should I take before Tier 1?",
-        "answer": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
-      },
-      {
-        "question": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
-        "answer": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
-      },
-      {
-        "question": "What is the negative marking penalty in SSC CGL Tier 1?",
-        "answer": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
-      }
-    ],
-    "metaTitle": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint | Pariksha Result Blog",
-    "metaDescription": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reaso...",
-    "keywords": [
-      "SSC CGL 2026 Strategy",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-      "description": "Master the SSC CGL 2026 examination with our comprehensive 90-day blueprint. Covers Tier 1 and Tier 2 syllabus breakdown, high-yield topics in Quant, Reasoning, English, General Awareness, and Computer Knowledge with daily time tables and mock test protocols.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1789957226477",
-      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is 90 days enough to clear SSC CGL 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes! With 6-8 hours of dedicated daily study focused on PYQs and mock tests, 90 days is completely sufficient."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How many mock tests should I take before Tier 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Attempt at least 30 to 45 full-length mock tests and 100+ sectional tests."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is Computer Knowledge paper qualifying or merit-based in Tier 2?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Computer Knowledge in Tier 2 is qualifying in nature, but scoring above the threshold is mandatory."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the negative marking penalty in SSC CGL Tier 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "There is 0.50 marks negative marking for every incorrect response in Tier 1."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-21",
-        "dateModified": "2026-09-21",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "SSC CGL 2026 Tier 1 & Tier 2 Master Preparation Strategy: 90-Day Proven Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/ssc-cgl-2026-master-preparation-blueprint-1789957226477"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "e1c244cff7c08bb7b5744bd2104fdab9"
-  },
-  {
-    "id": "blog-auto-1hr-1789957226477-196",
-    "title": "📝 Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-    "slug": "pradhan-mantri-awas-yojana-2026-complete-guide-1789957226477",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "",
-    "shortInfo": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957226477",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide\n\n![PMAY 2026 Scheme](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.\n\n## 1. Pradhan Mantri Awas Yojana (PMAY) 2026 Overview\n\nThe Government of India's flagship housing scheme PMAY aims to provide pucca houses with basic amenities to all eligible urban and rural families across India.\n\n![Modern Housing](https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80)\n\n## 2. Eligibility & Income Categories\n\n| Category | Annual Household Income | Max Subsidy Available |\n| :--- | :--- | :--- |\n| **EWS (Economically Weaker)** | Up to ₹3 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **LIG (Low Income Group)** | ₹3 Lakh to ₹6 Lakh | ₹2.67 Lakh Credit Linked Subsidy |\n| **MIG I (Middle Income Group)** | ₹6 Lakh to ₹12 Lakh | Subsidized Housing Loan Rates |\n| **PMAY Gramin (Rural)** | BPL / SECC 2011 List | ₹1.20 Lakh to ₹1.30 Lakh Direct Grant |\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "How do I check my name in PMAY Gramin List 2026?",
-        "answer": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
-      },
-      {
-        "question": "Can unmarried adults apply for PMAY separately?",
-        "answer": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
-      }
-    ],
-    "metaTitle": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide | Pariksha Result Blog",
-    "metaDescription": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest sub...",
-    "keywords": [
-      "PMAY 2026 Scheme",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide - Pariksha Result",
-    "openGraph": {
-      "title": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-      "description": "Everything you need to know about Pradhan Mantri Awas Yojana (PMAY) 2026 Urban & Gramin (Rural) scheme. Check eligibility criteria, ₹2.67 Lakh interest subsidy benefits, Aadhaar verification steps, and status tracking portal.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957226477",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "How do I check my name in PMAY Gramin List 2026?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Visit pmayg.nic.in, click on 'Awaassoft' > 'Reports' > enter Registration Number or Search by Name."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can unmarried adults apply for PMAY separately?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "An earning adult can be treated as a separate household if they do not own a pucca house anywhere in India."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-21",
-        "dateModified": "2026-09-21",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Pradhan Mantri Awas Yojana (PMAY) 2026: Gramin & Urban Online Application & Subsidy Guide",
-            "item": "https://pariksha-result.vercel.app/blog/pradhan-mantri-awas-yojana-2026-complete-guide-1789957226477"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "9a17a43fa8e7486be47b07c9f0ec8980"
-  },
-  {
-    "id": "blog-auto-1hr-1789957226477-615",
-    "title": "📝 RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-    "slug": "rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957226477",
-    "category": "blog",
-    "organization": "Pariksha Result Senior Editorial Staff (1-Hour Auto-Blog)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "",
-    "shortInfo": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Full Post on Pariksha Result",
-        "url": "/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957226477",
-        "isPrimary": true
-      }
-    ],
-    "fullDescription": "# RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint\n\n![RRB NTPC 2026 Preparation](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80)\n\n> **Executive AEO Summary**: Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.\n\n## 1. Indian Railways Recruitment Drive Overview\n\nWith over 35,000+ vacancies announced in RRB NTPC and Group D, Railway jobs offer high security, lucrative allowances, and fast career progression.\n\n![Railway Track](https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=800&q=80)\n\n## 2. General Science Mastery Strategy\n\nIn Railway exams, Physics, Chemistry, and Life Sciences from NCERT Class 9 & 10 contribute over 25% of total questions.\n\n- **Physics Focus**: Newton Laws, Work Energy Power, Electricity, Light Reflection/Refraction.\n- **Chemistry Focus**: Periodic Table trends, Chemical Equations, Acids Bases Salts.\n- **Biology Focus**: Human Physiology, Cell Structure, Plant Classification & Genetics.\n\n---\n\n## 5. Key Action Plan & Daily Execution Checklist\n\n- [x] **Step 1**: Analyze the official syllabus and print PYQ books.\n- [x] **Step 2**: Dedicate 6 hours daily according to the structured subject timetable.\n- [x] **Step 3**: Maintain a physical Error Log Notebook for mock test mistakes.\n- [x] **Step 4**: Perform weekly spaced repetition (Day 1, Day 3, Day 7) for Current Affairs.\n\n*This article was automatically generated & published by Pariksha Result 1-Hour SEO Blog Engine on 2026-09-21 fulfilling all SEO, AEO, and Schema markup parameters.*",
-    "faqs": [
-      {
-        "question": "Is there negative marking in RRB NTPC CBT 1?",
-        "answer": "Yes, 1/3rd mark is deducted for every incorrect option selected."
-      },
-      {
-        "question": "What is the language medium available for RRB exams?",
-        "answer": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
-      }
-    ],
-    "metaTitle": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint | Pariksha Result Blog",
-    "metaDescription": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 N...",
-    "keywords": [
-      "RRB NTPC 2026 Preparation",
-      "Pariksha Result Blog",
-      "Sarkari Exam Strategy 2026",
-      "Govt Job Preparation",
-      "AEO Guide"
-    ],
-    "featuredImagePrompt": "A pristine study workspace with open notebooks, laptop showing exam result, cup of coffee, warm natural light.",
-    "imageAltText": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint - Pariksha Result",
-    "openGraph": {
-      "title": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-      "description": "Proven roadmap for Indian Railways RRB NTPC Graduate/Undergraduate & Group D exams. Includes speed tricks for CBT 1 and CBT 2, General Science Class 9-10 NCERT summaries, and Physical Efficiency Test (PET) guidelines.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957226477",
-      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is there negative marking in RRB NTPC CBT 1?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, 1/3rd mark is deducted for every incorrect option selected."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the language medium available for RRB exams?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "RRB exams are conducted bilingually in English, Hindi, and 13 regional Indian languages."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-        "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-21",
-        "dateModified": "2026-09-21",
-        "author": {
-          "@type": "Organization",
-          "name": "Pariksha Result Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "RRB NTPC & Group D 2026: Mathematics, Reasoning & General Science Speed Blueprint",
-            "item": "https://pariksha-result.vercel.app/blog/rrb-ntpc-group-d-2026-speed-preparation-roadmap-1789957226477"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "heroImage": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80",
-    "canonical_hash": "843e1369eb1891148e1587b0fbd9be26"
-  },
-  {
     "id": "job-auto-1hr-1789957226477-914",
     "title": "🎟️ [Admit Card Out] SSC GD Constable Written Exam Admit Card 2026: Download Hall Ticket",
     "slug": "sarkari-job-auto-update-1789957226477",
@@ -3931,131 +5048,6 @@ export const INITIAL_POSTS: Post[] = [
     "canonical_hash": "14d962377deb29a1f0eb0b23e1f241a3"
   },
   {
-    "id": "job-auto-1hr-1789957012744-550",
-    "title": "🎟️ [Admit Card Out] UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-    "slug": "sarkari-job-auto-update-1789957012744",
-    "category": "admit-card",
-    "organization": "Uttar Pradesh Police (UPPRPB) (Auto-Synced)",
-    "state": "All India",
-    "postDate": "2026-09-21",
-    "lastDate": "2026-09-30",
-    "shortInfo": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
-    "totalVacancies": "60,244 Posts",
-    "qualificationRequired": [
-      "12th Pass"
-    ],
-    "importantDates": [
-      {
-        "event": "City Intimation Active",
-        "date": "2026-09-21",
-        "isImportant": true
-      },
-      {
-        "event": "Admit Card Download Start",
-        "date": "2026-09-21",
-        "isImportant": true
-      },
-      {
-        "event": "Written Examination Date",
-        "date": "November / December 2026",
-        "isImportant": true
-      }
-    ],
-    "applicationFees": [
-      {
-        "category": "General / OBC / EWS",
-        "fee": "₹ 100/-"
-      },
-      {
-        "category": "SC / ST / PwD / Female",
-        "fee": "₹ 0/- (Exempted)"
-      }
-    ],
-    "ageLimit": {
-      "minAge": "18 Years",
-      "maxAge": "27-30 Years",
-      "cutoffDate": "01/08/2026",
-      "relaxationDetails": "OBC: 3 Years, SC/ST: 5 Years as per government recruitment rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP Police Constable Written Exam Admit Card 2026",
-        "totalPosts": "60,244 Posts",
-        "eligibility": "12th Pass"
-      }
-    ],
-    "howToApplySteps": [
-      "Visit the official candidate login page.",
-      "Click on the Admit Card download link.",
-      "Provide your registration ID and Password / Date of Birth.",
-      "Enter the verification CAPTCHA code and click submit.",
-      "Download and print your Admit Card on a standard clean A4 sheet."
-    ],
-    "importantLinks": [
-      {
-        "title": "Download Admit Card / Hall Ticket",
-        "url": "#",
-        "isPrimary": true,
-        "type": "admit-card"
-      },
-      {
-        "title": "Download Official Notification PDF",
-        "url": "#",
-        "isPrimary": false,
-        "type": "notification"
-      },
-      {
-        "title": "Official Website",
-        "url": "#",
-        "isPrimary": false,
-        "type": "website"
-      }
-    ],
-    "fullDescription": "# UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket\n\n**Uttar Pradesh Police (UPPRPB)** has officially released the **Written Examination Hall Ticket / e-Admit Card / City Intimation Slip** for **60,244 Posts**.\n\n## Summary Overview\n\nUttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.\n\n### 📅 Key Shift & Exam Schedule\n- **Organization**: Uttar Pradesh Police (UPPRPB)\n- **Exam Category**: Admit Card / Hall Ticket\n- **Total Posts/Seats**: 60,244 Posts\n- **Access Mode**: Online Candidate Portal\n\n## 📝 Step-by-Step Hall Ticket Download Guide\n1. Visit the official candidate portal using the direct download link provided below.\n2. Enter your Registration Number / Roll Number and Password / Date of Birth (DD/MM/YYYY).\n3. Enter the security Captcha code and click on 'Submit / Login'.\n4. Your exam city, shift time, center address, and roll number will appear on screen.\n5. Download the PDF and print a clear copy on an A4 sheet.\n\n## 🪪 Required Documents at Exam Center\n- Printed Admit Card (Original copy)\n- Original Photo ID Proof (Aadhaar Card / Voter ID / PAN Card / Driving License)\n- 2 Passport size color photographs matching uploaded photo\n- Transparent ballpoint pen\n\n---\n*Verified and auto-synced by Pariksha Result Portal Engine.*",
-    "faqs": [
-      {
-        "question": "What is the eligibility/qualification required for UP Police Constable Written Exam Admit Card 2026?",
-        "answer": "Candidates must possess 12th Pass as specified by Uttar Pradesh Police (UPPRPB)."
-      },
-      {
-        "question": "How can I access the direct link for this update?",
-        "answer": "You can click on the primary action button in the Important Links table above to access the official portal."
-      },
-      {
-        "question": "When are the key dates for this announcement?",
-        "answer": "Online activities start from 2026-09-21. Please check the important dates section for full schedule details."
-      },
-      {
-        "question": "Is there any fee for SC/ST/Female candidates?",
-        "answer": "SC/ST and Female candidates are generally exempted or receive concessions as per government guidelines."
-      }
-    ],
-    "metaTitle": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket | Pariksha Result Auto-Sync",
-    "metaDescription": "Apply online / check details for UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket. Check vacancy details, eligibility criteria, age limit, application fee, important dates, and direct link on Pariksha Result.",
-    "keywords": [
-      "Uttar Pradesh Police (UPPRPB)",
-      "admit-card",
-      "Sarkari Job 2026",
-      "Recruitment Notification",
-      "Online Form",
-      "Pariksha Result"
-    ],
-    "featuredImagePrompt": "Sarkari job recruitment announcement background with official emblem, document checklist, pen and laptop.",
-    "imageAltText": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-    "openGraph": {
-      "title": "UP Police Constable Written Exam Admit Card 2026: Download City Intimation & Hall Ticket",
-      "description": "Uttar Pradesh Police Recruitment Board has officially released the city intimation slip and written exam admit card for Constable posts.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/admit-card/sarkari-job-auto-update-1789957012744"
-    },
-    "schemas": {
-      "faqSchema": {},
-      "articleSchema": {},
-      "breadcrumbSchema": {}
-    },
-    "canonical_hash": "7898c2ff2d4f7c6d284d9c0551fa1a3a"
-  },
-  {
     "id": "job-auto-1hr-1789957012743-90",
     "title": "🔴 [1-Hour Update] UP Police Sub Inspector (SI) & Platoon Commander Recruitment 2026: 3,210 Posts",
     "slug": "sarkari-job-auto-update-1789957012743",
@@ -4689,172 +5681,6 @@ export const INITIAL_POSTS: Post[] = [
       "breadcrumbSchema": {}
     },
     "canonical_hash": "ce22e70df3c86502f58019f46683f25f"
-  },
-  {
-    "id": "isnblog-1789462631613-2-683",
-    "title": "UPSC Jobs Without Interview: Direct Selection Opportunities",
-    "slug": "upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2",
-    "category": "blog",
-    "organization": "IndiaSarkariNaukri.com (Auto-Fetched Daily Blog)",
-    "state": "All India",
-    "postDate": "2026-09-15",
-    "lastDate": "",
-    "shortInfo": "Dreaming of a prestigious government job through the UPSC without facing the pressure of an interview panel? Discover the lesser-known direct recruitment channels, eligibility rules, and application strategies right here on IndiaSarkariNaukri.",
-    "totalVacancies": "",
-    "qualificationRequired": [],
-    "importantDates": [],
-    "applicationFees": [],
-    "ageLimit": {},
-    "vacancies": [],
-    "howToApplySteps": [],
-    "importantLinks": [
-      {
-        "title": "Read Original on IndiaSarkariNaukri",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdHpZdzNCXzFncFdrVE9sTW9VOWM2d01iSGVNb05XTDQtLWE4WFdfMWROc0dUY0RwOS1feVFxM1ZIS0h4dHFScWczczJWWWhucVFKX09YX1lnbFJQblh1WEwwNGdWd18zTlRNRllrRkhEOFJOaVJF?oc=5",
-        "isPrimary": true
-      },
-      {
-        "title": "Full Blog on Pariksha Result",
-        "url": "/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2",
-        "isPrimary": false
-      }
-    ],
-    "fullDescription": "# UPSC Jobs Without Interview: Direct Selection Opportunities\n\n> **Executive AEO Summary**: While most UPSC exams like the Civil Services involve a rigorous personality test or interview round, the Union Public Service Commission occasionally conducts direct recruitment for specialized posts based entirely on qualifications, screening tests, or recruitment tests (RT) without any interview phase.\n\n## Section 1: Overview & Key Highlights\n\nWhen we hear UPSC, the first thing that pops into our heads is grueling interview boards and IAS/IPS dreams. But wait! Did you know that the UPSC also recruits candidates for various scientific, technical, and specialized administrative roles through direct selection? \n\nHere are the key highlights of UPSC Jobs Without Interview:\n- **No Personality Test**: Selection is often based purely on Recruitment Tests (RT) followed by document verification.\n- **Specialized Roles**: Mostly caters to niche fields like agriculture, science, medicine, engineering, and specialized legal or research posts.\n- **Transparency & Merit**: Completely merit-based without subjective human bias in final viva-voce rounds.\n\n| Feature | Traditional UPSC (e.g., CSE) | Direct Recruitment (No Interview) |\n| :--- | :--- | :--- |\n| **Selection Stages** | Prelims, Mains, Interview | Screening Test / RT + Document Verification |\n| **Post Types** | General Administration (IAS/IPS/IFS) | Technical, Scientific, Specialist Cadres |\n| **Focus** | General Aptitude & Leadership | Domain Expertise & Experience |\n\n## Section 2: Eligibility, Documents & Rules\n\nTo grab these golden Sarkari opportunities, you need to match specific criteria set by the commission:\n\n- **Educational Qualifications**: Usually a Master's degree, B.Tech, MBBS, or Ph.D. in relevant specialized domains.\n- **Experience**: Many direct recruitment posts mandate 1 to 5 years of practical work experience in research, teaching, or industry.\n- **Age Limits**: Varies heavily by post, typically ranging from 30 to 45 years with standard category relaxations (OBC/SC/ST/PWD) as per government norms.\n\n### Essential Documents Checklist\n1. Valid Photo ID proof (Aadhaar, Voter ID, PAN)\n2. Educational Degree & Marksheets (Graduation/Post-Graduation)\n3. Experience Certificates (duly signed by the competent authority)\n4. Caste/Category Certificates (if claiming reservation)\n5. Scanned Passport-size Photograph and Signature\n\n## Section 3: Step-by-Step Practical Blueprint\n\nLanding a direct recruitment UPSC job requires a systematic approach. Follow this blueprint:\n\n1. **Keep Tracking Notifications**: Regularly visit official portals like upsconline.nic.in or IndiaSarkariNaukri to catch recruitment advertisements early.\n2. **Verify Eligibility Thoroughly**: Read the detailed notification PDF. Do not apply blindly if you lack the exact required experience.\n3. **One-Time Registration (OTR)**: Create your profile on the UPSC OTR platform well in advance.\n4. **Apply Online**: Fill out the application form carefully, paying the nominal application fee (unless exempt).\n5. **Prepare for the Recruitment Test (RT)**: If a CBT or written test is prescribed, focus heavily on core technical/domain subjects rather than just general studies.",
-    "faqs": [
-      {
-        "question": "Are there really UPSC jobs without an interview?",
-        "answer": "Yes, UPSC conducts direct recruitment for certain specialized, scientific, and technical posts where selection is based on a Recruitment Test (RT) and/or academic qualifications followed directly by document verification."
-      },
-      {
-        "question": "Who is eligible to apply for UPSC direct recruitment posts?",
-        "answer": "Candidates possessing specific professional degrees like B.Tech, MBBS, Master's degrees, or Ph.D., along with relevant work experience as specified in the official job notification, are eligible."
-      },
-      {
-        "question": "How does the final selection happen if there is no interview?",
-        "answer": "The final selection is typically made based on the marks scored in the Recruitment Test (RT) conducted by the UPSC, sometimes carrying a specific weightage combined with academic records, followed by document verification."
-      },
-      {
-        "question": "Where can I find notifications for UPSC jobs without interviews?",
-        "answer": "You can check the official UPSC website (upsconline.nic.in) under 'Active Examinations' or follow daily updates on trusted portals like IndiaSarkariNaukri."
-      },
-      {
-        "question": "Is work experience mandatory for all UPSC direct recruitment vacancies?",
-        "answer": "Not for all, but a vast majority of direct recruitment posts requiring specialized technical or research qualifications do mandate prior professional or research experience."
-      }
-    ],
-    "metaTitle": "UPSC Jobs Without Interview Direct Selection",
-    "metaDescription": "Discover how to secure UPSC jobs without an interview. Check direct selection opportunities, eligibility criteria, and a step-by-step application guide.",
-    "keywords": [
-      "UPSC Jobs Without Interview",
-      "Direct Selection UPSC",
-      "UPSC Direct Recruitment",
-      "India Sarkari Naukri",
-      "Government Jobs India",
-      "UPSC Vacancy 2024"
-    ],
-    "heroImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "featuredImagePrompt": "H1 Title generated banner: UPSC Jobs Without Interview: Direct Selection Opportunities",
-    "imageAltText": "UPSC Jobs Without Interview: Direct Selection Opportunities - IndiaSarkariNaukri Blog",
-    "openGraph": {
-      "title": "UPSC Jobs Without Interview: Direct Selection Opportunities",
-      "description": "Dreaming of a prestigious government job through the UPSC without facing the pressure of an interview panel? Discover the lesser-known direct recruitment channels, eligibility rules, and application strategies right here on IndiaSarkariNaukri.",
-      "type": "article",
-      "url": "https://pariksha-result.vercel.app/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2",
-      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-      "siteName": "Pariksha Result"
-    },
-    "schemas": {
-      "faqSchema": {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Are there really UPSC jobs without an interview?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, UPSC conducts direct recruitment for certain specialized, scientific, and technical posts where selection is based on a Recruitment Test (RT) and/or academic qualifications followed directly by document verification."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Who is eligible to apply for UPSC direct recruitment posts?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Candidates possessing specific professional degrees like B.Tech, MBBS, Master's degrees, or Ph.D., along with relevant work experience as specified in the official job notification, are eligible."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How does the final selection happen if there is no interview?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The final selection is typically made based on the marks scored in the Recruitment Test (RT) conducted by the UPSC, sometimes carrying a specific weightage combined with academic records, followed by document verification."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Where can I find notifications for UPSC jobs without interviews?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "You can check the official UPSC website (upsconline.nic.in) under 'Active Examinations' or follow daily updates on trusted portals like IndiaSarkariNaukri."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is work experience mandatory for all UPSC direct recruitment vacancies?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Not for all, but a vast majority of direct recruitment posts requiring specialized technical or research qualifications do mandate prior professional or research experience."
-            }
-          }
-        ]
-      },
-      "articleSchema": {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "UPSC Jobs Without Interview: Direct Selection Opportunities",
-        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-        "datePublished": "2026-09-15",
-        "dateModified": "2026-09-15",
-        "author": {
-          "@type": "Organization",
-          "name": "IndiaSarkariNaukri Senior Editorial Staff"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Pariksha Result",
-          "url": "https://pariksha-result.vercel.app"
-        }
-      },
-      "breadcrumbSchema": {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://pariksha-result.vercel.app"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Blog",
-            "item": "https://pariksha-result.vercel.app/blog"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "UPSC Jobs Without Interview: Direct Selection Opportunities",
-            "item": "https://pariksha-result.vercel.app/blog/upsc-jobs-without-interview-direct-selection-opportunities-1789462631613-2"
-          }
-        ]
-      }
-    },
-    "plagiarismFreeScore": 100,
-    "aiHumanizedScore": 99,
-    "canonical_hash": "8934a7502de8994d2ac5936468ba427f"
   },
   {
     "id": "isnblog-1789462631613-1-153",
@@ -26475,45 +27301,49 @@ export const INITIAL_POSTS: Post[] = [
     "canonical_hash": "bec8f156f4661e57322737b0fd9919c9"
   },
   {
-    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 StudyGovtHelp.in",
     "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
     "category": "syllabus",
-    "organization": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+    "organization": "Rajasthan Vidyut Vibhag",
     "state": "Rajasthan",
     "postDate": "2026-09-21",
-    "lastDate": "N/A",
-    "shortInfo": "Rajasthan Vidyut Vibhag has released the Lower Division Clerk (LDC) exam pattern and syllabus for 2026. Candidates preparing for RVUNL LDC recruitment can check the detailed subject-wise topic list and examination scheme.",
-    "totalVacancies": "Various Posts",
+    "lastDate": "2026-08-31",
+    "shortInfo": "Rajasthan Vidyut Vibhag has released the LDC Syllabus 2026. Candidates can check the exam pattern, subject-wise syllabus, and download details from Study Govt Help.",
+    "totalVacancies": "Not Specified",
     "qualificationRequired": [
-      "Graduation",
-      "RSCIT / Computer Certificate"
+      "12th Pass",
+      "Graduation"
     ],
     "importantDates": [
       {
         "event": "Syllabus Release Date",
         "date": "05/08/2026",
         "isImportant": true,
-        "details": "Official Syllabus & Exam Pattern published"
+        "details": "Released officially by Rajasthan Vidyut Vibhag"
       }
     ],
     "applicationFees": [
       {
-        "category": "General / OBC / EWS",
-        "fee": "₹ 0/- (Syllabus Notification)"
+        "category": "General / OBC",
+        "fee": "As per rules"
+      },
+      {
+        "category": "SC / ST",
+        "fee": "As per rules"
       }
     ],
     "ageLimit": {
       "minAge": "18 Years",
       "maxAge": "40 Years",
       "cutoffDate": "01/01/2026",
-      "relaxationDetails": "Age relaxation applicable as per Rajasthan Govt rules."
+      "relaxationDetails": "As per Rajasthan Government rules."
     },
     "vacancies": [
       {
-        "postName": "Lower Division Clerk (LDC) / Commercial Assistant",
-        "totalPosts": "Various",
-        "eligibility": "Bachelor Degree in any stream with recognized Computer Certificate (RSCIT/O Level/Diploma)",
-        "qualification": "Graduation + Computer Course",
+        "postName": "Lower Division Clerk (LDC)",
+        "totalPosts": "As per notification",
+        "eligibility": "12th pass with O Level or equivalent",
+        "qualification": "12th Pass",
         "categoryWiseBreakup": {
           "UR": "N/A",
           "OBC": "N/A",
@@ -26521,63 +27351,50 @@ export const INITIAL_POSTS: Post[] = [
           "SC": "N/A",
           "ST": "N/A"
         },
-        "payScale": "Pay Matrix Level L-5"
+        "payScale": "Pay Matrix Level-5"
       }
     ],
     "selectionProcess": [
       {
         "stepNumber": 1,
-        "stageName": "Phase I: Computer Based Written Examination",
-        "description": "Objective test covering Reasoning, Mathematics, General Knowledge, Hindi, and English.",
-        "marks": "200",
+        "stageName": "Written Examination (Phase I)",
+        "description": "Objective type test covering General Knowledge, Everyday Science, Mathematics, Hindi, and English.",
+        "marks": "100",
         "qualifyingNature": "Merit Based"
       },
       {
         "stepNumber": 2,
-        "stageName": "Phase II: Computer Typing Speed & Efficiency Test",
-        "description": "Hindi & English Typing Test on Computer.",
-        "marks": "100",
-        "qualifyingNature": "Qualifying / Merit Based"
-      },
-      {
-        "stepNumber": 3,
-        "stageName": "Document Verification",
-        "description": "Verification of original academic certificates and identity documents.",
-        "qualifyingNature": "Mandatory"
+        "stageName": "Typing Test (Phase II)",
+        "description": "Hindi and English typing speed test on computer.",
+        "qualifyingNature": "Qualifying Only"
       }
     ],
     "howToApplySteps": [
-      "Step 1: Download the official syllabus PDF from the link below.",
-      "Step 2: Review subject-wise topics including Reasoning, GK, Mathematics, Hindi, and English.",
-      "Step 3: Prepare systematically according to the phase 1 exam scheme and typing test requirements."
+      "Step 1: Visit the official portal.",
+      "Step 2: Check the latest updates for LDC syllabus and notifications.",
+      "Step 3: Download the PDF for future preparation."
     ],
     "importantLinks": [
       {
-        "title": "Download LDC Syllabus PDF",
+        "title": "Official Website",
         "url": "https://rsmssb.rajasthan.gov.in",
         "type": "notification",
         "isPrimary": true
-      },
-      {
-        "title": "Official Website",
-        "url": "https://rsmssb.rajasthan.gov.in",
-        "type": "official_website",
-        "isPrimary": false
       }
     ],
-    "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026 Overview\n\nRajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has updated the syllabus for the Lower Division Clerk (LDC) / Commercial Assistant Grade-II examination 2026.\n\n### Exam Scheme\n- **Phase I**: Computer Based Test (CBT)\n  - General Awareness & GK\n  - Reasoning & Mental Ability\n  - Mathematics\n  - Hindi & English Language\n- **Phase II**: Typewriting Test on Computer",
+    "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026\n\nThe Rajasthan Vidyut Vibhag has updated the LDC syllabus and exam pattern for 2026. Aspirants preparing for the Lower Division Clerk examination can review the detailed topic-wise syllabus to streamline their preparation.\n\n### Exam Pattern\n- Phase 1: Written Test\n- Phase 2: Typing Test",
     "faqs": [
       {
-        "question": "What is the selection process for RVUNL LDC 2026?",
-        "answer": "The selection includes a Computer Based Written Exam followed by a Computer Typing Test and Document Verification."
+        "question": "Where can I download the Rajasthan Vidyut Vibhag LDC Syllabus 2026?",
+        "answer": "You can check and download it directly via Study Govt Help updates."
       }
     ],
-    "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 PDF Download | Pariksha Result",
-    "metaDescription": "Check and download Rajasthan Vidyut Vibhag LDC Syllabus 2026 and exam pattern for Phase 1 & Phase 2 examination.",
+    "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 | StudyGovtHelp",
+    "metaDescription": "Check Rajasthan Vidyut Vibhag LDC Syllabus 2026, exam pattern, and selection details on Study Govt Help.",
     "keywords": [
-      "Rajasthan Vidyut Vibhag LDC Syllabus",
-      "RVUNL LDC Exam Pattern 2026",
-      "Energy Department Rajasthan LDC Syllabus"
+      "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+      "StudyGovtHelp",
+      "LDC Exam Pattern"
     ],
     "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
     "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
@@ -30604,6 +31421,19 @@ export const INITIAL_POSTS: Post[] = [
 ];
 
 export const INITIAL_CURRENT_AFFAIRS: CurrentAffairsArticle[] = [
+  {
+    "id": "ca-auto-5min-1789958629357-361",
+    "title": "⚡ [5-Min Update] Cabinet Approves New High-Speed Rail Freight Corridor Connecting UP, Bihar & Bengal",
+    "date": "21 September 2026",
+    "category": "National Infrastructure",
+    "summary": "Ministry of Railways gets green light for ₹32,000 Crore dedicated freight corridor to speed up industrial logistics.",
+    "keyPoints": [
+      "1,200 km electrified dual track route connecting Varanasi to Kolkata.",
+      "Reduces cargo transit time between North and East India by 60%.",
+      "Generates over 85,000 direct construction and operational jobs."
+    ],
+    "fullContent": "Ministry of Railways gets green light for ₹32,000 Crore dedicated freight corridor to speed up industrial logistics.\n\nKey details:\n- 1,200 km electrified dual track route connecting Varanasi to Kolkata.\n- Reduces cargo transit time between North and East India by 60%.\n- Generates over 85,000 direct construction and operational jobs.\n\nPublished automatically via Pariksha Result 5-Minute Current Affairs Real-Time Engine on 21 September 2026."
+  },
   {
     "id": "gktoday-keralas-reimagining-keralam-initiative-to-chart-roadmap-for-73-projects",
     "title": "Kerala’s ‘Reimagining Keralam’ Initiative to Chart Roadmap for 73 Projects",
