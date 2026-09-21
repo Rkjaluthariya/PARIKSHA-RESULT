@@ -474,35 +474,159 @@ function generateStateHtmlBody(stateSlug: string, posts: any[]): string {
   `;
 }
 
-function generateToolHtmlBody(toolSlug: string): string {
+function generateToolHtmlBody(toolSlug: string, allPosts: any[]): string {
   const meta = TOOLS_META[toolSlug] || {
     name: toolSlug,
     title: `${toolSlug} - Pariksha Result`,
     description: 'Free Sarkari Exam Utility Tool.'
   };
 
+  let specificToolContent = '';
+
+  if (toolSlug === 'photo-signature-resizer') {
+    specificToolContent = `
+      <div style="text-align: left; margin-top: 24px;">
+        <h3 style="color: #0F4C81; font-size: 18px; margin-bottom: 12px;">📌 Official Examination Photo &amp; Signature Dimensions Guide (2026)</h3>
+        <table style="width: 100%; border-collapse: collapse; font-size: 13px; margin-bottom: 20px; border: 1px solid #CBD5E1;">
+          <thead>
+            <tr style="background: #F1F5F9; text-align: left;">
+              <th style="padding: 10px; border: 1px solid #CBD5E1;">Exam Board</th>
+              <th style="padding: 10px; border: 1px solid #CBD5E1;">Photo Size (KB)</th>
+              <th style="padding: 10px; border: 1px solid #CBD5E1;">Photo Dimensions</th>
+              <th style="padding: 10px; border: 1px solid #CBD5E1;">Signature Size (KB)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; font-weight: 700;">SSC (CGL, CHSL, GD, MTS)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">20 KB to 50 KB</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1;">3.5 cm x 4.5 cm (138x177 px)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">10 KB to 20 KB</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; font-weight: 700;">UPSC (Civil Services, NDA, CDS)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">20 KB to 300 KB</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1;">350 x 350 to 1000 x 1000 px</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">20 KB to 300 KB</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; font-weight: 700;">Railway RRB (NTPC, Group D, ALP)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">30 KB to 70 KB</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1;">35 mm x 45 mm (JPEG)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">30 KB to 70 KB</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; font-weight: 700;">IBPS / SBI (PO, Clerk, SO)</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">20 KB to 50 KB</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1;">200 x 230 Pixels</td>
+              <td style="padding: 10px; border: 1px solid #CBD5E1; color: #166534; font-weight: 600;">10 KB to 20 KB</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3 style="color: #0F4C81; font-size: 16px; margin-bottom: 8px;">📋 How to Resize Photo &amp; Signature Online for Sarkari Form:</h3>
+        <ol style="font-size: 14px; line-height: 1.6; color: #334155; padding-left: 20px;">
+          <li>Click the <strong>Choose File</strong> button and upload your passport size photo or scanned signature.</li>
+          <li>Select the target file size (e.g. 20 KB to 50 KB for SSC, or enter custom KB).</li>
+          <li>Set the width and height in pixels or centimeters if required by your exam board.</li>
+          <li>Click <strong>Resize &amp; Compress</strong> to instantly download the 100% compliant image.</li>
+        </ol>
+      </div>
+    `;
+  } else if (toolSlug === 'sarkari-salary-calculator') {
+    specificToolContent = `
+      <div style="text-align: left; margin-top: 24px;">
+        <h3 style="color: #0F4C81; font-size: 18px; margin-bottom: 12px;">📊 7th Pay Commission Salary Structure (Pay Matrix Level 1 to 14)</h3>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6;">
+          Government salary in India is calculated based on the 7th Central Pay Commission (CPC) recommendations. Key salary components include:
+        </p>
+        <ul style="font-size: 14px; line-height: 1.6; color: #334155; padding-left: 20px;">
+          <li><strong>Basic Pay:</strong> Base pay assigned to your Pay Band &amp; Grade Pay level.</li>
+          <li><strong>Dearness Allowance (DA):</strong> Central Dearness Allowance rate (currently 50%+).</li>
+          <li><strong>House Rent Allowance (HRA):</strong> Categorized by City Tier (X: 30%, Y: 20%, Z: 10%).</li>
+          <li><strong>Transport Allowance (TPTA):</strong> Allowance with DA on TPTA for commuting.</li>
+          <li><strong>Deductions:</strong> NPS (National Pension Scheme 10% of Basic + DA), CGEGIS, and Professional Tax.</li>
+        </ul>
+      </div>
+    `;
+  } else if (toolSlug === 'age-calculator') {
+    specificToolContent = `
+      <div style="text-align: left; margin-top: 24px;">
+        <h3 style="color: #0F4C81; font-size: 18px; margin-bottom: 12px;">🎯 Sarkari Job Age Eligibility &amp; Cutoff Calculation Rules</h3>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6;">
+          Most recruitment notifications specify a critical reference date (e.g. 01/01/2026 or 01/08/2026). This calculator computes your exact completed years, months, and days to verify your qualification without manual calculation errors.
+        </p>
+      </div>
+    `;
+  } else {
+    specificToolContent = `
+      <div style="text-align: left; margin-top: 24px;">
+        <h3 style="color: #0F4C81; font-size: 18px; margin-bottom: 12px;">💡 About ${escapeHtml(meta.name)}</h3>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6;">
+          This interactive tool is provided free of charge by Pariksha Result to help competitive exam aspirants calculate eligibility, analyze trends, track preparation, and complete online application forms effortlessly.
+        </p>
+      </div>
+    `;
+  }
+
+  // Related Tools Navigation List
+  const otherToolsList = Object.entries(TOOLS_META)
+    .map(([slug, t]) => `<li><a href="/tools/${slug}" style="color: #0F4C81; text-decoration: none; font-weight: 600;">${escapeHtml(t.name)}</a></li>`)
+    .join('');
+
+  // Top Jobs Links
+  const topJobs = allPosts.slice(0, 8).map(p => `
+    <li><a href="/${escapeHtml(p.category || 'latest-jobs')}/${escapeHtml(p.slug || p.id)}" style="color: #0F4C81; text-decoration: none;">${escapeHtml(cleanTitleText(p.title || ''))}</a></li>
+  `).join('');
+
   return `
     <header style="background: #0F4C81; color: #ffffff; padding: 24px 16px; text-align: center;">
       <a href="/" style="color: #ffffff; text-decoration: none; font-size: 24px; font-weight: 800;">Pariksha Result 2026</a>
-      <h1 style="margin: 8px 0 4px 0; font-size: 20px; font-weight: 700;">${escapeHtml(meta.name)}</h1>
-      <p style="margin: 0; font-size: 13px; opacity: 0.9; max-width: 600px; margin: 0 auto;">${escapeHtml(meta.description)}</p>
+      <h1 style="margin: 8px 0 4px 0; font-size: 22px; font-weight: 700;">${escapeHtml(meta.name)}</h1>
+      <p style="margin: 0; font-size: 13px; opacity: 0.9; max-width: 650px; margin: 0 auto;">${escapeHtml(meta.description)}</p>
     </header>
 
-    <main style="max-width: 800px; margin: 0 auto; padding: 24px 16px; font-family: system-ui, -apple-system, sans-serif; text-align: center;">
-      <nav style="font-size: 13px; color: #64748B; margin-bottom: 20px; text-align: left;">
+    <main style="max-width: 950px; margin: 0 auto; padding: 24px 16px; font-family: system-ui, -apple-system, sans-serif;">
+      <nav style="font-size: 13px; color: #64748B; margin-bottom: 20px;">
         <a href="/" style="color: #0F4C81; text-decoration: none;">Home</a> &raquo;
+        <a href="/tools/photo-signature-resizer" style="color: #0F4C81; text-decoration: none;">Candidate Tools</a> &raquo;
         <span style="color: #334155;">${escapeHtml(meta.name)}</span>
       </nav>
 
-      <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 32px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+      <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 12px; padding: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 24px;">
         <h2 style="font-size: 20px; color: #0F4C81; margin-top: 0;">${escapeHtml(meta.name)} (Online Interactive Tool)</h2>
-        <p style="font-size: 14px; color: #475569; line-height: 1.6; max-width: 650px; margin: 0 auto 24px auto;">
+        <p style="font-size: 14px; color: #475569; line-height: 1.6; margin-bottom: 16px;">
           ${escapeHtml(meta.description)}
         </p>
-        <div style="padding: 16px; background: #EFF6FF; border: 1px solid #BFDBFE; border-radius: 8px; color: #1E40AF; font-size: 13px;">
-          🚀 Interactive Tool is loading in your browser. If JavaScript is disabled, please open in a modern browser.
+        
+        <div style="padding: 16px; background: #EFF6FF; border: 1px solid #BFDBFE; border-radius: 8px; color: #1E40AF; font-size: 13px; margin-bottom: 20px;">
+          🚀 <strong>Interactive Tool Active:</strong> Select your files or options above to compute results in real-time.
+        </div>
+
+        ${specificToolContent}
+      </div>
+
+      <!-- Quick Navigation Matrix -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+        <div style="background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px;">
+          <h4 style="margin: 0 0 10px 0; color: #0F4C81; font-size: 15px;">🛠️ All Free Candidate Tools</h4>
+          <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.8;">
+            ${otherToolsList}
+          </ul>
+        </div>
+        <div style="background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 8px; padding: 16px;">
+          <h4 style="margin: 0 0 10px 0; color: #0F4C81; font-size: 15px;">🔥 Latest Trending Recruitment</h4>
+          <ul style="margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.8;">
+            ${topJobs}
+          </ul>
         </div>
       </div>
+
+      <footer style="margin-top: 32px; text-align: center; font-size: 13px; color: #64748B; border-top: 1px solid #E2E8F0; padding-top: 20px;">
+        <a href="/" style="color: #0F4C81; font-weight: 700; text-decoration: none;">&larr; Back to Pariksha Result Home</a> |
+        <a href="/sitemap" style="color: #0F4C81; font-weight: 600; text-decoration: none;">HTML Sitemap</a> |
+        <a href="/latest-jobs" style="color: #0F4C81; font-weight: 600; text-decoration: none;">Latest Jobs</a>
+      </footer>
     </main>
   `;
 }
@@ -717,11 +841,13 @@ export function prerenderAllRoutes() {
   for (const [toolSlug, toolInfo] of Object.entries(TOOLS_META)) {
     const route = `/tools/${toolSlug}`;
     const canonicalUrl = `${BASE_URL}${route}`;
-    const bodyHtml = generateToolHtmlBody(toolSlug);
+    const bodyHtml = generateToolHtmlBody(toolSlug, INITIAL_POSTS);
 
     let pageHtml = baseHtml;
     pageHtml = pageHtml.replace(/<title>[\s\S]*?<\/title>/gi, `<title>${escapeHtml(toolInfo.title)}</title>`);
     pageHtml = pageHtml.replace(/<meta name="description" content="[\s\S]*?"\s*\/?>/gi, `<meta name="description" content="${escapeHtml(toolInfo.description)}" />`);
+    pageHtml = pageHtml.replace(/<meta property="og:title" content="[\s\S]*?"\s*\/?>/gi, `<meta property="og:title" content="${escapeHtml(toolInfo.title)}" />`);
+    pageHtml = pageHtml.replace(/<meta property="og:description" content="[\s\S]*?"\s*\/?>/gi, `<meta property="og:description" content="${escapeHtml(toolInfo.description)}" />`);
     pageHtml = pageHtml.replace(/<meta property="og:url" content="[\s\S]*?"\s*\/?>/gi, `<meta property="og:url" content="${canonicalUrl}" />`);
 
     if (pageHtml.includes('rel="canonical"')) {
@@ -735,6 +861,86 @@ export function prerenderAllRoutes() {
     writeStaticHtml(route, pageHtml);
     count++;
   }
+
+  // 5. Pre-render HTML Sitemap (/sitemap)
+  const sitemapRoute = `/sitemap`;
+  const sitemapCanonical = `${BASE_URL}/sitemap`;
+  const sitemapTitle = `Complete HTML Sitemap & Directory 2026 | Pariksha Result`;
+  const sitemapDesc = `Browse the complete directory of Sarkari Result, Latest Jobs, Admit Cards, Answer Keys, State Hubs, and Candidate Tools on Pariksha Result.`;
+
+  const toolsHtmlLinks = Object.entries(TOOLS_META).map(([slug, t]) => `
+    <li style="margin-bottom: 6px;"><a href="/tools/${slug}" style="color: #0F4C81; text-decoration: none; font-weight: 600;">${escapeHtml(t.name)}</a></li>
+  `).join('');
+
+  const catHtmlLinks = Object.entries(CATEGORY_META).map(([slug, c]) => `
+    <li style="margin-bottom: 6px;"><a href="/${slug}" style="color: #0F4C81; text-decoration: none; font-weight: 600;">${escapeHtml(c.name)}</a></li>
+  `).join('');
+
+  const stateHtmlLinks = Object.entries(STATE_NAMES).map(([slug, sName]) => `
+    <li style="margin-bottom: 6px;"><a href="/state/${slug}" style="color: #0F4C81; text-decoration: none; font-weight: 600;">${escapeHtml(sName)} Jobs</a></li>
+  `).join('');
+
+  const allPostsHtmlLinks = INITIAL_POSTS.map(p => `
+    <li style="margin-bottom: 8px;"><a href="/${escapeHtml(p.category || 'latest-jobs')}/${escapeHtml(p.slug || p.id)}" style="color: #0F4C81; text-decoration: none;">${escapeHtml(cleanTitleText(p.title || ''))}</a> <span style="font-size: 11px; color: #64748B;">(${escapeHtml(p.organization || 'Govt')})</span></li>
+  `).join('');
+
+  const sitemapBodyHtml = `
+    <header style="background: #0F4C81; color: #ffffff; padding: 24px 16px; text-align: center;">
+      <a href="/" style="color: #ffffff; text-decoration: none; font-size: 24px; font-weight: 800;">Pariksha Result 2026</a>
+      <h1 style="margin: 8px 0 4px 0; font-size: 22px; font-weight: 700;">HTML Sitemap &amp; Website Directory</h1>
+      <p style="margin: 0; font-size: 13px; opacity: 0.9;">Complete index of all sarkari exams, tools, notifications, and portal categories</p>
+    </header>
+
+    <main style="max-width: 1000px; margin: 0 auto; padding: 24px 16px; font-family: system-ui, -apple-system, sans-serif;">
+      <nav style="font-size: 13px; color: #64748B; margin-bottom: 20px;">
+        <a href="/" style="color: #0F4C81; text-decoration: none;">Home</a> &raquo;
+        <span style="color: #334155;">HTML Sitemap</span>
+      </nav>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px;">
+        <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 8px; padding: 18px;">
+          <h2 style="font-size: 16px; color: #0F4C81; margin-top: 0; margin-bottom: 12px; border-bottom: 2px solid #E2E8F0; padding-bottom: 6px;">🛠️ Free Candidate Tools</h2>
+          <ul style="padding-left: 18px; margin: 0; font-size: 13px;">${toolsHtmlLinks}</ul>
+        </div>
+        <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 8px; padding: 18px;">
+          <h2 style="font-size: 16px; color: #0F4C81; margin-top: 0; margin-bottom: 12px; border-bottom: 2px solid #E2E8F0; padding-bottom: 6px;">📂 Main Categories</h2>
+          <ul style="padding-left: 18px; margin: 0; font-size: 13px;">${catHtmlLinks}</ul>
+        </div>
+        <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 8px; padding: 18px;">
+          <h2 style="font-size: 16px; color: #0F4C81; margin-top: 0; margin-bottom: 12px; border-bottom: 2px solid #E2E8F0; padding-bottom: 6px;">📍 State Job Portals</h2>
+          <ul style="padding-left: 18px; margin: 0; font-size: 13px;">${stateHtmlLinks}</ul>
+        </div>
+      </div>
+
+      <div style="background: #ffffff; border: 1px solid #E2E8F0; border-radius: 8px; padding: 20px;">
+        <h2 style="font-size: 18px; color: #0F4C81; margin-top: 0; margin-bottom: 16px; border-bottom: 2px solid #E2E8F0; padding-bottom: 6px;">📄 All Active Sarkari Job &amp; Result Notifications (${INITIAL_POSTS.length})</h2>
+        <ul style="padding-left: 20px; margin: 0; font-size: 13px; line-height: 1.6;">
+          ${allPostsHtmlLinks}
+        </ul>
+      </div>
+
+      <footer style="margin-top: 32px; text-align: center; font-size: 13px; color: #64748B;">
+        <a href="/" style="color: #0F4C81; font-weight: 700; text-decoration: none;">&larr; Return to Home</a> |
+        <a href="/sitemap.xml" style="color: #0F4C81; font-weight: 600; text-decoration: none;">XML Sitemap Feed</a>
+      </footer>
+    </main>
+  `;
+
+  let sitemapPageHtml = baseHtml;
+  sitemapPageHtml = sitemapPageHtml.replace(/<title>[\s\S]*?<\/title>/gi, `<title>${escapeHtml(sitemapTitle)}</title>`);
+  sitemapPageHtml = sitemapPageHtml.replace(/<meta name="description" content="[\s\S]*?"\s*\/?>/gi, `<meta name="description" content="${escapeHtml(sitemapDesc)}" />`);
+  sitemapPageHtml = sitemapPageHtml.replace(/<meta property="og:url" content="[\s\S]*?"\s*\/?>/gi, `<meta property="og:url" content="${sitemapCanonical}" />`);
+
+  if (sitemapPageHtml.includes('rel="canonical"')) {
+    sitemapPageHtml = sitemapPageHtml.replace(/<link rel="canonical" href="[\s\S]*?"\s*\/?>/gi, `<link rel="canonical" href="${sitemapCanonical}" />`);
+  } else {
+    sitemapPageHtml = sitemapPageHtml.replace('</head>', `  <link rel="canonical" href="${sitemapCanonical}" />\n</head>`);
+  }
+
+  sitemapPageHtml = sitemapPageHtml.replace(/<div id="root">[\s\S]*?<\/div>\s*<script type="module"/i, `<div id="root">\n${sitemapBodyHtml}\n</div>\n    <script type="module"`);
+
+  writeStaticHtml(sitemapRoute, sitemapPageHtml);
+  count++;
 
   console.log(`✅ [Prerender Complete] Pre-rendered ${count} unique static HTML routes for Googlebot & Vercel deployment!`);
 }

@@ -1,5 +1,358 @@
 [
   {
+    "id": "log-1789957265933-yxov",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "RSSB Exam Results 2026 Link",
+    "organization": "RSMSSB",
+    "category": "results",
+    "status": "New",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:21:05.934Z",
+    "postData": {
+      "title": "RSSB Exam Results 2026 Link",
+      "slug": "rssb-exam-results-2026-link",
+      "category": "results",
+      "organization": "RSMSSB",
+      "state": "Rajasthan",
+      "postDate": "2026-08-13",
+      "lastDate": "N/A",
+      "shortInfo": "Rajasthan Staff Selection Board (RSSB / RSMSSB) releases exam results and scorecards for various direct recruitment examinations online. Check direct download links here.",
+      "totalVacancies": "Various Posts",
+      "qualificationRequired": [
+        "10th Pass",
+        "12th Pass",
+        "Graduation"
+      ],
+      "importantDates": [
+        {
+          "event": "Result Update Date",
+          "date": "13/08/2026",
+          "isImportant": true,
+          "details": "Latest result portal update"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/-"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "As per RSSB rules."
+      },
+      "vacancies": [
+        {
+          "postName": "Various Recruitment Posts (LDC, CET, Supervisor, Patwari, etc.)",
+          "totalPosts": "Various",
+          "eligibility": "Varies by post qualification",
+          "qualification": "10th / 12th / Graduate",
+          "categoryWiseBreakup": {
+            "UR": "N/A",
+            "OBC": "N/A",
+            "EWS": "N/A",
+            "SC": "N/A",
+            "ST": "N/A"
+          },
+          "payScale": "As per Rajasthan Govt Pay Rules"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Written Examination",
+          "description": "Objective multiple choice question test.",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Document Verification",
+          "description": "Scrutiny of original documents and eligibility verification.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Open the RSSB Result Portal link.",
+        "Step 2: Select the relevant recruitment exam name.",
+        "Step 3: Enter Application Number and Date of Birth or download the merit list PDF.",
+        "Step 4: Check your scorecard or roll number."
+      ],
+      "importantLinks": [
+        {
+          "title": "Check RSSB Result Online",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "result",
+          "isPrimary": true
+        },
+        {
+          "title": "RSMSSB Official Portal",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "official_website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## RSSB Result 2026 Notification\n\nRajasthan Staff Selection Board (RSSB/RSMSSB) regularly conducts competitive exams for various posts across Rajasthan. Results and scorecards for all major exams are published on the official portal.",
+      "faqs": [
+        {
+          "question": "Where can I download RSSB recruitment results?",
+          "answer": "Results are available on the official RSSB portal rsmssb.rajasthan.gov.in and summarized on StudyGovtHelp.in."
+        }
+      ],
+      "metaTitle": "RSSB Result 2026: Check Rajasthan Staff Selection Board Results | Pariksha Result",
+      "metaDescription": "Direct portal link to check Rajasthan Staff Selection Board (RSSB / RSMSSB) recruitment examination results.",
+      "keywords": [
+        "RSSB Result 2026",
+        "RSMSSB Result PDF",
+        "Rajasthan Karamchari Chayan Board Result"
+      ],
+      "id": "studygovthelp-rssb-exam-results-2026-link"
+    }
+  },
+  {
+    "id": "log-1789957265917-w0ih",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "RPSC RAS Final Result 2026 Out",
+    "organization": "RPSC",
+    "category": "results",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:21:05.917Z",
+    "changesDetected": [
+      "Last Date (2026-04-18 → N/A)"
+    ],
+    "postData": {
+      "title": "RPSC RAS Final Result 2026 Out",
+      "slug": "rpsc-ras-final-result-2026-studygovthelp-in",
+      "category": "results",
+      "organization": "RPSC",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "N/A",
+      "shortInfo": "Rajasthan Public Service Commission (RPSC) has officially announced the RPSC RAS Final Result 2026. Candidates who appeared in the Interview / Personality Test round can check their final merit list and selection status online.",
+      "totalVacancies": "905 Posts",
+      "qualificationRequired": [
+        "Graduation"
+      ],
+      "importantDates": [
+        {
+          "event": "Final Result Declaration Date",
+          "date": "18/04/2026",
+          "isImportant": true,
+          "details": "Final merit list declared post interview process"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "All Candidates",
+          "fee": "₹ 0/-"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "21 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "Category wise age relaxation as per RPSC rules."
+      },
+      "vacancies": [
+        {
+          "postName": "Rajasthan State and Subordinate Services (RAS/RTS)",
+          "totalPosts": "905",
+          "eligibility": "Bachelor Degree in Any Stream from a recognized University",
+          "qualification": "Graduation",
+          "categoryWiseBreakup": {
+            "UR": "Various",
+            "OBC": "Various",
+            "EWS": "Various",
+            "SC": "Various",
+            "ST": "Various"
+          },
+          "payScale": "Pay Matrix Level L-14 / L-12"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Preliminary Examination",
+          "description": "Screening Test - Objective Type (200 Marks)",
+          "marks": "200",
+          "qualifyingNature": "Qualifying Only"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Main Examination",
+          "description": "Written / Descriptive Exam consisting of 4 Papers (800 Marks)",
+          "marks": "800",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 3,
+          "stageName": "Personality Test / Interview",
+          "description": "Viva-voce & Interview process (100 Marks)",
+          "marks": "100",
+          "qualifyingNature": "Merit Based"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Click on the RPSC RAS Final Result link given below.",
+        "Step 2: Search for your Roll Number in the PDF using Ctrl+F.",
+        "Step 3: Download and save the final selection list for future reference."
+      ],
+      "importantLinks": [
+        {
+          "title": "Download RPSC RAS Final Result PDF",
+          "url": "https://rpsc.rajasthan.gov.in",
+          "type": "result",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Website",
+          "url": "https://rpsc.rajasthan.gov.in",
+          "type": "official_website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## RPSC RAS Final Result 2026 Released\n\nRajasthan Public Service Commission (RPSC) has published the final merit list for the Rajasthan State and Subordinate Services Combined Competitive Exam 2026.\n\n### How to Check Result:\n1. Visit the primary link provided.\n2. Open the Merit List PDF.\n3. Verify your Roll Number and Merit Position.",
+      "faqs": [
+        {
+          "question": "How can I check my RPSC RAS Final Result 2026?",
+          "answer": "You can download the final merit PDF from the RPSC portal or via the direct link on StudyGovtHelp.in and search your Roll Number."
+        }
+      ],
+      "metaTitle": "RPSC RAS Final Result 2026 Merit List PDF Download | Pariksha Result",
+      "metaDescription": "RPSC RAS Final Result 2026 has been declared. Check your roll number in the official selection list PDF.",
+      "keywords": [
+        "RPSC RAS Final Result 2026",
+        "RAS Final Selection List PDF",
+        "RPSC Result StudyGovtHelp"
+      ],
+      "id": "studygovthelp-rpsc-ras-final-result-2026-studygovthelp-in",
+      "canonical_hash": "b5b91b4a5052033a35edcc459ad86ae8"
+    }
+  },
+  {
+    "id": "log-1789957265906-hpx8",
+    "sourceUrl": "https://www.india.gov.in",
+    "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+    "organization": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+    "category": "syllabus",
+    "status": "Updated",
+    "postDate": "2026-09-21",
+    "timestamp": "2026-09-21T02:21:05.906Z",
+    "changesDetected": [
+      "Last Date (2026-09-30 → N/A)"
+    ],
+    "postData": {
+      "title": "Rajasthan Vidyut Vibhag LDC Syllabus 2026",
+      "slug": "rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "category": "syllabus",
+      "organization": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+      "state": "Rajasthan",
+      "postDate": "2026-09-21",
+      "lastDate": "N/A",
+      "shortInfo": "Rajasthan Vidyut Vibhag has released the Lower Division Clerk (LDC) exam pattern and syllabus for 2026. Candidates preparing for RVUNL LDC recruitment can check the detailed subject-wise topic list and examination scheme.",
+      "totalVacancies": "Various Posts",
+      "qualificationRequired": [
+        "Graduation",
+        "RSCIT / Computer Certificate"
+      ],
+      "importantDates": [
+        {
+          "event": "Syllabus Release Date",
+          "date": "05/08/2026",
+          "isImportant": true,
+          "details": "Official Syllabus & Exam Pattern published"
+        }
+      ],
+      "applicationFees": [
+        {
+          "category": "General / OBC / EWS",
+          "fee": "₹ 0/- (Syllabus Notification)"
+        }
+      ],
+      "ageLimit": {
+        "minAge": "18 Years",
+        "maxAge": "40 Years",
+        "cutoffDate": "01/01/2026",
+        "relaxationDetails": "Age relaxation applicable as per Rajasthan Govt rules."
+      },
+      "vacancies": [
+        {
+          "postName": "Lower Division Clerk (LDC) / Commercial Assistant",
+          "totalPosts": "Various",
+          "eligibility": "Bachelor Degree in any stream with recognized Computer Certificate (RSCIT/O Level/Diploma)",
+          "qualification": "Graduation + Computer Course",
+          "categoryWiseBreakup": {
+            "UR": "N/A",
+            "OBC": "N/A",
+            "EWS": "N/A",
+            "SC": "N/A",
+            "ST": "N/A"
+          },
+          "payScale": "Pay Matrix Level L-5"
+        }
+      ],
+      "selectionProcess": [
+        {
+          "stepNumber": 1,
+          "stageName": "Phase I: Computer Based Written Examination",
+          "description": "Objective test covering Reasoning, Mathematics, General Knowledge, Hindi, and English.",
+          "marks": "200",
+          "qualifyingNature": "Merit Based"
+        },
+        {
+          "stepNumber": 2,
+          "stageName": "Phase II: Computer Typing Speed & Efficiency Test",
+          "description": "Hindi & English Typing Test on Computer.",
+          "marks": "100",
+          "qualifyingNature": "Qualifying / Merit Based"
+        },
+        {
+          "stepNumber": 3,
+          "stageName": "Document Verification",
+          "description": "Verification of original academic certificates and identity documents.",
+          "qualifyingNature": "Mandatory"
+        }
+      ],
+      "howToApplySteps": [
+        "Step 1: Download the official syllabus PDF from the link below.",
+        "Step 2: Review subject-wise topics including Reasoning, GK, Mathematics, Hindi, and English.",
+        "Step 3: Prepare systematically according to the phase 1 exam scheme and typing test requirements."
+      ],
+      "importantLinks": [
+        {
+          "title": "Download LDC Syllabus PDF",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "notification",
+          "isPrimary": true
+        },
+        {
+          "title": "Official Website",
+          "url": "https://rsmssb.rajasthan.gov.in",
+          "type": "official_website",
+          "isPrimary": false
+        }
+      ],
+      "fullDescription": "## Rajasthan Vidyut Vibhag LDC Syllabus 2026 Overview\n\nRajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) has updated the syllabus for the Lower Division Clerk (LDC) / Commercial Assistant Grade-II examination 2026.\n\n### Exam Scheme\n- **Phase I**: Computer Based Test (CBT)\n  - General Awareness & GK\n  - Reasoning & Mental Ability\n  - Mathematics\n  - Hindi & English Language\n- **Phase II**: Typewriting Test on Computer",
+      "faqs": [
+        {
+          "question": "What is the selection process for RVUNL LDC 2026?",
+          "answer": "The selection includes a Computer Based Written Exam followed by a Computer Typing Test and Document Verification."
+        }
+      ],
+      "metaTitle": "Rajasthan Vidyut Vibhag LDC Syllabus 2026 PDF Download | Pariksha Result",
+      "metaDescription": "Check and download Rajasthan Vidyut Vibhag LDC Syllabus 2026 and exam pattern for Phase 1 & Phase 2 examination.",
+      "keywords": [
+        "Rajasthan Vidyut Vibhag LDC Syllabus",
+        "RVUNL LDC Exam Pattern 2026",
+        "Energy Department Rajasthan LDC Syllabus"
+      ],
+      "id": "studygovthelp-rajasthan-vidyut-vibhag-ldc-syllabus-2026",
+      "canonical_hash": "8fbfe44e2ab76c10860777ded7908311"
+    }
+  },
+  {
     "id": "log-1789957055596-eck3",
     "sourceUrl": "https://www.india.gov.in",
     "title": "RSSB Recruitment Result 2026",
