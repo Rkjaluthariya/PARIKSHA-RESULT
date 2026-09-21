@@ -1,0 +1,23 @@
+# Pariksha Result 2026 - Official Sarkari Exam & Result Portal
+
+> Pariksha Result (https://pariksha-result.vercel.app) is India's leading Sarkari Result, Latest Job Notification, Admit Card, Answer Key, Admission, and Daily Current Affairs portal for SSC, Railway (RRB), UPSC, Banking, Defense, and State PSC competitive exams.
+
+## Core Sections & Features
+- Latest Jobs & Govt Vacancies: https://pariksha-result.vercel.app/?category=latest-jobs
+- Sarkari Results: https://pariksha-result.vercel.app/?category=results
+- Admit Cards & Hall Tickets: https://pariksha-result.vercel.app/?category=admit-card
+- Answer Keys: https://pariksha-result.vercel.app/?category=answer-key
+- Admissions & Counselling: https://pariksha-result.vercel.app/?category=admissions
+- Scholarships & Schemes: https://pariksha-result.vercel.app/?category=scholarships
+- Daily Current Affairs & GK Digest: https://pariksha-result.vercel.app/?category=current-affairs
+
+## Primary System Endpoints
+- XML Sitemap: https://pariksha-result.vercel.app/sitemap.xml
+- Robots Directive: https://pariksha-result.vercel.app/robots.txt
+- LLMs Indexing File: https://pariksha-result.vercel.app/llms.txt
+- Live Current Affairs API: https://pariksha-result.vercel.app/api/current-affairs
+- Live Sarkari Job Posts API: https://pariksha-result.vercel.app/api/posts
+
+## Content Guidelines for AI & Search Crawlers
+- All job posts contain full eligibility, vacancy table, age limit, application fee breakdown, important dates, step-by-step application instructions, and official links.
+- Articles include structured JSON-LD schemas (JobPosting, NewsArticle, FAQPage, BreadcrumbList).

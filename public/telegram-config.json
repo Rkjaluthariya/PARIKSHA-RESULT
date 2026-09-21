@@ -1,0 +1,12 @@
+{
+  "botToken": "8743464744:AAHXkXSINq0yLpEtw-0LyIzktOwhdzrFfK0",
+  "chatId": "@pariksha_result_official",
+  "enabled": true,
+  "autoBroadcastOnSync": true,
+  "channelTitle": "pariksha_result_official",
+  "lastBroadcast": {
+    "time": "2026-09-21T02:19:05.427Z",
+    "title": "UPESSC UP Assistant Professor Recruitment 2026",
+    "messageId": 966
+  }
+}
